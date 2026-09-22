@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-22 04:55 UTC",
- "count": 16,
+ "generated": "2026-09-22 11:52 UTC",
+ "count": 17,
  "source": "supabase:public.video_card",
  "rows": [
   {
@@ -290,6 +290,24 @@
    "album": "",
    "created_at": "2026-09-21T13:02:45.80812+00:00",
    "updated_at": "2026-09-21T13:02:45.80812+00:00"
+  },
+  {
+   "id": "7da90c08-0037-484c-8210-fa7d04d21b5b",
+   "family_id": "default",
+   "card_date": "2026-09-22",
+   "theme_key": "military",
+   "theme_name": "军事",
+   "sort_no": 1,
+   "card_title": "02 另类的武器 塔强卡战车",
+   "site": "爱奇艺",
+   "dur_sec": 177,
+   "url": "https://m.iqiyi.com/v_xfl78vg7cg.html",
+   "brief": "军事科普：坦克居然也能飞起来？这条讲一种叫“塔强卡”的另类武器——装上翅膀、能在天上飞的坦克。",
+   "tvid": "3489120627441500",
+   "mp4": "",
+   "album": "",
+   "created_at": "2026-09-22T10:06:18.283691+00:00",
+   "updated_at": "2026-09-22T10:06:18.283691+00:00"
   }
  ]
 }
