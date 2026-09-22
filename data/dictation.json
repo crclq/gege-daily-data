@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-22 11:52 UTC",
- "count": 34,
+ "generated": "2026-09-22 17:04 UTC",
+ "count": 35,
  "source": "supabase:public.video_dictation",
  "rows": [
   {
@@ -2030,6 +2030,58 @@
    "parent_note": null,
    "created_at": "2026-09-22T10:06:18.424508+00:00",
    "updated_at": "2026-09-22T10:08:31.698461+00:00"
+  },
+  {
+   "id": "21dc376c-6ceb-49e6-b1ca-3b44afc38c37",
+   "family_id": "default",
+   "profile_id": "gege",
+   "child_name": "哥*",
+   "card_id": "b49e81dd-ced5-40dd-b2b5-a25179f93f3a",
+   "card_date": "2026-09-22",
+   "theme_key": "military",
+   "theme_name": "军事",
+   "card_title": "“深海幽灵”出没！无人潜航器悄然改写海战规则",
+   "card_url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=737450",
+   "card_site": "科普中国",
+   "record_at": "2026-09-22T13:47:03.000581+00:00",
+   "input_mode": "ime",
+   "talk_sec": null,
+   "raw_text": "很好",
+   "char_count": 2,
+   "ai_status": "ok",
+   "ai_model": "glm-4-flash",
+   "ai_summary": "你讲了一个关于深海幽灵的故事，说它是一种不用人开的潜艇。",
+   "ai_keywords": [
+    "深海幽灵",
+    "潜艇",
+    "无人潜航器"
+   ],
+   "ai_points": [
+    "你提到了深海幽灵是一种潜艇，而且不用人开"
+   ],
+   "ai_missed": [
+    "深海幽灵为什么被称为‘深海幽灵’？它有什么特别的地方？"
+   ],
+   "ai_praise": "你记得了深海幽灵是一种潜艇，很棒！",
+   "ai_question": "你能告诉我深海幽灵是怎么在深海中游动的吗？",
+   "ai_raw": {
+    "content": "{\n  \"summary\": \"你讲了一个关于深海幽灵的故事，说它是一种不用人开的潜艇。\",\n  \"keywords\": [\"深海幽灵\", \"潜艇\", \"无人潜航器\"],\n  \"points\": [\"你提到了深海幽灵是一种潜艇，而且不用人开\"],\n  \"missed\": [\"深海幽灵为什么被称为‘深海幽灵’？它有什么特别的地方？\"],\n  \"praise\": \"你记得了深海幽灵是一种潜艇，很棒！\",\n  \"question\": \"你能告诉我深海幽灵是怎么在深海中游动的吗？\",\n  \"filler_words\": [\"嗯\"],\n  \"sentence\": {\n    \"ok\": true,\n    \"verdict\": \"你讲得挺清楚，别人能听懂你说的。\",\n    \"issues\": [],\n    \"polished\": \"很好，你记得了深海幽灵是一种潜艇，不用人开。\",\n    \"tip\": \"下次可以试着用更多的词来描述深海幽灵，比如它的大小、形状或者它是怎么工作的。\"\n  }\n}",
+    "sentence": {
+     "ok": true,
+     "tip": "下次可以试着用更多的词来描述深海幽灵，比如它的大小、形状或者它是怎么工作的。",
+     "issues": [],
+     "present": true,
+     "verdict": "你讲得挺清楚，别人能听懂你说的。",
+     "polished": "很好，你记得了深海幽灵是一种潜艇，不用人开。"
+    }
+   },
+   "ai_error": null,
+   "ai_cost_ms": 9957,
+   "ai_parsed_at": null,
+   "star": null,
+   "parent_note": null,
+   "created_at": "2026-09-22T13:47:03.000581+00:00",
+   "updated_at": "2026-09-22T13:47:03.000581+00:00"
   }
  ]
 }

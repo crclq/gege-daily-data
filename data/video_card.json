@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-22 11:52 UTC",
- "count": 17,
+ "generated": "2026-09-22 17:04 UTC",
+ "count": 18,
  "source": "supabase:public.video_card",
  "rows": [
   {
@@ -308,6 +308,24 @@
    "album": "",
    "created_at": "2026-09-22T10:06:18.283691+00:00",
    "updated_at": "2026-09-22T10:06:18.283691+00:00"
+  },
+  {
+   "id": "b49e81dd-ced5-40dd-b2b5-a25179f93f3a",
+   "family_id": "default",
+   "card_date": "2026-09-22",
+   "theme_key": "military",
+   "theme_name": "军事",
+   "sort_no": 4,
+   "card_title": "“深海幽灵”出没！无人潜航器悄然改写海战规则",
+   "site": "科普中国",
+   "dur_sec": 186,
+   "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=737450",
+   "brief": "军事科普：海里出现了一个不用人开的“小潜艇”，它自己游、自己找目标。这条讲无人潜航器为什么被称为“深海幽灵”。",
+   "tvid": "",
+   "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4",
+   "album": "",
+   "created_at": "2026-09-22T13:46:52.87931+00:00",
+   "updated_at": "2026-09-22T13:46:52.87931+00:00"
   }
  ]
 }
