@@ -196,6 +196,13 @@ def main():
         raw = json.dumps(bundle, ensure_ascii=False, indent=1).encode('utf-8')
 
         old_raw = open(path, 'rb').read() if os.path.exists(path) else b''
+
+        # 库读不到时拿不到任何新数据，此时写文件只会刷新 generated 时间戳，
+        # 产生一串没有内容的空提交（每天 8 次，污染提交历史）。直接跳过。
+        if not db_ok and len(mrows) == len(old_rows):
+            print('  库读不到且行数未变，跳过写文件（避免空提交）')
+            continue
+
         if raw == old_raw:
             print('  内容无变化，跳过写文件')
         else:
