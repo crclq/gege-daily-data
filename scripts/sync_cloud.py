@@ -2,62 +2,50 @@
 # -*- coding: utf-8 -*-
 """云端版三方同步（GitHub Actions 里跑，不依赖本机开机）。
 
-做的事
-------
-1. 从 Supabase 拉取各表（分页）
-2. 从本仓库 data/ 拉取现有备份
-3. 按主键取并集，同主键比较 updated_at 保留最新整行
-4. 把合并结果写回 data/*.json（commit 回仓库）
-5. 把库里缺的行 upsert 回 Supabase（可跳过）
+为什么用 git 提交而不是 GitHub API
+----------------------------------
+Actions 的默认 GITHUB_TOKEN **不会自动成为环境变量**，必须在 workflow 里显式写
+`GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}` 才有。而改 workflow 文件需要 PAT 的
+`workflow` scope（我们的 token 只有 repo），网页打不开时也没法改。
+但 runner 已经用该 token 配好了 git 凭据（checkout 时写入 .extraheader，
+见日志 "Setting up auth"），所以 **直接 git commit + push 就行，一个 token secret 都不需要**。
 
-与本机 _sync_all.py 的区别
---------------------------
-- 不写本机 local_store（云上没有持久磁盘，写了也没意义）
-- 密钥全部从环境变量读，不落盘
-- 只同步公开安全表；todos / course_cells 由 vanward-calendar 的私有仓库流程负责
+流程
+----
+1. 从 Supabase 拉取各表（分页）
+2. 读仓库里已有的 data/*.json（checkout 已拉下来）
+3. 按主键取并集，同主键比较 updated_at 保留最新整行
+4. 写回文件 → git commit → git push
+5. 把库里缺的行 upsert 回 Supabase
 
 环境变量
 --------
-GH_TOKEN      GitHub PAT（写本仓库用）；缺省回退到 GITHUB_TOKEN
-SUPA_KEY      Supabase publishable key
+SUPA_KEY      Supabase publishable key（唯一必需的 secret）
 SKIP_DB_WRITE 设为 1 则只备份不回写数据库（默认回写）
 """
-import base64
-import datetime
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 import urllib.error
 import urllib.request
 
-REPO = 'crclq/gege-daily-data'
-BRANCH = 'main'
-API = 'https://api.github.com'
 SUPA = 'https://rduogcxrhhqhfkhwcnpt.supabase.co'
-
-GH_TOKEN = os.environ.get('GH_TOKEN') or os.environ.get('GITHUB_TOKEN') or ''
 SUPA_KEY = os.environ.get('SUPA_KEY') or ''
 SKIP_DB_WRITE = os.environ.get('SKIP_DB_WRITE', '') == '1'
+WS = os.environ.get('GITHUB_WORKSPACE') or os.getcwd()
 
 RETRY_MAX = 20
 PAGE = 1000
 
-GH_HDR = {
-    'Authorization': 'Bearer ' + GH_TOKEN,
-    'Accept': 'application/vnd.github+json',
-    'X-GitHub-Api-Version': '2022-11-28',
-    'User-Agent': 'gege-daily-actions',
-    'Content-Type': 'application/json',
-    'Connection': 'close',
-}
 SB_HDR = {
     'apikey': SUPA_KEY, 'Authorization': 'Bearer ' + SUPA_KEY,
     'User-Agent': 'gege-daily-actions', 'Connection': 'close',
 }
 
-# (表名, 主键, Git路径, 时间戳字段, 是否回写库)
+# (表名, 主键, 仓库内相对路径, 时间戳字段, 是否回写库)
 TABLES = [
     ('video_dictation',        'id', 'data/dictation.json',        ('updated_at', 'record_at', 'created_at'), True),
     ('video_dictation_ai_log', 'id', 'data/dictation_ai_log.json', ('created_at',),                           False),
@@ -70,45 +58,18 @@ SKIP_COLS = {'video_dictation': ('char_count',)}
 
 def req(url, headers, method='GET', data=None, retry=RETRY_MAX, timeout=90):
     body = json.dumps(data, ensure_ascii=False).encode('utf-8') if data is not None else None
-    last = None
     for i in range(retry):
         try:
-            rq = urllib.request.Request(url, data=body, method=method, headers=headers)
-            r = urllib.request.urlopen(rq, timeout=timeout)
+            r = urllib.request.urlopen(
+                urllib.request.Request(url, data=body, method=method, headers=headers), timeout=timeout)
             return r.status, r.read()
         except urllib.error.HTTPError as e:
             if e.code < 500:
                 return e.code, e.read()
-            last = e
-        except Exception as e:
-            last = e
-        time.sleep(min(0.8 * (i + 1), 3.0))
-    return None, repr(last).encode('utf-8', 'ignore')
-
-
-def gh_get_raw(path, retry=8):
-    h = dict(GH_HDR)
-    h['Accept'] = 'application/vnd.github.raw'
-    st, body = req('%s/repos/%s/contents/%s?ref=%s' % (API, REPO, path, BRANCH), h, retry=retry)
-    return body if st == 200 else None
-
-
-def gh_put(path, content_bytes, message):
-    url = '%s/repos/%s/contents/%s?ref=%s' % (API, REPO, path, BRANCH)
-    st, body = req(url, GH_HDR, 'GET', retry=8)
-    sha = None
-    if st == 200:
-        try:
-            sha = json.loads(body.decode('utf-8')).get('sha')
         except Exception:
-            sha = None
-    elif st != 404:
-        return st, body[:200].decode('utf-8', 'ignore')
-    payload = {'message': message, 'branch': BRANCH,
-               'content': base64.b64encode(content_bytes).decode('ascii')}
-    if sha:
-        payload['sha'] = sha
-    return req(url.split('?')[0], GH_HDR, 'PUT', payload, retry=8)
+            pass
+        time.sleep(min(0.8 * (i + 1), 3.0))
+    return None, b'TIMEOUT'
 
 
 def sb_get_all(table):
@@ -173,16 +134,25 @@ def mask_name(s):
     return s if len(s) <= 1 else s[0] + '*' * (len(s) - 1)
 
 
+def git(*args, check=False):
+    p = subprocess.run(['git'] + list(args), cwd=WS,
+                       stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+    out = p.stdout.decode('utf-8', 'ignore')
+    if check and p.returncode != 0:
+        raise RuntimeError('git %s 失败：%s' % (' '.join(args), out[-300:]))
+    return p.returncode, out
+
+
 def main():
-    if not GH_TOKEN or not SUPA_KEY:
-        print('缺少 GH_TOKEN / SUPA_KEY，跳过本次同步（请在仓库 Settings → Secrets 里配置）。')
+    if not SUPA_KEY:
+        print('缺少 SUPA_KEY，跳过本次同步（需在仓库 Settings → Secrets → Actions 里配置）。')
         return 0
 
-    now = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M')
-    print('云端同步开始 %s (UTC)' % now)
-    changed = 0
+    now = time.strftime('%Y-%m-%d %H:%M', time.gmtime())
+    print('云端同步开始 %s UTC   工作目录 %s' % (now, WS))
 
-    for table, pk, gpath, tsfields, write_db in TABLES:
+    wrote = []
+    for table, pk, rel, tsfields, write_db in TABLES:
         print('\n── %s' % table)
         db_ok = True
         try:
@@ -191,18 +161,18 @@ def main():
             db_rows, db_ok = [], False
             print('  [!!] Supabase 读取失败：%r' % e)
 
-        gh_rows = []
-        b = gh_get_raw(gpath)
-        if b:
+        path = os.path.join(WS, rel)
+        old_rows = []
+        if os.path.exists(path):
             try:
-                j = json.loads(b.decode('utf-8'))
-                gh_rows = j.get('rows') if isinstance(j, dict) else j
+                j = json.load(open(path, encoding='utf-8'))
+                old_rows = j.get('rows') if isinstance(j, dict) else j
             except Exception:
-                gh_rows = []
-        print('  库 %-5s  Git %-5d' % (len(db_rows) if db_ok else '失败', len(gh_rows)))
+                old_rows = []
+        print('  库 %-5s  仓库 %-5d' % (len(db_rows) if db_ok else '失败', len(old_rows)))
 
         merged, order = {}, []
-        for rows in (db_rows, gh_rows):
+        for rows in (db_rows, old_rows):
             for r in rows:
                 k = str(r.get(pk))
                 if not k or k == 'None':
@@ -224,12 +194,17 @@ def main():
         bundle = {'generated': now + ' UTC', 'count': len(out),
                   'source': 'supabase:public.' + table, 'rows': out}
         raw = json.dumps(bundle, ensure_ascii=False, indent=1).encode('utf-8')
-        st, resp = gh_put(gpath, raw, 'sync: %s %d rows (%s UTC)' % (table, len(out), now))
-        if st in (200, 201):
-            print('  已推 Git %-28s %8d bytes' % (gpath, len(raw)))
-            changed += 1
+
+        old_raw = open(path, 'rb').read() if os.path.exists(path) else b''
+        if raw == old_raw:
+            print('  内容无变化，跳过写文件')
         else:
-            print('  [FAIL] Git %s HTTP %s %s' % (gpath, st, (resp or b'')[:120].decode('utf-8', 'ignore')))
+            d = os.path.dirname(path)
+            if d and not os.path.isdir(d):
+                os.makedirs(d)
+            open(path, 'wb').write(raw)
+            wrote.append(rel)
+            print('  已写 %s  %d bytes' % (rel, len(raw)))
 
         if write_db and not SKIP_DB_WRITE:
             if not db_ok:
@@ -240,7 +215,24 @@ def main():
         elif write_db:
             print('  跳过补库（SKIP_DB_WRITE=1）')
 
-    print('\n云端同步完成，更新 %d 个文件' % changed)
+    if not wrote:
+        print('\n没有文件变化，无需提交')
+        return 0
+
+    br = os.environ.get('GITHUB_REF_NAME') or 'main'
+    git('config', 'user.name', 'gege-sync')
+    git('config', 'user.email', 'sync@gege.local')
+    git('add', *wrote, check=True)
+    rc, _ = git('diff', '--cached', '--quiet')
+    if rc == 0:
+        print('\n暂存区无差异，跳过提交')
+        return 0
+    git('commit', '-m', 'sync: %s (%s UTC)' % (','.join(wrote), now), check=True)
+    rc, out = git('push', 'origin', 'HEAD:%s' % br)
+    if rc != 0:
+        print('push 失败：', out[-500:])
+        return 1
+    print('\n已提交并推送 %d 个文件到 %s' % (len(wrote), br))
     return 0
 
 
