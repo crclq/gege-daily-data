@@ -1,0 +1,28 @@
+name: 数据三方同步
+
+on:
+  schedule:
+    - cron: '23 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 运行同步
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SUPA_KEY: ${{ secrets.SUPA_KEY }}
+        run: python scripts/sync_cloud.py
