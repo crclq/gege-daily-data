@@ -1,0 +1,366 @@
+{
+  "generated": "2026-09-24 04:24",
+  "cats": [
+    {
+      "key": "military",
+      "name": "军事",
+      "icon": "🛡",
+      "color": "#E5484D",
+      "desc": "国防军事科普",
+      "group": "news"
+    },
+    {
+      "key": "ai",
+      "name": "AI科技",
+      "icon": "🤖",
+      "color": "#4C6FFF",
+      "desc": "人工智能小知识",
+      "group": "news"
+    },
+    {
+      "key": "weapon",
+      "name": "大国重器",
+      "icon": "🚀",
+      "color": "#F5A623",
+      "desc": "航天与尖端装备",
+      "group": "news"
+    },
+    {
+      "key": "project",
+      "name": "重大工程",
+      "icon": "🏗",
+      "color": "#12A594",
+      "desc": "超级工程揭秘",
+      "group": "news"
+    }
+  ],
+  "edu": [
+    {
+      "key": "scientist",
+      "name": "科学家故事",
+      "icon": "🔬"
+    },
+    {
+      "key": "edu_chinese",
+      "name": "语文",
+      "icon": "📖"
+    },
+    {
+      "key": "edu_math",
+      "name": "数学",
+      "icon": "➗"
+    },
+    {
+      "key": "edu_english",
+      "name": "英语",
+      "icon": "🔤"
+    },
+    {
+      "key": "edu_science",
+      "name": "自然科学",
+      "icon": "🧪"
+    },
+    {
+      "key": "edu_recommend",
+      "name": "每日推荐",
+      "icon": "⭐"
+    }
+  ],
+  "dates": [
+    "2026-09-24"
+  ],
+  "data": {
+    "2026-09-24": {
+      "scientist": [
+        {
+          "title": "《迷失侏罗纪》科学家父亲为完成女儿心愿，穿越至侏罗纪获取恐龙蛋后引发时空紊乱，迅猛龙穿越至现代产生连锁危机，最终众人通过将史前生物送回原有时空化解危机的故事",
+          "url": "https://www.bilibili.com/video/BV1p1hj6vEv4/",
+          "dur": 88,
+          "site": "B站",
+          "brief": "今日科学家·李时珍：《迷失侏罗纪》科学家父亲为完成女儿心愿，穿越至侏罗纪获取恐龙蛋后引发时空紊乱，迅猛龙穿越至现代产生连锁危机，最终众人通过将史前生物送回原有时空化解危机的故事"
+        },
+        {
+          "title": "童年经典《茜茜公主2：年轻的皇后》1956年上映，奥地利历史人物传记故事三部曲之二",
+          "url": "https://www.bilibili.com/video/BV13yhs6MEJW/",
+          "dur": 143,
+          "site": "B站",
+          "brief": "科学家故事：童年经典《茜茜公主2：年轻的皇后》1956年上映，奥地利历史人物传记故事三部曲之二"
+        },
+        {
+          "title": "致敬中国“核盾之父”钱七虎，隐姓埋名30年铸就护国神盾，只为让我们从此不再受制于人！ #国之脊梁 #钱七虎 #国士无双 #人物故事",
+          "url": "https://www.bilibili.com/video/BV1dahe6TEkH/",
+          "dur": 124,
+          "site": "B站",
+          "brief": "科学家故事：致敬中国“核盾之父”钱七虎，隐姓埋名30年铸就护国神盾，只为让我们从此不再受制于人！ #国之脊梁 #钱七虎 #国士无双 #人物故事"
+        },
+        {
+          "title": "杨振宁：最崇拜的物理学家事爱因斯坦，狄拉克和费米。讲述坐运兵船去美国上学的故事。#杨振宁#物理学 #科学 #科学史 #爱因斯坦 #狄拉克#费米",
+          "url": "https://www.bilibili.com/video/BV1FQhj6hEsP/",
+          "dur": 342,
+          "site": "B站",
+          "brief": "科学家故事：杨振宁：最崇拜的物理学家事爱因斯坦，狄拉克和费米。讲述坐运兵船去美国上学的故事。#杨振宁#物理学 #科学 #科学史 #爱因斯坦 #狄拉克#费米"
+        },
+        {
+          "title": "四书五经打不退东洋人。从今天起，我不学文了。 我去物理系，学造大炮！#钱伟长 #国士无双 #人物故事 #国之脊梁 #致敬",
+          "url": "https://www.bilibili.com/video/BV14CYJ6nEw7",
+          "dur": 136,
+          "site": "B站",
+          "brief": "科学家故事：四书五经打不退东洋人。从今天起，我不学文了。 我去物理系，学造大炮！#钱伟长 #国士无双 #人物故事 #国之脊梁 #致敬"
+        },
+        {
+          "title": "他却用一盒粉笔、一把算盘，把自己的血肉熬成大国的准星，生生替新中国撑起了一整座工业与国防的擎天大厦#钱伟长 #国士无双 #人物故事 #国之脊梁 #致敬",
+          "url": "https://www.bilibili.com/video/BV1GmYN6HEPK",
+          "dur": 237,
+          "site": "B站",
+          "brief": "科学家故事：他却用一盒粉笔、一把算盘，把自己的血肉熬成大国的准星，生生替新中国撑起了一整座工业与国防的擎天大厦#钱伟长 #国士无双 #人物故事 #国之脊梁 #致敬"
+        },
+        {
+          "title": "“中国人的大炮，绝不能跪着造出来！”#钱伟长 #国士无双 #人物故事 #国之脊梁 #致敬",
+          "url": "https://www.bilibili.com/video/BV1EAYp6LE6E",
+          "dur": 157,
+          "site": "B站",
+          "brief": "科学家故事：“中国人的大炮，绝不能跪着造出来！”#钱伟长 #国士无双 #人物故事 #国之脊梁 #致敬"
+        }
+      ],
+      "weapon": [
+        {
+          "title": "m4069 4K画质第一视角宇宙飞船空间站浩瀚宇宙太空遨游星际旅行星辰航天宇航员科学探索航空月球外星太空人科普知识动态壁纸屏保大屏幕舞台LED背景视频素材",
+          "url": "https://www.bilibili.com/video/BV1DKhs6PE3C/",
+          "dur": 281,
+          "site": "B站",
+          "brief": "大国重器：m4069 4K画质第一视角宇宙飞船空间站浩瀚宇宙太空遨游星际旅行星辰航天宇航员科学探索航空月球外星太空人科普知识动态壁纸屏保大屏幕舞台LED背景视频素材"
+        },
+        {
+          "title": "都说应试教育垃圾，为什么中国应试教育能搞出来 DeepSeek，TikTok、载人航天、天宫空间站呢？",
+          "url": "https://www.bilibili.com/video/BV1y8hJ6GEoX/",
+          "dur": 101,
+          "site": "B站",
+          "brief": "大国重器：都说应试教育垃圾，为什么中国应试教育能搞出来 DeepSeek，TikTok、载人航天、天宫空间站呢？"
+        },
+        {
+          "title": "把火箭&quot;甩&quot;到天上去，中国电磁弹射试验成功！马斯克做梦都想不到！#电磁弹射航天 #中国航天#马伟明院士#商业航天 #电磁发射火箭#谷神星二号#超导磁悬浮",
+          "url": "https://www.bilibili.com/video/BV1BDhq6QEoV/",
+          "dur": 177,
+          "site": "B站",
+          "brief": "大国重器：把火箭&quot;甩&quot;到天上去，中国电磁弹射试验成功！马斯克做梦都想不到！#电磁弹射航天 #中国航天#马伟明院士#商业航天 #电磁发射火箭#谷神星二号#超导磁悬浮"
+        },
+        {
+          "title": "祝贺！我国成功发射株洲太空星际PIESAT-2 13-16星",
+          "url": "https://www.bilibili.com/video/BV1efhx62EyU/",
+          "dur": 55,
+          "site": "B站",
+          "brief": "大国重器：祝贺！我国成功发射株洲太空星际PIESAT-2 13-16星"
+        },
+        {
+          "title": "【我国首批航天员已全部停航停训】 一代人谢幕！中国首批航天员集体谢幕、停训停航",
+          "url": "https://www.bilibili.com/video/BV13rhp6aEV6/",
+          "dur": 40,
+          "site": "B站",
+          "brief": "大国重器：【我国首批航天员已全部停航停训】 一代人谢幕！中国首批航天员集体谢幕、停训停航"
+        }
+      ],
+      "project": [
+        {
+          "title": "位于广西钦州港仙岛公园的孙中山铜像，也是全国最大的孙中山铜像，孙中山先生在这里深情地凝望着钦州港和平陆运河，如今，平陆运河已经通航，先生的百年夙愿已经实现",
+          "url": "https://www.bilibili.com/video/BV1kehH67Eo5/",
+          "dur": 32,
+          "site": "B站",
+          "brief": "重大工程：位于广西钦州港仙岛公园的孙中山铜像，也是全国最大的孙中山铜像，孙中山先生在这里深情地凝望着钦州港和平陆运河，如今，平陆运河已经通航，先生的百年夙愿已经实现"
+        },
+        {
+          "title": "平陆运河刚正式通航，一个无比尴尬的问题随即浮现，大批货品目的地是广东！",
+          "url": "https://www.bilibili.com/video/BV1Xxhx6uEHJ/",
+          "dur": 529,
+          "site": "B站",
+          "brief": "重大工程：平陆运河刚正式通航，一个无比尴尬的问题随即浮现，大批货品目的地是广东！"
+        },
+        {
+          "title": "【水视频】您正在经北部湾大桥跨越平陆运河（茅尾海入海口）（公交POV视角）",
+          "url": "https://www.bilibili.com/video/BV16Uhx6WE5i/",
+          "dur": 351,
+          "site": "B站",
+          "brief": "重大工程：【水视频】您正在经北部湾大桥跨越平陆运河（茅尾海入海口）（公交POV视角）"
+        },
+        {
+          "title": "727亿平陆运河才通航，一个尴尬问题浮现，大批货品目的地是广东！",
+          "url": "https://www.bilibili.com/video/BV1dch76WE7G/",
+          "dur": 460,
+          "site": "B站",
+          "brief": "重大工程：727亿平陆运河才通航，一个尴尬问题浮现，大批货品目的地是广东！"
+        },
+        {
+          "title": "广西钦州灵山平陆大运河马道枢纽",
+          "url": "https://www.bilibili.com/video/BV1Rphx63E3y/",
+          "dur": 221,
+          "site": "B站",
+          "brief": "重大工程：广西钦州灵山平陆大运河马道枢纽"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_1wvyqas44zg.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "6947257597784400",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·20秒",
+          "url": "https://m.iqiyi.com/v_26q61macfs4.html",
+          "dur": 20,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·20秒",
+          "tvid": "7901834956549000",
+          "orient": "h"
+        }
+      ],
+      "edu_recommend": [
+        {
+          "title": "珍宝岛冲突真相：肖全夫坚决不肯向苏军坦克开火，陈锡联当场震怒质问“我命令都不听？”背后原因曝光",
+          "url": "https://www.toutiao.com/video/7687044554528195116/?log_from=8c6ee9e97f43a_1789949443964",
+          "dur": 350,
+          "site": "今日头条",
+          "brief": ""
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "0007.【全430集】高斯数学1-6年级动画版 奥数思维提升 · P7立体图形认识",
+          "url": "https://www.bilibili.com/video/BV1kbei6ZEDf/",
+          "dur": 171,
+          "site": "B站",
+          "brief": "数学：0007.【全430集】高斯数学1-6年级动画版 奥数思维提升 · P7立体图形认识"
+        },
+        {
+          "title": "国家中小学智慧教育平台-新版数学一年级下册30《认识人民币》-(课件ppt+教学设计+课后习题+任务单+逐字稿)",
+          "url": "https://www.bilibili.com/video/BV16ikNBHEcu",
+          "dur": 887,
+          "site": "B站",
+          "brief": "数学：国家中小学智慧教育平台-新版数学一年级下册30《认识人民币》-(课件ppt+教学设计+课后习题+任务单+逐字稿)"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "学而思 2026新版幼小衔接倒计时99天 拼音识字成语古诗表达计算英语单词发音拼读能力提升幼儿园小班中班大班一年级教学同步练天天练教学神器",
+          "url": "https://www.bilibili.com/video/BV1J59kBHEbf",
+          "dur": 36,
+          "site": "B站",
+          "brief": "语文：学而思 2026新版幼小衔接倒计时99天 拼音识字成语古诗表达计算英语单词发音拼读能力提升幼儿园小班中班大班一年级教学同步练天天练教学神器"
+        },
+        {
+          "title": "睡前故事《学做披萨》，点赞关注看更多精品原创动画故事！睡前故事，寓言故事，格林童话，成语故事寓言故事，启蒙小故事，小故事读物，小故事大道理，绘本故事",
+          "url": "https://www.bilibili.com/video/BV1idkoB8EDW",
+          "dur": 294,
+          "site": "B站",
+          "brief": "语文：睡前故事《学做披萨》，点赞关注看更多精品原创动画故事！睡前故事，寓言故事，格林童话，成语故事寓言故事，启蒙小故事，小故事读物，小故事大道理，绘本故事"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "传奇病毒车轮战",
+          "url": "https://m.iqiyi.com/v_11x8q7u5720.html",
+          "dur": 169,
+          "site": "爱奇艺",
+          "brief": "自然科学：传奇病毒车轮战",
+          "tvid": "3900631708126100",
+          "orient": "h"
+        },
+        {
+          "title": "01 恐龙城市先导片",
+          "url": "https://m.iqiyi.com/v_tt9j6nu3os.html",
+          "dur": 90,
+          "site": "爱奇艺",
+          "brief": "自然科学：01 恐龙城市先导片",
+          "tvid": "3013436279835200",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "永恒之塔第8代智能AI机器人-剑星",
+          "url": "https://www.bilibili.com/video/BV1HWhs6QEos/",
+          "dur": 81,
+          "site": "B站",
+          "brief": "AI科技：永恒之塔第8代智能AI机器人-剑星"
+        },
+        {
+          "title": "机器人抢我饭碗的第一天#AI #职场 #打工人 #灵镜AIGC",
+          "url": "https://www.bilibili.com/video/BV1X3hJ6sELu/",
+          "dur": 46,
+          "site": "B站",
+          "brief": "AI科技：机器人抢我饭碗的第一天#AI #职场 #打工人 #灵镜AIGC"
+        },
+        {
+          "title": "台湾网红“馆长”感叹：大陆在卷机器人、卷AI，台湾在卷仇恨。视频来源：台海时刻",
+          "url": "https://www.bilibili.com/video/BV15MhJ6tEg6/",
+          "dur": 51,
+          "site": "B站",
+          "brief": "AI科技：台湾网红“馆长”感叹：大陆在卷机器人、卷AI，台湾在卷仇恨。视频来源：台海时刻"
+        },
+        {
+          "title": "【AI中文翻唱【新干线变形机器人：进化先锋  完整版主题曲-",
+          "url": "https://www.bilibili.com/video/BV1zzhJ6KEnW/",
+          "dur": 216,
+          "site": "B站",
+          "brief": "AI科技：【AI中文翻唱【新干线变形机器人：进化先锋  完整版主题曲-"
+        },
+        {
+          "title": "《奇迹工厂》AI 自动化工厂，打字指挥百台机器人",
+          "url": "https://www.bilibili.com/video/BV1dwh76XEBW/",
+          "dur": 74,
+          "site": "B站",
+          "brief": "AI科技：《奇迹工厂》AI 自动化工厂，打字指挥百台机器人"
+        }
+      ],
+      "military": [
+        {
+          "title": "01 军事武器知多少 先导片",
+          "url": "https://m.iqiyi.com/v_1iiks0hovto.html",
+          "dur": 90,
+          "site": "爱奇艺",
+          "brief": "军事科普：01 军事武器知多少 先导片",
+          "tvid": "5593201645932400",
+          "orient": "h"
+        },
+        {
+          "title": "07可怕的海战武器U型潜艇",
+          "url": "https://m.iqiyi.com/v_xcg9yn0pnc.html",
+          "dur": 143,
+          "site": "爱奇艺",
+          "brief": "军事科普：07可怕的海战武器U型潜艇",
+          "tvid": "3515592100427700",
+          "orient": "h"
+        },
+        {
+          "title": "“深海幽灵”出没！无人潜航器悄然改写海战规则",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=737450",
+          "dur": 186,
+          "site": "科普中国",
+          "brief": "军事科普：“深海幽灵”出没！无人潜航器悄然改写海战规则",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "一张贴纸骗过AI：蜂群的“死穴”与反杀",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=735651",
+          "dur": 195,
+          "site": "科普中国",
+          "brief": "军事科普：一张贴纸骗过AI：蜂群的“死穴”与反杀",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026090810071931893117017225.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "AI僚机如何为飞行员保驾护航？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=733251",
+          "dur": 259,
+          "site": "科普中国",
+          "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
+          "orient": "h"
+        }
+      ]
+    }
+  }
+}
