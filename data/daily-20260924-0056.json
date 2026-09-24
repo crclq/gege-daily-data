@@ -1,0 +1,218 @@
+{
+  "generated": "2026-09-24 00:56",
+  "cats": [
+    {
+      "key": "military",
+      "name": "军事",
+      "icon": "🛡",
+      "color": "#E5484D",
+      "desc": "国防军事科普",
+      "group": "news"
+    },
+    {
+      "key": "ai",
+      "name": "AI科技",
+      "icon": "🤖",
+      "color": "#4C6FFF",
+      "desc": "人工智能小知识",
+      "group": "news"
+    },
+    {
+      "key": "weapon",
+      "name": "大国重器",
+      "icon": "🚀",
+      "color": "#F5A623",
+      "desc": "航天与尖端装备",
+      "group": "news"
+    },
+    {
+      "key": "project",
+      "name": "重大工程",
+      "icon": "🏗",
+      "color": "#12A594",
+      "desc": "超级工程揭秘",
+      "group": "news"
+    }
+  ],
+  "edu": [
+    {
+      "key": "scientist",
+      "name": "科学家故事",
+      "icon": "🔬"
+    },
+    {
+      "key": "edu_chinese",
+      "name": "语文",
+      "icon": "📖"
+    },
+    {
+      "key": "edu_math",
+      "name": "数学",
+      "icon": "➗"
+    },
+    {
+      "key": "edu_english",
+      "name": "英语",
+      "icon": "🔤"
+    },
+    {
+      "key": "edu_science",
+      "name": "自然科学",
+      "icon": "🧪"
+    },
+    {
+      "key": "edu_recommend",
+      "name": "每日推荐",
+      "icon": "⭐"
+    }
+  ],
+  "dates": [
+    "2026-09-24"
+  ],
+  "data": {
+    "2026-09-24": {
+      "edu_english": [
+        {
+          "title": "7.在家里",
+          "url": "https://m.iqiyi.com/v_15hv2je97ok.html",
+          "dur": 500,
+          "site": "爱奇艺",
+          "brief": "英语动画对白：7.在家里",
+          "tvid": "4096360174653000",
+          "orient": "h"
+        },
+        {
+          "title": "8.我们应该选哪个？",
+          "url": "https://m.iqiyi.com/v_j8hfcmmza4.html",
+          "dur": 585,
+          "site": "爱奇艺",
+          "brief": "英语动画对白：8.我们应该选哪个？",
+          "tvid": "1835856815814000",
+          "orient": "h"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "奇妙身体实验室",
+          "url": "https://m.iqiyi.com/v_2e4eod47iow.html",
+          "dur": 124,
+          "site": "爱奇艺",
+          "brief": "自然科学：奇妙身体实验室",
+          "tvid": "8839566832325900",
+          "orient": "h"
+        },
+        {
+          "title": "01 病毒先导片",
+          "url": "https://m.iqiyi.com/v_uf7dtph0wo.html",
+          "dur": 96,
+          "site": "爱奇艺",
+          "brief": "自然科学：01 病毒先导片",
+          "tvid": "2972525821598900",
+          "orient": "h"
+        }
+      ],
+      "project": [
+        {
+          "title": "地热钻探科普知识",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=740035",
+          "dur": 180,
+          "site": "科普中国",
+          "brief": "重大工程：地热钻探科普知识",
+          "mp4": "https://pqnoss.kepuchina.cn/U24990163/videos/2026092217245217330498404184.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "人工智能正在帮助人类发现新知识",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=739930",
+          "dur": 133,
+          "site": "科普中国",
+          "brief": "重大工程：人工智能正在帮助人类发现新知识",
+          "mp4": "https://pqnoss.kepuchina.cn/U30086757/videos/2026092214112919280586354060.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "电厂烧煤前，为啥要先磨成粉？比面粉还细那种",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=732011",
+          "dur": 125,
+          "site": "科普中国",
+          "brief": "重大工程：电厂烧煤前，为啥要先磨成粉？比面粉还细那种",
+          "mp4": "https://pqnoss.kepuchina.cn/U3571103/videos/202608271103388928821954134.mp4"
+        },
+        {
+          "title": "眼见不一定为实！视觉错觉如何骗过大脑？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=740306",
+          "dur": 200,
+          "site": "科普中国",
+          "brief": "重大工程：眼见不一定为实！视觉错觉如何骗过大脑？",
+          "mp4": "https://pqnoss.kepuchina.cn/U26565775/videos/2026092314524260042115870325.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "走进竹子的奇妙世界",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=740131",
+          "dur": 194,
+          "site": "科普中国",
+          "brief": "重大工程：走进竹子的奇妙世界",
+          "mp4": "https://pqnoss.kepuchina.cn/U26565775/videos/2026092308564911033339289719.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_recommend": [
+        {
+          "title": "珍宝岛冲突真相：肖全夫坚决不肯向苏军坦克开火，陈锡联当场震怒质问“我命令都不听？”背后原因曝光",
+          "url": "https://www.toutiao.com/video/7687044554528195116/?log_from=8c6ee9e97f43a_1789949443964",
+          "dur": 350,
+          "site": "今日头条",
+          "brief": ""
+        }
+      ],
+      "military": [
+        {
+          "title": "01 军事武器知多少 先导片",
+          "url": "https://m.iqiyi.com/v_1iiks0hovto.html",
+          "dur": 90,
+          "site": "爱奇艺",
+          "brief": "军事科普：01 军事武器知多少 先导片",
+          "tvid": "5593201645932400",
+          "orient": "h"
+        },
+        {
+          "title": "07可怕的海战武器U型潜艇",
+          "url": "https://m.iqiyi.com/v_xcg9yn0pnc.html",
+          "dur": 143,
+          "site": "爱奇艺",
+          "brief": "军事科普：07可怕的海战武器U型潜艇",
+          "tvid": "3515592100427700",
+          "orient": "h"
+        },
+        {
+          "title": "“深海幽灵”出没！无人潜航器悄然改写海战规则",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=737450",
+          "dur": 186,
+          "site": "科普中国",
+          "brief": "军事科普：“深海幽灵”出没！无人潜航器悄然改写海战规则",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "一张贴纸骗过AI：蜂群的“死穴”与反杀",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=735651",
+          "dur": 195,
+          "site": "科普中国",
+          "brief": "军事科普：一张贴纸骗过AI：蜂群的“死穴”与反杀",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026090810071931893117017225.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "AI僚机如何为飞行员保驾护航？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=733251",
+          "dur": 259,
+          "site": "科普中国",
+          "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
+          "orient": "h"
+        }
+      ]
+    }
+  }
+}
