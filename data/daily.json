@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24 00:56",
+  "generated": "2026-09-24 01:31",
   "cats": [
     {
       "key": "military",
@@ -136,7 +136,17 @@
           "dur": 125,
           "site": "科普中国",
           "brief": "重大工程：电厂烧煤前，为啥要先磨成粉？比面粉还细那种",
-          "mp4": "https://pqnoss.kepuchina.cn/U3571103/videos/202608271103388928821954134.mp4"
+          "mp4": "https://pqnoss.kepuchina.cn/U3571103/videos/202608271103388928821954134.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "深度学习“深”在何处？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=740401",
+          "dur": 240,
+          "site": "科普中国",
+          "brief": "重大工程：深度学习“深”在何处？",
+          "mp4": "https://pqnoss.kepuchina.cn/U4317194/videos/2026092317154290279766549085.mp4",
+          "orient": "h"
         },
         {
           "title": "眼见不一定为实！视觉错觉如何骗过大脑？",
@@ -145,15 +155,6 @@
           "site": "科普中国",
           "brief": "重大工程：眼见不一定为实！视觉错觉如何骗过大脑？",
           "mp4": "https://pqnoss.kepuchina.cn/U26565775/videos/2026092314524260042115870325.mp4",
-          "orient": "h"
-        },
-        {
-          "title": "走进竹子的奇妙世界",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=740131",
-          "dur": 194,
-          "site": "科普中国",
-          "brief": "重大工程：走进竹子的奇妙世界",
-          "mp4": "https://pqnoss.kepuchina.cn/U26565775/videos/2026092308564911033339289719.mp4",
           "orient": "h"
         }
       ],
