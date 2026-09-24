@@ -1,7 +1,8 @@
 {
- "generated": "2026-09-24 11:58 UTC",
+ "generated": "2026-09-24 20:29",
  "count": 4,
  "source": "supabase:public.video_recommend",
+ "name_masked": false,
  "rows": [
   {
    "id": 1,
