@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-26 11:35 UTC",
- "count": 18,
+ "generated": "2026-09-26 16:31 UTC",
+ "count": 19,
  "source": "supabase:public.video_card",
  "rows": [
   {
@@ -326,6 +326,24 @@
    "album": "",
    "created_at": "2026-09-22T13:46:52.87931+00:00",
    "updated_at": "2026-09-22T13:46:52.87931+00:00"
+  },
+  {
+   "id": "0a1d84c1-7c06-43bf-a82c-cbf21b819de2",
+   "family_id": "default",
+   "card_date": "2026-09-26",
+   "theme_key": "project",
+   "theme_name": "重大工程",
+   "sort_no": 2,
+   "card_title": "平陆运河总工程师刘文彬，三个世纪工程都有她，这位女总工什么来头？",
+   "site": "B站",
+   "dur_sec": 142,
+   "url": "https://www.bilibili.com/video/BV1L5h26MEGf/",
+   "brief": "重大工程：平陆运河的女总工程师刘文彬，参与修了三个世纪工程！女生也能当大工程的总指挥。",
+   "tvid": "",
+   "mp4": "",
+   "album": "",
+   "created_at": "2026-09-26T14:34:43.810146+00:00",
+   "updated_at": "2026-09-26T14:34:43.810146+00:00"
   }
  ]
 }
