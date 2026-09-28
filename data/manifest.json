@@ -1,6 +1,7 @@
 {
-  "generated": "2026-09-27 16:29",
+  "generated": "2026-09-28 13:03",
   "dates": [
+    "2026-09-28",
     "2026-09-27",
     "2026-09-26",
     "2026-09-25",
@@ -20,8 +21,8 @@
     "2026-09-11",
     "2026-09-10"
   ],
-  "latest": "2026-09-27",
-  "snapshot": "data/daily-20260927-1629.json",
+  "latest": "2026-09-28",
+  "snapshot": "data/daily-20260928-1303.json",
   "repo": "crclq/gege-daily-data",
   "branch": "main",
   "dictation": {
