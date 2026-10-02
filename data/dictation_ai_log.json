@@ -1,7 +1,8 @@
 {
- "generated": "2026-10-02 09:55 UTC",
+ "generated": "2026-10-02 22:32",
  "count": 43,
  "source": "supabase:public.video_dictation_ai_log",
+ "name_masked": false,
  "rows": [
   {
    "id": "5",
