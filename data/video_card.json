@@ -1,8 +1,7 @@
 {
- "generated": "2026-10-02 22:32",
+ "generated": "2026-10-02 17:55 UTC",
  "count": 19,
  "source": "supabase:public.video_card",
- "name_masked": false,
  "rows": [
   {
    "id": "94f669e8-88d8-4f46-947f-dfc3e2859e13",
