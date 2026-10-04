@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-04 06:03 UTC",
- "count": 19,
+ "generated": "2026-10-04 12:34 UTC",
+ "count": 20,
  "source": "supabase:public.video_card",
  "rows": [
   {
@@ -344,6 +344,24 @@
    "album": "",
    "created_at": "2026-09-26T14:34:43.810146+00:00",
    "updated_at": "2026-09-26T14:34:43.810146+00:00"
+  },
+  {
+   "id": "5de71100-ca3a-4c92-90a6-b91ba72dfd48",
+   "family_id": "default",
+   "card_date": "2026-10-04",
+   "theme_key": "military",
+   "theme_name": "军事",
+   "sort_no": 1,
+   "card_title": " 08 可怕的海战武器U型潜艇",
+   "site": "爱奇艺",
+   "dur_sec": 143,
+   "url": "https://m.iqiyi.com/v_1rshytldr3g.html",
+   "brief": "军事科普： 08 可怕的海战武器U型潜艇",
+   "tvid": "6598315453158400",
+   "mp4": "",
+   "album": "",
+   "created_at": "2026-10-04T11:40:43.051678+00:00",
+   "updated_at": "2026-10-04T11:40:43.051678+00:00"
   }
  ]
 }

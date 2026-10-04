@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-04 06:03 UTC",
- "count": 36,
+ "generated": "2026-10-04 12:34 UTC",
+ "count": 37,
  "source": "supabase:public.video_dictation",
  "rows": [
   {
@@ -2151,6 +2151,66 @@
    "parent_note": null,
    "created_at": "2026-09-26T14:35:20.248361+00:00",
    "updated_at": "2026-09-26T14:35:20.248361+00:00"
+  },
+  {
+   "id": "30a61e3d-b719-4a57-89d3-98cec12d1db1",
+   "family_id": "default",
+   "profile_id": "gege",
+   "child_name": "哥*",
+   "card_id": "5de71100-ca3a-4c92-90a6-b91ba72dfd48",
+   "card_date": "2026-10-04",
+   "theme_key": "military",
+   "theme_name": "军事",
+   "card_title": " 08 可怕的海战武器U型潜艇",
+   "card_url": "https://m.iqiyi.com/v_1rshytldr3g.html",
+   "card_site": "爱奇艺",
+   "record_at": "2026-10-04T11:40:58.0448+00:00",
+   "input_mode": "ime",
+   "talk_sec": null,
+   "raw_text": "1",
+   "char_count": 1,
+   "ai_status": "ok",
+   "ai_model": "glm-4-flash",
+   "ai_summary": "你讲了一个关于U型潜艇的故事，说它是一种可怕的海战武器。",
+   "ai_keywords": [
+    "U型潜艇",
+    "海战武器",
+    "可怕"
+   ],
+   "ai_points": [
+    "你提到了U型潜艇是一种可怕的海战武器"
+   ],
+   "ai_missed": [
+    "你好像没有提到U型潜艇是如何在海战中使用的",
+    "也没有提到U型潜艇的特点"
+   ],
+   "ai_praise": "你记得了U型潜艇是一种可怕的海战武器，真不错！",
+   "ai_question": "你能告诉我U型潜艇在海战中有什么特别的地方吗？",
+   "ai_raw": {
+    "content": "{\n  \"summary\": \"你讲了一个关于U型潜艇的故事，说它是一种可怕的海战武器。\",\n  \"keywords\": [\"U型潜艇\", \"海战武器\", \"可怕\"],\n  \"points\": [\"你提到了U型潜艇是一种可怕的海战武器\"],\n  \"missed\": [\"你好像没有提到U型潜艇是如何在海战中使用的\", \"也没有提到U型潜艇的特点\"],\n  \"praise\": \"你记得了U型潜艇是一种可怕的海战武器，真不错！\",\n  \"question\": \"你能告诉我U型潜艇在海战中有什么特别的地方吗？\",\n  \"filler_words\": [\"然后\", \"嗯\"],\n  \"sentence\": {\n    \"ok\": false,\n    \"verdict\": \"你的句子有点短，别人可能听不明白你在说什么。\",\n    \"issues\": [\n      {\n        \"kind\": \"句子说一半\",\n        \"quote\": \"1\",\n        \"why\": \"只有数字1，没有说明具体是什么\",\n        \"fix\": \"1. 我看到了一张关于U型潜艇的科普卡片\"\n      }\n    ],\n    \"polished\": \"我看到了一张关于U型潜艇的科普卡片，它是一种可怕的海战武器。\",\n    \"tip\": \"下次说话的时候，可以试着把你想说的内容说得更完整一些。\"\n  }\n}",
+    "sentence": {
+     "ok": false,
+     "tip": "下次说话的时候，可以试着把你想说的内容说得更完整一些。",
+     "issues": [
+      {
+       "fix": "1. 我看到了一张关于U型潜艇的科普卡片",
+       "why": "只有数字1，没有说明具体是什么",
+       "kind": "句子说一半",
+       "quote": "1"
+      }
+     ],
+     "present": true,
+     "verdict": "你的句子有点短，别人可能听不明白你在说什么。",
+     "polished": "我看到了一张关于U型潜艇的科普卡片，它是一种可怕的海战武器。"
+    }
+   },
+   "ai_error": null,
+   "ai_cost_ms": 14663,
+   "ai_parsed_at": null,
+   "star": null,
+   "parent_note": null,
+   "created_at": "2026-10-04T11:40:58.0448+00:00",
+   "updated_at": "2026-10-04T11:40:58.0448+00:00"
   }
  ]
 }
