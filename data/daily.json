@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04 12:57",
+  "generated": "2026-10-04 17:09",
   "cats": [
     {
       "key": "military",
@@ -114,27 +114,27 @@
           "brief": "大国重器：【滚动的天空I/官方】一星+关卡-空间站[重制] 完美通关"
         },
         {
-          "title": "原创设计《中国人首次进入自己的空间站》",
-          "url": "https://www.bilibili.com/video/BV1WYHr67Ezq",
-          "dur": 160,
+          "title": "千禧年航天研究院，月宫空间站仓库舱对接成功",
+          "url": "https://www.bilibili.com/video/BV1HiHj6uEYW",
+          "dur": 279,
           "site": "B站",
-          "brief": "大国重器：原创设计《中国人首次进入自己的空间站》"
+          "brief": "大国重器：千禧年航天研究院，月宫空间站仓库舱对接成功"
         }
       ],
       "edu_chinese": [
+        {
+          "title": "[电子版 可打印 免费分享]26秋一年级上册语文1-8单元生字词默写看拼音写词语",
+          "url": "https://www.bilibili.com/video/BV1xYHr67EbS",
+          "dur": 38,
+          "site": "B站",
+          "brief": "语文：[电子版 可打印 免费分享]26秋一年级上册语文1-8单元生字词默写看拼音写词语"
+        },
         {
           "title": "3-6岁成语启蒙 | 看动画搞定孩子“半途而废”的坏习惯",
           "url": "https://www.bilibili.com/video/BV1ueHe6eEPt",
           "dur": 108,
           "site": "B站",
           "brief": "语文：3-6岁成语启蒙 | 看动画搞定孩子“半途而废”的坏习惯"
-        },
-        {
-          "title": "守株待兔，重温经典寓言故事",
-          "url": "https://www.bilibili.com/video/BV1WiaD6YEaM",
-          "dur": 61,
-          "site": "B站",
-          "brief": "语文：守株待兔，重温经典寓言故事"
         }
       ],
       "edu_english": [
@@ -159,6 +159,27 @@
       ],
       "ai": [
         {
+          "title": "🤖太初AI机器人公园｜长治国庆新打卡点 适合少儿科技研学，各式各样智能机器人可以互动体验，近距离感受前沿AI科技。 国庆遛娃新选择，一边玩一边学，点燃小朋友的",
+          "url": "https://www.bilibili.com/video/BV1SnHz6mEYb",
+          "dur": 38,
+          "site": "B站",
+          "brief": "AI科技：🤖太初AI机器人公园｜长治国庆新打卡点 适合少儿科技研学，各式各样智能机器人可以互动体验，近距离感受前沿AI科技。 国庆遛娃新选择，一边玩一边学，点燃小朋友的"
+        },
+        {
+          "title": "月球深处，遇到外星人发生冲突~抢夺资源…具体发生了什么，结局怎么样？东方传承的小龙龙会告诉你~#AI原创视频剪辑#登月探索月球故事#具身机器人#未来已来",
+          "url": "https://www.bilibili.com/video/BV1zzHz6vE2w",
+          "dur": 131,
+          "site": "B站",
+          "brief": "AI科技：月球深处，遇到外星人发生冲突~抢夺资源…具体发生了什么，结局怎么样？东方传承的小龙龙会告诉你~#AI原创视频剪辑#登月探索月球故事#具身机器人#未来已来"
+        },
+        {
+          "title": "【远古时代装机猿】弹幕：镁光说AI泡沫破裂内存也不降，因为他们说每个人形机器人都要超过200G的内存，真假?",
+          "url": "https://www.bilibili.com/video/BV17NHr6qEvk",
+          "dur": 167,
+          "site": "B站",
+          "brief": "AI科技：【远古时代装机猿】弹幕：镁光说AI泡沫破裂内存也不降，因为他们说每个人形机器人都要超过200G的内存，真假?"
+        },
+        {
           "title": "会思考、懂清洁更懂你的AI智能管家云鲸逍遥003重磅来袭 #云鲸逍遥003#云鲸AI清洁管家#洗地机器人推荐",
           "url": "https://www.bilibili.com/video/BV1WYHz6zEMh",
           "dur": 112,
@@ -166,51 +187,30 @@
           "brief": "AI科技：会思考、懂清洁更懂你的AI智能管家云鲸逍遥003重磅来袭 #云鲸逍遥003#云鲸AI清洁管家#洗地机器人推荐"
         },
         {
-          "title": "【电动汽车】基于matlab模拟的电动汽车AI双智能BMS【含Matlab源码 16020期】",
-          "url": "https://www.bilibili.com/video/BV1JkHr63EZA",
-          "dur": 53,
+          "title": "巨型机器人大战怪兽｜沙漠中的史诗级AI大战",
+          "url": "https://www.bilibili.com/video/BV11hHr6UEJe",
+          "dur": 113,
           "site": "B站",
-          "brief": "AI科技：【电动汽车】基于matlab模拟的电动汽车AI双智能BMS【含Matlab源码 16020期】"
-        },
-        {
-          "title": "《星垣守誓》用100美金初次用ai做游戏，结果一坨，不亚于把钱扔了，机器人大战怪兽",
-          "url": "https://www.bilibili.com/video/BV1HYHz6zEX8",
-          "dur": 90,
-          "site": "B站",
-          "brief": "AI科技：《星垣守誓》用100美金初次用ai做游戏，结果一坨，不亚于把钱扔了，机器人大战怪兽"
-        },
-        {
-          "title": "戴森新品干湿AI机器人！堪称行走的家务保姆_谁懂啊家人们！戴森这次的新品直接把清洁自由焊死了！入手的干湿AI机器人，简直是懒人和洁癖党的双福音，彻底解放双手不是",
-          "url": "https://www.bilibili.com/video/BV19hH66fEzA",
-          "dur": 98,
-          "site": "B站",
-          "brief": "AI科技：戴森新品干湿AI机器人！堪称行走的家务保姆_谁懂啊家人们！戴森这次的新品直接把清洁自由焊死了！入手的干湿AI机器人，简直是懒人和洁癖党的双福音，彻底解放双手不是"
-        },
-        {
-          "title": "智商爆表的活水洗地机器人！地面卫生再也不发愁了~ #云鲸逍遥003 #云鲸AI清洁管家  #洗地机器",
-          "url": "https://www.bilibili.com/video/BV1S6H66XEJ9",
-          "dur": 127,
-          "site": "B站",
-          "brief": "AI科技：智商爆表的活水洗地机器人！地面卫生再也不发愁了~ #云鲸逍遥003 #云鲸AI清洁管家  #洗地机器"
+          "brief": "AI科技：巨型机器人大战怪兽｜沙漠中的史诗级AI大战"
         }
       ],
       "edu_science": [
         {
-          "title": "打倒食物大坏蛋！",
-          "url": "https://m.iqiyi.com/v_tk6gnbrat4.html",
-          "dur": 168,
+          "title": "03 一直不放屁会怎么样？",
+          "url": "https://m.iqiyi.com/v_10x29nfgj2w.html",
+          "dur": 192,
           "site": "爱奇艺",
-          "brief": "自然科学：打倒食物大坏蛋！",
-          "tvid": "3059961899905300",
+          "brief": "自然科学：03 一直不放屁会怎么样？",
+          "tvid": "3702496742906100",
           "orient": "h"
         },
         {
-          "title": "微生物知多少",
-          "url": "https://m.iqiyi.com/v_1yj5rq4k38g.html",
-          "dur": 181,
+          "title": " 04 一直不洗澡会怎么样？",
+          "url": "https://m.iqiyi.com/v_eca2mr6aq8.html",
+          "dur": 171,
           "site": "爱奇艺",
-          "brief": "自然科学：微生物知多少",
-          "tvid": "7045121831013900",
+          "brief": "自然科学： 04 一直不洗澡会怎么样？",
+          "tvid": "1506166651898300",
           "orient": "h"
         }
       ],
@@ -223,95 +223,94 @@
           "brief": "数学：第7集剧情版 适合4至7岁小朋友和家长一起观看的幼儿动画数学减法计算幼儿动画儿童动画幼儿数学数学启蒙幼小衔接"
         },
         {
-          "title": "三年级数学在方框中填入相同的数字",
-          "url": "https://www.bilibili.com/video/BV1tLHv6vEBU",
-          "dur": 158,
+          "title": "铁棍重叠问题#三年级数学 #四年级数学 #小学数学 #数学思维 #重叠问题",
+          "url": "https://www.bilibili.com/video/BV1zNHr6iEHw",
+          "dur": 38,
           "site": "B站",
-          "brief": "数学：三年级数学在方框中填入相同的数字"
+          "brief": "数学：铁棍重叠问题#三年级数学 #四年级数学 #小学数学 #数学思维 #重叠问题"
         }
       ],
       "project": [
         {
-          "title": "平陆运河还没通航，游客先挤爆了观景",
-          "url": "https://www.bilibili.com/video/BV1neHq6cEfT",
-          "dur": 98,
+          "title": "当你在 钦州平陆运河 拍港片",
+          "url": "https://www.bilibili.com/video/BV1ZkHj6PE3f",
+          "dur": 104,
           "site": "B站",
-          "brief": "重大工程：平陆运河还没通航，游客先挤爆了观景"
+          "brief": "重大工程：当你在 钦州平陆运河 拍港片"
         },
         {
-          "title": "台湾青年邱庆龄带领台湾追梦小队奔赴平陆运河，在穿山凿河的大国工程旁为祖国送上生日祝福",
-          "url": "https://www.bilibili.com/video/BV1AmHi6YEbN",
-          "dur": 196,
+          "title": "平陆运河",
+          "url": "https://www.bilibili.com/video/BV1T1H66nEWu",
+          "dur": 165,
           "site": "B站",
-          "brief": "重大工程：台湾青年邱庆龄带领台湾追梦小队奔赴平陆运河，在穿山凿河的大国工程旁为祖国送上生日祝福"
+          "brief": "重大工程：平陆运河"
         },
         {
-          "title": "我们在平陆运河边为祖国送祝福",
-          "url": "https://www.bilibili.com/video/BV18LHq6VEo2",
-          "dur": 65,
+          "title": "《此刻memories》挑战全网第一个在平陆运河旁录舞的舞见！",
+          "url": "https://www.bilibili.com/video/BV1vQHr6NEfZ",
+          "dur": 192,
           "site": "B站",
-          "brief": "重大工程：我们在平陆运河边为祖国送祝福"
+          "brief": "重大工程：《此刻memories》挑战全网第一个在平陆运河旁录舞的舞见！"
         },
         {
-          "title": "等了百年，平陆运河终于通了",
-          "url": "https://www.bilibili.com/video/BV1ivHh6KENy",
-          "dur": 265,
+          "title": "铁路钢铁洪流震撼强势来袭 请做好准备 某日机务段搬家 算集齐了全部大机 感谢铁路安全运行背后默默付出的人",
+          "url": "https://www.bilibili.com/video/BV1FqHj6BEBN",
+          "dur": 57,
           "site": "B站",
-          "brief": "重大工程：等了百年，平陆运河终于通了"
+          "brief": "重大工程：铁路钢铁洪流震撼强势来袭 请做好准备 某日机务段搬家 算集齐了全部大机 感谢铁路安全运行背后默默付出的人"
         },
         {
-          "title": "这河花得值  大家都是怎么看待广西修建平陆运河的？",
-          "url": "https://www.bilibili.com/video/BV1YmHv6CEWD",
-          "dur": 61,
+          "title": "越南的超级工程都让首富承包了，何意味？",
+          "url": "https://www.bilibili.com/video/BV1K4Hz6yETe",
+          "dur": 249,
           "site": "B站",
-          "brief": "重大工程：这河花得值  大家都是怎么看待广西修建平陆运河的？"
+          "brief": "重大工程：越南的超级工程都让首富承包了，何意味？"
         }
       ],
       "military": [
         {
-          "title": "01 军事武器知多少 先导片",
-          "url": "https://m.iqiyi.com/v_1iiks0hovto.html",
-          "dur": 90,
-          "site": "爱奇艺",
-          "brief": "军事科普：01 军事武器知多少 先导片",
-          "tvid": "5593201645932400",
-          "orient": "h"
-        },
-        {
-          "title": "07可怕的海战武器U型潜艇",
-          "url": "https://m.iqiyi.com/v_xcg9yn0pnc.html",
+          "title": " 08 可怕的海战武器U型潜艇",
+          "url": "https://m.iqiyi.com/v_1rshytldr3g.html",
           "dur": 143,
           "site": "爱奇艺",
-          "brief": "军事科普：07可怕的海战武器U型潜艇",
-          "tvid": "3515592100427700",
+          "brief": "军事科普： 08 可怕的海战武器U型潜艇",
+          "tvid": "6598315453158400",
           "orient": "h"
         },
         {
-          "title": "“深海幽灵”出没！无人潜航器悄然改写海战规则",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=737450",
-          "dur": 186,
-          "site": "科普中国",
-          "brief": "军事科普：“深海幽灵”出没！无人潜航器悄然改写海战规则",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4",
+          "title": " 09 枪支",
+          "url": "https://m.iqiyi.com/v_jk7xigq6ks.html",
+          "dur": 145,
+          "site": "爱奇艺",
+          "brief": "军事科普： 09 枪支",
+          "tvid": "2106186705956000",
           "orient": "h"
         },
         {
-          "title": "一张贴纸骗过AI：蜂群的“死穴”与反杀",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=735651",
-          "dur": 195,
+          "title": "2000度盲飞——飞得越快越“瞎”",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=730858",
+          "dur": 223,
           "site": "科普中国",
-          "brief": "军事科普：一张贴纸骗过AI：蜂群的“死穴”与反杀",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026090810071931893117017225.mp4",
+          "brief": "军事科普：2000度盲飞——飞得越快越“瞎”",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026082509361573562396037815.mp4",
           "orient": "h"
         },
         {
-          "title": "AI僚机如何为飞行员保驾护航？",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=733251",
-          "dur": 259,
+          "title": "1小时打遍全球——战场在升维",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=730636",
+          "dur": 203,
           "site": "科普中国",
-          "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
+          "brief": "军事科普：1小时打遍全球——战场在升维",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/202608241441561493111080492.mp4",
           "orient": "h"
+        },
+        {
+          "title": "低温冻伤后如何快速缓解促进愈合？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=720942",
+          "dur": 225,
+          "site": "科普中国",
+          "brief": "军事科普：低温冻伤后如何快速缓解促进愈合？",
+          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071922461489365582101024.mp4"
         }
       ],
       "scientist": [
@@ -341,8 +340,7 @@
           "url": "https://www.bilibili.com/video/BV1C8hJ6GEZ5",
           "dur": 35,
           "site": "B站",
-          "brief": "科学家故事：杨利伟笑谈中国载人航天23年间变化：当年坐着“拖拉机”就上去了，住“标间”吃即食食品，现在坐“小汽车”上去，住“三室一厅”还能吃炸鸡翅",
-          "orient": "v"
+          "brief": "科学家故事：杨利伟笑谈中国载人航天23年间变化：当年坐着“拖拉机”就上去了，住“标间”吃即食食品，现在坐“小汽车”上去，住“三室一厅”还能吃炸鸡翅"
         },
         {
           "title": "杨利伟：中国载人航天从“拖拉机”换“小汽车”｜大象财富",
@@ -576,8 +574,7 @@
           "dur": 186,
           "site": "科普中国",
           "brief": "军事科普：“深海幽灵”出没！无人潜航器悄然改写海战规则",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4",
-          "orient": "h"
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4"
         },
         {
           "title": "一张贴纸骗过AI：蜂群的“死穴”与反杀",
@@ -831,8 +828,7 @@
           "url": "https://www.bilibili.com/video/BV1ina16MEbm",
           "dur": 112,
           "site": "B站",
-          "brief": "重大工程：一年收6600亿过路费，不够还本付息#高速公路 #高速免费 #中国基建 #涨知识",
-          "orient": "h"
+          "brief": "重大工程：一年收6600亿过路费，不够还本付息#高速公路 #高速免费 #中国基建 #涨知识"
         }
       ],
       "military": [
@@ -860,8 +856,7 @@
           "dur": 186,
           "site": "科普中国",
           "brief": "军事科普：“深海幽灵”出没！无人潜航器悄然改写海战规则",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4",
-          "orient": "h"
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4"
         },
         {
           "title": "一张贴纸骗过AI：蜂群的“死穴”与反杀",
@@ -909,8 +904,7 @@
           "url": "https://www.bilibili.com/video/BV1h9Jp6PEVC",
           "dur": 137,
           "site": "B站",
-          "brief": "科学家故事：#名人故事 #屠守锷",
-          "orient": "h"
+          "brief": "科学家故事：#名人故事 #屠守锷"
         },
         {
           "title": "1999年10月，任新民、黄纬禄、屠守锷、杨嘉墀、王希季和孙家栋在获得“两弹一星”功勋奖章时在人民大会堂前留下珍贵合影。他们均为“两弹一星”功勋奖章获得者。",
@@ -1144,8 +1138,7 @@
           "dur": 186,
           "site": "科普中国",
           "brief": "军事科普：“深海幽灵”出没！无人潜航器悄然改写海战规则",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4",
-          "orient": "h"
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4"
         },
         {
           "title": "一张贴纸骗过AI：蜂群的“死穴”与反杀",
@@ -1186,8 +1179,7 @@
           "url": "https://www.bilibili.com/video/BV1thY46kE2c",
           "dur": 131,
           "site": "B站",
-          "brief": "科学家故事：从一穷二白到走向世界，背后是这个老人改变中国航天。#人物故事 #孙家栋 #勿忘历史 #致敬",
-          "orient": "v"
+          "brief": "科学家故事：从一穷二白到走向世界，背后是这个老人改变中国航天。#人物故事 #孙家栋 #勿忘历史 #致敬"
         },
         {
           "title": "谁也关不掉中国的导航，孙家栋让北斗照亮全球。 谁也关不掉中国的导航，孙家栋让北斗照亮全球。#致敬 #人物故事 #孙家栋 #勿忘历史",
@@ -1320,8 +1312,7 @@
           "url": "https://www.bilibili.com/video/BV14da96jEC8",
           "dur": 30,
           "site": "B站",
-          "brief": "AI科技：先飞Z-1Pro智能黑光全彩夜视微型吊舱✖️四足机器狗",
-          "orient": "h"
+          "brief": "AI科技：先飞Z-1Pro智能黑光全彩夜视微型吊舱✖️四足机器狗"
         },
         {
           "title": "一口气看完4K画质神作《机器纪元》豆瓣 6.4。地球荒漠化濒临毁灭，保险员调查机器人违规自主进化，见证 AI 觉醒，直面人类与智能生命的生存冲突。",
@@ -1547,8 +1538,7 @@
           "url": "https://www.bilibili.com/video/BV1Yhaw6kELH",
           "dur": 193,
           "site": "B站",
-          "brief": "语文：成语故事《兼听则明 偏信则暗》，主页看100+精品原创动画故事！",
-          "orient": "v"
+          "brief": "语文：成语故事《兼听则明 偏信则暗》，主页看100+精品原创动画故事！"
         },
         {
           "title": "今天分享AI动画成语典故“甘之如饴”",
@@ -1671,7 +1661,8 @@
           "url": "https://www.bilibili.com/video/BV1oqaG67EUC",
           "dur": 200,
           "site": "B站",
-          "brief": "重大工程：平陆运河通航，广西乃至整个西南的命运将被如何改写？"
+          "brief": "重大工程：平陆运河通航，广西乃至整个西南的命运将被如何改写？",
+          "orient": "h"
         },
         {
           "title": "广西也有跨海大桥，并且横跨平陆运河出海口......",
@@ -1881,7 +1872,8 @@
           "url": "https://www.bilibili.com/video/BV1mHaq6vEuy",
           "dur": 51,
           "site": "B站",
-          "brief": "AI科技：AI生成视频:机器人跳舞"
+          "brief": "AI科技：AI生成视频:机器人跳舞",
+          "orient": "v"
         },
         {
           "title": "AI集体造反了？机器人踢人事件是怎么回事",
@@ -1961,8 +1953,7 @@
           "url": "https://www.bilibili.com/video/BV1Tkai6AE5o",
           "dur": 33,
           "site": "B站",
-          "brief": "重大工程：沐肆洲小课堂中音榜——纪录片《超级工程——曙光8000》",
-          "orient": "v"
+          "brief": "重大工程：沐肆洲小课堂中音榜——纪录片《超级工程——曙光8000》"
         },
         {
           "title": "【新思想·26秋季】第六章 推动高质量发展  “世纪工程”平陆运河 打通发展“大动脉”、“新新三样”跑出中国创新加速度、China Haul",
@@ -2036,8 +2027,7 @@
           "url": "https://www.bilibili.com/video/BV1UPa46TEsU",
           "dur": 147,
           "site": "B站",
-          "brief": "大国重器：[SFS]发射空间站",
-          "orient": "v"
+          "brief": "大国重器：[SFS]发射空间站"
         },
         {
           "title": "筑梦空间站 神舟二十三号载人飞船发射特别报道",
@@ -2190,7 +2180,8 @@
           "url": "https://www.bilibili.com/video/BV1u1ho6oENw",
           "dur": 312,
           "site": "B站",
-          "brief": "重大工程：西方连想都不敢想的超级工程？ 西方连想都不敢想的超级工程？平陆运河一出手，西南格局全变了！"
+          "brief": "重大工程：西方连想都不敢想的超级工程？ 西方连想都不敢想的超级工程？平陆运河一出手，西南格局全变了！",
+          "orient": "h"
         },
         {
           "title": "世界公认！五项超级工程震撼亮相 体量之大足以问鼎全球榜首！中国基建狂魔，再次震惊全世界！",
@@ -2586,7 +2577,8 @@
           "url": "https://www.bilibili.com/video/BV1wWh16VEVV/",
           "dur": 535,
           "site": "B站",
-          "brief": "大国重器：十六年前，中国科学家就敢想「用长征五号把人送上月球」！视频有点长，适合和家长一起看这个大胆的计划。"
+          "brief": "大国重器：十六年前，中国科学家就敢想「用长征五号把人送上月球」！视频有点长，适合和家长一起看这个大胆的计划。",
+          "orient": "h"
         },
         {
           "title": "第70发，长六改火箭成功发射遥感四十号04组卫星",
@@ -2732,7 +2724,8 @@
           "url": "https://www.bilibili.com/video/BV1VKaA6UEZV/",
           "dur": 267,
           "site": "B站",
-          "brief": "重大工程：广西离海很近，船却要绕一大圈。平陆运河一通航，广西的货轮终于抄了近路，这就是它最大的价值！"
+          "brief": "重大工程：广西离海很近，船却要绕一大圈。平陆运河一通航，广西的货轮终于抄了近路，这就是它最大的价值！",
+          "orient": "h"
         },
         {
           "title": "【tiktok】美国博主向网友科普中国刚开通的平陆运河，直言在美国是绝不可能建成的",
@@ -2837,8 +2830,7 @@
           "url": "https://www.bilibili.com/video/BV1s8411A7mR",
           "dur": 479,
           "site": "B站",
-          "brief": "科学家故事：动画片里的张仲景来啦！看他怎样拜师学医、细心给病人诊治，一步步成为一代医圣。",
-          "orient": "h"
+          "brief": "科学家故事：动画片里的张仲景来啦！看他怎样拜师学医、细心给病人诊治，一步步成为一代医圣。"
         },
         {
           "title": "原来饺子还是张仲景的药方之一！我的冷知识又丰富了！",
@@ -3162,8 +3154,7 @@
             "吃食品",
             "小汽车"
           ],
-          "frame": "「杨利伟」是咱们中国的＿＿，它能＿＿，我觉得真了不起。",
-          "orient": "v"
+          "frame": "「杨利伟」是咱们中国的＿＿，它能＿＿，我觉得真了不起。"
         },
         {
           "title": "我国首批航天员已全部停航停训 中国首批航天员潘占春: 虽不曾上天 不遗憾 成为一份子是一生的骄傲",
@@ -3659,7 +3650,8 @@
             "排版",
             "书页"
           ],
-          "frame": "「活字印刷」是一位＿＿，他做过＿＿，最让我佩服的是＿＿。"
+          "frame": "「活字印刷」是一位＿＿，他做过＿＿，最让我佩服的是＿＿。",
+          "orient": "v"
         },
         {
           "title": "七下13·毕昇泥活字",
@@ -4214,8 +4206,7 @@
             "科学家",
             "计算"
           ],
-          "frame": "「祖冲之」是一位＿＿，他做过＿＿，最让我佩服的是＿＿。",
-          "orient": "h"
+          "frame": "「祖冲之」是一位＿＿，他做过＿＿，最让我佩服的是＿＿。"
         },
         {
           "title": "数学家如何计算出圆周率？",
