@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-05 00:00 UTC",
- "count": 37,
+ "generated": "2026-10-05 05:55 UTC",
+ "count": 38,
  "source": "supabase:public.video_dictation",
  "rows": [
   {
@@ -2211,6 +2211,64 @@
    "parent_note": null,
    "created_at": "2026-10-04T11:40:58.0448+00:00",
    "updated_at": "2026-10-04T11:40:58.0448+00:00"
+  },
+  {
+   "id": "172438f5-83dc-4534-8ab3-83336f549426",
+   "family_id": "default",
+   "profile_id": "gege",
+   "child_name": "哥*",
+   "card_id": "485be68a-d208-4cdb-881f-d41ca98b4c35",
+   "card_date": "2026-10-04",
+   "theme_key": "scientist",
+   "theme_name": "科学家故事",
+   "card_title": "人物故事（航天英雄杨利伟）",
+   "card_url": "https://www.bilibili.com/video/BV1aZ35eSEt8",
+   "card_site": "B站",
+   "record_at": "2026-10-05T02:08:14.463956+00:00",
+   "input_mode": "ime",
+   "talk_sec": null,
+   "raw_text": "杨利伟",
+   "char_count": 3,
+   "ai_status": "ok",
+   "ai_model": "glm-4-flash",
+   "ai_summary": "杨利伟是一位航天英雄。",
+   "ai_keywords": [
+    "杨利伟",
+    "航天英雄"
+   ],
+   "ai_points": [
+    "你提到了杨利伟的名字，并且知道他是航天英雄"
+   ],
+   "ai_missed": [
+    "你还没有提到杨利伟做了什么，比如他去了太空还是做了什么伟大的事情"
+   ],
+   "ai_praise": "你记得杨利伟的名字，真不错！",
+   "ai_question": "杨利伟做了什么特别的事情呢？",
+   "ai_raw": {
+    "content": "{\n  \"summary\": \"杨利伟是一位航天英雄。\",\n  \"keywords\": [\"杨利伟\", \"航天英雄\"],\n  \"points\": [\"你提到了杨利伟的名字，并且知道他是航天英雄\"],\n  \"missed\": [\"你还没有提到杨利伟做了什么，比如他去了太空还是做了什么伟大的事情\"],\n  \"praise\": \"你记得杨利伟的名字，真不错！\",\n  \"question\": \"杨利伟做了什么特别的事情呢？\",\n  \"filler_words\": [\"嗯\"],\n  \"sentence\": {\n    \"ok\": false,\n    \"verdict\": \"你的句子有点短，别人可能听不明白你在说什么。\",\n    \"issues\": [\n      {\n        \"kind\": \"句子说一半\",\n        \"quote\": \"杨利伟\",\n        \"why\": \"这句话只提到了杨利伟的名字，没有说明他做了什么，别人可能不知道你在说什么。\",\n        \"fix\": \"杨利伟是一位航天英雄。\"\n      }\n    ],\n    \"polished\": \"杨利伟是一位航天英雄。\",\n    \"tip\": \"下次可以试着加上一些细节，让别人知道你在说什么。\"\n  }\n}",
+    "sentence": {
+     "ok": false,
+     "tip": "下次可以试着加上一些细节，让别人知道你在说什么。",
+     "issues": [
+      {
+       "fix": "杨利伟是一位航天英雄。",
+       "why": "这句话只提到了杨利伟的名字，没有说明他做了什么，别人可能不知道你在说什么。",
+       "kind": "句子说一半",
+       "quote": "杨利伟"
+      }
+     ],
+     "present": true,
+     "verdict": "你的句子有点短，别人可能听不明白你在说什么。",
+     "polished": "杨利伟是一位航天英雄。"
+    }
+   },
+   "ai_error": null,
+   "ai_cost_ms": 15257,
+   "ai_parsed_at": null,
+   "star": null,
+   "parent_note": null,
+   "created_at": "2026-10-05T02:08:14.463956+00:00",
+   "updated_at": "2026-10-05T02:08:14.463956+00:00"
   }
  ]
 }

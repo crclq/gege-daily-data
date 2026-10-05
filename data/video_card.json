@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-05 00:00 UTC",
- "count": 20,
+ "generated": "2026-10-05 05:55 UTC",
+ "count": 21,
  "source": "supabase:public.video_card",
  "rows": [
   {
@@ -362,6 +362,24 @@
    "album": "",
    "created_at": "2026-10-04T11:40:43.051678+00:00",
    "updated_at": "2026-10-04T11:40:43.051678+00:00"
+  },
+  {
+   "id": "485be68a-d208-4cdb-881f-d41ca98b4c35",
+   "family_id": "default",
+   "card_date": "2026-10-04",
+   "theme_key": "scientist",
+   "theme_name": "科学家故事",
+   "sort_no": 1,
+   "card_title": "人物故事（航天英雄杨利伟）",
+   "site": "B站",
+   "dur_sec": 143,
+   "url": "https://www.bilibili.com/video/BV1aZ35eSEt8",
+   "brief": "今日科学家·杨利伟：人物故事（航天英雄杨利伟）",
+   "tvid": "",
+   "mp4": "",
+   "album": "",
+   "created_at": "2026-10-05T02:07:57.828417+00:00",
+   "updated_at": "2026-10-05T02:07:57.828417+00:00"
   }
  ]
 }
