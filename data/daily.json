@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12 12:57",
+  "generated": "2026-10-14 12:59",
   "cats": [
     {
       "key": "military",
@@ -67,7 +67,8 @@
     }
   ],
   "dates": [
-    "2026-10-12",
+    "2026-10-14",
+    "2026-10-13",
     "2026-10-08",
     "2026-10-07",
     "2026-10-06",
@@ -79,82 +80,346 @@
     "2026-09-30",
     "2026-09-29",
     "2026-09-28",
-    "2026-09-27",
-    "2026-09-26"
+    "2026-09-27"
   ],
   "data": {
-    "2026-10-12": {
+    "2026-10-14": {
       "weapon": [
         {
-          "title": "地下钢铁蛟龙！看完盾构机挖隧道全过程，太震撼！",
-          "url": "https://www.bilibili.com/video/BV1TLpX6pEpb",
-          "dur": 75,
+          "title": "[航天历史]长征四号乙型火箭发射中巴资源一号01星 1999.10.14 (长四乙遥1)",
+          "url": "https://www.bilibili.com/video/BV1Xapy6BEJo",
+          "dur": 266,
           "site": "B站",
-          "brief": "大国重器：地下钢铁蛟龙！看完盾构机挖隧道全过程，太震撼！"
+          "brief": "大国重器：[航天历史]长征四号乙型火箭发射中巴资源一号01星 1999.10.14 (长四乙遥1)"
         },
         {
-          "title": "第七弦臂执政官协议～第七弦臂人马座A中央太阳777赫兹蓝光频率在场即刻关停GA-07地球区近地轨道卫星星链空间站等旧程序监控地表操控天气投放低频信号之运行系统。",
-          "url": "https://www.bilibili.com/video/BV1yTpH64EYh",
-          "dur": 68,
+          "title": "【TVB翡翠台】早晨简讯:解放军海军“辽宁舰”航母编队前往西太平洋相关海域展开训练",
+          "url": "https://www.bilibili.com/video/BV1mBpk6dESo",
+          "dur": 41,
           "site": "B站",
-          "brief": "大国重器：第七弦臂执政官协议～第七弦臂人马座A中央太阳777赫兹蓝光频率在场即刻关停GA-07地球区近地轨道卫星星链空间站等旧程序监控地表操控天气投放低频信号之运行系统。"
+          "brief": "大国重器：【TVB翡翠台】早晨简讯:解放军海军“辽宁舰”航母编队前往西太平洋相关海域展开训练"
         },
         {
-          "title": "揭秘中国首批小鼠“航天员”训练项目，来看“小鼠小鼠向前冲”之难度升级版，网友：那个抗眩晕测试我看着都晕",
-          "url": "https://www.bilibili.com/video/BV1zUpS6AEya",
-          "dur": 33,
+          "title": "中国航天-大屏背景舞台背景可定制",
+          "url": "https://www.bilibili.com/video/BV1c6ps6aEQD",
+          "dur": 141,
           "site": "B站",
-          "brief": "大国重器：揭秘中国首批小鼠“航天员”训练项目，来看“小鼠小鼠向前冲”之难度升级版，网友：那个抗眩晕测试我看着都晕"
+          "brief": "大国重器：中国航天-大屏背景舞台背景可定制"
         },
         {
-          "title": "嫦娥六号月球国旗的材料，居然被做成了衣服？",
-          "url": "https://www.bilibili.com/video/BV1NEpX6nEdK",
-          "dur": 314,
+          "title": "SpaceX申请星舰年发射456次，方案正接受美政府环评审查，得州星基地拟年发射456次，高频太空飞行面临环境评估",
+          "url": "https://www.bilibili.com/video/BV1vkpr6NEa3",
+          "dur": 63,
           "site": "B站",
-          "brief": "大国重器：嫦娥六号月球国旗的材料，居然被做成了衣服？"
+          "brief": "大国重器：SpaceX申请星舰年发射456次，方案正接受美政府环评审查，得州星基地拟年发射456次，高频太空飞行面临环境评估"
         },
         {
-          "title": "0.01 毫米定生死！谁在幕后给中国航天员 “保命”？#航天人 #航天精神 #航天",
-          "url": "https://www.bilibili.com/video/BV1FXpQ6uEis",
-          "dur": 186,
+          "title": "添可胶囊空间站蒸汽版，高温蒸汽瓦解顽固油污",
+          "url": "https://www.bilibili.com/video/BV1RWpk6KECS",
+          "dur": 226,
           "site": "B站",
-          "brief": "大国重器：0.01 毫米定生死！谁在幕后给中国航天员 “保命”？#航天人 #航天精神 #航天"
+          "brief": "大国重器：添可胶囊空间站蒸汽版，高温蒸汽瓦解顽固油污"
         }
       ],
       "edu_chinese": [
         {
-          "title": "喜出望外成语故事",
-          "url": "https://www.bilibili.com/video/BV1brpv6rETV",
-          "dur": 107,
+          "title": "刻舟求剑藏冷知识？2个课本未讲真相，颠覆认知，解锁大语文新视角。脑洞成语之刻舟求剑来咯！",
+          "url": "https://www.bilibili.com/video/BV115pz61Etk",
+          "dur": 157,
           "site": "B站",
-          "brief": "语文：喜出望外成语故事"
+          "brief": "语文：刻舟求剑藏冷知识？2个课本未讲真相，颠覆认知，解锁大语文新视角。脑洞成语之刻舟求剑来咯！"
         },
         {
-          "title": "成语故事《草船借箭》，原创动画故事！ #中外童话故事  #成语故事   #爱讲故事会 #儿童动画   #小故事大道理",
-          "url": "https://www.bilibili.com/video/BV1KApg6hEkp",
-          "dur": 97,
+          "title": "寓言故事 | 成语故事《沧海桑田》，【地质大赏】神仙GPS又失灵了？1分钟看懂海底怎么长出大树！🌊🌳",
+          "url": "https://www.bilibili.com/video/BV1Yopi6JEQa",
+          "dur": 91,
           "site": "B站",
-          "brief": "语文：成语故事《草船借箭》，原创动画故事！ #中外童话故事  #成语故事   #爱讲故事会 #儿童动画   #小故事大道理"
+          "brief": "语文：寓言故事 | 成语故事《沧海桑田》，【地质大赏】神仙GPS又失灵了？1分钟看懂海底怎么长出大树！🌊🌳"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_ruxygqejo0.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "tvid": "2946856515416700",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·16秒",
+          "url": "https://m.iqiyi.com/v_1r4whcr4s04.html",
+          "dur": 16,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·16秒",
+          "tvid": "6388950167865000",
+          "orient": "h"
+        }
+      ],
+      "military": [
+        {
+          "title": "06 糟糕的坦克 鲍勃森普尔坦克",
+          "url": "https://m.iqiyi.com/v_vmxzclnfj8.html",
+          "dur": 151,
+          "site": "爱奇艺",
+          "brief": "军事科普：06 糟糕的坦克 鲍勃森普尔坦克",
+          "tvid": "3130552493499400",
+          "orient": "h"
+        },
+        {
+          "title": "03 应对狙击手的军事假人",
+          "url": "https://m.iqiyi.com/v_1laqa7qogqg.html",
+          "dur": 213,
+          "site": "爱奇艺",
+          "brief": "军事科普：03 应对狙击手的军事假人",
+          "tvid": "5869146697631700",
+          "orient": "h"
+        },
+        {
+          "title": "歼10系列战机的区别",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=699624",
+          "dur": 131,
+          "site": "科普中国",
+          "brief": "军事科普：歼10系列战机的区别",
+          "mp4": "https://pqnoss.kepuchina.cn/U28144636/videos/2026050510391179493691119277.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "机器狗的正经用途可不是 “扛枪”",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=732293",
+          "dur": 241,
+          "site": "科普中国",
+          "brief": "军事科普：机器狗的正经用途可不是 “扛枪”",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/202608271650595010277266136.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "5倍音速，大国都在抢的“新制高点”",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=729928",
+          "dur": 196,
+          "site": "科普中国",
+          "brief": "军事科普：5倍音速，大国都在抢的“新制高点”",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/202608210917411571179492893.mp4",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "戴森干湿一体AI机器人｜懒人清洁天花板！_黑科技导航_隐藏激光雷达+双线激光，暗光秒建3D地图！AI识别垃圾_障碍物，自动绕行不卡顿，连数据线都能精准避开_智能",
+          "url": "https://www.bilibili.com/video/BV1Sqpy6NETo",
+          "dur": 31,
+          "site": "B站",
+          "brief": "AI科技：戴森干湿一体AI机器人｜懒人清洁天花板！_黑科技导航_隐藏激光雷达+双线激光，暗光秒建3D地图！AI识别垃圾_障碍物，自动绕行不卡顿，连数据线都能精准避开_智能"
+        },
+        {
+          "title": "【阅读100天·Day11下】人工智能：AI改变的不是人的价值，而是人与机器的分工",
+          "url": "https://www.bilibili.com/video/BV11YpB6CEi7",
+          "dur": 46,
+          "site": "B站",
+          "brief": "AI科技：【阅读100天·Day11下】人工智能：AI改变的不是人的价值，而是人与机器的分工"
+        },
+        {
+          "title": "把手机变成智能机器人？桌面陪伴ai现在可以满足你了。",
+          "url": "https://www.bilibili.com/video/BV1iFpC6rEGu",
+          "dur": 42,
+          "site": "B站",
+          "brief": "AI科技：把手机变成智能机器人？桌面陪伴ai现在可以满足你了。"
+        },
+        {
+          "title": "来不及做饭，让机器狗去饭店买，结果.... #智能生活 #方太G2P#方太G2P微蒸烤一体机 #温湿智控科技",
+          "url": "https://www.bilibili.com/video/BV1oVp66NEa1",
+          "dur": 180,
+          "site": "B站",
+          "brief": "AI科技：来不及做饭，让机器狗去饭店买，结果.... #智能生活 #方太G2P#方太G2P微蒸烤一体机 #温湿智控科技"
+        },
+        {
+          "title": "人形机器人连中7次！Gemini 4 Argon全球开放！| 绿鸭AI日报1014",
+          "url": "https://www.bilibili.com/video/BV1a3pC6PENP",
+          "dur": 304,
+          "site": "B站",
+          "brief": "AI科技：人形机器人连中7次！Gemini 4 Argon全球开放！| 绿鸭AI日报1014"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "冠状病毒的总攻",
+          "url": "https://m.iqiyi.com/v_1beelxlr6qk.html",
+          "dur": 197,
+          "site": "爱奇艺",
+          "brief": "自然科学：冠状病毒的总攻",
+          "tvid": "4907349847041200",
+          "orient": "h"
+        },
+        {
+          "title": "埃博拉病毒的奇袭",
+          "url": "https://m.iqiyi.com/v_1lsznkcsm18.html",
+          "dur": 188,
+          "site": "爱奇艺",
+          "brief": "自然科学：埃博拉病毒的奇袭",
+          "tvid": "5821016747576800",
+          "orient": "h"
         }
       ],
       "scientist": [
         {
-          "title": "吴宏鑫院士回忆杨嘉墀对自己科研工作的影响",
-          "url": "https://kxrsbn.casad.cas.cn/2019n/zxsp/201906/t20190604_4950223.html",
-          "dur": 91,
+          "title": "听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。#周总理 #钱学森 #两弹一星#科学家精神 #国之脊梁",
+          "url": "https://www.bilibili.com/video/BV1Meec6BE58",
+          "dur": 466,
+          "site": "B站",
+          "brief": "今日科学家·钱学森：听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。#周总理 #钱学森 #两弹一星#科学家精神 #国之脊梁"
+        },
+        {
+          "title": "庄逢甘谈钱学森在中国导弹研制中技术途径方面的指导作用",
+          "url": "https://kxrsbn.casad.cas.cn/2025/zxss/202505/t20250519_5068947.html",
+          "dur": 102,
           "site": "科学人生百年",
-          "brief": "今日科学家·杨嘉墀：吴宏鑫院士回忆杨嘉墀对自己科研工作的影响",
-          "mp4": "https://videozh.cas.cn/masvod/public/2023/07/24/20230724_18987e2d9ae_r36_1200k.mp4",
+          "brief": "科学家故事：庄逢甘谈钱学森在中国导弹研制中技术途径方面的指导作用",
+          "mp4": "https://videozh.cas.cn/masvod/public/2025/05/19/20250519_196e61e4523_r36.mp4",
           "orient": "h"
         },
         {
-          "title": "两弹一星功勋科学家——杨嘉墀",
-          "url": "https://kxrsbn.casad.cas.cn/2019n/zxsp/201905/t20190530_4950208.html",
-          "dur": 1372,
-          "site": "科学人生百年",
-          "brief": "科学家故事：两弹一星功勋科学家——杨嘉墀",
-          "mp4": "https://videozh.cas.cn/masvod/public/2023/07/24/20230724_18987df1e25_r36.mp4",
-          "orient": "h"
+          "title": "&quot;中国的骄傲，世界的骄傲”———全球唯一一例侮辱两弹一星元勋，国家脊梁钱学森，钱三强，钱伟长经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
+          "url": "https://www.bilibili.com/video/BV1BXpK66EvT",
+          "dur": 36,
+          "site": "B站",
+          "brief": "科学家故事：&quot;中国的骄傲，世界的骄傲”———全球唯一一例侮辱两弹一星元勋，国家脊梁钱学森，钱三强，钱伟长经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！"
+        },
+        {
+          "title": "“国之脊梁——钱学森院士”",
+          "url": "https://www.bilibili.com/video/BV1aTpT6cE7x",
+          "dur": 147,
+          "site": "B站",
+          "brief": "科学家故事：“国之脊梁——钱学森院士”"
+        },
+        {
+          "title": "杜渊文的光辉事迹————侮辱钱学森，钱三强，钱伟长，官方文书为证！包庇刘继华犯罪集团，虚假诉讼，还有办案单位的高清录像————国庆黄金周！各大媒体宣扬曝光！",
+          "url": "https://www.bilibili.com/video/BV1mepK6XE3Y",
+          "dur": 36,
+          "site": "B站",
+          "brief": "科学家故事：杜渊文的光辉事迹————侮辱钱学森，钱三强，钱伟长，官方文书为证！包庇刘继华犯罪集团，虚假诉讼，还有办案单位的高清录像————国庆黄金周！各大媒体宣扬曝光！"
+        },
+        {
+          "title": "向党实名制举报，经过权威搜索，杜渊文是全球唯一一例党员干部，法官侮辱钱学森，钱三强，钱伟长。经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
+          "url": "https://www.bilibili.com/video/BV1BXpK66Ean",
+          "dur": 36,
+          "site": "B站",
+          "brief": "科学家故事：向党实名制举报，经过权威搜索，杜渊文是全球唯一一例党员干部，法官侮辱钱学森，钱三强，钱伟长。经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！"
+        },
+        {
+          "title": "新华社，《焦点访谈》，《今日说法》，《东方时空》外国也没有法官，干部，党员侮辱钱学森，钱三强，钱伟长！————经过官方听证！载入大同市中院《听证会笔录》！",
+          "url": "https://www.bilibili.com/video/BV1qRpK6uE81",
+          "dur": 155,
+          "site": "B站",
+          "brief": "科学家故事：新华社，《焦点访谈》，《今日说法》，《东方时空》外国也没有法官，干部，党员侮辱钱学森，钱三强，钱伟长！————经过官方听证！载入大同市中院《听证会笔录》！"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "哪种更划算#三年级数学 #小学数学#数学思维 #单位换算教学 #最优惠价格",
+          "url": "https://www.bilibili.com/video/BV1yUpy6oEQy",
+          "dur": 88,
+          "site": "B站",
+          "brief": "数学：哪种更划算#三年级数学 #小学数学#数学思维 #单位换算教学 #最优惠价格"
+        },
+        {
+          "title": "华罗庚学校数学课本二年级｜附录04｜时间的认识（下）",
+          "url": "https://www.bilibili.com/video/BV1ncpB6iED2",
+          "dur": 96,
+          "site": "B站",
+          "brief": "数学：华罗庚学校数学课本二年级｜附录04｜时间的认识（下）"
+        }
+      ],
+      "project": [
+        {
+          "title": "活力中国调研行丨平陆运河通航即将满月 南宁港有哪些变化？_凤凰网",
+          "url": "https://www.bilibili.com/video/BV1iQpB6hEqy",
+          "dur": 239,
+          "site": "B站",
+          "brief": "重大工程：活力中国调研行丨平陆运河通航即将满月 南宁港有哪些变化？_凤凰网"
+        },
+        {
+          "title": "三分钟看懂，南水北调工程是如何建造的？",
+          "url": "https://www.bilibili.com/video/BV1Lzpr6TEqt",
+          "dur": 284,
+          "site": "B站",
+          "brief": "重大工程：三分钟看懂，南水北调工程是如何建造的？"
+        },
+        {
+          "title": "2200 年前超级工程！没有水闸，却泽被千年",
+          "url": "https://www.bilibili.com/video/BV19Wpk6KEyP",
+          "dur": 117,
+          "site": "B站",
+          "brief": "重大工程：2200 年前超级工程！没有水闸，却泽被千年"
+        },
+        {
+          "title": "只有日新月异。 #中朝新鸭绿江大桥将开通  #国外 #海外 #国外生活 #基建狂魔",
+          "url": "https://www.bilibili.com/video/BV1U6py6AEe3",
+          "dur": 39,
+          "site": "B站",
+          "brief": "重大工程：只有日新月异。 #中朝新鸭绿江大桥将开通  #国外 #海外 #国外生活 #基建狂魔"
+        },
+        {
+          "title": "（附评论）“印度十年不开工，项目飞了怪中国😰？”乙亢姐酸中国：蒙格拉港被中国抢走；现基建狂魔本色，怼到印度家门口，3.36亿美元两年完工，新德里酸成柠檬海",
+          "url": "https://www.bilibili.com/video/BV1Xhpy6uEpF",
+          "dur": 341,
+          "site": "B站",
+          "brief": "重大工程：（附评论）“印度十年不开工，项目飞了怪中国😰？”乙亢姐酸中国：蒙格拉港被中国抢走；现基建狂魔本色，怼到印度家门口，3.36亿美元两年完工，新德里酸成柠檬海"
+        }
+      ]
+    },
+    "2026-10-13": {
+      "weapon": [
+        {
+          "title": "2003年10月神舟五号发射前影像",
+          "url": "https://www.bilibili.com/video/BV1LVWc6dE3W",
+          "dur": 66,
+          "site": "B站",
+          "brief": "大国重器：2003年10月神舟五号发射前影像"
+        },
+        {
+          "title": "4K卫星视频：日本海与日本列岛",
+          "url": "https://www.bilibili.com/video/BV1GHWc6nEMy",
+          "dur": 92,
+          "site": "B站",
+          "brief": "大国重器：4K卫星视频：日本海与日本列岛"
+        },
+        {
+          "title": "神舟二十三号凯旋 彰显中国航天力量",
+          "url": "https://www.bilibili.com/video/BV1BtWF64E6o",
+          "dur": 404,
+          "site": "B站",
+          "brief": "大国重器：神舟二十三号凯旋 彰显中国航天力量"
+        },
+        {
+          "title": "全国锦标赛，正在悄悄筛选中国的&quot;未来航天人&quot;",
+          "url": "https://www.bilibili.com/video/BV1GHWc6nESs",
+          "dur": 96,
+          "site": "B站",
+          "brief": "大国重器：全国锦标赛，正在悄悄筛选中国的&quot;未来航天人&quot;"
+        },
+        {
+          "title": "《你好，太空》国旗下，少年郎，以声为翼，仰望苍穹，致敬中国航天！用稚嫩却坚定的朗诵，诉说对太空的向往与热爱，小小童心，怀揣大大的航天梦，立志向太空出发，强国有我",
+          "url": "https://www.bilibili.com/video/BV1EMWc6FEec",
+          "dur": 183,
+          "site": "B站",
+          "brief": "大国重器：《你好，太空》国旗下，少年郎，以声为翼，仰望苍穹，致敬中国航天！用稚嫩却坚定的朗诵，诉说对太空的向往与热爱，小小童心，怀揣大大的航天梦，立志向太空出发，强国有我"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "成语动画杞人忧天，不要为没必要的事情发愁，给孩子讲一则经典寓言故事",
+          "url": "https://www.bilibili.com/video/BV11Mpv6PEbn",
+          "dur": 137,
+          "site": "B站",
+          "brief": "语文：成语动画杞人忧天，不要为没必要的事情发愁，给孩子讲一则经典寓言故事"
+        },
+        {
+          "title": "成语故事《破釜沉舟》，原创动画故事！ #中外童话故事  #成语故事   #爱讲故事会 #儿童动画   #小故事大道理",
+          "url": "https://www.bilibili.com/video/BV1dMpo6CEvu",
+          "dur": 155,
+          "site": "B站",
+          "brief": "语文：成语故事《破釜沉舟》，原创动画故事！ #中外童话故事  #成语故事   #爱讲故事会 #儿童动画   #小故事大道理"
         }
       ],
       "edu_english": [
@@ -179,6 +444,15 @@
       ],
       "military": [
         {
+          "title": "02 另类的武器 塔强卡战车",
+          "url": "https://m.iqiyi.com/v_xfl78vg7cg.html",
+          "dur": 177,
+          "site": "爱奇艺",
+          "brief": "军事科普：02 另类的武器 塔强卡战车",
+          "tvid": "3489120627441500",
+          "orient": "h"
+        },
+        {
           "title": "03 奇怪的坦克沙皇坦克",
           "url": "https://m.iqiyi.com/v_uf50yw395g.html",
           "dur": 153,
@@ -188,110 +462,165 @@
           "orient": "h"
         },
         {
-          "title": "06 糟糕的坦克 鲍勃森普尔坦克",
-          "url": "https://m.iqiyi.com/v_vmxzclnfj8.html",
-          "dur": 151,
-          "site": "爱奇艺",
-          "brief": "军事科普：06 糟糕的坦克 鲍勃森普尔坦克",
-          "tvid": "3130552493499400",
+          "title": "铁甲轻骑——泰山军事博物馆62式轻型坦克科普",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=718785",
+          "dur": 231,
+          "site": "科普中国",
+          "brief": "军事科普：铁甲轻骑——泰山军事博物馆62式轻型坦克科普",
+          "mp4": "https://pqnoss.kepuchina.cn/kepuyun/2026/08/24/24/1787498146668/62式轻型坦克科普小课堂.mp4"
+        },
+        {
+          "title": "隐身战机也无处遁形？多域感知如何织就天罗地网",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=733284",
+          "dur": 262,
+          "site": "科普中国",
+          "brief": "军事科普：隐身战机也无处遁形？多域感知如何织就天罗地网",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083111104843992246075564.mp4",
           "orient": "h"
         },
         {
-          "title": "&quot;阿尔法&quot;战略支援部队——乌克兰防卫军的顶尖单位，连续第七个月打击许多俄罗斯目标，包括肩扛式防空导弹、BUK和S-400。",
-          "url": "https://www.bilibili.com/video/BV1zMpQ6MEU5",
-          "dur": 78,
-          "site": "B站",
-          "brief": "军事科普：&quot;阿尔法&quot;战略支援部队——乌克兰防卫军的顶尖单位，连续第七个月打击许多俄罗斯目标，包括肩扛式防空导弹、BUK和S-400。"
-        },
-        {
-          "title": "胡塞武装叶海亚：过去24小时内沙特对也门发动了124次空袭，作为回应，胡塞使用导弹和无人机完成了四次打击行动。沙特两大机场直接瘫痪，阿美炼油厂燃起大火！",
-          "url": "https://www.bilibili.com/video/BV1YApD6XEcf",
-          "dur": 244,
-          "site": "B站",
-          "brief": "军事科普：胡塞武装叶海亚：过去24小时内沙特对也门发动了124次空袭，作为回应，胡塞使用导弹和无人机完成了四次打击行动。沙特两大机场直接瘫痪，阿美炼油厂燃起大火！"
-        },
-        {
-          "title": "反坦克导弹加持打穿防住-122三机工程用法案例040",
-          "url": "https://www.bilibili.com/video/BV1n9pJ67E3P",
-          "dur": 78,
-          "site": "B站",
-          "brief": "军事科普：反坦克导弹加持打穿防住-122三机工程用法案例040"
+          "title": "不一样的航母舰载机（上）",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=708693",
+          "dur": 179,
+          "site": "科普中国",
+          "brief": "军事科普：不一样的航母舰载机（上）",
+          "mp4": "https://pqnoss.kepuchina.cn/U7740108/videos/2026060217412467459614237355.mp4",
+          "orient": "h"
         }
       ],
       "ai": [
         {
-          "title": "日本黑科技！机器人帮你收栗子，大学联手解决人手不足。波士顿机器狗，日本农业很多老人，没有年轻人",
-          "url": "https://www.bilibili.com/video/BV11qp76nEuY",
-          "dur": 176,
+          "title": "🏆 金奖加冕｜安诺机器人AI拉花咖啡印花吧荣获2026广交会设计创新奖（CF奖）·金奖！",
+          "url": "https://www.bilibili.com/video/BV1mgWw62Eyr",
+          "dur": 69,
           "site": "B站",
-          "brief": "AI科技：日本黑科技！机器人帮你收栗子，大学联手解决人手不足。波士顿机器狗，日本农业很多老人，没有年轻人"
+          "brief": "AI科技：🏆 金奖加冕｜安诺机器人AI拉花咖啡印花吧荣获2026广交会设计创新奖（CF奖）·金奖！"
         },
         {
-          "title": "电驱征途 机器人关节篇第二版正式发布啦 面向AI时代的电驱教材 搭配机器人关节篇APP#电驱征途#机器人关节篇#未来电控学苑#未来电控AI学苑",
-          "url": "https://www.bilibili.com/video/BV1EvpX6zEox",
-          "dur": 75,
+          "title": "【智慧农业教学】AI机器人部署——生桃熟桃快速采摘分拣。",
+          "url": "https://www.bilibili.com/video/BV1KvWc6rErY",
+          "dur": 56,
           "site": "B站",
-          "brief": "AI科技：电驱征途 机器人关节篇第二版正式发布啦 面向AI时代的电驱教材 搭配机器人关节篇APP#电驱征途#机器人关节篇#未来电控学苑#未来电控AI学苑"
+          "brief": "AI科技：【智慧农业教学】AI机器人部署——生桃熟桃快速采摘分拣。"
         },
         {
-          "title": "【官方旗舰店】科大讯飞 AI 学习机 T30Lit",
-          "url": "https://www.bilibili.com/video/BV1qppH6jEHj",
-          "dur": 53,
+          "title": "一周AI大事（10月11日）AI办公、创作与机器人一起提速.",
+          "url": "https://www.bilibili.com/video/BV1EgWc6ZEJL",
+          "dur": 244,
           "site": "B站",
-          "brief": "AI科技：【官方旗舰店】科大讯飞 AI 学习机 T30Lit"
+          "brief": "AI科技：一周AI大事（10月11日）AI办公、创作与机器人一起提速.",
+          "orient": "h"
         },
         {
-          "title": "Skild AI自训练封神！机器人居然自学踢足球！",
-          "url": "https://www.bilibili.com/video/BV1JXpQ6MEYe",
-          "dur": 61,
+          "title": "哪个天才设计的AI扫地机器人？美的灵眸V15Pro两周体验#美的灵眸V15Pro#扫地机器人-7406648395644341539",
+          "url": "https://www.bilibili.com/video/BV1nmWc6YEg3",
+          "dur": 193,
           "site": "B站",
-          "brief": "AI科技：Skild AI自训练封神！机器人居然自学踢足球！"
+          "brief": "AI科技：哪个天才设计的AI扫地机器人？美的灵眸V15Pro两周体验#美的灵眸V15Pro#扫地机器人-7406648395644341539"
         },
         {
-          "title": "胡闹厨房 2 马戏团 3-4 三人 4856 with 智能机器人",
-          "url": "https://www.bilibili.com/video/BV1fepX6uE8u",
-          "dur": 280,
+          "title": "米家 扫地机器人6 Max AI 三摄精准识别 水箱版",
+          "url": "https://www.bilibili.com/video/BV1tbWc61EUb",
+          "dur": 45,
           "site": "B站",
-          "brief": "AI科技：胡闹厨房 2 马戏团 3-4 三人 4856 with 智能机器人"
+          "brief": "AI科技：米家 扫地机器人6 Max AI 三摄精准识别 水箱版"
         }
       ],
       "edu_science": [
         {
-          "title": "冠状病毒的总攻",
-          "url": "https://m.iqiyi.com/v_1beelxlr6qk.html",
-          "dur": 197,
+          "title": " 05 一直不刷牙会怎么样",
+          "url": "https://m.iqiyi.com/v_uuebuha734.html",
+          "dur": 174,
           "site": "爱奇艺",
-          "brief": "自然科学：冠状病毒的总攻",
-          "tvid": "4907349847041200",
+          "brief": "自然科学： 05 一直不刷牙会怎么样",
+          "tvid": "3189110600383500",
           "orient": "h"
         },
         {
-          "title": "埃博拉病毒的奇袭",
-          "url": "https://m.iqiyi.com/v_1lsznkcsm18.html",
-          "dur": 188,
+          "title": " 06 一直不剪指甲会怎么样？",
+          "url": "https://m.iqiyi.com/v_ufr94sx8ho.html",
+          "dur": 207,
           "site": "爱奇艺",
-          "brief": "自然科学：埃博拉病毒的奇袭",
-          "tvid": "5821016747576800",
+          "brief": "自然科学： 06 一直不剪指甲会怎么样？",
+          "tvid": "2970921489810000",
           "orient": "h"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "能工巧匠第二组詹天佑银币，央行发行法定纪念银币，以近代铁路之父詹天佑为题材，工艺精美，兼具文化与收藏价值。",
+          "url": "https://www.bilibili.com/video/BV1QCpj64EQx",
+          "dur": 65,
+          "site": "B站",
+          "brief": "今日科学家·詹天佑：能工巧匠第二组詹天佑银币，央行发行法定纪念银币，以近代铁路之父詹天佑为题材，工艺精美，兼具文化与收藏价值。"
+        },
+        {
+          "title": "科学家精神系列动画  詹天佑   中国铁路之父",
+          "url": "https://www.bilibili.com/video/BV15nzLBaEbJ",
+          "dur": 247,
+          "site": "B站",
+          "brief": "科学家故事：科学家精神系列动画  詹天佑   中国铁路之父"
+        },
+        {
+          "title": "5.詹天佑塑像，纪念中国铁路先驱",
+          "url": "https://www.bilibili.com/video/BV1KCej6mEib",
+          "dur": 130,
+          "site": "B站",
+          "brief": "科学家故事：5.詹天佑塑像，纪念中国铁路先驱"
+        },
+        {
+          "title": "【人物】詹天佑",
+          "url": "https://www.bilibili.com/video/BV1mw41147p3",
+          "dur": 175,
+          "site": "B站",
+          "brief": "科学家故事：【人物】詹天佑"
+        },
+        {
+          "title": "中国铁路之父—詹天佑|用英语讲中国故事 三分钟英语演讲",
+          "url": "https://www.bilibili.com/video/BV187AGzgEce",
+          "dur": 178,
+          "site": "B站",
+          "brief": "科学家故事：中国铁路之父—詹天佑|用英语讲中国故事 三分钟英语演讲"
+        },
+        {
+          "title": "永庆坊板块 #低层三房 #全新装修 #拎包入住 南北对流 #省级学位 詹天佑小书包🎒 黄沙 #地铁口 生活便利…",
+          "url": "https://www.bilibili.com/video/BV1fLpg6HEMg",
+          "dur": 40,
+          "site": "B站",
+          "brief": "科学家故事：永庆坊板块 #低层三房 #全新装修 #拎包入住 南北对流 #省级学位 詹天佑小书包🎒 黄沙 #地铁口 生活便利…"
+        },
+        {
+          "title": "【画啦啦小灯塔课堂】-詹天佑-中华名人故事记动画版",
+          "url": "https://www.bilibili.com/video/BV1bwEcz1EDH",
+          "dur": 533,
+          "site": "B站",
+          "brief": "科学家故事：【画啦啦小灯塔课堂】-詹天佑-中华名人故事记动画版"
         }
       ],
       "edu_math": [
         {
-          "title": "三年级数学思维提升：定义新运算解题方法分享",
-          "url": "https://www.bilibili.com/video/BV1NppX6mEH2",
-          "dur": 246,
+          "title": "华罗庚学校数学课本一年级｜上册03｜认识图形(三)",
+          "url": "https://www.bilibili.com/video/BV1xBpQ6mE9W",
+          "dur": 296,
           "site": "B站",
-          "brief": "数学：三年级数学思维提升：定义新运算解题方法分享"
+          "brief": "数学：华罗庚学校数学课本一年级｜上册03｜认识图形(三)"
         },
         {
-          "title": "四年级数学思维提升：大数的认识与读写拓展应用题",
-          "url": "https://www.bilibili.com/video/BV1gipY6TEQZ",
-          "dur": 167,
+          "title": "华罗庚学校数学课本二年级｜上册03｜数数与计数（二）",
+          "url": "https://www.bilibili.com/video/BV1NBWc6zEMU",
+          "dur": 297,
           "site": "B站",
-          "brief": "数学：四年级数学思维提升：大数的认识与读写拓展应用题"
+          "brief": "数学：华罗庚学校数学课本二年级｜上册03｜数数与计数（二）"
         }
       ],
       "project": [
+        {
+          "title": "老外如何看待中国耗时四年，耗资727亿元建成的超级工程：平陆运河",
+          "url": "https://www.bilibili.com/video/BV1fHpZ6XEba",
+          "dur": 159,
+          "site": "B站",
+          "brief": "重大工程：老外如何看待中国耗时四年，耗资727亿元建成的超级工程：平陆运河"
+        },
         {
           "title": "平陆运河通航只是前菜？中国3200公里“新长江”，最难的还没开工！",
           "url": "https://www.bilibili.com/video/BV1CApQ6rExq",
@@ -307,25 +636,18 @@
           "brief": "重大工程：辛亥革命纪念日，超级工程厦金大桥万吨钢箱梁整体横移到位，感受震撼现场"
         },
         {
-          "title": "老天也太宠广西了吧，平陆运河刚通航，湘桂运河可能又要来了！",
-          "url": "https://www.bilibili.com/video/BV13Dpn6uEzs",
-          "dur": 57,
+          "title": "桥梁建设工地施工",
+          "url": "https://www.bilibili.com/video/BV1DPWw6DE8w",
+          "dur": 213,
           "site": "B站",
-          "brief": "重大工程：老天也太宠广西了吧，平陆运河刚通航，湘桂运河可能又要来了！"
+          "brief": "重大工程：桥梁建设工地施工"
         },
         {
-          "title": "平陆运河通航之后，广西人还要多久才能摆脱去广东打工的命运呢？",
-          "url": "https://www.bilibili.com/video/BV1sqp76nE6A",
-          "dur": 132,
+          "title": "仅用4年，中国国运工程平陆运河通航，孙中山梦想成真，世界地缘格局大变，中国国运又要腾飞，China&#x27;s，strategic，layout，in，the，Ping",
+          "url": "https://www.bilibili.com/video/BV1stp36AEda",
+          "dur": 831,
           "site": "B站",
-          "brief": "重大工程：平陆运河通航之后，广西人还要多久才能摆脱去广东打工的命运呢？"
-        },
-        {
-          "title": "超级工程南水北调穿漳倒虹吸！#穿漳倒虹吸 #大疆air3s #用大疆无人机看世界",
-          "url": "https://www.bilibili.com/video/BV1nGpg6sED6",
-          "dur": 36,
-          "site": "B站",
-          "brief": "重大工程：超级工程南水北调穿漳倒虹吸！#穿漳倒虹吸 #大疆air3s #用大疆无人机看世界"
+          "brief": "重大工程：仅用4年，中国国运工程平陆运河通航，孙中山梦想成真，世界地缘格局大变，中国国运又要腾飞，China&#x27;s，strategic，layout，in，the，Ping"
         }
       ]
     },
@@ -381,57 +703,6 @@
           "dur": 128,
           "site": "B站",
           "brief": "语文：《词语和概念》直播片段"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "&quot;中国的骄傲，世界的骄傲”———全球唯一一例侮辱两弹一星元勋，国家脊梁钱学森，钱三强，钱伟长经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
-          "url": "https://www.bilibili.com/video/BV1BXpK66EvT",
-          "dur": 36,
-          "site": "B站",
-          "brief": "今日科学家·钱三强：&quot;中国的骄傲，世界的骄傲”———全球唯一一例侮辱两弹一星元勋，国家脊梁钱学森，钱三强，钱伟长经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！"
-        },
-        {
-          "title": "杜渊文的光辉事迹————侮辱钱学森，钱三强，钱伟长，官方文书为证！包庇刘继华犯罪集团，虚假诉讼，还有办案单位的高清录像————国庆黄金周！各大媒体宣扬曝光！",
-          "url": "https://www.bilibili.com/video/BV1mepK6XE3Y",
-          "dur": 36,
-          "site": "B站",
-          "brief": "科学家故事：杜渊文的光辉事迹————侮辱钱学森，钱三强，钱伟长，官方文书为证！包庇刘继华犯罪集团，虚假诉讼，还有办案单位的高清录像————国庆黄金周！各大媒体宣扬曝光！"
-        },
-        {
-          "title": "向党实名制举报，经过权威搜索，杜渊文是全球唯一一例党员干部，法官侮辱钱学森，钱三强，钱伟长。经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
-          "url": "https://www.bilibili.com/video/BV1BXpK66Ean",
-          "dur": 36,
-          "site": "B站",
-          "brief": "科学家故事：向党实名制举报，经过权威搜索，杜渊文是全球唯一一例党员干部，法官侮辱钱学森，钱三强，钱伟长。经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！"
-        },
-        {
-          "title": "新华社，《焦点访谈》，《今日说法》，《东方时空》外国也没有法官，干部，党员侮辱钱学森，钱三强，钱伟长！————经过官方听证！载入大同市中院《听证会笔录》！",
-          "url": "https://www.bilibili.com/video/BV1qRpK6uE81",
-          "dur": 155,
-          "site": "B站",
-          "brief": "科学家故事：新华社，《焦点访谈》，《今日说法》，《东方时空》外国也没有法官，干部，党员侮辱钱学森，钱三强，钱伟长！————经过官方听证！载入大同市中院《听证会笔录》！"
-        },
-        {
-          "title": "新华社，《焦点访谈》，《今日说法》，《东方时空》，请您们看一看杜渊文的丰功伟绩————中国首例法官，干部侮辱钱学森，钱三强，钱伟长被载入官方文书！（唯一一例）",
-          "url": "https://www.bilibili.com/video/BV1ewpT6eEjZ",
-          "dur": 165,
-          "site": "B站",
-          "brief": "科学家故事：新华社，《焦点访谈》，《今日说法》，《东方时空》，请您们看一看杜渊文的丰功伟绩————中国首例法官，干部侮辱钱学森，钱三强，钱伟长被载入官方文书！（唯一一例）"
-        },
-        {
-          "title": "新成立以来的旷世奇才杜渊文！————侮辱钱学森，钱三强，钱伟长被经官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
-          "url": "https://www.bilibili.com/video/BV1y6pK6UEVf",
-          "dur": 36,
-          "site": "B站",
-          "brief": "科学家故事：新成立以来的旷世奇才杜渊文！————侮辱钱学森，钱三强，钱伟长被经官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！"
-        },
-        {
-          "title": "中纪委，中央巡视组，国家信访局，公安部，中央军委，国防部，国家安全部————杜渊文是我国唯一一例侮辱钱学森，钱三强，钱伟长七项违法犯罪线索，载入官方文书高级人才",
-          "url": "https://www.bilibili.com/video/BV1snpT6HEtg",
-          "dur": 165,
-          "site": "B站",
-          "brief": "科学家故事：中纪委，中央巡视组，国家信访局，公安部，中央军委，国防部，国家安全部————杜渊文是我国唯一一例侮辱钱学森，钱三强，钱伟长七项违法犯罪线索，载入官方文书高级人才"
         }
       ],
       "edu_english": [
@@ -552,6 +823,58 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "&quot;中国的骄傲，世界的骄傲”———全球唯一一例侮辱两弹一星元勋，国家脊梁钱学森，钱三强，钱伟长经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
+          "url": "https://www.bilibili.com/video/BV1BXpK66EvT",
+          "dur": 36,
+          "site": "B站",
+          "brief": "今日科学家·钱三强：&quot;中国的骄傲，世界的骄傲”———全球唯一一例侮辱两弹一星元勋，国家脊梁钱学森，钱三强，钱伟长经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！"
+        },
+        {
+          "title": "杜渊文的光辉事迹————侮辱钱学森，钱三强，钱伟长，官方文书为证！包庇刘继华犯罪集团，虚假诉讼，还有办案单位的高清录像————国庆黄金周！各大媒体宣扬曝光！",
+          "url": "https://www.bilibili.com/video/BV1mepK6XE3Y",
+          "dur": 36,
+          "site": "B站",
+          "brief": "科学家故事：杜渊文的光辉事迹————侮辱钱学森，钱三强，钱伟长，官方文书为证！包庇刘继华犯罪集团，虚假诉讼，还有办案单位的高清录像————国庆黄金周！各大媒体宣扬曝光！"
+        },
+        {
+          "title": "向党实名制举报，经过权威搜索，杜渊文是全球唯一一例党员干部，法官侮辱钱学森，钱三强，钱伟长。经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
+          "url": "https://www.bilibili.com/video/BV1BXpK66Ean",
+          "dur": 36,
+          "site": "B站",
+          "brief": "科学家故事：向党实名制举报，经过权威搜索，杜渊文是全球唯一一例党员干部，法官侮辱钱学森，钱三强，钱伟长。经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！"
+        },
+        {
+          "title": "新华社，《焦点访谈》，《今日说法》，《东方时空》外国也没有法官，干部，党员侮辱钱学森，钱三强，钱伟长！————经过官方听证！载入大同市中院《听证会笔录》！",
+          "url": "https://www.bilibili.com/video/BV1qRpK6uE81",
+          "dur": 155,
+          "site": "B站",
+          "brief": "科学家故事：新华社，《焦点访谈》，《今日说法》，《东方时空》外国也没有法官，干部，党员侮辱钱学森，钱三强，钱伟长！————经过官方听证！载入大同市中院《听证会笔录》！"
+        },
+        {
+          "title": "新华社，《焦点访谈》，《今日说法》，《东方时空》，请您们看一看杜渊文的丰功伟绩————中国首例法官，干部侮辱钱学森，钱三强，钱伟长被载入官方文书！（唯一一例）",
+          "url": "https://www.bilibili.com/video/BV1ewpT6eEjZ",
+          "dur": 165,
+          "site": "B站",
+          "brief": "科学家故事：新华社，《焦点访谈》，《今日说法》，《东方时空》，请您们看一看杜渊文的丰功伟绩————中国首例法官，干部侮辱钱学森，钱三强，钱伟长被载入官方文书！（唯一一例）",
+          "orient": "v"
+        },
+        {
+          "title": "新成立以来的旷世奇才杜渊文！————侮辱钱学森，钱三强，钱伟长被经官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
+          "url": "https://www.bilibili.com/video/BV1y6pK6UEVf",
+          "dur": 36,
+          "site": "B站",
+          "brief": "科学家故事：新成立以来的旷世奇才杜渊文！————侮辱钱学森，钱三强，钱伟长被经官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！"
+        },
+        {
+          "title": "中纪委，中央巡视组，国家信访局，公安部，中央军委，国防部，国家安全部————杜渊文是我国唯一一例侮辱钱学森，钱三强，钱伟长七项违法犯罪线索，载入官方文书高级人才",
+          "url": "https://www.bilibili.com/video/BV1snpT6HEtg",
+          "dur": 165,
+          "site": "B站",
+          "brief": "科学家故事：中纪委，中央巡视组，国家信访局，公安部，中央军委，国防部，国家安全部————杜渊文是我国唯一一例侮辱钱学森，钱三强，钱伟长七项违法犯罪线索，载入官方文书高级人才"
+        }
+      ],
       "edu_math": [
         {
           "title": "趣味数学题38:一道五年级奥数挑战，先解方程再求A+B还是其他方法来求呢？",
@@ -658,23 +981,6 @@
           "dur": 39,
           "site": "B站",
           "brief": "语文：孩子捡到东西想占为己有？看豆豆拾金不昧！| 儿童成语启蒙"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "杨振宁：最崇拜的物理学家事爱因斯坦，狄拉克和费米。讲述坐运兵船去美国上学的故事。#杨振宁#物理学 #科学 #科学史 #爱因斯坦 #狄拉克#费米",
-          "url": "https://www.bilibili.com/video/BV1FQhj6hEsP",
-          "dur": 342,
-          "site": "B站",
-          "brief": "今日科学家·杨振宁：杨振宁：最崇拜的物理学家事爱因斯坦，狄拉克和费米。讲述坐运兵船去美国上学的故事。#杨振宁#物理学 #科学 #科学史 #爱因斯坦 #狄拉克#费米",
-          "orient": "v"
-        },
-        {
-          "title": "翁帆女士身穿交领右衽在清华大学杨振宁高等研究院揭牌仪式上的致辞分享杨振宁先生的三个故事",
-          "url": "https://www.bilibili.com/video/BV1KwYM6SEZg",
-          "dur": 179,
-          "site": "B站",
-          "brief": "科学家故事：翁帆女士身穿交领右衽在清华大学杨振宁高等研究院揭牌仪式上的致辞分享杨振宁先生的三个故事"
         }
       ],
       "edu_english": [
@@ -799,6 +1105,22 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "杨振宁：最崇拜的物理学家事爱因斯坦，狄拉克和费米。讲述坐运兵船去美国上学的故事。#杨振宁#物理学 #科学 #科学史 #爱因斯坦 #狄拉克#费米",
+          "url": "https://www.bilibili.com/video/BV1FQhj6hEsP",
+          "dur": 342,
+          "site": "B站",
+          "brief": "今日科学家·杨振宁：杨振宁：最崇拜的物理学家事爱因斯坦，狄拉克和费米。讲述坐运兵船去美国上学的故事。#杨振宁#物理学 #科学 #科学史 #爱因斯坦 #狄拉克#费米"
+        },
+        {
+          "title": "翁帆女士身穿交领右衽在清华大学杨振宁高等研究院揭牌仪式上的致辞分享杨振宁先生的三个故事",
+          "url": "https://www.bilibili.com/video/BV1KwYM6SEZg",
+          "dur": 179,
+          "site": "B站",
+          "brief": "科学家故事：翁帆女士身穿交领右衽在清华大学杨振宁高等研究院揭牌仪式上的致辞分享杨振宁先生的三个故事"
+        }
+      ],
       "edu_math": [
         {
           "title": "三年级数学思维提升：学会画图法快速解决购物难题",
@@ -874,8 +1196,7 @@
           "url": "https://www.bilibili.com/video/BV1gbHo6KEft",
           "dur": 405,
           "site": "B站",
-          "brief": "大国重器：7分钟精彩回顾神舟二十一号载人飞船发射全过程",
-          "orient": "h"
+          "brief": "大国重器：7分钟精彩回顾神舟二十一号载人飞船发射全过程"
         },
         {
           "title": "今日关注：与国同庆！“陆地航母”高铁列车震撼集结",
@@ -906,22 +1227,6 @@
           "dur": 128,
           "site": "B站",
           "brief": "语文：先秦成语｜丢盔弃甲"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "“两弹一星”元勋中的六位浙江籍科学家——赵九章、钱学森、钱三强、陈芳允、屠守锷、吴自良（浙江省委党史和文献研究室）#原子弹#氢弹#人造地球卫星#红色之江",
-          "url": "https://www.bilibili.com/video/BV1Nn4izfEoX",
-          "dur": 42,
-          "site": "B站",
-          "brief": "今日科学家·赵九章：“两弹一星”元勋中的六位浙江籍科学家——赵九章、钱学森、钱三强、陈芳允、屠守锷、吴自良（浙江省委党史和文献研究室）#原子弹#氢弹#人造地球卫星#红色之江"
-        },
-        {
-          "title": "科学家赵九章的故事",
-          "url": "https://www.bilibili.com/video/BV1F2h26jE5y",
-          "dur": 72,
-          "site": "B站",
-          "brief": "科学家故事：科学家赵九章的故事"
         }
       ],
       "edu_english": [
@@ -1048,6 +1353,22 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "“两弹一星”元勋中的六位浙江籍科学家——赵九章、钱学森、钱三强、陈芳允、屠守锷、吴自良（浙江省委党史和文献研究室）#原子弹#氢弹#人造地球卫星#红色之江",
+          "url": "https://www.bilibili.com/video/BV1Nn4izfEoX",
+          "dur": 42,
+          "site": "B站",
+          "brief": "今日科学家·赵九章：“两弹一星”元勋中的六位浙江籍科学家——赵九章、钱学森、钱三强、陈芳允、屠守锷、吴自良（浙江省委党史和文献研究室）#原子弹#氢弹#人造地球卫星#红色之江"
+        },
+        {
+          "title": "科学家赵九章的故事",
+          "url": "https://www.bilibili.com/video/BV1F2h26jE5y",
+          "dur": 72,
+          "site": "B站",
+          "brief": "科学家故事：科学家赵九章的故事"
+        }
+      ],
       "edu_math": [
         {
           "title": "五六年级：分数的意义和性质#数学思维#小学数学",
@@ -1154,57 +1475,6 @@
           "dur": 61,
           "site": "B站",
           "brief": "语文：守株待兔，重温经典寓言故事"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "弘扬科学家精神：两弹一星元勋任新民孙家栋先后领导研制通信卫星",
-          "url": "https://www.bilibili.com/video/BV1djq2BmEqw",
-          "dur": 89,
-          "site": "B站",
-          "brief": "今日科学家·任新民：弘扬科学家精神：两弹一星元勋任新民孙家栋先后领导研制通信卫星"
-        },
-        {
-          "title": "两弹一星元勋，科学家，任新民",
-          "url": "https://www.bilibili.com/video/BV1oWYczhEXU",
-          "dur": 35,
-          "site": "B站",
-          "brief": "科学家故事：两弹一星元勋，科学家，任新民"
-        },
-        {
-          "title": "“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。",
-          "url": "https://www.bilibili.com/video/BV1ov7GzZEZZ",
-          "dur": 31,
-          "site": "B站",
-          "brief": "科学家故事：“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。"
-        },
-        {
-          "title": "1999年10月，任新民、黄纬禄、屠守锷、杨嘉墀、王希季和孙家栋在获得“两弹一星”功勋奖章时在人民大会堂前留下珍贵合影。他们均为“两弹一星”功勋奖章获得者。",
-          "url": "https://www.bilibili.com/video/BV1UZ3uz9E8T",
-          "dur": 31,
-          "site": "B站",
-          "brief": "科学家故事：1999年10月，任新民、黄纬禄、屠守锷、杨嘉墀、王希季和孙家栋在获得“两弹一星”功勋奖章时在人民大会堂前留下珍贵合影。他们均为“两弹一星”功勋奖章获得者。"
-        },
-        {
-          "title": "中国航天四老：任新民、黄纬禄、屠守锷、梁守槃。他们均为“两弹一星”功勋奖章获得者，在导弹、运载火箭、卫星等关键技术领域做出开创性贡献。",
-          "url": "https://www.bilibili.com/video/BV1CkK8zoERH",
-          "dur": 31,
-          "site": "B站",
-          "brief": "科学家故事：中国航天四老：任新民、黄纬禄、屠守锷、梁守槃。他们均为“两弹一星”功勋奖章获得者，在导弹、运载火箭、卫星等关键技术领域做出开创性贡献。"
-        },
-        {
-          "title": "#名人故事 #任新民",
-          "url": "https://www.bilibili.com/video/BV1rsJn6LEg4",
-          "dur": 113,
-          "site": "B站",
-          "brief": "科学家故事：#名人故事 #任新民"
-        },
-        {
-          "title": "传承任老总风范 共绘液体动力发展蓝图 | 六院举办纪念任新民诞辰110周年暨中国航天液体动力高质量发展座谈会",
-          "url": "https://www.bilibili.com/video/BV1CzmgBpEan",
-          "dur": 112,
-          "site": "B站",
-          "brief": "科学家故事：传承任老总风范 共绘液体动力发展蓝图 | 六院举办纪念任新民诞辰110周年暨中国航天液体动力高质量发展座谈会"
         }
       ],
       "edu_english": [
@@ -1331,6 +1601,57 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "弘扬科学家精神：两弹一星元勋任新民孙家栋先后领导研制通信卫星",
+          "url": "https://www.bilibili.com/video/BV1djq2BmEqw",
+          "dur": 89,
+          "site": "B站",
+          "brief": "今日科学家·任新民：弘扬科学家精神：两弹一星元勋任新民孙家栋先后领导研制通信卫星"
+        },
+        {
+          "title": "两弹一星元勋，科学家，任新民",
+          "url": "https://www.bilibili.com/video/BV1oWYczhEXU",
+          "dur": 35,
+          "site": "B站",
+          "brief": "科学家故事：两弹一星元勋，科学家，任新民"
+        },
+        {
+          "title": "“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。",
+          "url": "https://www.bilibili.com/video/BV1ov7GzZEZZ",
+          "dur": 31,
+          "site": "B站",
+          "brief": "科学家故事：“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。"
+        },
+        {
+          "title": "1999年10月，任新民、黄纬禄、屠守锷、杨嘉墀、王希季和孙家栋在获得“两弹一星”功勋奖章时在人民大会堂前留下珍贵合影。他们均为“两弹一星”功勋奖章获得者。",
+          "url": "https://www.bilibili.com/video/BV1UZ3uz9E8T",
+          "dur": 31,
+          "site": "B站",
+          "brief": "科学家故事：1999年10月，任新民、黄纬禄、屠守锷、杨嘉墀、王希季和孙家栋在获得“两弹一星”功勋奖章时在人民大会堂前留下珍贵合影。他们均为“两弹一星”功勋奖章获得者。"
+        },
+        {
+          "title": "中国航天四老：任新民、黄纬禄、屠守锷、梁守槃。他们均为“两弹一星”功勋奖章获得者，在导弹、运载火箭、卫星等关键技术领域做出开创性贡献。",
+          "url": "https://www.bilibili.com/video/BV1CkK8zoERH",
+          "dur": 31,
+          "site": "B站",
+          "brief": "科学家故事：中国航天四老：任新民、黄纬禄、屠守锷、梁守槃。他们均为“两弹一星”功勋奖章获得者，在导弹、运载火箭、卫星等关键技术领域做出开创性贡献。"
+        },
+        {
+          "title": "#名人故事 #任新民",
+          "url": "https://www.bilibili.com/video/BV1rsJn6LEg4",
+          "dur": 113,
+          "site": "B站",
+          "brief": "科学家故事：#名人故事 #任新民"
+        },
+        {
+          "title": "传承任老总风范 共绘液体动力发展蓝图 | 六院举办纪念任新民诞辰110周年暨中国航天液体动力高质量发展座谈会",
+          "url": "https://www.bilibili.com/video/BV1CzmgBpEan",
+          "dur": 112,
+          "site": "B站",
+          "brief": "科学家故事：传承任老总风范 共绘液体动力发展蓝图 | 六院举办纪念任新民诞辰110周年暨中国航天液体动力高质量发展座谈会"
+        }
+      ],
       "edu_math": [
         {
           "title": "从建国到现在，人民币经历了哪些变化？今天带你一次性理清",
@@ -1437,57 +1758,6 @@
           "dur": 108,
           "site": "B站",
           "brief": "语文：3-6岁成语启蒙 | 看动画搞定孩子“半途而废”的坏习惯"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "人物故事（航天英雄杨利伟）",
-          "url": "https://www.bilibili.com/video/BV1aZ35eSEt8",
-          "dur": 143,
-          "site": "B站",
-          "brief": "今日科学家·杨利伟：人物故事（航天英雄杨利伟）"
-        },
-        {
-          "title": "【我国首批航天员已全部停航停训】 点赞！致敬！我国首批航天员已全部停航停训，杨利伟、费俊龙、聂海胜、翟志刚、刘伯明、景海鹏、刘旺、张晓光、邓清明、李庆龙、吴杰、",
-          "url": "https://www.bilibili.com/video/BV1grhp6aEDx",
-          "dur": 38,
-          "site": "B站",
-          "brief": "科学家故事：【我国首批航天员已全部停航停训】 点赞！致敬！我国首批航天员已全部停航停训，杨利伟、费俊龙、聂海胜、翟志刚、刘伯明、景海鹏、刘旺、张晓光、邓清明、李庆龙、吴杰、"
-        },
-        {
-          "title": "《 ViuTV 新闻 》杨利伟赞扬黎家盈表现优秀",
-          "url": "https://www.bilibili.com/video/BV1Lihf6rEbK",
-          "dur": 165,
-          "site": "B站",
-          "brief": "科学家故事：《 ViuTV 新闻 》杨利伟赞扬黎家盈表现优秀"
-        },
-        {
-          "title": "杨利伟笑谈中国载人航天23年间变化：当年坐着“拖拉机”就上去了，住“标间”吃即食食品，现在坐“小汽车”上去，住“三室一厅”还能吃炸鸡翅",
-          "url": "https://www.bilibili.com/video/BV1C8hJ6GEZ5",
-          "dur": 35,
-          "site": "B站",
-          "brief": "科学家故事：杨利伟笑谈中国载人航天23年间变化：当年坐着“拖拉机”就上去了，住“标间”吃即食食品，现在坐“小汽车”上去，住“三室一厅”还能吃炸鸡翅"
-        },
-        {
-          "title": "杨利伟：中国载人航天从“拖拉机”换“小汽车”｜大象财富",
-          "url": "https://www.bilibili.com/video/BV1zkhJ6PEsJ",
-          "dur": 179,
-          "site": "B站",
-          "brief": "科学家故事：杨利伟：中国载人航天从“拖拉机”换“小汽车”｜大象财富"
-        },
-        {
-          "title": "杨利伟：不远的将来，中国人的身影会出现在更深远的太空",
-          "url": "https://www.bilibili.com/video/BV1frhk6AEVj",
-          "dur": 54,
-          "site": "B站",
-          "brief": "科学家故事：杨利伟：不远的将来，中国人的身影会出现在更深远的太空"
-        },
-        {
-          "title": "23年了！杨利伟再忆首飞太空：“那一刻我以为我要牺牲了”",
-          "url": "https://www.bilibili.com/video/BV1cBhk6KEiS",
-          "dur": 55,
-          "site": "B站",
-          "brief": "科学家故事：23年了！杨利伟再忆首飞太空：“那一刻我以为我要牺牲了”"
         }
       ],
       "edu_english": [
@@ -1614,6 +1884,57 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "人物故事（航天英雄杨利伟）",
+          "url": "https://www.bilibili.com/video/BV1aZ35eSEt8",
+          "dur": 143,
+          "site": "B站",
+          "brief": "今日科学家·杨利伟：人物故事（航天英雄杨利伟）"
+        },
+        {
+          "title": "【我国首批航天员已全部停航停训】 点赞！致敬！我国首批航天员已全部停航停训，杨利伟、费俊龙、聂海胜、翟志刚、刘伯明、景海鹏、刘旺、张晓光、邓清明、李庆龙、吴杰、",
+          "url": "https://www.bilibili.com/video/BV1grhp6aEDx",
+          "dur": 38,
+          "site": "B站",
+          "brief": "科学家故事：【我国首批航天员已全部停航停训】 点赞！致敬！我国首批航天员已全部停航停训，杨利伟、费俊龙、聂海胜、翟志刚、刘伯明、景海鹏、刘旺、张晓光、邓清明、李庆龙、吴杰、"
+        },
+        {
+          "title": "《 ViuTV 新闻 》杨利伟赞扬黎家盈表现优秀",
+          "url": "https://www.bilibili.com/video/BV1Lihf6rEbK",
+          "dur": 165,
+          "site": "B站",
+          "brief": "科学家故事：《 ViuTV 新闻 》杨利伟赞扬黎家盈表现优秀"
+        },
+        {
+          "title": "杨利伟笑谈中国载人航天23年间变化：当年坐着“拖拉机”就上去了，住“标间”吃即食食品，现在坐“小汽车”上去，住“三室一厅”还能吃炸鸡翅",
+          "url": "https://www.bilibili.com/video/BV1C8hJ6GEZ5",
+          "dur": 35,
+          "site": "B站",
+          "brief": "科学家故事：杨利伟笑谈中国载人航天23年间变化：当年坐着“拖拉机”就上去了，住“标间”吃即食食品，现在坐“小汽车”上去，住“三室一厅”还能吃炸鸡翅"
+        },
+        {
+          "title": "杨利伟：中国载人航天从“拖拉机”换“小汽车”｜大象财富",
+          "url": "https://www.bilibili.com/video/BV1zkhJ6PEsJ",
+          "dur": 179,
+          "site": "B站",
+          "brief": "科学家故事：杨利伟：中国载人航天从“拖拉机”换“小汽车”｜大象财富"
+        },
+        {
+          "title": "杨利伟：不远的将来，中国人的身影会出现在更深远的太空",
+          "url": "https://www.bilibili.com/video/BV1frhk6AEVj",
+          "dur": 54,
+          "site": "B站",
+          "brief": "科学家故事：杨利伟：不远的将来，中国人的身影会出现在更深远的太空"
+        },
+        {
+          "title": "23年了！杨利伟再忆首飞太空：“那一刻我以为我要牺牲了”",
+          "url": "https://www.bilibili.com/video/BV1cBhk6KEiS",
+          "dur": 55,
+          "site": "B站",
+          "brief": "科学家故事：23年了！杨利伟再忆首飞太空：“那一刻我以为我要牺牲了”"
+        }
+      ],
       "edu_math": [
         {
           "title": "第7集剧情版 适合4至7岁小朋友和家长一起观看的幼儿动画数学减法计算幼儿动画儿童动画幼儿数学数学启蒙幼小衔接",
@@ -1720,57 +2041,6 @@
           "dur": 97,
           "site": "B站",
           "brief": "语文：【成语故事】第31集·【铁杵成针】"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "近代最著名的天文学家-张钰哲先生-中科院老科协-北京老科总-中国科学院大学科协-老科协：弘扬科学家精神",
-          "url": "https://www.bilibili.com/video/BV1UZ421y7W4",
-          "dur": 67,
-          "site": "B站",
-          "brief": "今日科学家·张钰哲：近代最著名的天文学家-张钰哲先生-中科院老科协-北京老科总-中国科学院大学科协-老科协：弘扬科学家精神"
-        },
-        {
-          "title": "《邮票中的科学家》系列影片之张钰哲",
-          "url": "https://www.bilibili.com/video/BV1jF41117F2",
-          "dur": 550,
-          "site": "B站",
-          "brief": "科学家故事：《邮票中的科学家》系列影片之张钰哲"
-        },
-        {
-          "title": "a2213张钰哲手抄报",
-          "url": "https://www.bilibili.com/video/BV19FNn6hEy5",
-          "dur": 81,
-          "site": "B站",
-          "brief": "科学家故事：a2213张钰哲手抄报"
-        },
-        {
-          "title": "天文学家张钰哲",
-          "url": "https://www.bilibili.com/video/BV1EvA3e8EAk",
-          "dur": 37,
-          "site": "B站",
-          "brief": "科学家故事：天文学家张钰哲"
-        },
-        {
-          "title": "中国现代天文学重要的奠基人-张钰哲",
-          "url": "https://www.bilibili.com/video/BV1ni421f7is",
-          "dur": 219,
-          "site": "B站",
-          "brief": "科学家故事：中国现代天文学重要的奠基人-张钰哲"
-        },
-        {
-          "title": "张钰哲电影首映式",
-          "url": "https://www.bilibili.com/video/BV1yu4m1A7xi",
-          "dur": 92,
-          "site": "B站",
-          "brief": "科学家故事：张钰哲电影首映式"
-        },
-        {
-          "title": "【家国君子】坐地巡天寻星人——张钰哲",
-          "url": "https://www.bilibili.com/video/BV1dv411F7MT",
-          "dur": 297,
-          "site": "B站",
-          "brief": "科学家故事：【家国君子】坐地巡天寻星人——张钰哲"
         }
       ],
       "edu_english": [
@@ -1897,6 +2167,57 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "近代最著名的天文学家-张钰哲先生-中科院老科协-北京老科总-中国科学院大学科协-老科协：弘扬科学家精神",
+          "url": "https://www.bilibili.com/video/BV1UZ421y7W4",
+          "dur": 67,
+          "site": "B站",
+          "brief": "今日科学家·张钰哲：近代最著名的天文学家-张钰哲先生-中科院老科协-北京老科总-中国科学院大学科协-老科协：弘扬科学家精神"
+        },
+        {
+          "title": "《邮票中的科学家》系列影片之张钰哲",
+          "url": "https://www.bilibili.com/video/BV1jF41117F2",
+          "dur": 550,
+          "site": "B站",
+          "brief": "科学家故事：《邮票中的科学家》系列影片之张钰哲"
+        },
+        {
+          "title": "a2213张钰哲手抄报",
+          "url": "https://www.bilibili.com/video/BV19FNn6hEy5",
+          "dur": 81,
+          "site": "B站",
+          "brief": "科学家故事：a2213张钰哲手抄报"
+        },
+        {
+          "title": "天文学家张钰哲",
+          "url": "https://www.bilibili.com/video/BV1EvA3e8EAk",
+          "dur": 37,
+          "site": "B站",
+          "brief": "科学家故事：天文学家张钰哲"
+        },
+        {
+          "title": "中国现代天文学重要的奠基人-张钰哲",
+          "url": "https://www.bilibili.com/video/BV1ni421f7is",
+          "dur": 219,
+          "site": "B站",
+          "brief": "科学家故事：中国现代天文学重要的奠基人-张钰哲"
+        },
+        {
+          "title": "张钰哲电影首映式",
+          "url": "https://www.bilibili.com/video/BV1yu4m1A7xi",
+          "dur": 92,
+          "site": "B站",
+          "brief": "科学家故事：张钰哲电影首映式"
+        },
+        {
+          "title": "【家国君子】坐地巡天寻星人——张钰哲",
+          "url": "https://www.bilibili.com/video/BV1dv411F7MT",
+          "dur": 297,
+          "site": "B站",
+          "brief": "科学家故事：【家国君子】坐地巡天寻星人——张钰哲"
+        }
+      ],
       "edu_math": [
         {
           "title": "老狼老狼几点啦｜幼儿时钟启蒙绘本动画！3-6岁数学启蒙，跟着老狼认识整点时钟！#幼儿数学启蒙 #绘本故事 #老狼老狼几点了 #时间认知 #幼儿园绘本 #儿童动画",
@@ -2003,57 +2324,6 @@
           "dur": 229,
           "site": "B站",
           "brief": "语文：成语替罪羊背后藏着一段令人唏嘘的古老故事，这部老动画将它完整演绎出来"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "“两弹一星”元勋中的六位浙江籍科学家——赵九章、钱学森、钱三强、陈芳允、屠守锷、吴自良（浙江省委党史和文献研究室）#原子弹#氢弹#人造地球卫星#红色之江",
-          "url": "https://www.bilibili.com/video/BV1Nn4izfEoX",
-          "dur": 42,
-          "site": "B站",
-          "brief": "今日科学家·屠守锷：“两弹一星”元勋中的六位浙江籍科学家——赵九章、钱学森、钱三强、陈芳允、屠守锷、吴自良（浙江省委党史和文献研究室）#原子弹#氢弹#人造地球卫星#红色之江"
-        },
-        {
-          "title": "全国科技工作者日 |中国科学家屠守锷",
-          "url": "https://www.bilibili.com/video/BV1r87GzAESJ",
-          "dur": 202,
-          "site": "B站",
-          "brief": "科学家故事：全国科技工作者日 |中国科学家屠守锷"
-        },
-        {
-          "title": "“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。",
-          "url": "https://www.bilibili.com/video/BV1ov7GzZEZZ",
-          "dur": 31,
-          "site": "B站",
-          "brief": "科学家故事：“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。"
-        },
-        {
-          "title": "#名人故事 #屠守锷",
-          "url": "https://www.bilibili.com/video/BV1h9Jp6PEVC",
-          "dur": 137,
-          "site": "B站",
-          "brief": "科学家故事：#名人故事 #屠守锷"
-        },
-        {
-          "title": "1999年10月，任新民、黄纬禄、屠守锷、杨嘉墀、王希季和孙家栋在获得“两弹一星”功勋奖章时在人民大会堂前留下珍贵合影。他们均为“两弹一星”功勋奖章获得者。",
-          "url": "https://www.bilibili.com/video/BV1UZ3uz9E8T",
-          "dur": 31,
-          "site": "B站",
-          "brief": "科学家故事：1999年10月，任新民、黄纬禄、屠守锷、杨嘉墀、王希季和孙家栋在获得“两弹一星”功勋奖章时在人民大会堂前留下珍贵合影。他们均为“两弹一星”功勋奖章获得者。"
-        },
-        {
-          "title": "中国航天四老：任新民、黄纬禄、屠守锷、梁守槃。他们均为“两弹一星”功勋奖章获得者，在导弹、运载火箭、卫星等关键技术领域做出开创性贡献。",
-          "url": "https://www.bilibili.com/video/BV1CkK8zoERH",
-          "dur": 31,
-          "site": "B站",
-          "brief": "科学家故事：中国航天四老：任新民、黄纬禄、屠守锷、梁守槃。他们均为“两弹一星”功勋奖章获得者，在导弹、运载火箭、卫星等关键技术领域做出开创性贡献。"
-        },
-        {
-          "title": "中国航天发展历程第二十一期——两弹一星元勋-屠守锷",
-          "url": "https://www.bilibili.com/video/BV1WH4y1U7HY",
-          "dur": 224,
-          "site": "B站",
-          "brief": "科学家故事：中国航天发展历程第二十一期——两弹一星元勋-屠守锷"
         }
       ],
       "edu_english": [
@@ -2180,6 +2450,57 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "“两弹一星”元勋中的六位浙江籍科学家——赵九章、钱学森、钱三强、陈芳允、屠守锷、吴自良（浙江省委党史和文献研究室）#原子弹#氢弹#人造地球卫星#红色之江",
+          "url": "https://www.bilibili.com/video/BV1Nn4izfEoX",
+          "dur": 42,
+          "site": "B站",
+          "brief": "今日科学家·屠守锷：“两弹一星”元勋中的六位浙江籍科学家——赵九章、钱学森、钱三强、陈芳允、屠守锷、吴自良（浙江省委党史和文献研究室）#原子弹#氢弹#人造地球卫星#红色之江"
+        },
+        {
+          "title": "全国科技工作者日 |中国科学家屠守锷",
+          "url": "https://www.bilibili.com/video/BV1r87GzAESJ",
+          "dur": 202,
+          "site": "B站",
+          "brief": "科学家故事：全国科技工作者日 |中国科学家屠守锷"
+        },
+        {
+          "title": "“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。",
+          "url": "https://www.bilibili.com/video/BV1ov7GzZEZZ",
+          "dur": 31,
+          "site": "B站",
+          "brief": "科学家故事：“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。"
+        },
+        {
+          "title": "#名人故事 #屠守锷",
+          "url": "https://www.bilibili.com/video/BV1h9Jp6PEVC",
+          "dur": 137,
+          "site": "B站",
+          "brief": "科学家故事：#名人故事 #屠守锷"
+        },
+        {
+          "title": "1999年10月，任新民、黄纬禄、屠守锷、杨嘉墀、王希季和孙家栋在获得“两弹一星”功勋奖章时在人民大会堂前留下珍贵合影。他们均为“两弹一星”功勋奖章获得者。",
+          "url": "https://www.bilibili.com/video/BV1UZ3uz9E8T",
+          "dur": 31,
+          "site": "B站",
+          "brief": "科学家故事：1999年10月，任新民、黄纬禄、屠守锷、杨嘉墀、王希季和孙家栋在获得“两弹一星”功勋奖章时在人民大会堂前留下珍贵合影。他们均为“两弹一星”功勋奖章获得者。"
+        },
+        {
+          "title": "中国航天四老：任新民、黄纬禄、屠守锷、梁守槃。他们均为“两弹一星”功勋奖章获得者，在导弹、运载火箭、卫星等关键技术领域做出开创性贡献。",
+          "url": "https://www.bilibili.com/video/BV1CkK8zoERH",
+          "dur": 31,
+          "site": "B站",
+          "brief": "科学家故事：中国航天四老：任新民、黄纬禄、屠守锷、梁守槃。他们均为“两弹一星”功勋奖章获得者，在导弹、运载火箭、卫星等关键技术领域做出开创性贡献。"
+        },
+        {
+          "title": "中国航天发展历程第二十一期——两弹一星元勋-屠守锷",
+          "url": "https://www.bilibili.com/video/BV1WH4y1U7HY",
+          "dur": 224,
+          "site": "B站",
+          "brief": "科学家故事：中国航天发展历程第二十一期——两弹一星元勋-屠守锷"
+        }
+      ],
       "edu_math": [
         {
           "title": "[电子版 可打印 免费分享]一年级上册数学幼小衔接10以内加减法混合运算练习",
@@ -2288,57 +2609,6 @@
           "brief": "语文：成语故事《以牙还牙》，主页看100+精品原创动画故事！"
         }
       ],
-      "scientist": [
-        {
-          "title": "七年飞机，九年导弹，半生卫星！致敬伟大的航空航天科学家！ #东方红一号 #北斗系统 #孙家栋 #两弹一星",
-          "url": "https://www.bilibili.com/video/BV1mGYq6vEj8",
-          "dur": 224,
-          "site": "B站",
-          "brief": "今日科学家·孙家栋：七年飞机，九年导弹，半生卫星！致敬伟大的航空航天科学家！ #东方红一号 #北斗系统 #孙家栋 #两弹一星"
-        },
-        {
-          "title": "卫星之父《功勋孙家栋》两弹一星元勋孙家栋的精神事迹故事科学家演讲朗诵led大屏幕舞台背景音乐纯音乐视频素材",
-          "url": "https://www.bilibili.com/video/BV1qftE6XEhz",
-          "dur": 371,
-          "site": "B站",
-          "brief": "科学家故事：卫星之父《功勋孙家栋》两弹一星元勋孙家栋的精神事迹故事科学家演讲朗诵led大屏幕舞台背景音乐纯音乐视频素材"
-        },
-        {
-          "title": "从一穷二白到走向世界，背后是这个老人改变中国航天。#人物故事 #孙家栋 #勿忘历史 #致敬",
-          "url": "https://www.bilibili.com/video/BV1thY46kE2c",
-          "dur": 131,
-          "site": "B站",
-          "brief": "科学家故事：从一穷二白到走向世界，背后是这个老人改变中国航天。#人物故事 #孙家栋 #勿忘历史 #致敬"
-        },
-        {
-          "title": "谁也关不掉中国的导航，孙家栋让北斗照亮全球。 谁也关不掉中国的导航，孙家栋让北斗照亮全球。#致敬 #人物故事 #孙家栋 #勿忘历史",
-          "url": "https://www.bilibili.com/video/BV1v3t26bEQC",
-          "dur": 124,
-          "site": "B站",
-          "brief": "科学家故事：谁也关不掉中国的导航，孙家栋让北斗照亮全球。 谁也关不掉中国的导航，孙家栋让北斗照亮全球。#致敬 #人物故事 #孙家栋 #勿忘历史"
-        },
-        {
-          "title": "弘扬科学家精神：两弹一星元勋任新民孙家栋先后领导研制通信卫星",
-          "url": "https://www.bilibili.com/video/BV1djq2BmEqw",
-          "dur": 89,
-          "site": "B站",
-          "brief": "科学家故事：弘扬科学家精神：两弹一星元勋任新民孙家栋先后领导研制通信卫星"
-        },
-        {
-          "title": "首长视察被吓出一身冷汗，孙家栋冒险救下整个研究院！",
-          "url": "https://www.bilibili.com/video/BV1ocaZ6zEj2",
-          "dur": 268,
-          "site": "B站",
-          "brief": "科学家故事：首长视察被吓出一身冷汗，孙家栋冒险救下整个研究院！"
-        },
-        {
-          "title": "致敬“卫星之父”孙家栋，没有他，我们可能连手机都玩不了! #孙家栋 #孙家栋院士 #卫星之父孙家栋",
-          "url": "https://www.bilibili.com/video/BV1Gbeq6mE26",
-          "dur": 116,
-          "site": "B站",
-          "brief": "科学家故事：致敬“卫星之父”孙家栋，没有他，我们可能连手机都玩不了! #孙家栋 #孙家栋院士 #卫星之父孙家栋"
-        }
-      ],
       "edu_english": [
         {
           "title": "磨耳朵短片·26秒",
@@ -2440,7 +2710,8 @@
           "url": "https://www.bilibili.com/video/BV1x5YA6KEqc",
           "dur": 61,
           "site": "B站",
-          "brief": "AI科技：《具身智能：从看见到行动》7.5 AI与可持续发展：技术向善的力量"
+          "brief": "AI科技：《具身智能：从看见到行动》7.5 AI与可持续发展：技术向善的力量",
+          "orient": "h"
         }
       ],
       "edu_science": [
@@ -2461,6 +2732,57 @@
           "brief": "自然科学：发现看不见的病毒",
           "tvid": "2800060164789400",
           "orient": "h"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "七年飞机，九年导弹，半生卫星！致敬伟大的航空航天科学家！ #东方红一号 #北斗系统 #孙家栋 #两弹一星",
+          "url": "https://www.bilibili.com/video/BV1mGYq6vEj8",
+          "dur": 224,
+          "site": "B站",
+          "brief": "今日科学家·孙家栋：七年飞机，九年导弹，半生卫星！致敬伟大的航空航天科学家！ #东方红一号 #北斗系统 #孙家栋 #两弹一星"
+        },
+        {
+          "title": "卫星之父《功勋孙家栋》两弹一星元勋孙家栋的精神事迹故事科学家演讲朗诵led大屏幕舞台背景音乐纯音乐视频素材",
+          "url": "https://www.bilibili.com/video/BV1qftE6XEhz",
+          "dur": 371,
+          "site": "B站",
+          "brief": "科学家故事：卫星之父《功勋孙家栋》两弹一星元勋孙家栋的精神事迹故事科学家演讲朗诵led大屏幕舞台背景音乐纯音乐视频素材"
+        },
+        {
+          "title": "从一穷二白到走向世界，背后是这个老人改变中国航天。#人物故事 #孙家栋 #勿忘历史 #致敬",
+          "url": "https://www.bilibili.com/video/BV1thY46kE2c",
+          "dur": 131,
+          "site": "B站",
+          "brief": "科学家故事：从一穷二白到走向世界，背后是这个老人改变中国航天。#人物故事 #孙家栋 #勿忘历史 #致敬"
+        },
+        {
+          "title": "谁也关不掉中国的导航，孙家栋让北斗照亮全球。 谁也关不掉中国的导航，孙家栋让北斗照亮全球。#致敬 #人物故事 #孙家栋 #勿忘历史",
+          "url": "https://www.bilibili.com/video/BV1v3t26bEQC",
+          "dur": 124,
+          "site": "B站",
+          "brief": "科学家故事：谁也关不掉中国的导航，孙家栋让北斗照亮全球。 谁也关不掉中国的导航，孙家栋让北斗照亮全球。#致敬 #人物故事 #孙家栋 #勿忘历史"
+        },
+        {
+          "title": "弘扬科学家精神：两弹一星元勋任新民孙家栋先后领导研制通信卫星",
+          "url": "https://www.bilibili.com/video/BV1djq2BmEqw",
+          "dur": 89,
+          "site": "B站",
+          "brief": "科学家故事：弘扬科学家精神：两弹一星元勋任新民孙家栋先后领导研制通信卫星"
+        },
+        {
+          "title": "首长视察被吓出一身冷汗，孙家栋冒险救下整个研究院！",
+          "url": "https://www.bilibili.com/video/BV1ocaZ6zEj2",
+          "dur": 268,
+          "site": "B站",
+          "brief": "科学家故事：首长视察被吓出一身冷汗，孙家栋冒险救下整个研究院！"
+        },
+        {
+          "title": "致敬“卫星之父”孙家栋，没有他，我们可能连手机都玩不了! #孙家栋 #孙家栋院士 #卫星之父孙家栋",
+          "url": "https://www.bilibili.com/video/BV1Gbeq6mE26",
+          "dur": 116,
+          "site": "B站",
+          "brief": "科学家故事：致敬“卫星之父”孙家栋，没有他，我们可能连手机都玩不了! #孙家栋 #孙家栋院士 #卫星之父孙家栋"
         }
       ],
       "edu_math": [
@@ -2569,57 +2891,6 @@
           "dur": 102,
           "site": "B站",
           "brief": "语文：南辕北辙成语故事，儿童简单动画故事，孩子学知识、懂道理。"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。#周总理 #钱学森 #两弹一星#科学家精神 #国之脊梁",
-          "url": "https://www.bilibili.com/video/BV1Meec6BE58",
-          "dur": 466,
-          "site": "B站",
-          "brief": "今日科学家·钱学森：听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。#周总理 #钱学森 #两弹一星#科学家精神 #国之脊梁"
-        },
-        {
-          "title": "致敬“导弹之母”祝学军院士，她是钱学森最得意的弟子，也是令西方胆寒的中国女人！#祝学军#祝学军院士#人物故事#国之脊梁 #国士无双",
-          "url": "https://www.bilibili.com/video/BV1SSj36xETS",
-          "dur": 154,
-          "site": "B站",
-          "brief": "科学家故事：致敬“导弹之母”祝学军院士，她是钱学森最得意的弟子，也是令西方胆寒的中国女人！#祝学军#祝学军院士#人物故事#国之脊梁 #国士无双"
-        },
-        {
-          "title": "天塌了，地陷了！共产党的法官杜渊文，竟敢侮辱我国两弹一星元勋！革命先烈钱学森，钱三强，钱伟长经官方听证，载入大同市中院《听证会笔录》。多部门十位领导签字认可！",
-          "url": "https://www.bilibili.com/video/BV1uJhQ6gEnD/",
-          "dur": 36,
-          "site": "B站",
-          "brief": "科学家故事：天塌了，地陷了！共产党的法官杜渊文，竟敢侮辱我国两弹一星元勋！革命先烈钱学森，钱三强，钱伟长经官方听证，载入大同市中院《听证会笔录》。多部门十位领导签字认可！"
-        },
-        {
-          "title": "广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星",
-          "url": "https://www.bilibili.com/video/BV1NKaP6qEHd",
-          "dur": 40,
-          "site": "B站",
-          "brief": "科学家故事：广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星"
-        },
-        {
-          "title": "钱学森在当今是什么水平，天才只是见他的门槛！ #钱学森 #国之脊梁",
-          "url": "https://www.bilibili.com/video/BV19Vhd6fEhq",
-          "dur": 110,
-          "site": "B站",
-          "brief": "科学家故事：钱学森在当今是什么水平，天才只是见他的门槛！ #钱学森 #国之脊梁"
-        },
-        {
-          "title": "“什么科学无国界？！好笑！真是！钱学森要回国都关了三年，你说无国界？！”",
-          "url": "https://www.bilibili.com/video/BV1AX4y1G7gW",
-          "dur": 296,
-          "site": "B站",
-          "brief": "科学家故事：“什么科学无国界？！好笑！真是！钱学森要回国都关了三年，你说无国界？！”"
-        },
-        {
-          "title": "【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版",
-          "url": "https://www.bilibili.com/video/BV1tS7JzaE1P",
-          "dur": 482,
-          "site": "B站",
-          "brief": "科学家故事：【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版"
         }
       ],
       "edu_english": [
@@ -2746,13 +3017,65 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。#周总理 #钱学森 #两弹一星#科学家精神 #国之脊梁",
+          "url": "https://www.bilibili.com/video/BV1Meec6BE58",
+          "dur": 466,
+          "site": "B站",
+          "brief": "今日科学家·钱学森：听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。#周总理 #钱学森 #两弹一星#科学家精神 #国之脊梁"
+        },
+        {
+          "title": "致敬“导弹之母”祝学军院士，她是钱学森最得意的弟子，也是令西方胆寒的中国女人！#祝学军#祝学军院士#人物故事#国之脊梁 #国士无双",
+          "url": "https://www.bilibili.com/video/BV1SSj36xETS",
+          "dur": 154,
+          "site": "B站",
+          "brief": "科学家故事：致敬“导弹之母”祝学军院士，她是钱学森最得意的弟子，也是令西方胆寒的中国女人！#祝学军#祝学军院士#人物故事#国之脊梁 #国士无双"
+        },
+        {
+          "title": "天塌了，地陷了！共产党的法官杜渊文，竟敢侮辱我国两弹一星元勋！革命先烈钱学森，钱三强，钱伟长经官方听证，载入大同市中院《听证会笔录》。多部门十位领导签字认可！",
+          "url": "https://www.bilibili.com/video/BV1uJhQ6gEnD/",
+          "dur": 36,
+          "site": "B站",
+          "brief": "科学家故事：天塌了，地陷了！共产党的法官杜渊文，竟敢侮辱我国两弹一星元勋！革命先烈钱学森，钱三强，钱伟长经官方听证，载入大同市中院《听证会笔录》。多部门十位领导签字认可！"
+        },
+        {
+          "title": "广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星",
+          "url": "https://www.bilibili.com/video/BV1NKaP6qEHd",
+          "dur": 40,
+          "site": "B站",
+          "brief": "科学家故事：广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星"
+        },
+        {
+          "title": "钱学森在当今是什么水平，天才只是见他的门槛！ #钱学森 #国之脊梁",
+          "url": "https://www.bilibili.com/video/BV19Vhd6fEhq",
+          "dur": 110,
+          "site": "B站",
+          "brief": "科学家故事：钱学森在当今是什么水平，天才只是见他的门槛！ #钱学森 #国之脊梁"
+        },
+        {
+          "title": "“什么科学无国界？！好笑！真是！钱学森要回国都关了三年，你说无国界？！”",
+          "url": "https://www.bilibili.com/video/BV1AX4y1G7gW",
+          "dur": 296,
+          "site": "B站",
+          "brief": "科学家故事：“什么科学无国界？！好笑！真是！钱学森要回国都关了三年，你说无国界？！”"
+        },
+        {
+          "title": "【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版",
+          "url": "https://www.bilibili.com/video/BV1tS7JzaE1P",
+          "dur": 482,
+          "site": "B站",
+          "brief": "科学家故事：【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版"
+        }
+      ],
       "edu_math": [
         {
           "title": "高松灯知道人民币的背景是哪里？千早爱音来认识",
           "url": "https://www.bilibili.com/video/BV1Wran6mEmN",
           "dur": 33,
           "site": "B站",
-          "brief": "数学：高松灯知道人民币的背景是哪里？千早爱音来认识"
+          "brief": "数学：高松灯知道人民币的背景是哪里？千早爱音来认识",
+          "orient": "v"
         },
         {
           "title": "三年级数学思维提升：转化思路巧解差倍拓展题",
@@ -2852,57 +3175,6 @@
           "dur": 52,
           "site": "B站",
           "brief": "语文：今天分享AI动画成语典故“甘之如饴”"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。#周总理 #钱学森 #两弹一星#科学家精神 #国之脊梁",
-          "url": "https://www.bilibili.com/video/BV1Meec6BE58",
-          "dur": 466,
-          "site": "B站",
-          "brief": "今日科学家·钱学森：听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。#周总理 #钱学森 #两弹一星#科学家精神 #国之脊梁"
-        },
-        {
-          "title": "致敬“导弹之母”祝学军院士，她是钱学森最得意的弟子，也是令西方胆寒的中国女人！#祝学军#祝学军院士#人物故事#国之脊梁 #国士无双",
-          "url": "https://www.bilibili.com/video/BV1SSj36xETS",
-          "dur": 154,
-          "site": "B站",
-          "brief": "科学家故事：致敬“导弹之母”祝学军院士，她是钱学森最得意的弟子，也是令西方胆寒的中国女人！#祝学军#祝学军院士#人物故事#国之脊梁 #国士无双"
-        },
-        {
-          "title": "天塌了，地陷了！共产党的法官杜渊文，竟敢侮辱我国两弹一星元勋！革命先烈钱学森，钱三强，钱伟长经官方听证，载入大同市中院《听证会笔录》。多部门十位领导签字认可！",
-          "url": "https://www.bilibili.com/video/BV1uJhQ6gEnD/",
-          "dur": 36,
-          "site": "B站",
-          "brief": "科学家故事：天塌了，地陷了！共产党的法官杜渊文，竟敢侮辱我国两弹一星元勋！革命先烈钱学森，钱三强，钱伟长经官方听证，载入大同市中院《听证会笔录》。多部门十位领导签字认可！"
-        },
-        {
-          "title": "广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星",
-          "url": "https://www.bilibili.com/video/BV1NKaP6qEHd",
-          "dur": 40,
-          "site": "B站",
-          "brief": "科学家故事：广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星"
-        },
-        {
-          "title": "钱学森在当今是什么水平，天才只是见他的门槛！ #钱学森 #国之脊梁",
-          "url": "https://www.bilibili.com/video/BV19Vhd6fEhq",
-          "dur": 110,
-          "site": "B站",
-          "brief": "科学家故事：钱学森在当今是什么水平，天才只是见他的门槛！ #钱学森 #国之脊梁"
-        },
-        {
-          "title": "“什么科学无国界？！好笑！真是！钱学森要回国都关了三年，你说无国界？！”",
-          "url": "https://www.bilibili.com/video/BV1AX4y1G7gW",
-          "dur": 296,
-          "site": "B站",
-          "brief": "科学家故事：“什么科学无国界？！好笑！真是！钱学森要回国都关了三年，你说无国界？！”"
-        },
-        {
-          "title": "【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版",
-          "url": "https://www.bilibili.com/video/BV1tS7JzaE1P",
-          "dur": 482,
-          "site": "B站",
-          "brief": "科学家故事：【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版"
         }
       ],
       "edu_english": [
@@ -3029,6 +3301,57 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。#周总理 #钱学森 #两弹一星#科学家精神 #国之脊梁",
+          "url": "https://www.bilibili.com/video/BV1Meec6BE58",
+          "dur": 466,
+          "site": "B站",
+          "brief": "今日科学家·钱学森：听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。#周总理 #钱学森 #两弹一星#科学家精神 #国之脊梁"
+        },
+        {
+          "title": "致敬“导弹之母”祝学军院士，她是钱学森最得意的弟子，也是令西方胆寒的中国女人！#祝学军#祝学军院士#人物故事#国之脊梁 #国士无双",
+          "url": "https://www.bilibili.com/video/BV1SSj36xETS",
+          "dur": 154,
+          "site": "B站",
+          "brief": "科学家故事：致敬“导弹之母”祝学军院士，她是钱学森最得意的弟子，也是令西方胆寒的中国女人！#祝学军#祝学军院士#人物故事#国之脊梁 #国士无双"
+        },
+        {
+          "title": "天塌了，地陷了！共产党的法官杜渊文，竟敢侮辱我国两弹一星元勋！革命先烈钱学森，钱三强，钱伟长经官方听证，载入大同市中院《听证会笔录》。多部门十位领导签字认可！",
+          "url": "https://www.bilibili.com/video/BV1uJhQ6gEnD/",
+          "dur": 36,
+          "site": "B站",
+          "brief": "科学家故事：天塌了，地陷了！共产党的法官杜渊文，竟敢侮辱我国两弹一星元勋！革命先烈钱学森，钱三强，钱伟长经官方听证，载入大同市中院《听证会笔录》。多部门十位领导签字认可！"
+        },
+        {
+          "title": "广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星",
+          "url": "https://www.bilibili.com/video/BV1NKaP6qEHd",
+          "dur": 40,
+          "site": "B站",
+          "brief": "科学家故事：广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星"
+        },
+        {
+          "title": "钱学森在当今是什么水平，天才只是见他的门槛！ #钱学森 #国之脊梁",
+          "url": "https://www.bilibili.com/video/BV19Vhd6fEhq",
+          "dur": 110,
+          "site": "B站",
+          "brief": "科学家故事：钱学森在当今是什么水平，天才只是见他的门槛！ #钱学森 #国之脊梁"
+        },
+        {
+          "title": "“什么科学无国界？！好笑！真是！钱学森要回国都关了三年，你说无国界？！”",
+          "url": "https://www.bilibili.com/video/BV1AX4y1G7gW",
+          "dur": 296,
+          "site": "B站",
+          "brief": "科学家故事：“什么科学无国界？！好笑！真是！钱学森要回国都关了三年，你说无国界？！”"
+        },
+        {
+          "title": "【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版",
+          "url": "https://www.bilibili.com/video/BV1tS7JzaE1P",
+          "dur": 482,
+          "site": "B站",
+          "brief": "科学家故事：【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版"
+        }
+      ],
       "edu_math": [
         {
           "title": "三年级数学思维提升：学会画图法一招解决购物合买难题",
@@ -3135,15 +3458,6 @@
           "dur": 98,
           "site": "B站",
           "brief": "语文：守株待兔 成语故事，儿童简单动画故事，孩子学知识、懂道理。"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "杰出的科学家，国之栋梁，中华民族的脊梁#邓稼先 #缅怀 #英雄 #铭记英雄",
-          "url": "https://www.bilibili.com/video/BV1fcaN6fEFe",
-          "dur": 44,
-          "site": "B站",
-          "brief": "今日科学家·邓稼先：杰出的科学家，国之栋梁，中华民族的脊梁#邓稼先 #缅怀 #英雄 #铭记英雄"
         }
       ],
       "edu_english": [
@@ -3270,6 +3584,15 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "杰出的科学家，国之栋梁，中华民族的脊梁#邓稼先 #缅怀 #英雄 #铭记英雄",
+          "url": "https://www.bilibili.com/video/BV1fcaN6fEFe",
+          "dur": 44,
+          "site": "B站",
+          "brief": "今日科学家·邓稼先：杰出的科学家，国之栋梁，中华民族的脊梁#邓稼先 #缅怀 #英雄 #铭记英雄"
+        }
+      ],
       "edu_math": [
         {
           "title": "1~6年级数学重点思维题合集|电子版资料【无偿分享】",
@@ -3376,57 +3699,6 @@
           "dur": 101,
           "site": "B站",
           "brief": "语文：囫囵吞枣成语故事，儿童简单动画故事，孩子学知识、懂道理。"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "弘扬科学家精神：吴文俊先生数学家跨越鸿沟，成为人工正能的佼佼者。",
-          "url": "https://www.bilibili.com/video/BV1icV76kEHk",
-          "dur": 198,
-          "site": "B站",
-          "brief": "今日科学家·吴文俊：弘扬科学家精神：吴文俊先生数学家跨越鸿沟，成为人工正能的佼佼者。"
-        },
-        {
-          "title": "吴文俊：“人民科学家”国家荣誉称号获得者《致敬国家勋章和国家荣誉称号获得者》",
-          "url": "https://www.bilibili.com/video/BV1Rk4y1q7NH",
-          "dur": 120,
-          "site": "B站",
-          "brief": "科学家故事：吴文俊：“人民科学家”国家荣誉称号获得者《致敬国家勋章和国家荣誉称号获得者》"
-        },
-        {
-          "title": "明代数学究竟有多强？中科院院士吴文俊曾坦言：16世纪前，我国数学长期稳居世界前列",
-          "url": "https://www.bilibili.com/video/BV1gk92BUETA",
-          "dur": 123,
-          "site": "B站",
-          "brief": "科学家故事：明代数学究竟有多强？中科院院士吴文俊曾坦言：16世纪前，我国数学长期稳居世界前列"
-        },
-        {
-          "title": "陈省身谈如何培养出吴文俊、丘成桐这样的数学大师的，怎样引导学生走入数学殿堂的。#陈省身#吴文俊#丘成桐#数学#高等数学#科学 #数学家",
-          "url": "https://www.bilibili.com/video/BV1qqei6pEyL",
-          "dur": 58,
-          "site": "B站",
-          "brief": "科学家故事：陈省身谈如何培养出吴文俊、丘成桐这样的数学大师的，怎样引导学生走入数学殿堂的。#陈省身#吴文俊#丘成桐#数学#高等数学#科学 #数学家"
-        },
-        {
-          "title": "弘扬科学家精神：吴文俊先生说：科学研究走自己的路要有依据。",
-          "url": "https://www.bilibili.com/video/BV1iFV76VEf2",
-          "dur": 164,
-          "site": "B站",
-          "brief": "科学家故事：弘扬科学家精神：吴文俊先生说：科学研究走自己的路要有依据。"
-        },
-        {
-          "title": "弘扬科学家精神：吴文俊先生说：科学研究要走自己的路。",
-          "url": "https://www.bilibili.com/video/BV1qFV76VEcJ",
-          "dur": 168,
-          "site": "B站",
-          "brief": "科学家故事：弘扬科学家精神：吴文俊先生说：科学研究要走自己的路。"
-        },
-        {
-          "title": "弘扬科学家精神：吴文俊先生数学与人工智能的创举。",
-          "url": "https://www.bilibili.com/video/BV1BoVj6LE3e",
-          "dur": 230,
-          "site": "B站",
-          "brief": "科学家故事：弘扬科学家精神：吴文俊先生数学与人工智能的创举。"
         }
       ],
       "edu_english": [
@@ -3553,6 +3825,57 @@
           "orient": "h"
         }
       ],
+      "scientist": [
+        {
+          "title": "弘扬科学家精神：吴文俊先生数学家跨越鸿沟，成为人工正能的佼佼者。",
+          "url": "https://www.bilibili.com/video/BV1icV76kEHk",
+          "dur": 198,
+          "site": "B站",
+          "brief": "今日科学家·吴文俊：弘扬科学家精神：吴文俊先生数学家跨越鸿沟，成为人工正能的佼佼者。"
+        },
+        {
+          "title": "吴文俊：“人民科学家”国家荣誉称号获得者《致敬国家勋章和国家荣誉称号获得者》",
+          "url": "https://www.bilibili.com/video/BV1Rk4y1q7NH",
+          "dur": 120,
+          "site": "B站",
+          "brief": "科学家故事：吴文俊：“人民科学家”国家荣誉称号获得者《致敬国家勋章和国家荣誉称号获得者》"
+        },
+        {
+          "title": "明代数学究竟有多强？中科院院士吴文俊曾坦言：16世纪前，我国数学长期稳居世界前列",
+          "url": "https://www.bilibili.com/video/BV1gk92BUETA",
+          "dur": 123,
+          "site": "B站",
+          "brief": "科学家故事：明代数学究竟有多强？中科院院士吴文俊曾坦言：16世纪前，我国数学长期稳居世界前列"
+        },
+        {
+          "title": "陈省身谈如何培养出吴文俊、丘成桐这样的数学大师的，怎样引导学生走入数学殿堂的。#陈省身#吴文俊#丘成桐#数学#高等数学#科学 #数学家",
+          "url": "https://www.bilibili.com/video/BV1qqei6pEyL",
+          "dur": 58,
+          "site": "B站",
+          "brief": "科学家故事：陈省身谈如何培养出吴文俊、丘成桐这样的数学大师的，怎样引导学生走入数学殿堂的。#陈省身#吴文俊#丘成桐#数学#高等数学#科学 #数学家"
+        },
+        {
+          "title": "弘扬科学家精神：吴文俊先生说：科学研究走自己的路要有依据。",
+          "url": "https://www.bilibili.com/video/BV1iFV76VEf2",
+          "dur": 164,
+          "site": "B站",
+          "brief": "科学家故事：弘扬科学家精神：吴文俊先生说：科学研究走自己的路要有依据。"
+        },
+        {
+          "title": "弘扬科学家精神：吴文俊先生说：科学研究要走自己的路。",
+          "url": "https://www.bilibili.com/video/BV1qFV76VEcJ",
+          "dur": 168,
+          "site": "B站",
+          "brief": "科学家故事：弘扬科学家精神：吴文俊先生说：科学研究要走自己的路。"
+        },
+        {
+          "title": "弘扬科学家精神：吴文俊先生数学与人工智能的创举。",
+          "url": "https://www.bilibili.com/video/BV1BoVj6LE3e",
+          "dur": 230,
+          "site": "B站",
+          "brief": "科学家故事：弘扬科学家精神：吴文俊先生数学与人工智能的创举。"
+        }
+      ],
       "edu_math": [
         {
           "title": "一上数学《认识立体图形》AI赋能课件，有 PPT | 教学设计 | 逐字稿 | 学习单 | 板书",
@@ -3566,7 +3889,8 @@
           "url": "https://www.bilibili.com/video/BV1PdhR6GEi1",
           "dur": 403,
           "site": "B站",
-          "brief": "数学：幼儿园课件《认识人民币 —— 小元宝的钱币王国探险》希沃课件十教案十说课稿"
+          "brief": "数学：幼儿园课件《认识人民币 —— 小元宝的钱币王国探险》希沃课件十教案十说课稿",
+          "orient": "h"
         }
       ],
       "project": [
@@ -3605,253 +3929,14 @@
           "site": "B站",
           "brief": "重大工程：外国人看中国世纪工程，平陆运河刚通水，越南网友急了..."
         }
-      ]
-    },
-    "2026-09-26": {
-      "weapon": [
-        {
-          "title": "[简单飞机] 萌新对自动航母着陆的初次尝试",
-          "url": "https://www.bilibili.com/video/BV1mrhD6KERf",
-          "dur": 191,
-          "site": "B站",
-          "brief": "大国重器：[简单飞机] 萌新对自动航母着陆的初次尝试"
-        },
-        {
-          "title": "【少年梦·航天梦·中国梦】2026年航天科普进校园第二十站:！江苏省盐城市金苹果幼儿园第五届科技节。#中国航天科普进校园##太空探索助力计划##做中学",
-          "url": "https://www.bilibili.com/video/BV1QEh96mEgG",
-          "dur": 41,
-          "site": "B站",
-          "brief": "大国重器：【少年梦·航天梦·中国梦】2026年航天科普进校园第二十站:！江苏省盐城市金苹果幼儿园第五届科技节。#中国航天科普进校园##太空探索助力计划##做中学"
-        },
-        {
-          "title": "筑梦空间站神舟二十号载人飞船发射特别报道",
-          "url": "https://tv.cctv.com/2025/04/25/VIDASgoKtwaaFLAy6Y60tUoT250425.shtml",
-          "dur": null,
-          "site": "央视",
-          "brief": "大国重器：筑梦空间站神舟二十号载人飞船发射特别报道"
-        },
-        {
-          "title": "筑梦空间站天舟七号货运飞船发射特别报道",
-          "url": "https://tv.cctv.com/2024/01/18/VIDAHwKwhIMpah5OIcgEe4Ka240118.shtml",
-          "dur": null,
-          "site": "央视",
-          "brief": "大国重器：筑梦空间站天舟七号货运飞船发射特别报道"
-        },
-        {
-          "title": "筑梦空间站 天舟六号货运飞船发射特别报道",
-          "url": "https://tv.cctv.com/2023/06/30/VIDAElYzRGYTHl6UxL8uOslt230630.shtml",
-          "dur": null,
-          "site": "央视",
-          "brief": "大国重器：筑梦空间站 天舟六号货运飞船发射特别报道"
-        }
       ],
-      "edu_chinese": [
+      "edu_recommend": [
         {
-          "title": "词语填空",
-          "url": "https://www.bilibili.com/video/BV1khaA6hE5h",
-          "dur": 220,
-          "site": "B站",
-          "brief": "语文：词语填空"
-        },
-        {
-          "title": "睡前故事《学做披萨》，点赞关注看更多精品原创动画故事！睡前故事，寓言故事，格林童话，成语故事寓言故事，启蒙小故事，小故事读物，小故事大道理，绘本故事",
-          "url": "https://www.bilibili.com/video/BV1idkoB8EDW",
-          "dur": 294,
-          "site": "B站",
-          "brief": "语文：睡前故事《学做披萨》，点赞关注看更多精品原创动画故事！睡前故事，寓言故事，格林童话，成语故事寓言故事，启蒙小故事，小故事读物，小故事大道理，绘本故事"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "九月经典朗诵一等奖《妈妈，稻子熟了》稻子熟了，袁隆平院士写给妈妈的一封信#经典诵读 #演讲口才 #朗诵比赛 #朗诵 #袁隆平的故事 #科学家的故事",
-          "url": "https://www.bilibili.com/video/BV1Gj8i6AE2Z",
-          "dur": 211,
-          "site": "B站",
-          "brief": "今日科学家·袁隆平：九月经典朗诵一等奖《妈妈，稻子熟了》稻子熟了，袁隆平院士写给妈妈的一封信#经典诵读 #演讲口才 #朗诵比赛 #朗诵 #袁隆平的故事 #科学家的故事"
-        },
-        {
-          "title": "广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星",
-          "url": "https://www.bilibili.com/video/BV1NKaP6qEHd",
-          "dur": 40,
-          "site": "B站",
-          "brief": "科学家故事：广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星"
-        }
-      ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_ibxr1k0zak.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "1944149205630400",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1qhkedmmp3g.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "6472375416018400",
-          "orient": "h"
-        }
-      ],
-      "military": [
-        {
-          "title": "01 军事武器知多少 先导片",
-          "url": "https://m.iqiyi.com/v_1iiks0hovto.html",
-          "dur": 90,
-          "site": "爱奇艺",
-          "brief": "军事科普：01 军事武器知多少 先导片",
-          "tvid": "5593201645932400",
-          "orient": "h"
-        },
-        {
-          "title": "07可怕的海战武器U型潜艇",
-          "url": "https://m.iqiyi.com/v_xcg9yn0pnc.html",
-          "dur": 143,
-          "site": "爱奇艺",
-          "brief": "军事科普：07可怕的海战武器U型潜艇",
-          "tvid": "3515592100427700",
-          "orient": "h"
-        },
-        {
-          "title": "“深海幽灵”出没！无人潜航器悄然改写海战规则",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=737450",
-          "dur": 186,
-          "site": "科普中国",
-          "brief": "军事科普：“深海幽灵”出没！无人潜航器悄然改写海战规则",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4",
-          "orient": "h"
-        },
-        {
-          "title": "一张贴纸骗过AI：蜂群的“死穴”与反杀",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=735651",
-          "dur": 195,
-          "site": "科普中国",
-          "brief": "军事科普：一张贴纸骗过AI：蜂群的“死穴”与反杀",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026090810071931893117017225.mp4",
-          "orient": "h"
-        },
-        {
-          "title": "AI僚机如何为飞行员保驾护航？",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=733251",
-          "dur": 259,
-          "site": "科普中国",
-          "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
-          "orient": "h"
-        }
-      ],
-      "ai": [
-        {
-          "title": "#新品上新这个AI鼠标，可以说是目前智能鼠标圈的天花板了，国产自研AI大模型，一键辅助你的大部分工作！#科大讯飞AI鼠标AM30#科技改变生活#办公神器-735",
-          "url": "https://www.bilibili.com/video/BV1uihD6zEBJ",
-          "dur": 44,
-          "site": "B站",
-          "brief": "AI科技：#新品上新这个AI鼠标，可以说是目前智能鼠标圈的天花板了，国产自研AI大模型，一键辅助你的大部分工作！#科大讯飞AI鼠标AM30#科技改变生活#办公神器-735"
-        },
-        {
-          "title": "永恒之塔第8代智能AI机器人-治愈星",
-          "url": "https://www.bilibili.com/video/BV1rehQ6fEfo",
-          "dur": 86,
-          "site": "B站",
-          "brief": "AI科技：永恒之塔第8代智能AI机器人-治愈星"
-        },
-        {
-          "title": "小度智能音箱Fun套装版超能小度极简潮玩设计 AI大模型智能闹钟蓝牙音响 语音桌面音箱送礼",
-          "url": "https://www.bilibili.com/video/BV16zh96PEb2",
-          "dur": 41,
-          "site": "B站",
-          "brief": "AI科技：小度智能音箱Fun套装版超能小度极简潮玩设计 AI大模型智能闹钟蓝牙音响 语音桌面音箱送礼"
-        },
-        {
-          "title": "大学开学新增专业：具身智能和脑机接口。加强具身专业机器人，脑机接口科学与技术专业。2026年9月25日报道。",
-          "url": "https://www.bilibili.com/video/BV1G4hD61EQP",
-          "dur": 875,
-          "site": "B站",
-          "brief": "AI科技：大学开学新增专业：具身智能和脑机接口。加强具身专业机器人，脑机接口科学与技术专业。2026年9月25日报道。"
-        },
-        {
-          "title": "AIBI机器人真实体验一次说清~无广希望对大家有帮助呀~#AIBI#AIBI机器人#宠物机器人#ai应用-7568526405517036840",
-          "url": "https://www.bilibili.com/video/BV1N1hD6YEmi",
-          "dur": 232,
-          "site": "B站",
-          "brief": "AI科技：AIBI机器人真实体验一次说清~无广希望对大家有帮助呀~#AIBI#AIBI机器人#宠物机器人#ai应用-7568526405517036840"
-        }
-      ],
-      "edu_science": [
-        {
-          "title": "奇妙身体实验室",
-          "url": "https://m.iqiyi.com/v_2e4eod47iow.html",
-          "dur": 124,
-          "site": "爱奇艺",
-          "brief": "自然科学：奇妙身体实验室",
-          "tvid": "8839566832325900",
-          "orient": "h"
-        },
-        {
-          "title": "01 病毒先导片",
-          "url": "https://m.iqiyi.com/v_uf7dtph0wo.html",
-          "dur": 96,
-          "site": "爱奇艺",
-          "brief": "自然科学：01 病毒先导片",
-          "tvid": "2972525821598900",
-          "orient": "h"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "认识钟表说课课件ppt模板 人教版小学数学一年级上册#认识钟表说课ppt #认识钟表说课课件人教版一年级数学说课 新版数学课件小学数学说课比赛小学数学说课模板",
-          "url": "https://www.bilibili.com/video/BV12DY56gE6Q",
-          "dur": 66,
-          "site": "B站",
-          "brief": "数学：认识钟表说课课件ppt模板 人教版小学数学一年级上册#认识钟表说课ppt #认识钟表说课课件人教版一年级数学说课 新版数学课件小学数学说课比赛小学数学说课模板"
-        },
-        {
-          "title": "26秋学霸题中题视频讲解#分享解题技巧 #解题技巧分享 #学霸题中题#压轴题 #思维 #七年级数学",
-          "url": "https://www.bilibili.com/video/BV1m9ag6ZEJQ",
-          "dur": 109,
-          "site": "B站",
-          "brief": "数学：26秋学霸题中题视频讲解#分享解题技巧 #解题技巧分享 #学霸题中题#压轴题 #思维 #七年级数学"
-        }
-      ],
-      "project": [
-        {
-          "title": "高速道路施工下穿既有高铁线，高铁桥墩安全监测工勘。#高铁#箱梁#中国工程#基建狂魔#桥梁#高速道路#路面#桥墩#位移#沉降",
-          "url": "https://www.bilibili.com/video/BV13YhD6rE2h",
-          "dur": 56,
-          "site": "B站",
-          "brief": "重大工程：高速道路施工下穿既有高铁线，高铁桥墩安全监测工勘。#高铁#箱梁#中国工程#基建狂魔#桥梁#高速道路#路面#桥墩#位移#沉降"
-        },
-        {
-          "title": "世纪工程平陆运河，你不知道的三个细节，让它更伟大！",
-          "url": "https://www.bilibili.com/video/BV1tFaP6rEtw",
-          "dur": 139,
-          "site": "B站",
-          "brief": "重大工程：世纪工程平陆运河，你不知道的三个细节，让它更伟大！"
-        },
-        {
-          "title": "旅行vlog港珠澳大桥碧山岛海上风电香港澳门机场随拍",
-          "url": "https://www.bilibili.com/video/BV1NUaw6cEAV",
-          "dur": 229,
-          "site": "B站",
-          "brief": "重大工程：旅行vlog港珠澳大桥碧山岛海上风电香港澳门机场随拍"
-        },
-        {
-          "title": "平陆运河从设想到开工拖了几十年，最大障碍是什么？大哥分析太透彻了",
-          "url": "https://www.bilibili.com/video/BV1TzaF6bEpt",
-          "dur": 191,
-          "site": "B站",
-          "brief": "重大工程：平陆运河从设想到开工拖了几十年，最大障碍是什么？大哥分析太透彻了"
-        },
-        {
-          "title": "平陆运河通航后新加坡慌了？那你也太高看这个国家了",
-          "url": "https://www.bilibili.com/video/BV1z6aA6sEUr",
-          "dur": 232,
-          "site": "B站",
-          "brief": "重大工程：平陆运河通航后新加坡慌了？那你也太高看这个国家了"
+          "title": "珍宝岛冲突真相：肖全夫坚决不肯向苏军坦克开火，陈锡联当场震怒质问“我命令都不听？”背后原因曝光",
+          "url": "https://www.toutiao.com/video/7687044554528195116/?log_from=8c6ee9e97f43a_1789949443964",
+          "dur": 350,
+          "site": "今日头条",
+          "brief": ""
         }
       ]
     }
