@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14 12:59",
+  "generated": "2026-10-14 18:08",
   "cats": [
     {
       "key": "military",
@@ -86,18 +86,25 @@
     "2026-10-14": {
       "weapon": [
         {
-          "title": "[航天历史]长征四号乙型火箭发射中巴资源一号01星 1999.10.14 (长四乙遥1)",
+          "title": "[航天历史]长征四号乙型遥1箭发射中巴资源一号01星 1999.10.14",
           "url": "https://www.bilibili.com/video/BV1Xapy6BEJo",
           "dur": 266,
           "site": "B站",
-          "brief": "大国重器：[航天历史]长征四号乙型火箭发射中巴资源一号01星 1999.10.14 (长四乙遥1)"
+          "brief": "大国重器：[航天历史]长征四号乙型遥1箭发射中巴资源一号01星 1999.10.14"
         },
         {
-          "title": "【TVB翡翠台】早晨简讯:解放军海军“辽宁舰”航母编队前往西太平洋相关海域展开训练",
-          "url": "https://www.bilibili.com/video/BV1mBpk6dESo",
-          "dur": 41,
+          "title": "SpaceX 8手猎鹰9火箭发射4手货运龙飞船搭载近3吨货物前往国际空间站",
+          "url": "https://www.bilibili.com/video/BV17Ypz6YEGi",
+          "dur": 905,
           "site": "B站",
-          "brief": "大国重器：【TVB翡翠台】早晨简讯:解放军海军“辽宁舰”航母编队前往西太平洋相关海域展开训练"
+          "brief": "大国重器：SpaceX 8手猎鹰9火箭发射4手货运龙飞船搭载近3吨货物前往国际空间站"
+        },
+        {
+          "title": "巴铁航天员谁能上空间站：天宫开放科研平台，外籍科学家参与太空探索",
+          "url": "https://www.bilibili.com/video/BV1njp26tEd5",
+          "dur": 92,
+          "site": "B站",
+          "brief": "大国重器：巴铁航天员谁能上空间站：天宫开放科研平台，外籍科学家参与太空探索"
         },
         {
           "title": "中国航天-大屏背景舞台背景可定制",
@@ -107,18 +114,11 @@
           "brief": "大国重器：中国航天-大屏背景舞台背景可定制"
         },
         {
-          "title": "SpaceX申请星舰年发射456次，方案正接受美政府环评审查，得州星基地拟年发射456次，高频太空飞行面临环境评估",
-          "url": "https://www.bilibili.com/video/BV1vkpr6NEa3",
-          "dur": 63,
+          "title": "不止种菜！中国空间站里实时观测细胞变化，怎么做到的？",
+          "url": "https://www.bilibili.com/video/BV1Aupy6sEP1",
+          "dur": 170,
           "site": "B站",
-          "brief": "大国重器：SpaceX申请星舰年发射456次，方案正接受美政府环评审查，得州星基地拟年发射456次，高频太空飞行面临环境评估"
-        },
-        {
-          "title": "添可胶囊空间站蒸汽版，高温蒸汽瓦解顽固油污",
-          "url": "https://www.bilibili.com/video/BV1RWpk6KECS",
-          "dur": 226,
-          "site": "B站",
-          "brief": "大国重器：添可胶囊空间站蒸汽版，高温蒸汽瓦解顽固油污"
+          "brief": "大国重器：不止种菜！中国空间站里实时观测细胞变化，怎么做到的？"
         }
       ],
       "edu_chinese": [
@@ -159,48 +159,48 @@
       ],
       "military": [
         {
-          "title": "06 糟糕的坦克 鲍勃森普尔坦克",
-          "url": "https://m.iqiyi.com/v_vmxzclnfj8.html",
-          "dur": 151,
+          "title": "04 神奇的MIAS单人坦克",
+          "url": "https://m.iqiyi.com/v_dghkf00fww.html",
+          "dur": 208,
           "site": "爱奇艺",
-          "brief": "军事科普：06 糟糕的坦克 鲍勃森普尔坦克",
-          "tvid": "3130552493499400",
+          "brief": "军事科普：04 神奇的MIAS单人坦克",
+          "tvid": "1317657677794300",
           "orient": "h"
         },
         {
-          "title": "03 应对狙击手的军事假人",
-          "url": "https://m.iqiyi.com/v_1laqa7qogqg.html",
-          "dur": 213,
+          "title": "05 会拐弯的潜望镜步枪",
+          "url": "https://m.iqiyi.com/v_2ecnk57m8w4.html",
+          "dur": 216,
           "site": "爱奇艺",
-          "brief": "军事科普：03 应对狙击手的军事假人",
-          "tvid": "5869146697631700",
+          "brief": "军事科普：05 会拐弯的潜望镜步枪",
+          "tvid": "8828336509818600",
           "orient": "h"
         },
         {
-          "title": "歼10系列战机的区别",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=699624",
-          "dur": 131,
+          "title": "北斗为油料保障装上“千里眼”和“顺风耳”",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=720939",
+          "dur": 233,
           "site": "科普中国",
-          "brief": "军事科普：歼10系列战机的区别",
-          "mp4": "https://pqnoss.kepuchina.cn/U28144636/videos/2026050510391179493691119277.mp4",
+          "brief": "军事科普：北斗为油料保障装上“千里眼”和“顺风耳”",
+          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071922341520465139950721.mp4",
           "orient": "h"
         },
         {
-          "title": "机器狗的正经用途可不是 “扛枪”",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=732293",
-          "dur": 241,
+          "title": "舰艇远航中如何保障新鲜蔬菜？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=719814",
+          "dur": 271,
           "site": "科普中国",
-          "brief": "军事科普：机器狗的正经用途可不是 “扛枪”",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/202608271650595010277266136.mp4",
+          "brief": "军事科普：舰艇远航中如何保障新鲜蔬菜？",
+          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071508350712294313951650.mp4",
           "orient": "h"
         },
         {
-          "title": "5倍音速，大国都在抢的“新制高点”",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=729928",
-          "dur": 196,
+          "title": "吴自良院士丨为原子弹装上“中国心”",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=697608",
+          "dur": 240,
           "site": "科普中国",
-          "brief": "军事科普：5倍音速，大国都在抢的“新制高点”",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/202608210917411571179492893.mp4",
+          "brief": "军事科普：吴自良院士丨为原子弹装上“中国心”",
+          "mp4": "https://pqnoss.kepuchina.cn/U01800944/videos/2026042710444017274419622250.mp4",
           "orient": "h"
         }
       ],
@@ -213,20 +213,6 @@
           "brief": "AI科技：戴森干湿一体AI机器人｜懒人清洁天花板！_黑科技导航_隐藏激光雷达+双线激光，暗光秒建3D地图！AI识别垃圾_障碍物，自动绕行不卡顿，连数据线都能精准避开_智能"
         },
         {
-          "title": "【阅读100天·Day11下】人工智能：AI改变的不是人的价值，而是人与机器的分工",
-          "url": "https://www.bilibili.com/video/BV11YpB6CEi7",
-          "dur": 46,
-          "site": "B站",
-          "brief": "AI科技：【阅读100天·Day11下】人工智能：AI改变的不是人的价值，而是人与机器的分工"
-        },
-        {
-          "title": "把手机变成智能机器人？桌面陪伴ai现在可以满足你了。",
-          "url": "https://www.bilibili.com/video/BV1iFpC6rEGu",
-          "dur": 42,
-          "site": "B站",
-          "brief": "AI科技：把手机变成智能机器人？桌面陪伴ai现在可以满足你了。"
-        },
-        {
           "title": "来不及做饭，让机器狗去饭店买，结果.... #智能生活 #方太G2P#方太G2P微蒸烤一体机 #温湿智控科技",
           "url": "https://www.bilibili.com/video/BV1oVp66NEa1",
           "dur": 180,
@@ -234,30 +220,44 @@
           "brief": "AI科技：来不及做饭，让机器狗去饭店买，结果.... #智能生活 #方太G2P#方太G2P微蒸烤一体机 #温湿智控科技"
         },
         {
-          "title": "人形机器人连中7次！Gemini 4 Argon全球开放！| 绿鸭AI日报1014",
-          "url": "https://www.bilibili.com/video/BV1a3pC6PENP",
-          "dur": 304,
+          "title": "【中字】国外博主实测：AI动嘴就能搭仿真？老外玩NVIDIA黑科技",
+          "url": "https://www.bilibili.com/video/BV1EqpC6jEPX",
+          "dur": 517,
           "site": "B站",
-          "brief": "AI科技：人形机器人连中7次！Gemini 4 Argon全球开放！| 绿鸭AI日报1014"
+          "brief": "AI科技：【中字】国外博主实测：AI动嘴就能搭仿真？老外玩NVIDIA黑科技"
+        },
+        {
+          "title": "轻简客服专业版AI新功能：通过微信接待所有店铺咨询，实现人工和ai机器人同步接待",
+          "url": "https://www.bilibili.com/video/BV1gopC6YETA",
+          "dur": 169,
+          "site": "B站",
+          "brief": "AI科技：轻简客服专业版AI新功能：通过微信接待所有店铺咨询，实现人工和ai机器人同步接待"
+        },
+        {
+          "title": "普及下计算机本科入局Agent开发，能力塑造需要的强度！#Agent #大模型 #AI应用开发 #程序员 #Agent开发",
+          "url": "https://www.bilibili.com/video/BV1TfpC6wEf6",
+          "dur": 186,
+          "site": "B站",
+          "brief": "AI科技：普及下计算机本科入局Agent开发，能力塑造需要的强度！#Agent #大模型 #AI应用开发 #程序员 #Agent开发"
         }
       ],
       "edu_science": [
         {
-          "title": "冠状病毒的总攻",
-          "url": "https://m.iqiyi.com/v_1beelxlr6qk.html",
-          "dur": 197,
+          "title": "会潜行的霍乱",
+          "url": "https://m.iqiyi.com/v_1sqlg4midlk.html",
+          "dur": 193,
           "site": "爱奇艺",
-          "brief": "自然科学：冠状病毒的总攻",
-          "tvid": "4907349847041200",
+          "brief": "自然科学：会潜行的霍乱",
+          "tvid": "6525318361832500",
           "orient": "h"
         },
         {
-          "title": "埃博拉病毒的奇袭",
-          "url": "https://m.iqiyi.com/v_1lsznkcsm18.html",
-          "dur": 188,
+          "title": "蚊虫与登革热",
+          "url": "https://m.iqiyi.com/v_fkbgolmfxk.html",
+          "dur": 189,
           "site": "爱奇艺",
-          "brief": "自然科学：埃博拉病毒的奇袭",
-          "tvid": "5821016747576800",
+          "brief": "自然科学：蚊虫与登革热",
+          "tvid": "1663391158904900",
           "orient": "h"
         }
       ],
@@ -279,13 +279,6 @@
           "orient": "h"
         },
         {
-          "title": "&quot;中国的骄傲，世界的骄傲”———全球唯一一例侮辱两弹一星元勋，国家脊梁钱学森，钱三强，钱伟长经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
-          "url": "https://www.bilibili.com/video/BV1BXpK66EvT",
-          "dur": 36,
-          "site": "B站",
-          "brief": "科学家故事：&quot;中国的骄傲，世界的骄傲”———全球唯一一例侮辱两弹一星元勋，国家脊梁钱学森，钱三强，钱伟长经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！"
-        },
-        {
           "title": "“国之脊梁——钱学森院士”",
           "url": "https://www.bilibili.com/video/BV1aTpT6cE7x",
           "dur": 147,
@@ -293,44 +286,59 @@
           "brief": "科学家故事：“国之脊梁——钱学森院士”"
         },
         {
-          "title": "杜渊文的光辉事迹————侮辱钱学森，钱三强，钱伟长，官方文书为证！包庇刘继华犯罪集团，虚假诉讼，还有办案单位的高清录像————国庆黄金周！各大媒体宣扬曝光！",
-          "url": "https://www.bilibili.com/video/BV1mepK6XE3Y",
-          "dur": 36,
+          "title": "【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版",
+          "url": "https://www.bilibili.com/video/BV1tS7JzaE1P",
+          "dur": 482,
           "site": "B站",
-          "brief": "科学家故事：杜渊文的光辉事迹————侮辱钱学森，钱三强，钱伟长，官方文书为证！包庇刘继华犯罪集团，虚假诉讼，还有办案单位的高清录像————国庆黄金周！各大媒体宣扬曝光！"
+          "brief": "科学家故事：【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版"
         },
         {
-          "title": "向党实名制举报，经过权威搜索，杜渊文是全球唯一一例党员干部，法官侮辱钱学森，钱三强，钱伟长。经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
-          "url": "https://www.bilibili.com/video/BV1BXpK66Ean",
-          "dur": 36,
+          "title": "钱学森遗体火化 央视频道新闻报道 2009 Z X (2)",
+          "url": "https://www.bilibili.com/video/BV1WFEi69EQB",
+          "dur": 306,
           "site": "B站",
-          "brief": "科学家故事：向党实名制举报，经过权威搜索，杜渊文是全球唯一一例党员干部，法官侮辱钱学森，钱三强，钱伟长。经过官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！"
+          "brief": "科学家故事：钱学森遗体火化 央视频道新闻报道 2009 Z X (2)",
+          "orient": "h"
         },
         {
-          "title": "新华社，《焦点访谈》，《今日说法》，《东方时空》外国也没有法官，干部，党员侮辱钱学森，钱三强，钱伟长！————经过官方听证！载入大同市中院《听证会笔录》！",
-          "url": "https://www.bilibili.com/video/BV1qRpK6uE81",
-          "dur": 155,
+          "title": "中国脊梁--钱学森",
+          "url": "https://www.bilibili.com/video/BV18V411Y7kQ",
+          "dur": 292,
           "site": "B站",
-          "brief": "科学家故事：新华社，《焦点访谈》，《今日说法》，《东方时空》外国也没有法官，干部，党员侮辱钱学森，钱三强，钱伟长！————经过官方听证！载入大同市中院《听证会笔录》！"
+          "brief": "科学家故事：中国脊梁--钱学森"
+        },
+        {
+          "title": "【钱学森】五年归国路，十年两弹成！",
+          "url": "https://www.bilibili.com/video/BV1cz4y1C7LM",
+          "dur": 236,
+          "site": "B站",
+          "brief": "科学家故事：【钱学森】五年归国路，十年两弹成！"
         }
       ],
       "edu_math": [
+        {
+          "title": "华罗庚学校数学课本三年级｜上册05｜找几何图形的规律",
+          "url": "https://www.bilibili.com/video/BV1WtpC6pEYH",
+          "dur": 91,
+          "site": "B站",
+          "brief": "数学：华罗庚学校数学课本三年级｜上册05｜找几何图形的规律"
+        },
         {
           "title": "哪种更划算#三年级数学 #小学数学#数学思维 #单位换算教学 #最优惠价格",
           "url": "https://www.bilibili.com/video/BV1yUpy6oEQy",
           "dur": 88,
           "site": "B站",
           "brief": "数学：哪种更划算#三年级数学 #小学数学#数学思维 #单位换算教学 #最优惠价格"
-        },
-        {
-          "title": "华罗庚学校数学课本二年级｜附录04｜时间的认识（下）",
-          "url": "https://www.bilibili.com/video/BV1ncpB6iED2",
-          "dur": 96,
-          "site": "B站",
-          "brief": "数学：华罗庚学校数学课本二年级｜附录04｜时间的认识（下）"
         }
       ],
       "project": [
+        {
+          "title": "海关总署答红星新闻：前三季度，我国对东盟进出口6.84万亿元 平陆运河顺利通航 西南腹地与东盟运输距离缩短560公里以上",
+          "url": "https://www.bilibili.com/video/BV1Hjp26tEjf",
+          "dur": 44,
+          "site": "B站",
+          "brief": "重大工程：海关总署答红星新闻：前三季度，我国对东盟进出口6.84万亿元 平陆运河顺利通航 西南腹地与东盟运输距离缩短560公里以上"
+        },
         {
           "title": "活力中国调研行丨平陆运河通航即将满月 南宁港有哪些变化？_凤凰网",
           "url": "https://www.bilibili.com/video/BV1iQpB6hEqy",
@@ -358,13 +366,6 @@
           "dur": 39,
           "site": "B站",
           "brief": "重大工程：只有日新月异。 #中朝新鸭绿江大桥将开通  #国外 #海外 #国外生活 #基建狂魔"
-        },
-        {
-          "title": "（附评论）“印度十年不开工，项目飞了怪中国😰？”乙亢姐酸中国：蒙格拉港被中国抢走；现基建狂魔本色，怼到印度家门口，3.36亿美元两年完工，新德里酸成柠檬海",
-          "url": "https://www.bilibili.com/video/BV1Xhpy6uEpF",
-          "dur": 341,
-          "site": "B站",
-          "brief": "重大工程：（附评论）“印度十年不开工，项目飞了怪中国😰？”乙亢姐酸中国：蒙格拉港被中国抢走；现基建狂魔本色，怼到印度家门口，3.36亿美元两年完工，新德里酸成柠檬海"
         }
       ]
     },
@@ -508,8 +509,7 @@
           "url": "https://www.bilibili.com/video/BV1EgWc6ZEJL",
           "dur": 244,
           "site": "B站",
-          "brief": "AI科技：一周AI大事（10月11日）AI办公、创作与机器人一起提速.",
-          "orient": "h"
+          "brief": "AI科技：一周AI大事（10月11日）AI办公、创作与机器人一起提速."
         },
         {
           "title": "哪个天才设计的AI扫地机器人？美的灵眸V15Pro两周体验#美的灵眸V15Pro#扫地机器人-7406648395644341539",
@@ -566,7 +566,8 @@
           "url": "https://www.bilibili.com/video/BV1KCej6mEib",
           "dur": 130,
           "site": "B站",
-          "brief": "科学家故事：5.詹天佑塑像，纪念中国铁路先驱"
+          "brief": "科学家故事：5.詹天佑塑像，纪念中国铁路先驱",
+          "orient": "h"
         },
         {
           "title": "【人物】詹天佑",
@@ -857,8 +858,7 @@
           "url": "https://www.bilibili.com/video/BV1ewpT6eEjZ",
           "dur": 165,
           "site": "B站",
-          "brief": "科学家故事：新华社，《焦点访谈》，《今日说法》，《东方时空》，请您们看一看杜渊文的丰功伟绩————中国首例法官，干部侮辱钱学森，钱三强，钱伟长被载入官方文书！（唯一一例）",
-          "orient": "v"
+          "brief": "科学家故事：新华社，《焦点访谈》，《今日说法》，《东方时空》，请您们看一看杜渊文的丰功伟绩————中国首例法官，干部侮辱钱学森，钱三强，钱伟长被载入官方文书！（唯一一例）"
         },
         {
           "title": "新成立以来的旷世奇才杜渊文！————侮辱钱学森，钱三强，钱伟长被经官方听证，载入大同市中院《听证会笔录》，多部门十位领导签字认可！",
@@ -1398,7 +1398,8 @@
           "url": "https://www.bilibili.com/video/BV1qaHd65EUa",
           "dur": 227,
           "site": "B站",
-          "brief": "重大工程：中国台湾追梦小队为祖国庆生77岁生日快乐，分享祖国大国工程广西平陆运河。 #平陆运河#台湾#最好的祝福献给祖国 #小家团圆大国梦圆 #祝祖国生日快乐"
+          "brief": "重大工程：中国台湾追梦小队为祖国庆生77岁生日快乐，分享祖国大国工程广西平陆运河。 #平陆运河#台湾#最好的祝福献给祖国 #小家团圆大国梦圆 #祝祖国生日快乐",
+          "orient": "v"
         },
         {
           "title": "10.5 天陇铁路安化隧道贯通！",
@@ -1614,7 +1615,8 @@
           "url": "https://www.bilibili.com/video/BV1oWYczhEXU",
           "dur": 35,
           "site": "B站",
-          "brief": "科学家故事：两弹一星元勋，科学家，任新民"
+          "brief": "科学家故事：两弹一星元勋，科学家，任新民",
+          "orient": "v"
         },
         {
           "title": "“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。",
@@ -2187,7 +2189,8 @@
           "url": "https://www.bilibili.com/video/BV19FNn6hEy5",
           "dur": 81,
           "site": "B站",
-          "brief": "科学家故事：a2213张钰哲手抄报"
+          "brief": "科学家故事：a2213张钰哲手抄报",
+          "orient": "h"
         },
         {
           "title": "天文学家张钰哲",
@@ -2710,8 +2713,7 @@
           "url": "https://www.bilibili.com/video/BV1x5YA6KEqc",
           "dur": 61,
           "site": "B站",
-          "brief": "AI科技：《具身智能：从看见到行动》7.5 AI与可持续发展：技术向善的力量",
-          "orient": "h"
+          "brief": "AI科技：《具身智能：从看见到行动》7.5 AI与可持续发展：技术向善的力量"
         }
       ],
       "edu_science": [
@@ -2966,7 +2968,8 @@
           "url": "https://www.bilibili.com/video/BV1qZap6yEbb",
           "dur": 448,
           "site": "B站",
-          "brief": "AI科技：机器人用那些关节电机？答对送结构设计课程。全网首家提供具身智能机器人creo结构设计系统培训课程，完全贴合职场案例真实教学。"
+          "brief": "AI科技：机器人用那些关节电机？答对送结构设计课程。全网首家提供具身智能机器人creo结构设计系统培训课程，完全贴合职场案例真实教学。",
+          "orient": "h"
         },
         {
           "title": "诈骗团伙在2个月时间内诈骗了上千人，作案手法高度一致，警方判定这是一个通过AI机器人进行引流、再交由真人实施诈骗的高科技诈骗团伙。",
@@ -3074,8 +3077,7 @@
           "url": "https://www.bilibili.com/video/BV1Wran6mEmN",
           "dur": 33,
           "site": "B站",
-          "brief": "数学：高松灯知道人民币的背景是哪里？千早爱音来认识",
-          "orient": "v"
+          "brief": "数学：高松灯知道人民币的背景是哪里？千早爱音来认识"
         },
         {
           "title": "三年级数学思维提升：转化思路巧解差倍拓展题",
@@ -3158,7 +3160,8 @@
           "url": "https://www.bilibili.com/video/BV1PuaL6NEBZ",
           "dur": 298,
           "site": "B站",
-          "brief": "大国重器：[MINECRAFT | 我的世界] 格雷科技 上空间站 Трава у Дома"
+          "brief": "大国重器：[MINECRAFT | 我的世界] 格雷科技 上空间站 Трава у Дома",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -3889,8 +3892,7 @@
           "url": "https://www.bilibili.com/video/BV1PdhR6GEi1",
           "dur": 403,
           "site": "B站",
-          "brief": "数学：幼儿园课件《认识人民币 —— 小元宝的钱币王国探险》希沃课件十教案十说课稿",
-          "orient": "h"
+          "brief": "数学：幼儿园课件《认识人民币 —— 小元宝的钱币王国探险》希沃课件十教案十说课稿"
         }
       ],
       "project": [
