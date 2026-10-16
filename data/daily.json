@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15 15:19",
+  "generated": "2026-10-16 13:05",
   "cats": [
     {
       "key": "military",
@@ -72,6 +72,7 @@
     }
   ],
   "dates": [
+    "2026-10-16",
     "2026-10-15",
     "2026-10-14",
     "2026-10-13",
@@ -84,10 +85,331 @@
     "2026-10-02",
     "2026-10-01",
     "2026-09-30",
-    "2026-09-29",
-    "2026-09-28"
+    "2026-09-29"
   ],
   "data": {
+    "2026-10-16": {
+      "weapon": [
+        {
+          "title": "货运龙精准对接空间站｜最后几米到硬捕获，CRS-35官方原声纪实",
+          "url": "https://www.bilibili.com/video/BV152J16MEzU",
+          "dur": 277,
+          "site": "B站",
+          "brief": "大国重器：货运龙精准对接空间站｜最后几米到硬捕获，CRS-35官方原声纪实"
+        },
+        {
+          "title": "在外网播放超5000万的视频！据说是宇航员拍摄的在空间站飞船舱外视角，这压迫感与这恐惧感扑面而来啊……",
+          "url": "https://www.bilibili.com/video/BV1XfJQ6pEQN",
+          "dur": 122,
+          "site": "B站",
+          "brief": "大国重器：在外网播放超5000万的视频！据说是宇航员拍摄的在空间站飞船舱外视角，这压迫感与这恐惧感扑面而来啊……"
+        },
+        {
+          "title": "SpaceX 货运龙飞船 CRS-35 的第35次商业补给任务抵达国际空间站",
+          "url": "https://www.bilibili.com/video/BV1GXJ16PEG3",
+          "dur": 327,
+          "site": "B站",
+          "brief": "大国重器：SpaceX 货运龙飞船 CRS-35 的第35次商业补给任务抵达国际空间站"
+        },
+        {
+          "title": "从神舟到天宫，23年问天不止",
+          "url": "https://www.bilibili.com/video/BV19LJQ6QEPg",
+          "dur": 177,
+          "site": "B站",
+          "brief": "大国重器：从神舟到天宫，23年问天不止"
+        },
+        {
+          "title": "中国航天发展七十年经历了什么呢？",
+          "url": "https://www.bilibili.com/video/BV1cfJU6dEpD",
+          "dur": 185,
+          "site": "B站",
+          "brief": "大国重器：中国航天发展七十年经历了什么呢？"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "晚安故事｜拔苗助长（成语故事·睡前原文朗读）",
+          "url": "https://www.bilibili.com/video/BV1kdJU6ZEX6",
+          "dur": 77,
+          "site": "B站",
+          "brief": "语文：晚安故事｜拔苗助长（成语故事·睡前原文朗读）"
+        },
+        {
+          "title": "部编版寓言《狐假虎威》动画短片，看懂核心难点：小动物怕的不是狐狸",
+          "url": "https://www.bilibili.com/video/BV1JZJ26UEnT",
+          "dur": 63,
+          "site": "B站",
+          "brief": "语文：部编版寓言《狐假虎威》动画短片，看懂核心难点：小动物怕的不是狐狸"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。",
+          "url": "https://www.bilibili.com/video/BV1Meec6BE58",
+          "dur": 466,
+          "site": "B站",
+          "brief": "今日科学家·钱学森：听戚发轫院士与钱学森之子钱永刚，一同讲述他们知道的周总理与两弹一星的故事。"
+        },
+        {
+          "title": "庄逢甘谈钱学森在中国导弹研制中技术途径方面的指导作用",
+          "url": "https://kxrsbn.casad.cas.cn/2025/zxss/202505/t20250519_5068947.html",
+          "dur": 102,
+          "site": "科学人生百年",
+          "brief": "科学家故事：庄逢甘谈钱学森在中国导弹研制中技术途径方面的指导作用",
+          "mp4": "https://videozh.cas.cn/masvod/public/2025/05/19/20250519_196e61e4523_r36.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "“国之脊梁——钱学森院士”",
+          "url": "https://www.bilibili.com/video/BV1aTpT6cE7x",
+          "dur": 147,
+          "site": "B站",
+          "brief": "科学家故事：“国之脊梁——钱学森院士”"
+        },
+        {
+          "title": "【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版",
+          "url": "https://www.bilibili.com/video/BV1tS7JzaE1P",
+          "dur": 482,
+          "site": "B站",
+          "brief": "科学家故事：【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版"
+        },
+        {
+          "title": "钱学森遗体火化 央视频道新闻报道 2009 Z X (2)",
+          "url": "https://www.bilibili.com/video/BV1WFEi69EQB",
+          "dur": 306,
+          "site": "B站",
+          "brief": "科学家故事：钱学森遗体火化 央视频道新闻报道 2009 Z X (2)"
+        },
+        {
+          "title": "中国脊梁--钱学森",
+          "url": "https://www.bilibili.com/video/BV18V411Y7kQ",
+          "dur": 292,
+          "site": "B站",
+          "brief": "科学家故事：中国脊梁--钱学森"
+        },
+        {
+          "title": "【钱学森】五年归国路，十年两弹成！",
+          "url": "https://www.bilibili.com/video/BV1cz4y1C7LM",
+          "dur": 236,
+          "site": "B站",
+          "brief": "科学家故事：【钱学森】五年归国路，十年两弹成！"
+        }
+      ],
+      "military": [
+        {
+          "title": "06 糟糕的坦克 鲍勃森普尔坦克",
+          "url": "https://m.iqiyi.com/v_vmxzclnfj8.html",
+          "dur": 151,
+          "site": "爱奇艺",
+          "brief": "军事科普：06 糟糕的坦克 鲍勃森普尔坦克",
+          "tvid": "3130552493499400",
+          "orient": "h"
+        },
+        {
+          "title": "03 应对狙击手的军事假人",
+          "url": "https://m.iqiyi.com/v_1laqa7qogqg.html",
+          "dur": 213,
+          "site": "爱奇艺",
+          "brief": "军事科普：03 应对狙击手的军事假人",
+          "tvid": "5869146697631700",
+          "orient": "h"
+        },
+        {
+          "title": "歼10系列战机的区别",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=699624",
+          "dur": 131,
+          "site": "科普中国",
+          "brief": "军事科普：歼10系列战机的区别",
+          "mp4": "https://pqnoss.kepuchina.cn/U28144636/videos/2026050510391179493691119277.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "机器狗的正经用途可不是 “扛枪”",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=732293",
+          "dur": 241,
+          "site": "科普中国",
+          "brief": "军事科普：机器狗的正经用途可不是 “扛枪”",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/202608271650595010277266136.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "70年造不出来的发动机",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=730702",
+          "dur": 226,
+          "site": "科普中国",
+          "brief": "军事科普：70年造不出来的发动机",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026082416163248827344056025.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·31秒",
+          "url": "https://m.iqiyi.com/v_x2eeeva6ys.html",
+          "dur": 31,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·31秒",
+          "tvid": "3266920688549800",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_28c99mfrftw.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "8032587989694600",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "AIBI口袋机器人艾比宠物aibi机器人ai人工智能玩具电子",
+          "url": "https://www.bilibili.com/video/BV1JHJD6fEbg",
+          "dur": 246,
+          "site": "B站",
+          "brief": "AI科技：AIBI口袋机器人艾比宠物aibi机器人ai人工智能玩具电子"
+        },
+        {
+          "title": "EA四足机器人（基础版）成品使用",
+          "url": "https://www.bilibili.com/video/BV1pfJD6eE6k",
+          "dur": 233,
+          "site": "B站",
+          "brief": "AI科技：EA四足机器人（基础版）成品使用"
+        },
+        {
+          "title": "ABB机器人打造完整端到端物理AI工作流",
+          "url": "https://www.bilibili.com/video/BV1pdJD6iEdh",
+          "dur": 86,
+          "site": "B站",
+          "brief": "AI科技：ABB机器人打造完整端到端物理AI工作流"
+        },
+        {
+          "title": "Synaptics对话英伟达，探讨物理AI与机器人技术的发展趋势",
+          "url": "https://www.bilibili.com/video/BV1YEJQ6DEuX",
+          "dur": 30,
+          "site": "B站",
+          "brief": "AI科技：Synaptics对话英伟达，探讨物理AI与机器人技术的发展趋势"
+        },
+        {
+          "title": "CCTV13采访刘兴亮：人形机器人为何需要国标？",
+          "url": "https://www.bilibili.com/video/BV1VEJQ6DEVR",
+          "dur": 118,
+          "site": "B站",
+          "brief": "AI科技：CCTV13采访刘兴亮：人形机器人为何需要国标？"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "传奇病毒车轮战",
+          "url": "https://m.iqiyi.com/v_11x8q7u5720.html",
+          "dur": 169,
+          "site": "爱奇艺",
+          "brief": "自然科学：传奇病毒车轮战",
+          "tvid": "3900631708126100",
+          "orient": "h"
+        },
+        {
+          "title": "埃博拉病毒的奇袭",
+          "url": "https://m.iqiyi.com/v_1lsznkcsm18.html",
+          "dur": 188,
+          "site": "爱奇艺",
+          "brief": "自然科学：埃博拉病毒的奇袭",
+          "tvid": "5821016747576800",
+          "orient": "h"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "华罗庚学校数学课本五年级｜下册02｜不规则图形面积的计算（二）",
+          "url": "https://www.bilibili.com/video/BV1BCJS6RET9",
+          "dur": 72,
+          "site": "B站",
+          "brief": "数学：华罗庚学校数学课本五年级｜下册02｜不规则图形面积的计算（二）"
+        },
+        {
+          "title": "华罗庚学校数学课本五年级｜下册01｜不规则图形面积的计算（一）",
+          "url": "https://www.bilibili.com/video/BV1q1JS6WEh2",
+          "dur": 74,
+          "site": "B站",
+          "brief": "数学：华罗庚学校数学课本五年级｜下册01｜不规则图形面积的计算（一）"
+        }
+      ],
+      "project": [
+        {
+          "title": "广西：“世纪工程”平陆运河通江达海 运河潮起文旅兴",
+          "url": "https://www.bilibili.com/video/BV1ZFJm6jEEj",
+          "dur": 171,
+          "site": "B站",
+          "brief": "重大工程：广西：“世纪工程”平陆运河通江达海 运河潮起文旅兴"
+        },
+        {
+          "title": "稻田里航行的巨轮！平陆运河打通西南低成本出海通道",
+          "url": "https://www.bilibili.com/video/BV1MvJy6dEzN",
+          "dur": 37,
+          "site": "B站",
+          "brief": "重大工程：稻田里航行的巨轮！平陆运河打通西南低成本出海通道"
+        },
+        {
+          "title": "这就是港珠澳大桥！中国人用9年填平伶仃洋的叹息",
+          "url": "https://www.bilibili.com/video/BV1ThJk6DEaB",
+          "dur": 204,
+          "site": "B站",
+          "brief": "重大工程：这就是港珠澳大桥！中国人用9年填平伶仃洋的叹息"
+        },
+        {
+          "title": "平陆运河不是出海，是给内陆开了一扇门",
+          "url": "https://www.bilibili.com/video/BV1jpJ26kEz8",
+          "dur": 271,
+          "site": "B站",
+          "brief": "重大工程：平陆运河不是出海，是给内陆开了一扇门"
+        },
+        {
+          "title": "不止通江达海！平陆运河联手宁德时代打造零碳航道",
+          "url": "https://www.bilibili.com/video/BV1VtJ26uEWF",
+          "dur": 35,
+          "site": "B站",
+          "brief": "重大工程：不止通江达海！平陆运河联手宁德时代打造零碳航道"
+        }
+      ],
+      "mech": [
+        {
+          "title": "简历必备技能，电梯工作原理，3D动画解析",
+          "url": "https://www.bilibili.com/video/BV18K411Y7vm",
+          "dur": 192,
+          "site": "B站",
+          "brief": "机械原理：简历必备技能，电梯工作原理，3D动画解析"
+        },
+        {
+          "title": "洗衣机究竟是如何工作的？滚筒洗衣机与波轮洗衣机的工作原理 3D动画了解洗衣机的工作原理，滚.....",
+          "url": "https://www.bilibili.com/video/BV1Ds4czuE3b",
+          "dur": 190,
+          "site": "B站",
+          "brief": "机械原理：洗衣机究竟是如何工作的？滚筒洗衣机与波轮洗衣机的工作原理 3D动画了解洗衣机的工作原理，滚....."
+        },
+        {
+          "title": "电动自行车三维动画 cg动画",
+          "url": "https://www.bilibili.com/video/BV1xP411S7Rm",
+          "dur": 176,
+          "site": "B站",
+          "brief": "机械原理：电动自行车三维动画 cg动画"
+        },
+        {
+          "title": "老式黄铜水龙头，3D动画看内部原理，能放出冷热水又是怎么回事",
+          "url": "https://www.bilibili.com/video/BV1YBptz6EGX",
+          "dur": 66,
+          "site": "B站",
+          "brief": "机械原理：老式黄铜水龙头，3D动画看内部原理，能放出冷热水又是怎么回事"
+        },
+        {
+          "title": "特斯拉电动车的工作原理",
+          "url": "https://www.bilibili.com/video/BV1au4m1K7Zv",
+          "dur": 190,
+          "site": "B站",
+          "brief": "机械原理：特斯拉电动车的工作原理"
+        }
+      ]
+    },
     "2026-10-15": {
       "weapon": [
         {
@@ -195,26 +517,6 @@
           "brief": "科学家故事：【钱学森】五年归国路，十年两弹成！"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_ch7p6img1w.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "1396269931762600",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_27ut00utkao.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "8063070291905900",
-          "orient": "h"
-        }
-      ],
       "military": [
         {
           "title": "06 让坦克安静的消音器",
@@ -254,6 +556,26 @@
           "dur": 93,
           "site": "B站",
           "brief": "军事科普：中央部队群的S-300V4防空导弹系统机组在多布罗皮利亚方向摧毁了数十个敌方空中目标。"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_ch7p6img1w.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "1396269931762600",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_27ut00utkao.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "8063070291905900",
+          "orient": "h"
         }
       ],
       "ai": [
@@ -511,26 +833,6 @@
           "brief": "科学家故事：【钱学森】五年归国路，十年两弹成！"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·19秒",
-          "url": "https://m.iqiyi.com/v_ruxygqejo0.html",
-          "dur": 19,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
-          "tvid": "2946856515416700",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·16秒",
-          "url": "https://m.iqiyi.com/v_1r4whcr4s04.html",
-          "dur": 16,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·16秒",
-          "tvid": "6388950167865000",
-          "orient": "h"
-        }
-      ],
       "military": [
         {
           "title": "04 神奇的MIAS单人坦克",
@@ -578,6 +880,26 @@
           "orient": "h"
         }
       ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_ruxygqejo0.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "tvid": "2946856515416700",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·16秒",
+          "url": "https://m.iqiyi.com/v_1r4whcr4s04.html",
+          "dur": 16,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·16秒",
+          "tvid": "6388950167865000",
+          "orient": "h"
+        }
+      ],
       "ai": [
         {
           "title": "戴森干湿一体AI机器人｜懒人清洁天花板！_黑科技导航_隐藏激光雷达+双线激光，暗光秒建3D地图！AI识别垃圾_障碍物，自动绕行不卡顿，连数据线都能精准避开_智能",
@@ -591,7 +913,8 @@
           "url": "https://www.bilibili.com/video/BV1oVp66NEa1",
           "dur": 180,
           "site": "B站",
-          "brief": "AI科技：来不及做饭，让机器狗去饭店买，结果...."
+          "brief": "AI科技：来不及做饭，让机器狗去饭店买，结果....",
+          "orient": "v"
         },
         {
           "title": "【中字】国外博主实测：AI动嘴就能搭仿真？老外玩NVIDIA黑科技",
@@ -794,26 +1117,6 @@
           "brief": "科学家故事：【画啦啦小灯塔课堂】-詹天佑-中华名人故事记动画版"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·19秒",
-          "url": "https://m.iqiyi.com/v_2alu2xhye0g.html",
-          "dur": 19,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
-          "tvid": "8368695479932700",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·34秒",
-          "url": "https://m.iqiyi.com/v_kiaj6ui7f0.html",
-          "dur": 34,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·34秒",
-          "tvid": "1991476990786400",
-          "orient": "h"
-        }
-      ],
       "military": [
         {
           "title": "02 另类的武器 塔强卡战车",
@@ -857,6 +1160,26 @@
           "site": "科普中国",
           "brief": "军事科普：不一样的航母舰载机（上）",
           "mp4": "https://pqnoss.kepuchina.cn/U7740108/videos/2026060217412467459614237355.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_2alu2xhye0g.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "tvid": "8368695479932700",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·34秒",
+          "url": "https://m.iqiyi.com/v_kiaj6ui7f0.html",
+          "dur": 34,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·34秒",
+          "tvid": "1991476990786400",
           "orient": "h"
         }
       ],
@@ -1076,26 +1399,6 @@
           "brief": "科学家故事：中纪委，中央巡视组，国家信访局，公安部，中央军委，国防部，国家安全部————杜渊文是我国唯一一例侮辱钱学森，钱三强，钱伟长七项违法犯罪线索，载入官方文书高级人才"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1kx08mrcdz4.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "5906848493405100",
-          "orient": "h"
-        },
-        {
-          "title": "请大数据把我推给想给娃英语启蒙的朋友们 0基础宝宝英语启蒙 当了妈一定要给娃看的英文动画片",
-          "url": "https://m.iqiyi.com/v_1xwvbs4uw88.html",
-          "dur": 17,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：请大数据把我推给想给娃英语启蒙的朋友们 0基础宝宝英语启蒙 当了妈一定要给娃看的英文动画片",
-          "tvid": "7121327587100100",
-          "orient": "h"
-        }
-      ],
       "military": [
         {
           "title": "05 巨大的坦克：“巨鼠”坦克",
@@ -1135,6 +1438,26 @@
           "dur": 81,
           "site": "B站",
           "brief": "军事科普：俄军约200枚导弹和无人机袭向乌克兰，泽连斯基再求“爱国者”"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_1kx08mrcdz4.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "5906848493405100",
+          "orient": "h"
+        },
+        {
+          "title": "请大数据把我推给想给娃英语启蒙的朋友们 0基础宝宝英语启蒙 当了妈一定要给娃看的英文动画片",
+          "url": "https://m.iqiyi.com/v_1xwvbs4uw88.html",
+          "dur": 17,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：请大数据把我推给想给娃英语启蒙的朋友们 0基础宝宝英语启蒙 当了妈一定要给娃看的英文动画片",
+          "tvid": "7121327587100100",
+          "orient": "h"
         }
       ],
       "ai": [
@@ -1200,8 +1523,7 @@
           "url": "https://www.bilibili.com/video/BV1N4HU6vE5W",
           "dur": 31,
           "site": "B站",
-          "brief": "数学：趣味数学题38:一道五年级奥数挑战，先解方程再求A+B还是其他方法来求呢？",
-          "orient": "v"
+          "brief": "数学：趣味数学题38:一道五年级奥数挑战，先解方程再求A+B还是其他方法来求呢？"
         },
         {
           "title": "四年级数学思维提升：巧用竖式解决大数的拓展难题",
@@ -1293,8 +1615,7 @@
           "url": "https://www.bilibili.com/video/BV1YZpP6bEdW",
           "dur": 110,
           "site": "B站",
-          "brief": "语文：小穆克和大国王 儿童童话睡前故事",
-          "orient": "h"
+          "brief": "语文：小穆克和大国王 儿童童话睡前故事"
         },
         {
           "title": "孩子捡到东西想占为己有？看豆豆拾金不昧！| 儿童成语启蒙",
@@ -1318,26 +1639,6 @@
           "dur": 179,
           "site": "B站",
           "brief": "科学家故事：翁帆女士身穿交领右衽在清华大学杨振宁高等研究院揭牌仪式上的致辞分享杨振宁先生的三个故事"
-        }
-      ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·14秒",
-          "url": "https://m.iqiyi.com/v_1079cohwmhw.html",
-          "dur": 14,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·14秒",
-          "tvid": "3793943650577800",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_ptgwsbfpck.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "2574651562094200",
-          "orient": "h"
         }
       ],
       "military": [
@@ -1383,6 +1684,26 @@
           "dur": 57,
           "site": "B站",
           "brief": "军事科普：乌克兰第36海军陆战旅防空部队猎杀敌方无人机"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·14秒",
+          "url": "https://m.iqiyi.com/v_1079cohwmhw.html",
+          "dur": 14,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·14秒",
+          "tvid": "3793943650577800",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_ptgwsbfpck.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "2574651562094200",
+          "orient": "h"
         }
       ],
       "ai": [
@@ -1566,26 +1887,6 @@
           "brief": "科学家故事：科学家赵九章的故事"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·12秒",
-          "url": "https://m.iqiyi.com/v_y7q7suafog.html",
-          "dur": 12,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·12秒",
-          "tvid": "3427353858165900",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·13秒",
-          "url": "https://m.iqiyi.com/v_1v2e6a8kjfw.html",
-          "dur": 13,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·13秒",
-          "tvid": "6834152213350400",
-          "orient": "h"
-        }
-      ],
       "military": [
         {
           "title": "04 优秀的坦克T-34坦克",
@@ -1620,7 +1921,8 @@
           "dur": 265,
           "site": "科普中国",
           "brief": "军事科普：轮上安全：汽车兵如何应对驾驶疲劳？",
-          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071922212391377675711614.mp4"
+          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071922212391377675711614.mp4",
+          "orient": "h"
         },
         {
           "title": "高原砺刃 预防失能——决胜生命禁区",
@@ -1629,6 +1931,26 @@
           "site": "科普中国",
           "brief": "军事科普：高原砺刃 预防失能——决胜生命禁区",
           "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071713533311468074079551.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·12秒",
+          "url": "https://m.iqiyi.com/v_y7q7suafog.html",
+          "dur": 12,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·12秒",
+          "tvid": "3427353858165900",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·13秒",
+          "url": "https://m.iqiyi.com/v_1v2e6a8kjfw.html",
+          "dur": 13,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·13秒",
+          "tvid": "6834152213350400",
           "orient": "h"
         }
       ],
@@ -1848,26 +2170,6 @@
           "brief": "科学家故事：传承任老总风范 共绘液体动力发展蓝图 | 六院举办纪念任新民诞辰110周年暨中国航天液体动力高质量发展座谈会"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·26秒",
-          "url": "https://m.iqiyi.com/v_n554kkvv58.html",
-          "dur": 26,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·26秒",
-          "tvid": "2301113008256000",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·26秒",
-          "url": "https://m.iqiyi.com/v_11p6l43dwsk.html",
-          "dur": 26,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·26秒",
-          "tvid": "3922290186210600",
-          "orient": "h"
-        }
-      ],
       "military": [
         {
           "title": "01 军事武器知多少 先导片",
@@ -1912,6 +2214,26 @@
           "site": "科普中国",
           "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
           "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·26秒",
+          "url": "https://m.iqiyi.com/v_n554kkvv58.html",
+          "dur": 26,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·26秒",
+          "tvid": "2301113008256000",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·26秒",
+          "url": "https://m.iqiyi.com/v_11p6l43dwsk.html",
+          "dur": 26,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·26秒",
+          "tvid": "3922290186210600",
           "orient": "h"
         }
       ],
@@ -2077,7 +2399,8 @@
           "url": "https://www.bilibili.com/video/BV1ueHe6eEPt",
           "dur": 108,
           "site": "B站",
-          "brief": "语文：3-6岁成语启蒙 | 看动画搞定孩子“半途而废”的坏习惯"
+          "brief": "语文：3-6岁成语启蒙 | 看动画搞定孩子“半途而废”的坏习惯",
+          "orient": "v"
         }
       ],
       "scientist": [
@@ -2131,26 +2454,6 @@
           "brief": "科学家故事：23年了！杨利伟再忆首飞太空：“那一刻我以为我要牺牲了”"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·14秒",
-          "url": "https://m.iqiyi.com/v_20qcj7tsi18.html",
-          "dur": 14,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·14秒",
-          "tvid": "7401283467629600",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_10divgiye6s.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "3776296001804600",
-          "orient": "h"
-        }
-      ],
       "military": [
         {
           "title": "08 可怕的海战武器U型潜艇",
@@ -2198,6 +2501,26 @@
           "orient": "h"
         }
       ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·14秒",
+          "url": "https://m.iqiyi.com/v_20qcj7tsi18.html",
+          "dur": 14,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·14秒",
+          "tvid": "7401283467629600",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_10divgiye6s.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "3776296001804600",
+          "orient": "h"
+        }
+      ],
       "ai": [
         {
           "title": "🤖太初AI机器人公园｜长治国庆新打卡点 适合少儿科技研学，各式各样智能机器人可以互动体验，近距离感受前沿AI科技。 国庆遛娃新选择，一边玩一边学，点燃小朋友的",
@@ -2211,15 +2534,15 @@
           "url": "https://www.bilibili.com/video/BV1zzHz6vE2w",
           "dur": 131,
           "site": "B站",
-          "brief": "AI科技：月球深处，遇到外星人发生冲突~抢夺资源…具体发生了什么，结局怎么样？东方传承的小龙龙会告诉你~",
-          "orient": "v"
+          "brief": "AI科技：月球深处，遇到外星人发生冲突~抢夺资源…具体发生了什么，结局怎么样？东方传承的小龙龙会告诉你~"
         },
         {
           "title": "【远古时代装机猿】弹幕：镁光说AI泡沫破裂内存也不降，因为他们说每个人形机器人都要超过200G的内存，真假?",
           "url": "https://www.bilibili.com/video/BV17NHr6qEvk",
           "dur": 167,
           "site": "B站",
-          "brief": "AI科技：【远古时代装机猿】弹幕：镁光说AI泡沫破裂内存也不降，因为他们说每个人形机器人都要超过200G的内存，真假?"
+          "brief": "AI科技：【远古时代装机猿】弹幕：镁光说AI泡沫破裂内存也不降，因为他们说每个人形机器人都要超过200G的内存，真假?",
+          "orient": "h"
         },
         {
           "title": "会思考、懂清洁更懂你的AI智能管家云鲸逍遥003重磅来袭",
@@ -2415,26 +2738,6 @@
           "brief": "科学家故事：【家国君子】坐地巡天寻星人——张钰哲"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·24秒",
-          "url": "https://m.iqiyi.com/v_q2v1t3dggg.html",
-          "dur": 24,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·24秒",
-          "tvid": "2565827737730300",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1h943e8lhf4.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "5422340321385500",
-          "orient": "h"
-        }
-      ],
       "military": [
         {
           "title": "01 军事武器知多少 先导片",
@@ -2479,6 +2782,26 @@
           "site": "科普中国",
           "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
           "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·24秒",
+          "url": "https://m.iqiyi.com/v_q2v1t3dggg.html",
+          "dur": 24,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·24秒",
+          "tvid": "2565827737730300",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_1h943e8lhf4.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "5422340321385500",
           "orient": "h"
         }
       ],
@@ -2674,8 +2997,7 @@
           "url": "https://www.bilibili.com/video/BV1h9Jp6PEVC",
           "dur": 137,
           "site": "B站",
-          "brief": "科学家故事：",
-          "orient": "h"
+          "brief": "科学家故事："
         },
         {
           "title": "1999年10月，任新民、黄纬禄、屠守锷、杨嘉墀、王希季和孙家栋在获得“两弹一星”功勋奖章时在人民大会堂前留下珍贵合影。他们均为“两弹一星”功勋奖章获得者。",
@@ -2697,26 +3019,6 @@
           "dur": 224,
           "site": "B站",
           "brief": "科学家故事：中国航天发展历程第二十一期——两弹一星元勋-屠守锷"
-        }
-      ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_ban6zbli3k.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "1238243259753100",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_18wcq1lp9ls.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "4580868347138700",
-          "orient": "h"
         }
       ],
       "military": [
@@ -2763,6 +3065,26 @@
           "site": "科普中国",
           "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
           "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_ban6zbli3k.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "1238243259753100",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_18wcq1lp9ls.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "4580868347138700",
           "orient": "h"
         }
       ],
@@ -2852,7 +3174,8 @@
           "url": "https://www.bilibili.com/video/BV1sya16QED5",
           "dur": 69,
           "site": "B站",
-          "brief": "重大工程：世纪工程平陆运河！"
+          "brief": "重大工程：世纪工程平陆运河！",
+          "orient": "h"
         },
         {
           "title": "港珠澳大桥介绍和港珠澳大桥海底隧道介绍",
@@ -2898,7 +3221,8 @@
           "url": "https://www.bilibili.com/video/BV1vFYN6WEH8",
           "dur": 33,
           "site": "B站",
-          "brief": "大国重器：【测一测未来太空职业？】中国（滨州）航天文化体验中心中秋节盛大开业，每个职业都是祖国需要的职业……"
+          "brief": "大国重器：【测一测未来太空职业？】中国（滨州）航天文化体验中心中秋节盛大开业，每个职业都是祖国需要的职业……",
+          "orient": "v"
         },
         {
           "title": "【国庆镜头里的美好】中国（滨州）航天文化体验中心中秋节盛大开业，遇见外星小姐姐跳迪斯科……",
@@ -2982,26 +3306,6 @@
           "brief": "科学家故事：致敬“卫星之父”孙家栋，没有他，我们可能连手机都玩不了!"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·26秒",
-          "url": "https://m.iqiyi.com/v_ol606ave6k.html",
-          "dur": 26,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·26秒",
-          "tvid": "2439085533797600",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·10秒",
-          "url": "https://m.iqiyi.com/v_14xy15vkjdk.html",
-          "dur": 10,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·10秒",
-          "tvid": "4134864135882100",
-          "orient": "h"
-        }
-      ],
       "military": [
         {
           "title": "01 军事武器知多少 先导片",
@@ -3046,6 +3350,26 @@
           "site": "科普中国",
           "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
           "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·26秒",
+          "url": "https://m.iqiyi.com/v_ol606ave6k.html",
+          "dur": 26,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·26秒",
+          "tvid": "2439085533797600",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·10秒",
+          "url": "https://m.iqiyi.com/v_14xy15vkjdk.html",
+          "dur": 10,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·10秒",
+          "tvid": "4134864135882100",
           "orient": "h"
         }
       ],
@@ -3241,7 +3565,8 @@
           "url": "https://www.bilibili.com/video/BV1NKaP6qEHd",
           "dur": 40,
           "site": "B站",
-          "brief": "科学家故事：广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星"
+          "brief": "科学家故事：广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星",
+          "orient": "v"
         },
         {
           "title": "钱学森在当今是什么水平，天才只是见他的门槛！",
@@ -3263,26 +3588,6 @@
           "dur": 482,
           "site": "B站",
           "brief": "科学家故事：【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版"
-        }
-      ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1eowqex23fk.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "5135967113621900",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_afx80vyaeo.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "1040108295409500",
-          "orient": "h"
         }
       ],
       "military": [
@@ -3329,6 +3634,26 @@
           "site": "科普中国",
           "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
           "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_1eowqex23fk.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "5135967113621900",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_afx80vyaeo.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "1040108295409500",
           "orient": "h"
         }
       ],
@@ -3524,7 +3849,8 @@
           "url": "https://www.bilibili.com/video/BV1NKaP6qEHd",
           "dur": 40,
           "site": "B站",
-          "brief": "科学家故事：广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星"
+          "brief": "科学家故事：广州正佳广场上大分！袁隆平、钱学森等科学家亮相大屏C位，网友：这才是我们该追的星",
+          "orient": "v"
         },
         {
           "title": "钱学森在当今是什么水平，天才只是见他的门槛！",
@@ -3538,7 +3864,8 @@
           "url": "https://www.bilibili.com/video/BV1AX4y1G7gW",
           "dur": 296,
           "site": "B站",
-          "brief": "科学家故事：“什么科学无国界？！好笑！真是！钱学森要回国都关了三年，你说无国界？！”"
+          "brief": "科学家故事：“什么科学无国界？！好笑！真是！钱学森要回国都关了三年，你说无国界？！”",
+          "orient": "h"
         },
         {
           "title": "【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版",
@@ -3546,26 +3873,6 @@
           "dur": 482,
           "site": "B站",
           "brief": "科学家故事：【画啦啦小灯塔课堂】-钱学森-中华名人故事记动画版"
-        }
-      ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1cexu0wyhdg.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "4799859623570200",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_adc3tkaiv8.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "1064975436657000",
-          "orient": "h"
         }
       ],
       "military": [
@@ -3612,6 +3919,26 @@
           "site": "科普中国",
           "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
           "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_1cexu0wyhdg.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "4799859623570200",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_adc3tkaiv8.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "1064975436657000",
           "orient": "h"
         }
       ],
@@ -3722,250 +4049,7 @@
           "url": "https://www.bilibili.com/video/BV161aE6TEXC",
           "dur": 53,
           "site": "B站",
-          "brief": "重大工程：以防你没不懂平陆运河",
-          "orient": "h"
-        }
-      ]
-    },
-    "2026-09-28": {
-      "weapon": [
-        {
-          "title": "Juno:New Origins 长征六号甲运载火箭",
-          "url": "https://www.bilibili.com/video/BV18Eaq6qEfn",
-          "dur": 37,
-          "site": "B站",
-          "brief": "大国重器：Juno:New Origins 长征六号甲运载火箭"
-        },
-        {
-          "title": "筑梦空间站 天舟六号货运飞船发射特别报道",
-          "url": "https://tv.cctv.com/2023/06/30/VIDAElYzRGYTHl6UxL8uOslt230630.shtml",
-          "dur": null,
-          "site": "央视",
-          "brief": "大国重器：筑梦空间站 天舟六号货运飞船发射特别报道"
-        },
-        {
-          "title": "「箭起新征程」神秘的长征九号运载火箭",
-          "url": "https://www.bilibili.com/video/BV1Uba862EzL",
-          "dur": 531,
-          "site": "B站",
-          "brief": "大国重器：「箭起新征程」神秘的长征九号运载火箭"
-        },
-        {
-          "title": "未来巨型空间站与飞船 驶向银河边缘",
-          "url": "https://www.bilibili.com/video/BV1Dfaq6gEZ2",
-          "dur": 589,
-          "site": "B站",
-          "brief": "大国重器：未来巨型空间站与飞船 驶向银河边缘"
-        },
-        {
-          "title": "难度堪比外科手术+空间站对接+手机贴膜",
-          "url": "https://www.bilibili.com/video/BV1iAaq6mEiL",
-          "dur": 135,
-          "site": "B站",
-          "brief": "大国重器：难度堪比外科手术+空间站对接+手机贴膜"
-        }
-      ],
-      "edu_chinese": [
-        {
-          "title": "一人之手妄图遮蔽青天可千千万万百姓抬眼，真相从来藏不住一手遮天，遮不住天下目众手成林，撑得起一片天",
-          "url": "https://www.bilibili.com/video/BV1BDaa6gEfS",
-          "dur": 90,
-          "site": "B站",
-          "brief": "语文：一人之手妄图遮蔽青天可千千万万百姓抬眼，真相从来藏不住一手遮天，遮不住天下目众手成林，撑得起一片天"
-        },
-        {
-          "title": "守株待兔 成语故事，儿童简单动画故事，孩子学知识、懂道理。",
-          "url": "https://www.bilibili.com/video/BV1Ssa86JEjn",
-          "dur": 98,
-          "site": "B站",
-          "brief": "语文：守株待兔 成语故事，儿童简单动画故事，孩子学知识、懂道理。"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "杰出的科学家，国之栋梁，中华民族的脊梁",
-          "url": "https://www.bilibili.com/video/BV1fcaN6fEFe",
-          "dur": 44,
-          "site": "B站",
-          "brief": "今日科学家·邓稼先：杰出的科学家，国之栋梁，中华民族的脊梁"
-        }
-      ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1ahbhqqs4o8.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "4697182395023300",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·19秒",
-          "url": "https://m.iqiyi.com/v_160r3oj8a9k.html",
-          "dur": 19,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
-          "tvid": "4323373109956500",
-          "orient": "h"
-        }
-      ],
-      "military": [
-        {
-          "title": "01 军事武器知多少 先导片",
-          "url": "https://m.iqiyi.com/v_1iiks0hovto.html",
-          "dur": 90,
-          "site": "爱奇艺",
-          "brief": "军事科普：01 军事武器知多少 先导片",
-          "tvid": "5593201645932400",
-          "orient": "h"
-        },
-        {
-          "title": "07可怕的海战武器U型潜艇",
-          "url": "https://m.iqiyi.com/v_xcg9yn0pnc.html",
-          "dur": 143,
-          "site": "爱奇艺",
-          "brief": "军事科普：07可怕的海战武器U型潜艇",
-          "tvid": "3515592100427700",
-          "orient": "h"
-        },
-        {
-          "title": "“深海幽灵”出没！无人潜航器悄然改写海战规则",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=737450",
-          "dur": 186,
-          "site": "科普中国",
-          "brief": "军事科普：“深海幽灵”出没！无人潜航器悄然改写海战规则",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4",
-          "orient": "h"
-        },
-        {
-          "title": "一张贴纸骗过AI：蜂群的“死穴”与反杀",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=735651",
-          "dur": 195,
-          "site": "科普中国",
-          "brief": "军事科普：一张贴纸骗过AI：蜂群的“死穴”与反杀",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026090810071931893117017225.mp4",
-          "orient": "h"
-        },
-        {
-          "title": "AI僚机如何为飞行员保驾护航？",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=733251",
-          "dur": 259,
-          "site": "科普中国",
-          "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
-          "orient": "h"
-        }
-      ],
-      "ai": [
-        {
-          "title": "最新版AIBI开箱使用教程",
-          "url": "https://www.bilibili.com/video/BV1Bdae6yEMw",
-          "dur": 160,
-          "site": "B站",
-          "brief": "AI科技：最新版AIBI开箱使用教程"
-        },
-        {
-          "title": "戴森新品AI机器人，智能导航，干湿一体_首购期送价值630元服务大礼包[色]",
-          "url": "https://www.bilibili.com/video/BV1sMaB6PEmr",
-          "dur": 51,
-          "site": "B站",
-          "brief": "AI科技：戴森新品AI机器人，智能导航，干湿一体_首购期送价值630元服务大礼包[色]"
-        },
-        {
-          "title": "AI生成视频:机器人跳舞",
-          "url": "https://www.bilibili.com/video/BV1mHaq6vEuy",
-          "dur": 51,
-          "site": "B站",
-          "brief": "AI科技：AI生成视频:机器人跳舞"
-        },
-        {
-          "title": "AI集体造反了？机器人踢人事件是怎么回事",
-          "url": "https://www.bilibili.com/video/BV1Byaq6SE8L",
-          "dur": 31,
-          "site": "B站",
-          "brief": "AI科技：AI集体造反了？机器人踢人事件是怎么回事",
-          "orient": "v"
-        },
-        {
-          "title": "aibi口袋机器人AI版桌面emo宠物机器人ESP32主控小智ai机器人购买-7607501620402404709",
-          "url": "https://www.bilibili.com/video/BV1LDaq61EMX",
-          "dur": 144,
-          "site": "B站",
-          "brief": "AI科技：aibi口袋机器人AI版桌面emo宠物机器人ESP32主控小智ai机器人购买-7607501620402404709"
-        }
-      ],
-      "edu_science": [
-        {
-          "title": "奇妙身体实验室",
-          "url": "https://m.iqiyi.com/v_2e4eod47iow.html",
-          "dur": 124,
-          "site": "爱奇艺",
-          "brief": "自然科学：奇妙身体实验室",
-          "tvid": "8839566832325900",
-          "orient": "h"
-        },
-        {
-          "title": "01 病毒先导片",
-          "url": "https://m.iqiyi.com/v_uf7dtph0wo.html",
-          "dur": 96,
-          "site": "爱奇艺",
-          "brief": "自然科学：01 病毒先导片",
-          "tvid": "2972525821598900",
-          "orient": "h"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "1~6年级数学重点思维题合集|电子版资料【无偿分享】",
-          "url": "https://www.bilibili.com/video/BV1okac6LEGz",
-          "dur": 50,
-          "site": "B站",
-          "brief": "数学：1~6年级数学重点思维题合集|电子版资料【无偿分享】"
-        },
-        {
-          "title": "认识钟表说课课件ppt模板 人教版小学数学一年级上册 新版数学课件小学数学说课比赛小学数学说课模板",
-          "url": "https://www.bilibili.com/video/BV12DY56gE6Q",
-          "dur": 66,
-          "site": "B站",
-          "brief": "数学：认识钟表说课课件ppt模板 人教版小学数学一年级上册 新版数学课件小学数学说课比赛小学数学说课模板"
-        }
-      ],
-      "project": [
-        {
-          "title": "算力即国力！央视《超级工程》揭秘国家超算互联网核心节点的创新与时代精神",
-          "url": "https://www.bilibili.com/video/BV1xKaB6vE8p",
-          "dur": 40,
-          "site": "B站",
-          "brief": "重大工程：算力即国力！央视《超级工程》揭秘国家超算互联网核心节点的创新与时代精神"
-        },
-        {
-          "title": "通航满一周，平陆运河水上客运首发火爆",
-          "url": "https://www.bilibili.com/video/BV1FTaa66EPm",
-          "dur": 284,
-          "site": "B站",
-          "brief": "重大工程：通航满一周，平陆运河水上客运首发火爆"
-        },
-        {
-          "title": "通航满一周，平陆运河水上客运首发火爆！",
-          "url": "https://www.bilibili.com/video/BV1B6av6yEeE",
-          "dur": 284,
-          "site": "B站",
-          "brief": "重大工程：通航满一周，平陆运河水上客运首发火爆！"
-        },
-        {
-          "title": "沐肆洲小课堂中音榜——纪录片《超级工程——曙光8000》",
-          "url": "https://www.bilibili.com/video/BV1Tkai6AE5o",
-          "dur": 33,
-          "site": "B站",
-          "brief": "重大工程：沐肆洲小课堂中音榜——纪录片《超级工程——曙光8000》"
-        },
-        {
-          "title": "【新思想·26秋季】第六章 推动高质量发展 “世纪工程”平陆运河 打通发展“大动脉”、“新新三样”跑出中国创新加速度、China Haul",
-          "url": "https://www.bilibili.com/video/BV1gpa86QEpz",
-          "dur": 133,
-          "site": "B站",
-          "brief": "重大工程：【新思想·26秋季】第六章 推动高质量发展 “世纪工程”平陆运河 打通发展“大动脉”、“新新三样”跑出中国创新加速度、China Haul"
+          "brief": "重大工程：以防你没不懂平陆运河"
         }
       ]
     }
