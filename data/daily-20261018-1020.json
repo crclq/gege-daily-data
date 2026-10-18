@@ -1,0 +1,4893 @@
+{
+  "generated": "2026-10-18 10:20",
+  "cats": [
+    {
+      "key": "cctv_live",
+      "name": "央视直播",
+      "icon": "📺",
+      "color": "#D63031",
+      "desc": "央视频道直播大全",
+      "group": "news"
+    },
+    {
+      "key": "military",
+      "name": "军事",
+      "icon": "🛡",
+      "color": "#E5484D",
+      "desc": "国防军事科普",
+      "group": "news"
+    },
+    {
+      "key": "ai",
+      "name": "AI科技",
+      "icon": "🤖",
+      "color": "#4C6FFF",
+      "desc": "人工智能小知识",
+      "group": "news"
+    },
+    {
+      "key": "weapon",
+      "name": "大国重器",
+      "icon": "🚀",
+      "color": "#F5A623",
+      "desc": "航天与尖端装备",
+      "group": "news"
+    },
+    {
+      "key": "project",
+      "name": "重大工程",
+      "icon": "🏗",
+      "color": "#12A594",
+      "desc": "超级工程揭秘",
+      "group": "news"
+    }
+  ],
+  "edu": [
+    {
+      "key": "mech",
+      "name": "机械原理",
+      "icon": "⚙"
+    },
+    {
+      "key": "scientist",
+      "name": "科学家故事",
+      "icon": "🔬"
+    },
+    {
+      "key": "edu_chinese",
+      "name": "语文",
+      "icon": "📖"
+    },
+    {
+      "key": "edu_math",
+      "name": "数学",
+      "icon": "➗"
+    },
+    {
+      "key": "edu_english",
+      "name": "英语",
+      "icon": "🔤"
+    },
+    {
+      "key": "edu_science",
+      "name": "自然科学",
+      "icon": "🧪"
+    },
+    {
+      "key": "edu_recommend",
+      "name": "每日推荐",
+      "icon": "⭐"
+    }
+  ],
+  "dates": [
+    "2026-10-18",
+    "2026-10-17",
+    "2026-10-16",
+    "2026-10-15",
+    "2026-10-14",
+    "2026-10-13",
+    "2026-10-12",
+    "2026-10-11",
+    "2026-10-10",
+    "2026-10-09",
+    "2026-10-08",
+    "2026-10-07",
+    "2026-10-06",
+    "2026-10-05"
+  ],
+  "data": {
+    "2026-10-18": {
+      "weapon": [
+        {
+          "title": "刘洋定制空间站（前两天忘发了）",
+          "url": "https://www.bilibili.com/video/BV1VUnM6NEfd",
+          "dur": 114,
+          "site": "B站",
+          "brief": "大国重器：刘洋定制空间站（前两天忘发了）"
+        },
+        {
+          "title": "航母专家于北辰 他们没有飞机 是马蜂窝",
+          "url": "https://www.bilibili.com/video/BV185nM6tERz",
+          "dur": 112,
+          "site": "B站",
+          "brief": "大国重器：航母专家于北辰 他们没有飞机 是马蜂窝"
+        },
+        {
+          "title": "拿下约塞米蒂号战列舰（美缴武藏）（航母先不搞了，把她搞下来了）",
+          "url": "https://www.bilibili.com/video/BV1tEnM6REBL",
+          "dur": 46,
+          "site": "B站",
+          "brief": "大国重器：拿下约塞米蒂号战列舰（美缴武藏）（航母先不搞了，把她搞下来了）"
+        },
+        {
+          "title": "F35C首次上福特级航母，肯尼迪号可以了，一号舰为啥还不行？",
+          "url": "https://www.bilibili.com/video/BV1b7nM6xEAT",
+          "dur": 249,
+          "site": "B站",
+          "brief": "大国重器：F35C首次上福特级航母，肯尼迪号可以了，一号舰为啥还不行？"
+        },
+        {
+          "title": "10月18日引资攒美元 印度死扛卢比汇率 印度怪东大不让牛肉入境 日方扬言监控东大航母 用机器人守朝韩边境? 法国单干ACF六代机 英国筹备向乌克兰派兵",
+          "url": "https://www.bilibili.com/video/BV1GQnM6AEoZ",
+          "dur": 223,
+          "site": "B站",
+          "brief": "大国重器：10月18日引资攒美元 印度死扛卢比汇率 印度怪东大不让牛肉入境 日方扬言监控东大航母 用机器人守朝韩边境? 法国单干ACF六代机 英国筹备向乌克兰派兵"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "晚安故事｜画饼充饥（成语故事·睡前原文朗读）",
+          "url": "https://www.bilibili.com/video/BV13gnM6cE5e",
+          "dur": 92,
+          "site": "B站",
+          "brief": "语文：晚安故事｜画饼充饥（成语故事·睡前原文朗读）"
+        },
+        {
+          "title": "《自相矛盾》带孩子看懂成语",
+          "url": "https://www.bilibili.com/video/BV1LEJ96bEtz",
+          "dur": 91,
+          "site": "B站",
+          "brief": "语文：《自相矛盾》带孩子看懂成语"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "共和国的女科学家系列之——半导体之母谢希德",
+          "url": "https://www.bilibili.com/video/BV1wN4y1G74d",
+          "dur": 353,
+          "site": "B站",
+          "brief": "今日科学家·谢希德：共和国的女科学家系列之——半导体之母谢希德"
+        }
+      ],
+      "military": [
+        {
+          "title": "军用复合弓",
+          "url": "https://m.iqiyi.com/v_w1hzf4csko.html",
+          "dur": 219,
+          "site": "爱奇艺",
+          "brief": "军事科普：军用复合弓",
+          "tvid": "3372004414639300",
+          "orient": "h"
+        },
+        {
+          "title": "手枪：沙漠之鹰",
+          "url": "https://m.iqiyi.com/v_2d6x3xin2gk.html",
+          "dur": 207,
+          "site": "爱奇艺",
+          "brief": "军事科普：手枪：沙漠之鹰",
+          "tvid": "8664694677779800",
+          "orient": "h"
+        },
+        {
+          "title": "俄罗斯防空系统发射导弹，试图拦截空中目标。列宁格勒州 / 圣彼得堡",
+          "url": "https://www.bilibili.com/video/BV1uGnM6fERH",
+          "dur": 197,
+          "site": "B站",
+          "brief": "军事科普：俄罗斯防空系统发射导弹，试图拦截空中目标。列宁格勒州 / 圣彼得堡"
+        },
+        {
+          "title": "装药最少的串联破甲反坦克导弹，具备射后不管的功能",
+          "url": "https://www.bilibili.com/video/BV1a3nM68EVS",
+          "dur": 69,
+          "site": "B站",
+          "brief": "军事科普：装药最少的串联破甲反坦克导弹，具备射后不管的功能"
+        },
+        {
+          "title": "男人开直升飞机没预料这么远的距离都能触发防空导弹，于是他果断选择了跳机这下他的队友可惨了",
+          "url": "https://www.bilibili.com/video/BV1GQnM6AEB8",
+          "dur": 45,
+          "site": "B站",
+          "brief": "军事科普：男人开直升飞机没预料这么远的距离都能触发防空导弹，于是他果断选择了跳机这下他的队友可惨了"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_1hgr5qecqoo.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "5418329492029300",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_2atimmjedgc.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "tvid": "8326180690018800",
+          "orient": "h"
+        }
+      ],
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "ai": [
+        {
+          "title": "【已失效】小米（MI）Xiaomi智能音箱音响 灰 超级小爱智能音箱 AI大模型问答 连续指令语控 支持远程备车 小米蓝牙音箱",
+          "url": "https://www.bilibili.com/video/BV16Lnu61EoP",
+          "dur": 111,
+          "site": "B站",
+          "brief": "AI科技：【已失效】小米（MI）Xiaomi智能音箱音响 灰 超级小爱智能音箱 AI大模型问答 连续指令语控 支持远程备车 小米蓝牙音箱"
+        },
+        {
+          "title": "台媒：新加坡推“AI机器人警察” 2028执勤搜爆救灾",
+          "url": "https://www.bilibili.com/video/BV1GVJB62ESy",
+          "dur": 146,
+          "site": "B站",
+          "brief": "AI科技：台媒：新加坡推“AI机器人警察” 2028执勤搜爆救灾"
+        },
+        {
+          "title": "【AI练习向】蒸汽控制论下的少女与机器人",
+          "url": "https://www.bilibili.com/video/BV18qJq63ERg",
+          "dur": 78,
+          "site": "B站",
+          "brief": "AI科技：【AI练习向】蒸汽控制论下的少女与机器人"
+        },
+        {
+          "title": "[TIFR]人形下一个机器人",
+          "url": "https://www.bilibili.com/video/BV1ZznM6gEFw",
+          "dur": 192,
+          "site": "B站",
+          "brief": "AI科技：[TIFR]人形下一个机器人"
+        },
+        {
+          "title": "只给一个模糊目标，AI真能自己进化吗？Aspire揭示大模型“会训练，不等于会变强”",
+          "url": "https://www.bilibili.com/video/BV1LjWc69EtL",
+          "dur": 268,
+          "site": "B站",
+          "brief": "AI科技：只给一个模糊目标，AI真能自己进化吗？Aspire揭示大模型“会训练，不等于会变强”"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "我们身上的毛发有什么用？",
+          "url": "https://m.iqiyi.com/v_1k5zd5rey60.html",
+          "dur": 242,
+          "site": "爱奇艺",
+          "brief": "自然科学：我们身上的毛发有什么用？",
+          "tvid": "5689461548385300",
+          "orient": "h"
+        },
+        {
+          "title": "放屁的气体从哪里来？",
+          "url": "https://m.iqiyi.com/v_pjedruf5zk.html",
+          "dur": 216,
+          "site": "爱奇艺",
+          "brief": "自然科学：放屁的气体从哪里来？",
+          "tvid": "2607540361503100",
+          "orient": "h"
+        }
+      ],
+      "mech": [
+        {
+          "title": "3D动画演示各种手扶电梯的工作原理，看视频就可以看懂，声音不重要",
+          "url": "https://www.bilibili.com/video/BV1uf4y137rB",
+          "dur": 287,
+          "site": "B站",
+          "brief": "机械原理：3D动画演示各种手扶电梯的工作原理，看视频就可以看懂，声音不重要"
+        },
+        {
+          "title": "4分钟了解密码锁的工作原理［3D动画］",
+          "url": "https://www.bilibili.com/video/BV1ou4m1P78H",
+          "dur": 262,
+          "site": "B站",
+          "brief": "机械原理：4分钟了解密码锁的工作原理［3D动画］"
+        },
+        {
+          "title": "齿轮传动的九大类型，3D动画让你一看就懂",
+          "url": "https://www.bilibili.com/video/BV1Qh4y1B7px",
+          "dur": 182,
+          "site": "B站",
+          "brief": "机械原理：齿轮传动的九大类型，3D动画让你一看就懂"
+        },
+        {
+          "title": "【心脏Engine】3D动画演示汽车发动机工作原理",
+          "url": "https://www.bilibili.com/video/BV17t4y1k73v",
+          "dur": 177,
+          "site": "B站",
+          "brief": "机械原理：【心脏Engine】3D动画演示汽车发动机工作原理"
+        },
+        {
+          "title": "3D动画了解滚筒与波轮洗衣机的工作原理，它们各有什么优缺点",
+          "url": "https://www.bilibili.com/video/BV1rcYKzQEMN",
+          "dur": 525,
+          "site": "B站",
+          "brief": "机械原理：3D动画了解滚筒与波轮洗衣机的工作原理，它们各有什么优缺点"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "数字气球 次方 数字积木 数学英语动画 加减法",
+          "url": "https://www.bilibili.com/video/BV1CMJv6pE9f",
+          "dur": 281,
+          "site": "B站",
+          "brief": "数学：数字气球 次方 数字积木 数学英语动画 加减法"
+        },
+        {
+          "title": "你以为的难题其实很简单！掌握逆向思考，数学问题迎刃而解。",
+          "url": "https://www.bilibili.com/video/BV1GsJy6YEW1",
+          "dur": 37,
+          "site": "B站",
+          "brief": "数学：你以为的难题其实很简单！掌握逆向思考，数学问题迎刃而解。"
+        }
+      ],
+      "project": [
+        {
+          "title": "港珠澳大桥沉管隧道，为什么滴水不漏？看完你才知道有多厉害",
+          "url": "https://www.bilibili.com/video/BV1QNJC64E8Y",
+          "dur": 221,
+          "site": "B站",
+          "brief": "重大工程：港珠澳大桥沉管隧道，为什么滴水不漏？看完你才知道有多厉害"
+        },
+        {
+          "title": "国家“六张网”加速系统推进 南水北调智能运行亮相央视",
+          "url": "https://www.bilibili.com/video/BV1CdJt6TERZ",
+          "dur": 115,
+          "site": "B站",
+          "brief": "重大工程：国家“六张网”加速系统推进 南水北调智能运行亮相央视"
+        },
+        {
+          "title": "开广西车看广西的世纪工程——平陆运河",
+          "url": "https://www.bilibili.com/video/BV1s7JX6gE84",
+          "dur": 335,
+          "site": "B站",
+          "brief": "重大工程：开广西车看广西的世纪工程——平陆运河"
+        },
+        {
+          "title": "中国铁路最后的红白蓝 WX25K998946 初见 却像永别",
+          "url": "https://www.bilibili.com/video/BV1isJq6JEUJ",
+          "dur": 256,
+          "site": "B站",
+          "brief": "重大工程：中国铁路最后的红白蓝 WX25K998946 初见 却像永别"
+        },
+        {
+          "title": "铁路车次大洗牌 T字头摇身一变成高铁了? 中国铁路新铁路车次编排改革解析与科普",
+          "url": "https://www.bilibili.com/video/BV1E1JB6RE3A",
+          "dur": 454,
+          "site": "B站",
+          "brief": "重大工程：铁路车次大洗牌 T字头摇身一变成高铁了? 中国铁路新铁路车次编排改革解析与科普"
+        }
+      ]
+    },
+    "2026-10-17": {
+      "weapon": [
+        {
+          "title": "高铁上萌娃发现爸爸在后排吃零食，女儿不断探头十分可爱，萌翻了",
+          "url": "https://www.bilibili.com/video/BV1uSJa6ZEGY",
+          "dur": 305,
+          "site": "B站",
+          "brief": "大国重器：高铁上萌娃发现爸爸在后排吃零食，女儿不断探头十分可爱，萌翻了"
+        },
+        {
+          "title": "0时0分，解放军准时封海，中美航母恐要对决，特殊军演拉开帷幕",
+          "url": "https://www.bilibili.com/video/BV1wcJh6kEtM",
+          "dur": 458,
+          "site": "B站",
+          "brief": "大国重器：0时0分，解放军准时封海，中美航母恐要对决，特殊军演拉开帷幕"
+        },
+        {
+          "title": "中国第二艘7万吨级补给舰卫星图揭露，建造速度快的离谱，舰艏、舰尾各加装了一套红旗-10和1130近防炮，未来将配合004核航母征服远洋。",
+          "url": "https://www.bilibili.com/video/BV1VdJ46EE4b",
+          "dur": 480,
+          "site": "B站",
+          "brief": "大国重器：中国第二艘7万吨级补给舰卫星图揭露，建造速度快的离谱，舰艏、舰尾各加装了一套红旗-10和1130近防炮，未来将配合004核航母征服远洋。",
+          "orient": "h"
+        },
+        {
+          "title": "太空电梯被反叛军入侵，中国航天员直接教他们做人",
+          "url": "https://www.bilibili.com/video/BV1ANJY6mEky",
+          "dur": 73,
+          "site": "B站",
+          "brief": "大国重器：太空电梯被反叛军入侵，中国航天员直接教他们做人"
+        },
+        {
+          "title": "今天分享的是《导弹概论手稿》，作者是钱学森。主要讲的是我国导弹事业起步阶段的核心基础理论框架，以及初代航天人对导弹技术体系的梳理与发展思路。它是国内导弹领域极为",
+          "url": "https://www.bilibili.com/video/BV1Bbpz6KEQy",
+          "dur": 62,
+          "site": "B站",
+          "brief": "大国重器：今天分享的是《导弹概论手稿》，作者是钱学森。主要讲的是我国导弹事业起步阶段的核心基础理论框架，以及初代航天人对导弹技术体系的梳理与发展思路。它是国内导弹领域极为"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "幼小衔接课堂趣味学成语、积累词语，在轻松互动里，悄悄储备知识，自信迎接小学✨",
+          "url": "https://www.bilibili.com/video/BV1NQJD6uEhG",
+          "dur": 65,
+          "site": "B站",
+          "brief": "语文：幼小衔接课堂趣味学成语、积累词语，在轻松互动里，悄悄储备知识，自信迎接小学✨"
+        },
+        {
+          "title": "洪恩早教启智识字子集成语拼音思维ABC会员永久包早教启蒙品类推荐",
+          "url": "https://www.bilibili.com/video/BV13zJD67EGY",
+          "dur": 38,
+          "site": "B站",
+          "brief": "语文：洪恩早教启智识字子集成语拼音思维ABC会员永久包早教启蒙品类推荐"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "吴宏鑫院士回忆杨嘉墀对自己科研工作的影响",
+          "url": "https://kxrsbn.casad.cas.cn/2019n/zxsp/201906/t20190604_4950223.html",
+          "dur": 91,
+          "site": "科学人生百年",
+          "brief": "今日科学家·杨嘉墀：吴宏鑫院士回忆杨嘉墀对自己科研工作的影响",
+          "mp4": "https://videozh.cas.cn/masvod/public/2023/07/24/20230724_18987e2d9ae_r36_1200k.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "两弹一星功勋科学家——杨嘉墀",
+          "url": "https://kxrsbn.casad.cas.cn/2019n/zxsp/201905/t20190530_4950208.html",
+          "dur": 1372,
+          "site": "科学人生百年",
+          "brief": "科学家故事：两弹一星功勋科学家——杨嘉墀",
+          "mp4": "https://videozh.cas.cn/masvod/public/2023/07/24/20230724_18987df1e25_r36.mp4",
+          "orient": "h"
+        }
+      ],
+      "military": [
+        {
+          "title": "08 神奇的主教式自行火炮",
+          "url": "https://m.iqiyi.com/v_2anyiq8lxa0.html",
+          "dur": 218,
+          "site": "爱奇艺",
+          "brief": "军事科普： 08 神奇的主教式自行火炮",
+          "tvid": "8346234835340500",
+          "orient": "h"
+        },
+        {
+          "title": "09 千奇百怪的开枪姿势 上",
+          "url": "https://m.iqiyi.com/v_2akiraiviwo.html",
+          "dur": 199,
+          "site": "爱奇艺",
+          "brief": "军事科普：09 千奇百怪的开枪姿势 上",
+          "tvid": "8373508474158100",
+          "orient": "h"
+        },
+        {
+          "title": "5倍音速，大国都在抢的“新制高点”",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=729928",
+          "dur": 196,
+          "site": "科普中国",
+          "brief": "军事科普：5倍音速，大国都在抢的“新制高点”",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/202608210917411571179492893.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "【全站首发|卓越前线附属】雷达制导导弹发布！逆转防空车弱势地位！",
+          "url": "https://www.bilibili.com/video/BV1ycJY6JE2o",
+          "dur": 73,
+          "site": "B站",
+          "brief": "军事科普：【全站首发|卓越前线附属】雷达制导导弹发布！逆转防空车弱势地位！"
+        },
+        {
+          "title": "导弹原地呲花！为啥中亚两国还愿意买印度防空导弹？",
+          "url": "https://www.bilibili.com/video/BV1AxJa65Ech",
+          "dur": 204,
+          "site": "B站",
+          "brief": "军事科普：导弹原地呲花！为啥中亚两国还愿意买印度防空导弹？"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_ibxr1k0zak.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "1944149205630400",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·18秒",
+          "url": "https://m.iqiyi.com/v_k9j4r2yt8w.html",
+          "dur": 18,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·18秒",
+          "tvid": "2034793946427900",
+          "orient": "h"
+        }
+      ],
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "ai": [
+        {
+          "title": "🚀🚗 马斯克放出飞天汽车Roadster！黑科技还是画饼？ x 🤖马斯克宣告人类驾驶时代进入倒计时：未来属于机器人与 AI！",
+          "url": "https://www.bilibili.com/video/BV15iJ86fEBU",
+          "dur": 563,
+          "site": "B站",
+          "brief": "AI科技：🚀🚗 马斯克放出飞天汽车Roadster！黑科技还是画饼？ x 🤖马斯克宣告人类驾驶时代进入倒计时：未来属于机器人与 AI！"
+        },
+        {
+          "title": "SaaS介绍宣传Ai人工智能AE模板 网页网站介绍 步骤图 流程图 节点 走势图 AI机器人聊天对话框",
+          "url": "https://www.bilibili.com/video/BV1teJY6oET8",
+          "dur": 44,
+          "site": "B站",
+          "brief": "AI科技：SaaS介绍宣传Ai人工智能AE模板 网页网站介绍 步骤图 流程图 节点 走势图 AI机器人聊天对话框"
+        },
+        {
+          "title": "日语中日文字幕，个人AI（官方原曲词重置计划2）超级机器人大战莱迪斯《lCE MAN》主题曲，真人演唱。",
+          "url": "https://www.bilibili.com/video/BV1BXJY6yE1b",
+          "dur": 222,
+          "site": "B站",
+          "brief": "AI科技：日语中日文字幕，个人AI（官方原曲词重置计划2）超级机器人大战莱迪斯《lCE MAN》主题曲，真人演唱。"
+        },
+        {
+          "title": "三本配套教材APP近期新增讲解视频真正面向AI时代的电驱教材",
+          "url": "https://www.bilibili.com/video/BV11fJa6DEsk",
+          "dur": 50,
+          "site": "B站",
+          "brief": "AI科技：三本配套教材APP近期新增讲解视频真正面向AI时代的电驱教材"
+        },
+        {
+          "title": "AI时代，机器人工程专业的路径不止有造机器，还有驯智能",
+          "url": "https://www.bilibili.com/video/BV1m8JQ6GENa",
+          "dur": 235,
+          "site": "B站",
+          "brief": "AI科技：AI时代，机器人工程专业的路径不止有造机器，还有驯智能"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "赶不走的流感病毒",
+          "url": "https://m.iqiyi.com/v_1qzx97cmflc.html",
+          "dur": 198,
+          "site": "爱奇艺",
+          "brief": "自然科学：赶不走的流感病毒",
+          "tvid": "6419432469935900",
+          "orient": "h"
+        },
+        {
+          "title": "为什么耳朵可以听见声音？",
+          "url": "https://m.iqiyi.com/v_uabs2rq3zc.html",
+          "dur": 225,
+          "site": "爱奇艺",
+          "brief": "自然科学：为什么耳朵可以听见声音？",
+          "tvid": "2982953978248900",
+          "orient": "h"
+        }
+      ],
+      "mech": [
+        {
+          "title": "【1分钟动画】51单片机温控风扇原理：DS18B20单总线+回差换挡+定时器PWM | 单片机课设",
+          "url": "https://www.bilibili.com/video/BV1soWF6qEar",
+          "dur": 75,
+          "site": "B站",
+          "brief": "机械原理：【1分钟动画】51单片机温控风扇原理：DS18B20单总线+回差换挡+定时器PWM | 单片机课设"
+        },
+        {
+          "title": "[51]3D动画演示“手扶电梯”工作原理和内部结构",
+          "url": "https://www.bilibili.com/video/BV1Tj411E7g2",
+          "dur": 49,
+          "site": "B站",
+          "brief": "机械原理：[51]3D动画演示“手扶电梯”工作原理和内部结构",
+          "orient": "h"
+        },
+        {
+          "title": "波轮洗衣机 动画片制作 建筑动画 动画原理 影视动画 3d动画制作 cg动画 视频动画 原创动画 三维动画广告 动画制作流程 动画渲染 工程动画",
+          "url": "https://www.bilibili.com/video/BV1SX4y1b79Z",
+          "dur": 51,
+          "site": "B站",
+          "brief": "机械原理：波轮洗衣机 动画片制作 建筑动画 动画原理 影视动画 3d动画制作 cg动画 视频动画 原创动画 三维动画广告 动画制作流程 动画渲染 工程动画"
+        },
+        {
+          "title": "拆解水龙头看构造原理",
+          "url": "https://www.bilibili.com/video/BV1Lv4y1F7Se",
+          "dur": 195,
+          "site": "B站",
+          "brief": "机械原理：拆解水龙头看构造原理"
+        },
+        {
+          "title": "高铁齿轮联轴器工作原理3D演示动画",
+          "url": "https://www.bilibili.com/video/BV1t8411t7Md",
+          "dur": 113,
+          "site": "B站",
+          "brief": "机械原理：高铁齿轮联轴器工作原理3D演示动画"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "大班数学公开课《认识人民币》大班数学公开课",
+          "url": "https://www.bilibili.com/video/BV1mvJ962EVf",
+          "dur": 102,
+          "site": "B站",
+          "brief": "数学：大班数学公开课《认识人民币》大班数学公开课"
+        },
+        {
+          "title": "九年级数学-旋转图形的画法",
+          "url": "https://www.bilibili.com/video/BV1bQJa64Eqn",
+          "dur": 122,
+          "site": "B站",
+          "brief": "数学：九年级数学-旋转图形的画法"
+        }
+      ],
+      "project": [
+        {
+          "title": "【韩网民评论】韩媒报道我国48个月修建134公里平陆运河评论区首次见到反思党碾压酸民，赶超党也沉默了",
+          "url": "https://www.bilibili.com/video/BV1juJQ6oE59",
+          "dur": 219,
+          "site": "B站",
+          "brief": "重大工程：【韩网民评论】韩媒报道我国48个月修建134公里平陆运河评论区首次见到反思党碾压酸民，赶超党也沉默了"
+        },
+        {
+          "title": "你好平陆运河 原唱",
+          "url": "https://www.bilibili.com/video/BV1y6JY6XERT",
+          "dur": 208,
+          "site": "B站",
+          "brief": "重大工程：你好平陆运河 原唱"
+        },
+        {
+          "title": "【狂热运输2】⚡直特出现在高速铁路上⚡国铁车次改号前普速列车最后的辉煌",
+          "url": "https://www.bilibili.com/video/BV1s6JY6XESP",
+          "dur": 556,
+          "site": "B站",
+          "brief": "重大工程：【狂热运输2】⚡直特出现在高速铁路上⚡国铁车次改号前普速列车最后的辉煌"
+        },
+        {
+          "title": "沉浸式体验中国最骄傲的港珠澳大桥，全程记录……",
+          "url": "https://www.bilibili.com/video/BV1MgJa6sEUB",
+          "dur": 361,
+          "site": "B站",
+          "brief": "重大工程：沉浸式体验中国最骄傲的港珠澳大桥，全程记录……"
+        },
+        {
+          "title": "铁路车次编排将调整，更高时速动车组新增 X 字头，动车组旅客列车字头增至 7 个，这背后有哪些考量？",
+          "url": "https://www.bilibili.com/video/BV1mKJt6rEDn",
+          "dur": 144,
+          "site": "B站",
+          "brief": "重大工程：铁路车次编排将调整，更高时速动车组新增 X 字头，动车组旅客列车字头增至 7 个，这背后有哪些考量？"
+        }
+      ]
+    },
+    "2026-10-16": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "weapon": [
+        {
+          "title": "货运龙精准对接空间站｜最后几米到硬捕获，CRS-35官方原声纪实",
+          "url": "https://www.bilibili.com/video/BV152J16MEzU",
+          "dur": 277,
+          "site": "B站",
+          "brief": "大国重器：货运龙精准对接空间站｜最后几米到硬捕获，CRS-35官方原声纪实"
+        },
+        {
+          "title": "在外网播放超5000万的视频！据说是宇航员拍摄的在空间站飞船舱外视角，这压迫感与这恐惧感扑面而来啊……",
+          "url": "https://www.bilibili.com/video/BV1XfJQ6pEQN",
+          "dur": 122,
+          "site": "B站",
+          "brief": "大国重器：在外网播放超5000万的视频！据说是宇航员拍摄的在空间站飞船舱外视角，这压迫感与这恐惧感扑面而来啊……"
+        },
+        {
+          "title": "SpaceX 货运龙飞船 CRS-35 的第35次商业补给任务抵达国际空间站",
+          "url": "https://www.bilibili.com/video/BV1GXJ16PEG3",
+          "dur": 327,
+          "site": "B站",
+          "brief": "大国重器：SpaceX 货运龙飞船 CRS-35 的第35次商业补给任务抵达国际空间站"
+        },
+        {
+          "title": "从神舟到天宫，23年问天不止",
+          "url": "https://www.bilibili.com/video/BV19LJQ6QEPg",
+          "dur": 177,
+          "site": "B站",
+          "brief": "大国重器：从神舟到天宫，23年问天不止"
+        },
+        {
+          "title": "中国航天发展七十年经历了什么呢？",
+          "url": "https://www.bilibili.com/video/BV1cfJU6dEpD",
+          "dur": 185,
+          "site": "B站",
+          "brief": "大国重器：中国航天发展七十年经历了什么呢？"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "晚安故事｜拔苗助长（成语故事·睡前原文朗读）",
+          "url": "https://www.bilibili.com/video/BV1kdJU6ZEX6",
+          "dur": 77,
+          "site": "B站",
+          "brief": "语文：晚安故事｜拔苗助长（成语故事·睡前原文朗读）"
+        },
+        {
+          "title": "部编版寓言《狐假虎威》动画短片，看懂核心难点：小动物怕的不是狐狸",
+          "url": "https://www.bilibili.com/video/BV1JZJ26UEnT",
+          "dur": 63,
+          "site": "B站",
+          "brief": "语文：部编版寓言《狐假虎威》动画短片，看懂核心难点：小动物怕的不是狐狸"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "“国家需要就是我们的志愿！”戚发轫院士以亲身经历诠释青年报国使命",
+          "url": "https://www.bilibili.com/video/BV1QuJw6CE4C",
+          "dur": 54,
+          "site": "B站",
+          "brief": "今日科学家·戚发轫：“国家需要就是我们的志愿！”戚发轫院士以亲身经历诠释青年报国使命"
+        },
+        {
+          "title": "《人民日报》人物素材 | 一个人物写遍所有作文——戚发轫：把“卡脖子”清单变成攻坚克难的勋章",
+          "url": "https://www.bilibili.com/video/BV1kgo7BZEVF",
+          "dur": 210,
+          "site": "B站",
+          "brief": "科学家故事：《人民日报》人物素材 | 一个人物写遍所有作文——戚发轫：把“卡脖子”清单变成攻坚克难的勋章"
+        },
+        {
+          "title": "【2020最美教师】87岁的戚发轫院士，依然坚守教学一线",
+          "url": "https://www.bilibili.com/video/BV1Di4y177Mo",
+          "dur": 143,
+          "site": "B站",
+          "brief": "科学家故事：【2020最美教师】87岁的戚发轫院士，依然坚守教学一线"
+        },
+        {
+          "title": "70年，三代人，同一个航天梦！戚发轫院士讲述中国航天人接力不懈的传承！",
+          "url": "https://www.bilibili.com/video/BV1u8oVB8Ey1",
+          "dur": 304,
+          "site": "B站",
+          "brief": "科学家故事：70年，三代人，同一个航天梦！戚发轫院士讲述中国航天人接力不懈的传承！"
+        },
+        {
+          "title": "2020“最美教师”戚发轫院士:立德树人,家国天下",
+          "url": "https://www.bilibili.com/video/BV12V411y7q1",
+          "dur": 472,
+          "site": "B站",
+          "brief": "科学家故事：2020“最美教师”戚发轫院士:立德树人,家国天下"
+        },
+        {
+          "title": "于景元 戚发轫：钱学森编写教材《导弹概论》给我们讲课",
+          "url": "https://www.bilibili.com/video/BV1Zgk3BYEzW",
+          "dur": 88,
+          "site": "B站",
+          "brief": "科学家故事：于景元 戚发轫：钱学森编写教材《导弹概论》给我们讲课"
+        },
+        {
+          "title": "载人火箭唯一女总师，23岁保送进清华，戚发轫：看见她就容易了",
+          "url": "https://www.bilibili.com/video/BV1HUp96UEb9",
+          "dur": 96,
+          "site": "B站",
+          "brief": "科学家故事：载人火箭唯一女总师，23岁保送进清华，戚发轫：看见她就容易了"
+        }
+      ],
+      "military": [
+        {
+          "title": "06 糟糕的坦克 鲍勃森普尔坦克",
+          "url": "https://m.iqiyi.com/v_vmxzclnfj8.html",
+          "dur": 151,
+          "site": "爱奇艺",
+          "brief": "军事科普：06 糟糕的坦克 鲍勃森普尔坦克",
+          "tvid": "3130552493499400",
+          "orient": "h"
+        },
+        {
+          "title": "03 应对狙击手的军事假人",
+          "url": "https://m.iqiyi.com/v_1laqa7qogqg.html",
+          "dur": 213,
+          "site": "爱奇艺",
+          "brief": "军事科普：03 应对狙击手的军事假人",
+          "tvid": "5869146697631700",
+          "orient": "h"
+        },
+        {
+          "title": "歼10系列战机的区别",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=699624",
+          "dur": 131,
+          "site": "科普中国",
+          "brief": "军事科普：歼10系列战机的区别",
+          "mp4": "https://pqnoss.kepuchina.cn/U28144636/videos/2026050510391179493691119277.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "机器狗的正经用途可不是 “扛枪”",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=732293",
+          "dur": 241,
+          "site": "科普中国",
+          "brief": "军事科普：机器狗的正经用途可不是 “扛枪”",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/202608271650595010277266136.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "70年造不出来的发动机",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=730702",
+          "dur": 226,
+          "site": "科普中国",
+          "brief": "军事科普：70年造不出来的发动机",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026082416163248827344056025.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·31秒",
+          "url": "https://m.iqiyi.com/v_x2eeeva6ys.html",
+          "dur": 31,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·31秒",
+          "tvid": "3266920688549800",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_28c99mfrftw.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "8032587989694600",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "AIBI口袋机器人艾比宠物aibi机器人ai人工智能玩具电子",
+          "url": "https://www.bilibili.com/video/BV1JHJD6fEbg",
+          "dur": 246,
+          "site": "B站",
+          "brief": "AI科技：AIBI口袋机器人艾比宠物aibi机器人ai人工智能玩具电子"
+        },
+        {
+          "title": "EA四足机器人（基础版）成品使用",
+          "url": "https://www.bilibili.com/video/BV1pfJD6eE6k",
+          "dur": 233,
+          "site": "B站",
+          "brief": "AI科技：EA四足机器人（基础版）成品使用"
+        },
+        {
+          "title": "ABB机器人打造完整端到端物理AI工作流",
+          "url": "https://www.bilibili.com/video/BV1pdJD6iEdh",
+          "dur": 86,
+          "site": "B站",
+          "brief": "AI科技：ABB机器人打造完整端到端物理AI工作流"
+        },
+        {
+          "title": "Synaptics对话英伟达，探讨物理AI与机器人技术的发展趋势",
+          "url": "https://www.bilibili.com/video/BV1YEJQ6DEuX",
+          "dur": 30,
+          "site": "B站",
+          "brief": "AI科技：Synaptics对话英伟达，探讨物理AI与机器人技术的发展趋势"
+        },
+        {
+          "title": "CCTV13采访刘兴亮：人形机器人为何需要国标？",
+          "url": "https://www.bilibili.com/video/BV1VEJQ6DEVR",
+          "dur": 118,
+          "site": "B站",
+          "brief": "AI科技：CCTV13采访刘兴亮：人形机器人为何需要国标？"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "传奇病毒车轮战",
+          "url": "https://m.iqiyi.com/v_11x8q7u5720.html",
+          "dur": 169,
+          "site": "爱奇艺",
+          "brief": "自然科学：传奇病毒车轮战",
+          "tvid": "3900631708126100",
+          "orient": "h"
+        },
+        {
+          "title": "埃博拉病毒的奇袭",
+          "url": "https://m.iqiyi.com/v_1lsznkcsm18.html",
+          "dur": 188,
+          "site": "爱奇艺",
+          "brief": "自然科学：埃博拉病毒的奇袭",
+          "tvid": "5821016747576800",
+          "orient": "h"
+        }
+      ],
+      "mech": [
+        {
+          "title": "简历必备技能，电梯工作原理，3D动画解析",
+          "url": "https://www.bilibili.com/video/BV18K411Y7vm",
+          "dur": 192,
+          "site": "B站",
+          "brief": "机械原理：简历必备技能，电梯工作原理，3D动画解析"
+        },
+        {
+          "title": "洗衣机究竟是如何工作的？滚筒洗衣机与波轮洗衣机的工作原理 3D动画了解洗衣机的工作原理，滚.....",
+          "url": "https://www.bilibili.com/video/BV1Ds4czuE3b",
+          "dur": 190,
+          "site": "B站",
+          "brief": "机械原理：洗衣机究竟是如何工作的？滚筒洗衣机与波轮洗衣机的工作原理 3D动画了解洗衣机的工作原理，滚....."
+        },
+        {
+          "title": "电动自行车三维动画 cg动画",
+          "url": "https://www.bilibili.com/video/BV1xP411S7Rm",
+          "dur": 176,
+          "site": "B站",
+          "brief": "机械原理：电动自行车三维动画 cg动画"
+        },
+        {
+          "title": "老式黄铜水龙头，3D动画看内部原理，能放出冷热水又是怎么回事",
+          "url": "https://www.bilibili.com/video/BV1YBptz6EGX",
+          "dur": 66,
+          "site": "B站",
+          "brief": "机械原理：老式黄铜水龙头，3D动画看内部原理，能放出冷热水又是怎么回事"
+        },
+        {
+          "title": "特斯拉电动车的工作原理",
+          "url": "https://www.bilibili.com/video/BV1au4m1K7Zv",
+          "dur": 190,
+          "site": "B站",
+          "brief": "机械原理：特斯拉电动车的工作原理"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "华罗庚学校数学课本五年级｜下册02｜不规则图形面积的计算（二）",
+          "url": "https://www.bilibili.com/video/BV1BCJS6RET9",
+          "dur": 72,
+          "site": "B站",
+          "brief": "数学：华罗庚学校数学课本五年级｜下册02｜不规则图形面积的计算（二）"
+        },
+        {
+          "title": "华罗庚学校数学课本五年级｜下册01｜不规则图形面积的计算（一）",
+          "url": "https://www.bilibili.com/video/BV1q1JS6WEh2",
+          "dur": 74,
+          "site": "B站",
+          "brief": "数学：华罗庚学校数学课本五年级｜下册01｜不规则图形面积的计算（一）"
+        }
+      ],
+      "project": [
+        {
+          "title": "广西：“世纪工程”平陆运河通江达海 运河潮起文旅兴",
+          "url": "https://www.bilibili.com/video/BV1ZFJm6jEEj",
+          "dur": 171,
+          "site": "B站",
+          "brief": "重大工程：广西：“世纪工程”平陆运河通江达海 运河潮起文旅兴"
+        },
+        {
+          "title": "稻田里航行的巨轮！平陆运河打通西南低成本出海通道",
+          "url": "https://www.bilibili.com/video/BV1MvJy6dEzN",
+          "dur": 37,
+          "site": "B站",
+          "brief": "重大工程：稻田里航行的巨轮！平陆运河打通西南低成本出海通道"
+        },
+        {
+          "title": "这就是港珠澳大桥！中国人用9年填平伶仃洋的叹息",
+          "url": "https://www.bilibili.com/video/BV1ThJk6DEaB",
+          "dur": 204,
+          "site": "B站",
+          "brief": "重大工程：这就是港珠澳大桥！中国人用9年填平伶仃洋的叹息"
+        },
+        {
+          "title": "平陆运河不是出海，是给内陆开了一扇门",
+          "url": "https://www.bilibili.com/video/BV1jpJ26kEz8",
+          "dur": 271,
+          "site": "B站",
+          "brief": "重大工程：平陆运河不是出海，是给内陆开了一扇门"
+        },
+        {
+          "title": "不止通江达海！平陆运河联手宁德时代打造零碳航道",
+          "url": "https://www.bilibili.com/video/BV1VtJ26uEWF",
+          "dur": 35,
+          "site": "B站",
+          "brief": "重大工程：不止通江达海！平陆运河联手宁德时代打造零碳航道",
+          "orient": "v"
+        }
+      ]
+    },
+    "2026-10-15": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "weapon": [
+        {
+          "title": "UE5模块化科幻月球基地3D场景模型：高精度Kitbash建筑×室内外空间站×智能分层材质",
+          "url": "https://www.bilibili.com/video/BV16tJC6rEgv",
+          "dur": 80,
+          "site": "B站",
+          "brief": "大国重器：UE5模块化科幻月球基地3D场景模型：高精度Kitbash建筑×室内外空间站×智能分层材质"
+        },
+        {
+          "title": "23年前这一刻再看依然激动！一个视频重温航天员杨利伟乘坐神舟五号一飞冲天，中华民族千年飞天梦圆！",
+          "url": "https://www.bilibili.com/video/BV1ABJ66MEZi",
+          "dur": 89,
+          "site": "B站",
+          "brief": "大国重器：23年前这一刻再看依然激动！一个视频重温航天员杨利伟乘坐神舟五号一飞冲天，中华民族千年飞天梦圆！"
+        },
+        {
+          "title": "今天是10月15日！今天生日的朋友！祝你生日快乐！今天为你庆祝生日的是气象学家、地球物理学家，中国人造卫星事业的奠基人，中国航天之父——赵九章",
+          "url": "https://www.bilibili.com/video/BV1hwpU61E8z",
+          "dur": 32,
+          "site": "B站",
+          "brief": "大国重器：今天是10月15日！今天生日的朋友！祝你生日快乐！今天为你庆祝生日的是气象学家、地球物理学家，中国人造卫星事业的奠基人，中国航天之父——赵九章"
+        },
+        {
+          "title": "火箭里面有什么？拆开长征五号看看",
+          "url": "https://www.bilibili.com/video/BV18SJC64EZ7",
+          "dur": 165,
+          "site": "B站",
+          "brief": "大国重器：火箭里面有什么？拆开长征五号看看"
+        },
+        {
+          "title": "二战时期各国航母数量排名？",
+          "url": "https://www.bilibili.com/video/BV1cpJr6MEbD",
+          "dur": 45,
+          "site": "B站",
+          "brief": "大国重器：二战时期各国航母数量排名？"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "晚安故事｜对牛弹琴（成语故事·睡前原文朗读）",
+          "url": "https://www.bilibili.com/video/BV1UTJr67EWx",
+          "dur": 74,
+          "site": "B站",
+          "brief": "语文：晚安故事｜对牛弹琴（成语故事·睡前原文朗读）"
+        },
+        {
+          "title": "成语故事《闻鸡起舞》原创动画故事！ 持续更新。",
+          "url": "https://www.bilibili.com/video/BV1KQpq6kEi8",
+          "dur": 93,
+          "site": "B站",
+          "brief": "语文：成语故事《闻鸡起舞》原创动画故事！ 持续更新。"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "铿锵巾帼——何泽慧",
+          "url": "https://mmcs.cast.org.cn/kxjxc/art/2025/art_39cb9d885a804b92938d8b41f548ee9e.html",
+          "dur": 252,
+          "site": "科学家博物馆",
+          "brief": "今日科学家·何泽慧：铿锵巾帼——何泽慧",
+          "mp4": "https://mmcs.cast.org.cn/cms_files/filemanager/95318146/video/202412/a3623601085f43e0ae5aa91c173850f2.mp4",
+          "orient": "h"
+        }
+      ],
+      "military": [
+        {
+          "title": "06 让坦克安静的消音器",
+          "url": "https://m.iqiyi.com/v_22kzhztrx24.html",
+          "dur": 219,
+          "site": "爱奇艺",
+          "brief": "军事科普：06 让坦克安静的消音器",
+          "tvid": "7490323875839600",
+          "orient": "h"
+        },
+        {
+          "title": "07 灵活的火箭弹滑板车",
+          "url": "https://m.iqiyi.com/v_j5ypuf6vmg.html",
+          "dur": 191,
+          "site": "爱奇艺",
+          "brief": "军事科普：07 灵活的火箭弹滑板车",
+          "tvid": "1863932620045300",
+          "orient": "h"
+        },
+        {
+          "title": "中国导弹快艇之母，中国最年轻的武器设计师，美军航母的克星！",
+          "url": "https://www.bilibili.com/video/BV1iQpi6XEGu",
+          "dur": 87,
+          "site": "B站",
+          "brief": "军事科普：中国导弹快艇之母，中国最年轻的武器设计师，美军航母的克星！"
+        },
+        {
+          "title": "【东炎共和国】陆战装甲部队+野战防空导弹部队演习",
+          "url": "https://www.bilibili.com/video/BV1MgJr6jEXV",
+          "dur": 92,
+          "site": "B站",
+          "brief": "军事科普：【东炎共和国】陆战装甲部队+野战防空导弹部队演习"
+        },
+        {
+          "title": "中央部队群的S-300V4防空导弹系统机组在多布罗皮利亚方向摧毁了数十个敌方空中目标。",
+          "url": "https://www.bilibili.com/video/BV1nNJk6BEnZ",
+          "dur": 93,
+          "site": "B站",
+          "brief": "军事科普：中央部队群的S-300V4防空导弹系统机组在多布罗皮利亚方向摧毁了数十个敌方空中目标。"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_ch7p6img1w.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "1396269931762600",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_27ut00utkao.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "8063070291905900",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "具身智能六足平台！幻尔miniHexa Pro搭载双核AI算力模块，深度融合AI大模型与智能体，同时依托18DOF六足结构与2DOF机械臂，带来更好玩的AI体验",
+          "url": "https://www.bilibili.com/video/BV1oXJ66oEPT",
+          "dur": 275,
+          "site": "B站",
+          "brief": "AI科技：具身智能六足平台！幻尔miniHexa Pro搭载双核AI算力模块，深度融合AI大模型与智能体，同时依托18DOF六足结构与2DOF机械臂，带来更好玩的AI体验"
+        },
+        {
+          "title": "我保证！这是我见过最好的【具身智能实战】教程！机器人感知算法|仿真环境|ROS2|VLA|机械臂，我想要的，通通都有！-人工智能/具身智能/人形机器人/AI",
+          "url": "https://www.bilibili.com/video/BV1KYJk6JEZm",
+          "dur": 18328,
+          "site": "B站",
+          "brief": "AI科技：我保证！这是我见过最好的【具身智能实战】教程！机器人感知算法|仿真环境|ROS2|VLA|机械臂，我想要的，通通都有！-人工智能/具身智能/人形机器人/AI"
+        },
+        {
+          "title": "感知无界 随行有度——四足机器人智能跟随与避障方案",
+          "url": "https://www.bilibili.com/video/BV1NzJk6LEBc",
+          "dur": 72,
+          "site": "B站",
+          "brief": "AI科技：感知无界 随行有度——四足机器人智能跟随与避障方案"
+        },
+        {
+          "title": "小麦育种机器人原型机亮相，AI 如何帮科学家选育良种",
+          "url": "https://www.bilibili.com/video/BV1uMJC6xEdT",
+          "dur": 239,
+          "site": "B站",
+          "brief": "AI科技：小麦育种机器人原型机亮相，AI 如何帮科学家选育良种"
+        },
+        {
+          "title": "【ROSCon China 2026 穿越星际】具身智能原生操作系统，探索机器人软件底层新范式",
+          "url": "https://www.bilibili.com/video/BV1pBpm6wEQb",
+          "dur": 160,
+          "site": "B站",
+          "brief": "AI科技：【ROSCon China 2026 穿越星际】具身智能原生操作系统，探索机器人软件底层新范式"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "冠状病毒的总攻",
+          "url": "https://m.iqiyi.com/v_1beelxlr6qk.html",
+          "dur": 197,
+          "site": "爱奇艺",
+          "brief": "自然科学：冠状病毒的总攻",
+          "tvid": "4907349847041200",
+          "orient": "h"
+        },
+        {
+          "title": "击败病毒的武器库——洗手、消毒、疫苗（上）",
+          "url": "https://m.iqiyi.com/v_2dhf2ccbmms.html",
+          "dur": 217,
+          "site": "爱奇艺",
+          "brief": "自然科学：击败病毒的武器库——洗手、消毒、疫苗（上）",
+          "tvid": "8622982053561400",
+          "orient": "h"
+        }
+      ],
+      "mech": [
+        {
+          "title": "挖掘机的四轮一带有什么作用？3D动画为你解答四轮一带的工作原理与构造",
+          "url": "https://www.bilibili.com/video/BV1k34y1A7Ni",
+          "dur": 110,
+          "site": "B站",
+          "brief": "机械原理：挖掘机的四轮一带有什么作用？3D动画为你解答四轮一带的工作原理与构造"
+        },
+        {
+          "title": "家用电风扇是如何工作的，3D动画拆解原理",
+          "url": "https://www.bilibili.com/video/BV15P411e78f",
+          "dur": 115,
+          "site": "B站",
+          "brief": "机械原理：家用电风扇是如何工作的，3D动画拆解原理"
+        },
+        {
+          "title": "锁的基本原理、看完绝对刑",
+          "url": "https://www.bilibili.com/video/BV1yH4y1n7Pq",
+          "dur": 72,
+          "site": "B站",
+          "brief": "机械原理：锁的基本原理、看完绝对刑"
+        },
+        {
+          "title": "3d动画揭秘手压式水泵的工作原理，小时候的未解之谜!",
+          "url": "https://www.bilibili.com/video/BV1gJpo6KESL",
+          "dur": 87,
+          "site": "B站",
+          "brief": "机械原理：3d动画揭秘手压式水泵的工作原理，小时候的未解之谜!"
+        },
+        {
+          "title": "电梯的工作原理，3D动画演示，一分钟看完",
+          "url": "https://www.bilibili.com/video/BV13y411i7wM",
+          "dur": 62,
+          "site": "B站",
+          "brief": "机械原理：电梯的工作原理，3D动画演示，一分钟看完"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "卡兹钻石贵？冷知识 人民币可以免费在工地上肝出来！",
+          "url": "https://www.bilibili.com/video/BV1xHpC64Evp",
+          "dur": 115,
+          "site": "B站",
+          "brief": "数学：卡兹钻石贵？冷知识 人民币可以免费在工地上肝出来！"
+        },
+        {
+          "title": "柿子学数学｜加法竖式满十进一：6组立体数字演示",
+          "url": "https://www.bilibili.com/video/BV1iYJr68EqV",
+          "dur": 124,
+          "site": "B站",
+          "brief": "数学：柿子学数学｜加法竖式满十进一：6组立体数字演示"
+        }
+      ],
+      "project": [
+        {
+          "title": "对灵山的影响很明显，广西平陆运河通航后",
+          "url": "https://www.bilibili.com/video/BV13HJk6oEoc",
+          "dur": 37,
+          "site": "B站",
+          "brief": "重大工程：对灵山的影响很明显，广西平陆运河通航后"
+        },
+        {
+          "title": "砸下460个亿！把公路直接“塞进”珠江海底，中国工程一招破解世界级航道死局！",
+          "url": "https://www.bilibili.com/video/BV1mKpq6VE2j",
+          "dur": 177,
+          "site": "B站",
+          "brief": "重大工程：砸下460个亿！把公路直接“塞进”珠江海底，中国工程一招破解世界级航道死局！"
+        },
+        {
+          "title": "港珠澳大桥隧道，是如何建造的？",
+          "url": "https://www.bilibili.com/video/BV1Erp16HEa3",
+          "dur": 121,
+          "site": "B站",
+          "brief": "重大工程：港珠澳大桥隧道，是如何建造的？"
+        },
+        {
+          "title": "中国如何建成世界最大的超级工程！| 打破世界纪录的超级工程. China Built the World's Largest Megaprojects Rec.",
+          "url": "https://www.bilibili.com/video/BV1vcpr6AEaT",
+          "dur": 59,
+          "site": "B站",
+          "brief": "重大工程：中国如何建成世界最大的超级工程！| 打破世界纪录的超级工程. China Built the World's Largest Megaprojects Rec."
+        },
+        {
+          "title": "平陆运河已经通航，湘桂运河还有多远？",
+          "url": "https://www.bilibili.com/video/BV1zYJC6MExf",
+          "dur": 482,
+          "site": "B站",
+          "brief": "重大工程：平陆运河已经通航，湘桂运河还有多远？"
+        }
+      ]
+    },
+    "2026-10-14": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "weapon": [
+        {
+          "title": "[航天历史]长征四号乙型遥1箭发射中巴资源一号01星 1999.10.14",
+          "url": "https://www.bilibili.com/video/BV1Xapy6BEJo",
+          "dur": 266,
+          "site": "B站",
+          "brief": "大国重器：[航天历史]长征四号乙型遥1箭发射中巴资源一号01星 1999.10.14"
+        },
+        {
+          "title": "SpaceX 8手猎鹰9火箭发射4手货运龙飞船搭载近3吨货物前往国际空间站",
+          "url": "https://www.bilibili.com/video/BV17Ypz6YEGi",
+          "dur": 905,
+          "site": "B站",
+          "brief": "大国重器：SpaceX 8手猎鹰9火箭发射4手货运龙飞船搭载近3吨货物前往国际空间站"
+        },
+        {
+          "title": "巴铁航天员谁能上空间站：天宫开放科研平台，外籍科学家参与太空探索",
+          "url": "https://www.bilibili.com/video/BV1njp26tEd5",
+          "dur": 92,
+          "site": "B站",
+          "brief": "大国重器：巴铁航天员谁能上空间站：天宫开放科研平台，外籍科学家参与太空探索"
+        },
+        {
+          "title": "中国航天-大屏背景舞台背景可定制",
+          "url": "https://www.bilibili.com/video/BV1c6ps6aEQD",
+          "dur": 141,
+          "site": "B站",
+          "brief": "大国重器：中国航天-大屏背景舞台背景可定制"
+        },
+        {
+          "title": "不止种菜！中国空间站里实时观测细胞变化，怎么做到的？",
+          "url": "https://www.bilibili.com/video/BV1Aupy6sEP1",
+          "dur": 170,
+          "site": "B站",
+          "brief": "大国重器：不止种菜！中国空间站里实时观测细胞变化，怎么做到的？"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "刻舟求剑藏冷知识？2个课本未讲真相，颠覆认知，解锁大语文新视角。脑洞成语之刻舟求剑来咯！",
+          "url": "https://www.bilibili.com/video/BV115pz61Etk",
+          "dur": 157,
+          "site": "B站",
+          "brief": "语文：刻舟求剑藏冷知识？2个课本未讲真相，颠覆认知，解锁大语文新视角。脑洞成语之刻舟求剑来咯！"
+        },
+        {
+          "title": "寓言故事 | 成语故事《沧海桑田》，【地质大赏】神仙GPS又失灵了？1分钟看懂海底怎么长出大树！🌊🌳",
+          "url": "https://www.bilibili.com/video/BV1Yopi6JEQa",
+          "dur": 91,
+          "site": "B站",
+          "brief": "语文：寓言故事 | 成语故事《沧海桑田》，【地质大赏】神仙GPS又失灵了？1分钟看懂海底怎么长出大树！🌊🌳"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "黄昆院士谈回国初期的工作经历",
+          "url": "https://kxrsbn.casad.cas.cn/2019n/zxsp/201905/t20190530_4950212.html",
+          "dur": 112,
+          "site": "科学人生百年",
+          "brief": "今日科学家·黄昆：黄昆院士谈回国初期的工作经历",
+          "mp4": "https://videozh.cas.cn/masvod/public/2023/07/24/20230724_18987e2a9a5_r36.mp4",
+          "orient": "h"
+        }
+      ],
+      "military": [
+        {
+          "title": "04 神奇的MIAS单人坦克",
+          "url": "https://m.iqiyi.com/v_dghkf00fww.html",
+          "dur": 208,
+          "site": "爱奇艺",
+          "brief": "军事科普：04 神奇的MIAS单人坦克",
+          "tvid": "1317657677794300",
+          "orient": "h"
+        },
+        {
+          "title": "05 会拐弯的潜望镜步枪",
+          "url": "https://m.iqiyi.com/v_2ecnk57m8w4.html",
+          "dur": 216,
+          "site": "爱奇艺",
+          "brief": "军事科普：05 会拐弯的潜望镜步枪",
+          "tvid": "8828336509818600",
+          "orient": "h"
+        },
+        {
+          "title": "北斗为油料保障装上“千里眼”和“顺风耳”",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=720939",
+          "dur": 233,
+          "site": "科普中国",
+          "brief": "军事科普：北斗为油料保障装上“千里眼”和“顺风耳”",
+          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071922341520465139950721.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "舰艇远航中如何保障新鲜蔬菜？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=719814",
+          "dur": 271,
+          "site": "科普中国",
+          "brief": "军事科普：舰艇远航中如何保障新鲜蔬菜？",
+          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071508350712294313951650.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "吴自良院士丨为原子弹装上“中国心”",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=697608",
+          "dur": 240,
+          "site": "科普中国",
+          "brief": "军事科普：吴自良院士丨为原子弹装上“中国心”",
+          "mp4": "https://pqnoss.kepuchina.cn/U01800944/videos/2026042710444017274419622250.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_ruxygqejo0.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "tvid": "2946856515416700",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·16秒",
+          "url": "https://m.iqiyi.com/v_1r4whcr4s04.html",
+          "dur": 16,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·16秒",
+          "tvid": "6388950167865000",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "戴森干湿一体AI机器人｜懒人清洁天花板！_黑科技导航_隐藏激光雷达+双线激光，暗光秒建3D地图！AI识别垃圾_障碍物，自动绕行不卡顿，连数据线都能精准避开_智能",
+          "url": "https://www.bilibili.com/video/BV1Sqpy6NETo",
+          "dur": 31,
+          "site": "B站",
+          "brief": "AI科技：戴森干湿一体AI机器人｜懒人清洁天花板！_黑科技导航_隐藏激光雷达+双线激光，暗光秒建3D地图！AI识别垃圾_障碍物，自动绕行不卡顿，连数据线都能精准避开_智能"
+        },
+        {
+          "title": "来不及做饭，让机器狗去饭店买，结果....",
+          "url": "https://www.bilibili.com/video/BV1oVp66NEa1",
+          "dur": 180,
+          "site": "B站",
+          "brief": "AI科技：来不及做饭，让机器狗去饭店买，结果...."
+        },
+        {
+          "title": "【中字】国外博主实测：AI动嘴就能搭仿真？老外玩NVIDIA黑科技",
+          "url": "https://www.bilibili.com/video/BV1EqpC6jEPX",
+          "dur": 517,
+          "site": "B站",
+          "brief": "AI科技：【中字】国外博主实测：AI动嘴就能搭仿真？老外玩NVIDIA黑科技"
+        },
+        {
+          "title": "轻简客服专业版AI新功能：通过微信接待所有店铺咨询，实现人工和ai机器人同步接待",
+          "url": "https://www.bilibili.com/video/BV1gopC6YETA",
+          "dur": 169,
+          "site": "B站",
+          "brief": "AI科技：轻简客服专业版AI新功能：通过微信接待所有店铺咨询，实现人工和ai机器人同步接待"
+        },
+        {
+          "title": "普及下计算机本科入局Agent开发，能力塑造需要的强度！",
+          "url": "https://www.bilibili.com/video/BV1TfpC6wEf6",
+          "dur": 186,
+          "site": "B站",
+          "brief": "AI科技：普及下计算机本科入局Agent开发，能力塑造需要的强度！"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "会潜行的霍乱",
+          "url": "https://m.iqiyi.com/v_1sqlg4midlk.html",
+          "dur": 193,
+          "site": "爱奇艺",
+          "brief": "自然科学：会潜行的霍乱",
+          "tvid": "6525318361832500",
+          "orient": "h"
+        },
+        {
+          "title": "蚊虫与登革热",
+          "url": "https://m.iqiyi.com/v_fkbgolmfxk.html",
+          "dur": 189,
+          "site": "爱奇艺",
+          "brief": "自然科学：蚊虫与登革热",
+          "tvid": "1663391158904900",
+          "orient": "h"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "华罗庚学校数学课本三年级｜上册05｜找几何图形的规律",
+          "url": "https://www.bilibili.com/video/BV1WtpC6pEYH",
+          "dur": 91,
+          "site": "B站",
+          "brief": "数学：华罗庚学校数学课本三年级｜上册05｜找几何图形的规律"
+        },
+        {
+          "title": "哪种更划算",
+          "url": "https://www.bilibili.com/video/BV1yUpy6oEQy",
+          "dur": 88,
+          "site": "B站",
+          "brief": "数学：哪种更划算"
+        }
+      ],
+      "project": [
+        {
+          "title": "海关总署答红星新闻：前三季度，我国对东盟进出口6.84万亿元 平陆运河顺利通航 西南腹地与东盟运输距离缩短560公里以上",
+          "url": "https://www.bilibili.com/video/BV1Hjp26tEjf",
+          "dur": 44,
+          "site": "B站",
+          "brief": "重大工程：海关总署答红星新闻：前三季度，我国对东盟进出口6.84万亿元 平陆运河顺利通航 西南腹地与东盟运输距离缩短560公里以上"
+        },
+        {
+          "title": "活力中国调研行丨平陆运河通航即将满月 南宁港有哪些变化？_凤凰网",
+          "url": "https://www.bilibili.com/video/BV1iQpB6hEqy",
+          "dur": 239,
+          "site": "B站",
+          "brief": "重大工程：活力中国调研行丨平陆运河通航即将满月 南宁港有哪些变化？_凤凰网"
+        },
+        {
+          "title": "三分钟看懂，南水北调工程是如何建造的？",
+          "url": "https://www.bilibili.com/video/BV1Lzpr6TEqt",
+          "dur": 284,
+          "site": "B站",
+          "brief": "重大工程：三分钟看懂，南水北调工程是如何建造的？"
+        },
+        {
+          "title": "2200 年前超级工程！没有水闸，却泽被千年",
+          "url": "https://www.bilibili.com/video/BV19Wpk6KEyP",
+          "dur": 117,
+          "site": "B站",
+          "brief": "重大工程：2200 年前超级工程！没有水闸，却泽被千年"
+        },
+        {
+          "title": "只有日新月异。",
+          "url": "https://www.bilibili.com/video/BV1U6py6AEe3",
+          "dur": 39,
+          "site": "B站",
+          "brief": "重大工程：只有日新月异。"
+        }
+      ]
+    },
+    "2026-10-13": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "weapon": [
+        {
+          "title": "2003年10月神舟五号发射前影像",
+          "url": "https://www.bilibili.com/video/BV1LVWc6dE3W",
+          "dur": 66,
+          "site": "B站",
+          "brief": "大国重器：2003年10月神舟五号发射前影像"
+        },
+        {
+          "title": "4K卫星视频：日本海与日本列岛",
+          "url": "https://www.bilibili.com/video/BV1GHWc6nEMy",
+          "dur": 92,
+          "site": "B站",
+          "brief": "大国重器：4K卫星视频：日本海与日本列岛"
+        },
+        {
+          "title": "神舟二十三号凯旋 彰显中国航天力量",
+          "url": "https://www.bilibili.com/video/BV1BtWF64E6o",
+          "dur": 404,
+          "site": "B站",
+          "brief": "大国重器：神舟二十三号凯旋 彰显中国航天力量"
+        },
+        {
+          "title": "全国锦标赛，正在悄悄筛选中国的\"未来航天人\"",
+          "url": "https://www.bilibili.com/video/BV1GHWc6nESs",
+          "dur": 96,
+          "site": "B站",
+          "brief": "大国重器：全国锦标赛，正在悄悄筛选中国的\"未来航天人\""
+        },
+        {
+          "title": "《你好，太空》国旗下，少年郎，以声为翼，仰望苍穹，致敬中国航天！用稚嫩却坚定的朗诵，诉说对太空的向往与热爱，小小童心，怀揣大大的航天梦，立志向太空出发，强国有我",
+          "url": "https://www.bilibili.com/video/BV1EMWc6FEec",
+          "dur": 183,
+          "site": "B站",
+          "brief": "大国重器：《你好，太空》国旗下，少年郎，以声为翼，仰望苍穹，致敬中国航天！用稚嫩却坚定的朗诵，诉说对太空的向往与热爱，小小童心，怀揣大大的航天梦，立志向太空出发，强国有我"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "成语动画杞人忧天，不要为没必要的事情发愁，给孩子讲一则经典寓言故事",
+          "url": "https://www.bilibili.com/video/BV11Mpv6PEbn",
+          "dur": 137,
+          "site": "B站",
+          "brief": "语文：成语动画杞人忧天，不要为没必要的事情发愁，给孩子讲一则经典寓言故事"
+        },
+        {
+          "title": "成语故事《破釜沉舟》，原创动画故事！",
+          "url": "https://www.bilibili.com/video/BV1dMpo6CEvu",
+          "dur": 155,
+          "site": "B站",
+          "brief": "语文：成语故事《破釜沉舟》，原创动画故事！"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "纪念我国近代力学奠基人周培源院士诞辰120周年",
+          "url": "https://www.bilibili.com/video/BV1uG41157wX",
+          "dur": 62,
+          "site": "B站",
+          "brief": "今日科学家·周培源：纪念我国近代力学奠基人周培源院士诞辰120周年"
+        }
+      ],
+      "military": [
+        {
+          "title": "02 另类的武器 塔强卡战车",
+          "url": "https://m.iqiyi.com/v_xfl78vg7cg.html",
+          "dur": 177,
+          "site": "爱奇艺",
+          "brief": "军事科普：02 另类的武器 塔强卡战车",
+          "tvid": "3489120627441500",
+          "orient": "h"
+        },
+        {
+          "title": "03 奇怪的坦克沙皇坦克",
+          "url": "https://m.iqiyi.com/v_uf50yw395g.html",
+          "dur": 153,
+          "site": "爱奇艺",
+          "brief": "军事科普：03 奇怪的坦克沙皇坦克",
+          "tvid": "2969317158100600",
+          "orient": "h"
+        },
+        {
+          "title": "铁甲轻骑——泰山军事博物馆62式轻型坦克科普",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=718785",
+          "dur": 231,
+          "site": "科普中国",
+          "brief": "军事科普：铁甲轻骑——泰山军事博物馆62式轻型坦克科普",
+          "mp4": "https://pqnoss.kepuchina.cn/kepuyun/2026/08/24/24/1787498146668/62式轻型坦克科普小课堂.mp4"
+        },
+        {
+          "title": "隐身战机也无处遁形？多域感知如何织就天罗地网",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=733284",
+          "dur": 262,
+          "site": "科普中国",
+          "brief": "军事科普：隐身战机也无处遁形？多域感知如何织就天罗地网",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083111104843992246075564.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "不一样的航母舰载机（上）",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=708693",
+          "dur": 179,
+          "site": "科普中国",
+          "brief": "军事科普：不一样的航母舰载机（上）",
+          "mp4": "https://pqnoss.kepuchina.cn/U7740108/videos/2026060217412467459614237355.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_2alu2xhye0g.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "tvid": "8368695479932700",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·34秒",
+          "url": "https://m.iqiyi.com/v_kiaj6ui7f0.html",
+          "dur": 34,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·34秒",
+          "tvid": "1991476990786400",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "🏆 金奖加冕｜安诺机器人AI拉花咖啡印花吧荣获2026广交会设计创新奖（CF奖）·金奖！",
+          "url": "https://www.bilibili.com/video/BV1mgWw62Eyr",
+          "dur": 69,
+          "site": "B站",
+          "brief": "AI科技：🏆 金奖加冕｜安诺机器人AI拉花咖啡印花吧荣获2026广交会设计创新奖（CF奖）·金奖！"
+        },
+        {
+          "title": "【智慧农业教学】AI机器人部署——生桃熟桃快速采摘分拣。",
+          "url": "https://www.bilibili.com/video/BV1KvWc6rErY",
+          "dur": 56,
+          "site": "B站",
+          "brief": "AI科技：【智慧农业教学】AI机器人部署——生桃熟桃快速采摘分拣。"
+        },
+        {
+          "title": "一周AI大事（10月11日）AI办公、创作与机器人一起提速.",
+          "url": "https://www.bilibili.com/video/BV1EgWc6ZEJL",
+          "dur": 244,
+          "site": "B站",
+          "brief": "AI科技：一周AI大事（10月11日）AI办公、创作与机器人一起提速."
+        },
+        {
+          "title": "哪个天才设计的AI扫地机器人？美的灵眸V15Pro两周体验",
+          "url": "https://www.bilibili.com/video/BV1nmWc6YEg3",
+          "dur": 193,
+          "site": "B站",
+          "brief": "AI科技：哪个天才设计的AI扫地机器人？美的灵眸V15Pro两周体验"
+        },
+        {
+          "title": "米家 扫地机器人6 Max AI 三摄精准识别 水箱版",
+          "url": "https://www.bilibili.com/video/BV1tbWc61EUb",
+          "dur": 45,
+          "site": "B站",
+          "brief": "AI科技：米家 扫地机器人6 Max AI 三摄精准识别 水箱版"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "05 一直不刷牙会怎么样",
+          "url": "https://m.iqiyi.com/v_uuebuha734.html",
+          "dur": 174,
+          "site": "爱奇艺",
+          "brief": "自然科学： 05 一直不刷牙会怎么样",
+          "tvid": "3189110600383500",
+          "orient": "h"
+        },
+        {
+          "title": "06 一直不剪指甲会怎么样？",
+          "url": "https://m.iqiyi.com/v_ufr94sx8ho.html",
+          "dur": 207,
+          "site": "爱奇艺",
+          "brief": "自然科学： 06 一直不剪指甲会怎么样？",
+          "tvid": "2970921489810000",
+          "orient": "h"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "华罗庚学校数学课本一年级｜上册03｜认识图形(三)",
+          "url": "https://www.bilibili.com/video/BV1xBpQ6mE9W",
+          "dur": 296,
+          "site": "B站",
+          "brief": "数学：华罗庚学校数学课本一年级｜上册03｜认识图形(三)"
+        },
+        {
+          "title": "华罗庚学校数学课本二年级｜上册03｜数数与计数（二）",
+          "url": "https://www.bilibili.com/video/BV1NBWc6zEMU",
+          "dur": 297,
+          "site": "B站",
+          "brief": "数学：华罗庚学校数学课本二年级｜上册03｜数数与计数（二）"
+        }
+      ],
+      "project": [
+        {
+          "title": "老外如何看待中国耗时四年，耗资727亿元建成的超级工程：平陆运河",
+          "url": "https://www.bilibili.com/video/BV1fHpZ6XEba",
+          "dur": 159,
+          "site": "B站",
+          "brief": "重大工程：老外如何看待中国耗时四年，耗资727亿元建成的超级工程：平陆运河"
+        },
+        {
+          "title": "平陆运河通航只是前菜？中国3200公里“新长江”，最难的还没开工！",
+          "url": "https://www.bilibili.com/video/BV1CApQ6rExq",
+          "dur": 511,
+          "site": "B站",
+          "brief": "重大工程：平陆运河通航只是前菜？中国3200公里“新长江”，最难的还没开工！"
+        },
+        {
+          "title": "辛亥革命纪念日，超级工程厦金大桥万吨钢箱梁整体横移到位，感受震撼现场",
+          "url": "https://www.bilibili.com/video/BV1XDpu6zEpG",
+          "dur": 30,
+          "site": "B站",
+          "brief": "重大工程：辛亥革命纪念日，超级工程厦金大桥万吨钢箱梁整体横移到位，感受震撼现场"
+        },
+        {
+          "title": "桥梁建设工地施工",
+          "url": "https://www.bilibili.com/video/BV1DPWw6DE8w",
+          "dur": 213,
+          "site": "B站",
+          "brief": "重大工程：桥梁建设工地施工"
+        },
+        {
+          "title": "仅用4年，中国国运工程平陆运河通航，孙中山梦想成真，世界地缘格局大变，中国国运又要腾飞，China's，strategic，layout，in，the，Ping",
+          "url": "https://www.bilibili.com/video/BV1stp36AEda",
+          "dur": 831,
+          "site": "B站",
+          "brief": "重大工程：仅用4年，中国国运工程平陆运河通航，孙中山梦想成真，世界地缘格局大变，中国国运又要腾飞，China's，strategic，layout，in，the，Ping"
+        }
+      ]
+    },
+    "2026-10-12": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "导弹怪杰梁守槃的一生",
+          "url": "https://www.bilibili.com/video/BV1MigpzWEMD",
+          "dur": 99,
+          "site": "B站",
+          "brief": "今日科学家·梁守槃：导弹怪杰梁守槃的一生"
+        },
+        {
+          "title": "梁守槃：海防导弹“铸剑人”",
+          "url": "https://www.bilibili.com/video/BV12sPCzfE9j",
+          "dur": 78,
+          "site": "B站",
+          "brief": "科学家故事：梁守槃：海防导弹“铸剑人”"
+        },
+        {
+          "title": "缅怀先辈–梁守槃",
+          "url": "https://www.bilibili.com/video/BV1xpmzY7En9",
+          "dur": 108,
+          "site": "B站",
+          "brief": "科学家故事：缅怀先辈–梁守槃"
+        },
+        {
+          "title": "中国航天技术开拓者梁守槃：管它什么国，管它什么弹，我们一定要超过！",
+          "url": "https://www.bilibili.com/video/BV1PR4y1573x",
+          "dur": 58,
+          "site": "B站",
+          "brief": "科学家故事：中国航天技术开拓者梁守槃：管它什么国，管它什么弹，我们一定要超过！"
+        },
+        {
+          "title": "【人民不会忘记】梁守槃：自力更生 挺起民族精神脊梁",
+          "url": "https://www.bilibili.com/video/BV13b4y1X74L",
+          "dur": 432,
+          "site": "B站",
+          "brief": "科学家故事：【人民不会忘记】梁守槃：自力更生 挺起民族精神脊梁"
+        },
+        {
+          "title": "中国航天开拓者 梁守槃",
+          "url": "https://www.bilibili.com/video/BV1QzdBBvE69",
+          "dur": 1476,
+          "site": "B站",
+          "brief": "科学家故事：中国航天开拓者 梁守槃"
+        }
+      ]
+    },
+    "2026-10-11": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "2012年7月13日，一颗情系大坝的心脏停止跳动了！一颗闪耀科学星天的巨星陨落了！今天，是潘家铮院士逝世十周年",
+          "url": "https://www.bilibili.com/video/BV1QF411N7ek",
+          "dur": 65,
+          "site": "B站",
+          "brief": "今日科学家·潘家铮：2012年7月13日，一颗情系大坝的心脏停止跳动了！一颗闪耀科学星天的巨星陨落了！今天，是潘家铮院士逝世十周年"
+        },
+        {
+          "title": "刘慈欣：潘家铮院士才是水电专业人士书写科幻文学的第一人",
+          "url": "https://www.bilibili.com/video/BV1Gz4y1k7sK",
+          "dur": 333,
+          "site": "B站",
+          "brief": "科学家故事：刘慈欣：潘家铮院士才是水电专业人士书写科幻文学的第一人"
+        },
+        {
+          "title": "抽水蓄能电站(陆佑楣 潘家铮).pdf",
+          "url": "https://www.bilibili.com/video/BV1pY411x7vV",
+          "dur": 33,
+          "site": "B站",
+          "brief": "科学家故事：抽水蓄能电站(陆佑楣 潘家铮).pdf"
+        }
+      ]
+    },
+    "2026-10-10": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "飞天圆梦人——献给中国辽宁籍功勋科学家王永志院士",
+          "url": "https://www.bilibili.com/video/BV1M8Jk6HEXi",
+          "dur": 239,
+          "site": "B站",
+          "brief": "今日科学家·王永志：飞天圆梦人——献给中国辽宁籍功勋科学家王永志院士"
+        },
+        {
+          "title": "“谁敢轻举妄动，我把老家给你揭翻了” 这是功勋科学家王永志的霸气发言，他从导弹研发到载人航天，圆我中华千年飞天梦，缅怀王永志院士，一路走好！致敬",
+          "url": "https://www.bilibili.com/video/BV1WZhNetEep",
+          "dur": 289,
+          "site": "B站",
+          "brief": "科学家故事：“谁敢轻举妄动，我把老家给你揭翻了” 这是功勋科学家王永志的霸气发言，他从导弹研发到载人航天，圆我中华千年飞天梦，缅怀王永志院士，一路走好！致敬"
+        },
+        {
+          "title": "9王永志院士：东风2号导弹的发射难题被新人王永志解决了—电视剧《五星红旗迎风飘扬》片段",
+          "url": "https://www.bilibili.com/video/BV12N4y1H7hV",
+          "dur": 135,
+          "site": "B站",
+          "brief": "科学家故事：9王永志院士：东风2号导弹的发射难题被新人王永志解决了—电视剧《五星红旗迎风飘扬》片段"
+        },
+        {
+          "title": "致敬航天功勋王永志，他是中国载人航天工程总设计师，“共和国勋章”获得者，2024年6月11日与世长辞。（浙江省委党史和文献研究室）",
+          "url": "https://www.bilibili.com/video/BV1UyE962EEy",
+          "dur": 60,
+          "site": "B站",
+          "brief": "科学家故事：致敬航天功勋王永志，他是中国载人航天工程总设计师，“共和国勋章”获得者，2024年6月11日与世长辞。（浙江省委党史和文献研究室）"
+        },
+        {
+          "title": "中国载人航天首任总师王永志的故事",
+          "url": "https://www.bilibili.com/video/BV1a8tWeUER5",
+          "dur": 177,
+          "site": "B站",
+          "brief": "科学家故事：中国载人航天首任总师王永志的故事"
+        },
+        {
+          "title": "央视四套《东方时空》专访王永志院士",
+          "url": "https://www.bilibili.com/video/BV1Vc1gBaEZL",
+          "dur": 1023,
+          "site": "B站",
+          "brief": "科学家故事：央视四套《东方时空》专访王永志院士"
+        },
+        {
+          "title": "研制“东风二号”导弹遇瓶颈，钱学森：32岁的王永志敲开我的门",
+          "url": "https://www.bilibili.com/video/BV1HJK36DE1j",
+          "dur": 53,
+          "site": "B站",
+          "brief": "科学家故事：研制“东风二号”导弹遇瓶颈，钱学森：32岁的王永志敲开我的门"
+        }
+      ]
+    },
+    "2026-10-09": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "庆祝王希季院士99岁生辰",
+          "url": "https://kxrsbn.casad.cas.cn/2021/zxsp/202103/t20210316_4951274.html",
+          "dur": 128,
+          "site": "科学人生百年",
+          "brief": "今日科学家·王希季：庆祝王希季院士99岁生辰",
+          "mp4": "https://videozh.cas.cn/masvod/public/2023/07/24/20230724_18987f189d3_r36.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "我愿做航天的铺路石！缅怀“两弹一星”元勋 王希季院士",
+          "url": "https://www.bilibili.com/video/BV1Jngs6wEE4",
+          "dur": 267,
+          "site": "B站",
+          "brief": "科学家故事：我愿做航天的铺路石！缅怀“两弹一星”元勋 王希季院士"
+        }
+      ]
+    },
+    "2026-10-08": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "weapon": [
+        {
+          "title": "中国航天事业创建70周年孙泽洲：从月球到火星 深空答案仍在路上",
+          "url": "https://www.bilibili.com/video/BV1N8HD6GEnX",
+          "dur": 211,
+          "site": "B站",
+          "brief": "大国重器：中国航天事业创建70周年孙泽洲：从月球到火星 深空答案仍在路上"
+        },
+        {
+          "title": "千亿航天——火箭回收领域的独行侠，他们准备让火箭横着回家，这就是中国年轻一代商业航天人的活力",
+          "url": "https://www.bilibili.com/video/BV16RHm64EtJ",
+          "dur": 170,
+          "site": "B站",
+          "brief": "大国重器：千亿航天——火箭回收领域的独行侠，他们准备让火箭横着回家，这就是中国年轻一代商业航天人的活力"
+        },
+        {
+          "title": "筷子夹火箭！中国商业航天这次玩了个大的",
+          "url": "https://www.bilibili.com/video/BV1G3HU61E52",
+          "dur": 263,
+          "site": "B站",
+          "brief": "大国重器：筷子夹火箭！中国商业航天这次玩了个大的"
+        },
+        {
+          "title": "为什么现在很多人都认为有了卫星，就很容易发现航母？",
+          "url": "https://www.bilibili.com/video/BV1TJHU6gEr1",
+          "dur": 298,
+          "site": "B站",
+          "brief": "大国重器：为什么现在很多人都认为有了卫星，就很容易发现航母？"
+        },
+        {
+          "title": "⚠️美军深海铁水蛭曝光！白嫖航母动力直插军港炸龙骨",
+          "url": "https://www.bilibili.com/video/BV1M2Hh6ZEV8",
+          "dur": 349,
+          "site": "B站",
+          "brief": "大国重器：⚠️美军深海铁水蛭曝光！白嫖航母动力直插军港炸龙骨"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "孩子偷拿东西还自欺欺人？看豆豆掩耳盗铃！| 儿童成语启蒙",
+          "url": "https://www.bilibili.com/video/BV1sDpc6qEhr",
+          "dur": 55,
+          "site": "B站",
+          "brief": "语文：孩子偷拿东西还自欺欺人？看豆豆掩耳盗铃！| 儿童成语启蒙"
+        },
+        {
+          "title": "《词语和概念》直播片段",
+          "url": "https://www.bilibili.com/video/BV1SRH26qEaH",
+          "dur": 128,
+          "site": "B站",
+          "brief": "语文：《词语和概念》直播片段"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "看完心酸！“两弹元勋”彭桓武去世前的最后几件事",
+          "url": "https://page.om.qq.com/page/O03l1SPv1WZh7hySdfV3D8Aw0",
+          "dur": null,
+          "site": "科学网",
+          "brief": "今日科学家·彭桓武：看完心酸！“两弹元勋”彭桓武去世前的最后几件事"
+        }
+      ],
+      "military": [
+        {
+          "title": "05 巨大的坦克：“巨鼠”坦克",
+          "url": "https://m.iqiyi.com/v_xtgs65jus0.html",
+          "dur": 139,
+          "site": "爱奇艺",
+          "brief": "军事科普：05 巨大的坦克：“巨鼠”坦克",
+          "tvid": "3455429661800700",
+          "orient": "h"
+        },
+        {
+          "title": "10 大型的飞机安-225",
+          "url": "https://m.iqiyi.com/v_1mmiv6zoung.html",
+          "dur": 128,
+          "site": "爱奇艺",
+          "brief": "军事科普：10 大型的飞机安-225",
+          "tvid": "6001504062446400",
+          "orient": "h"
+        },
+        {
+          "title": "【中配】39期俄乌战报：百架无人机加72枚导弹分三波砸向全乌：基辅工业区被抹平，扎波罗热大桥挨6枚炸弹恐已废，为保首都抽走全部防空，乌军拦截率原形毕露",
+          "url": "https://www.bilibili.com/video/BV17hHy6jEoV",
+          "dur": 1010,
+          "site": "B站",
+          "brief": "军事科普：【中配】39期俄乌战报：百架无人机加72枚导弹分三波砸向全乌：基辅工业区被抹平，扎波罗热大桥挨6枚炸弹恐已废，为保首都抽走全部防空，乌军拦截率原形毕露"
+        },
+        {
+          "title": "专属坦克语音包、谢里登“导弹”、全新涂装皆在11.21版本！",
+          "url": "https://www.bilibili.com/video/BV1x2HS66EgX",
+          "dur": 62,
+          "site": "B站",
+          "brief": "军事科普：专属坦克语音包、谢里登“导弹”、全新涂装皆在11.21版本！"
+        },
+        {
+          "title": "俄军约200枚导弹和无人机袭向乌克兰，泽连斯基再求“爱国者”",
+          "url": "https://www.bilibili.com/video/BV1P8HD63EXJ",
+          "dur": 81,
+          "site": "B站",
+          "brief": "军事科普：俄军约200枚导弹和无人机袭向乌克兰，泽连斯基再求“爱国者”"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_1kx08mrcdz4.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "5906848493405100",
+          "orient": "h"
+        },
+        {
+          "title": "请大数据把我推给想给娃英语启蒙的朋友们 0基础宝宝英语启蒙 当了妈一定要给娃看的英文动画片",
+          "url": "https://m.iqiyi.com/v_1xwvbs4uw88.html",
+          "dur": 17,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：请大数据把我推给想给娃英语启蒙的朋友们 0基础宝宝英语启蒙 当了妈一定要给娃看的英文动画片",
+          "tvid": "7121327587100100",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "抓AI为何要专门设立机器人署？（人工智能政情20261008）",
+          "url": "https://www.bilibili.com/video/BV15yH26LEug",
+          "dur": 548,
+          "site": "B站",
+          "brief": "AI科技：抓AI为何要专门设立机器人署？（人工智能政情20261008）"
+        },
+        {
+          "title": "迪卡特AI语音智能机器狗",
+          "url": "https://www.bilibili.com/video/BV1V3HD6WEYh",
+          "dur": 61,
+          "site": "B站",
+          "brief": "AI科技：迪卡特AI语音智能机器狗"
+        },
+        {
+          "title": "【机器人角斗场】(C.L.O.N.E.R.E.Q.U.I.E.M)AI增强模组CORE Mod第二章困难模式试玩(模组群见置顶)",
+          "url": "https://www.bilibili.com/video/BV1PXHS6qEFE",
+          "dur": 182,
+          "site": "B站",
+          "brief": "AI科技：【机器人角斗场】(C.L.O.N.E.R.E.Q.U.I.E.M)AI增强模组CORE Mod第二章困难模式试玩(模组群见置顶)"
+        },
+        {
+          "title": "【橘里橘气】按上司的脸定制的私人机器人！欧美AI《上司，请叫我主人》高清中字",
+          "url": "https://www.bilibili.com/video/BV1T4HD6VEWE",
+          "dur": 162,
+          "site": "B站",
+          "brief": "AI科技：【橘里橘气】按上司的脸定制的私人机器人！欧美AI《上司，请叫我主人》高清中字"
+        },
+        {
+          "title": "人形机器人究竟有没有前景？德国工程院院士：没人需要只会跳舞的机器人",
+          "url": "https://www.bilibili.com/video/BV1Kkao6XEr4",
+          "dur": 51,
+          "site": "B站",
+          "brief": "AI科技：人形机器人究竟有没有前景？德国工程院院士：没人需要只会跳舞的机器人"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "天花大魔王的复活",
+          "url": "https://m.iqiyi.com/v_2ad4roveji0.html",
+          "dur": 205,
+          "site": "爱奇艺",
+          "brief": "自然科学：天花大魔王的复活",
+          "tvid": "8376717138300500",
+          "orient": "h"
+        },
+        {
+          "title": "感冒病毒超进化",
+          "url": "https://m.iqiyi.com/v_2bdcjwywxz4.html",
+          "dur": 185,
+          "site": "爱奇艺",
+          "brief": "自然科学：感冒病毒超进化",
+          "tvid": "8551589293121900",
+          "orient": "h"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "趣味数学题38:一道五年级奥数挑战，先解方程再求A+B还是其他方法来求呢？",
+          "url": "https://www.bilibili.com/video/BV1N4HU6vE5W",
+          "dur": 31,
+          "site": "B站",
+          "brief": "数学：趣味数学题38:一道五年级奥数挑战，先解方程再求A+B还是其他方法来求呢？"
+        },
+        {
+          "title": "四年级数学思维提升：巧用竖式解决大数的拓展难题",
+          "url": "https://www.bilibili.com/video/BV1sQHS6MEsR",
+          "dur": 247,
+          "site": "B站",
+          "brief": "数学：四年级数学思维提升：巧用竖式解决大数的拓展难题"
+        }
+      ],
+      "project": [
+        {
+          "title": "无人机表演庆祝平陆运河通航",
+          "url": "https://www.bilibili.com/video/BV1atH16TEpt",
+          "dur": 36,
+          "site": "B站",
+          "brief": "重大工程：无人机表演庆祝平陆运河通航"
+        },
+        {
+          "title": "不愧世纪工程，参照满载货船的广西平陆运河",
+          "url": "https://www.bilibili.com/video/BV1ifpM65EhG",
+          "dur": 32,
+          "site": "B站",
+          "brief": "重大工程：不愧世纪工程，参照满载货船的广西平陆运河"
+        },
+        {
+          "title": "【平陆运河】桂远航188钦州北部湾大学沙埠航段下水通过",
+          "url": "https://www.bilibili.com/video/BV1JXHm6ZEzk",
+          "dur": 66,
+          "site": "B站",
+          "brief": "重大工程：【平陆运河】桂远航188钦州北部湾大学沙埠航段下水通过"
+        },
+        {
+          "title": "广西平陆运河成了国庆旅游热门景点！老外惊叹：既实现通江达海，又拉动了乡村振兴",
+          "url": "https://www.bilibili.com/video/BV1MuHy6hEiF",
+          "dur": 118,
+          "site": "B站",
+          "brief": "重大工程：广西平陆运河成了国庆旅游热门景点！老外惊叹：既实现通江达海，又拉动了乡村振兴"
+        },
+        {
+          "title": "电动车电池掉了！警车与超级工程车救援队｜儿童动画",
+          "url": "https://www.bilibili.com/video/BV1pDHm6FEyN",
+          "dur": 194,
+          "site": "B站",
+          "brief": "重大工程：电动车电池掉了！警车与超级工程车救援队｜儿童动画"
+        }
+      ]
+    },
+    "2026-10-07": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "weapon": [
+        {
+          "title": "【星河追梦】此片献给中国人民解放军，航天人，以及所有仰望星空的追梦者",
+          "url": "https://www.bilibili.com/video/BV13ipA6RERq",
+          "dur": 216,
+          "site": "B站",
+          "brief": "大国重器：【星河追梦】此片献给中国人民解放军，航天人，以及所有仰望星空的追梦者"
+        },
+        {
+          "title": "国产GNSS模拟器走进北京航空航天大学",
+          "url": "https://www.bilibili.com/video/BV1pHpT6DEaY",
+          "dur": 78,
+          "site": "B站",
+          "brief": "大国重器：国产GNSS模拟器走进北京航空航天大学"
+        },
+        {
+          "title": "五天吊三块甲板，004航母被西方卫星全程直播，核动力只差官宣！",
+          "url": "https://www.bilibili.com/video/BV1y6pK6SEYg",
+          "dur": 511,
+          "site": "B站",
+          "brief": "大国重器：五天吊三块甲板，004航母被西方卫星全程直播，核动力只差官宣！"
+        },
+        {
+          "title": "为什么大家现在都不提中国空间站了？没脸提，毕竟跟国际空间站差距太大？",
+          "url": "https://www.bilibili.com/video/BV1URHZ6TECs",
+          "dur": 221,
+          "site": "B站",
+          "brief": "大国重器：为什么大家现在都不提中国空间站了？没脸提，毕竟跟国际空间站差距太大？"
+        },
+        {
+          "title": "杨利伟：中国空间站将面向全球开放的科学家实验平台。第77届国际宇航大会介绍。2026年10月6日报道。",
+          "url": "https://www.bilibili.com/video/BV1eRpP6hEqP",
+          "dur": 143,
+          "site": "B站",
+          "brief": "大国重器：杨利伟：中国空间站将面向全球开放的科学家实验平台。第77届国际宇航大会介绍。2026年10月6日报道。"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "小穆克和大国王 儿童童话睡前故事",
+          "url": "https://www.bilibili.com/video/BV1YZpP6bEdW",
+          "dur": 110,
+          "site": "B站",
+          "brief": "语文：小穆克和大国王 儿童童话睡前故事"
+        },
+        {
+          "title": "孩子捡到东西想占为己有？看豆豆拾金不昧！| 儿童成语启蒙",
+          "url": "https://www.bilibili.com/video/BV1Uppw6yE97",
+          "dur": 39,
+          "site": "B站",
+          "brief": "语文：孩子捡到东西想占为己有？看豆豆拾金不昧！| 儿童成语启蒙"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "中国科技“众帅之帅”——纪念朱光亚院士诞辰99周年",
+          "url": "https://kxrsbn.casad.cas.cn/2024/xwdt/202403/t20240306_5007653.html",
+          "dur": 370,
+          "site": "科学人生百年",
+          "brief": "今日科学家·朱光亚：中国科技“众帅之帅”——纪念朱光亚院士诞辰99周年",
+          "mp4": "https://videozh.cas.cn/masvod/public/2024/03/06/20240306_18e12979f2b_r36_1200k.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "朱光亚",
+          "url": "https://kxrsbn.casad.cas.cn/2024/zxsp/202405/t20240530_5016247.html",
+          "dur": 332,
+          "site": "科学人生百年",
+          "brief": "科学家故事：朱光亚",
+          "mp4": "https://videozh.cas.cn/masvod/public/2024/05/30/20240530_18fc74e0002_r36_1200k.mp4",
+          "orient": "h"
+        }
+      ],
+      "military": [
+        {
+          "title": "01 军事先导",
+          "url": "https://m.iqiyi.com/v_28zjmceldgo.html",
+          "dur": 71,
+          "site": "爱奇艺",
+          "brief": "军事科普：01 军事先导",
+          "tvid": "8248370601898500",
+          "orient": "h"
+        },
+        {
+          "title": "02 奇怪的武器合集上",
+          "url": "https://m.iqiyi.com/v_dpq6knrh0g.html",
+          "dur": 196,
+          "site": "爱奇艺",
+          "brief": "军事科普：02 奇怪的武器合集上",
+          "tvid": "1275142887887500",
+          "orient": "h"
+        },
+        {
+          "title": "卫星在天上“看” 导弹在海上“打” 跨域协同作战如何实现“发现即摧毁”？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=737442",
+          "dur": 237,
+          "site": "科普中国",
+          "brief": "军事科普：卫星在天上“看” 导弹在海上“打” 跨域协同作战如何实现“发现即摧毁”？",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091415485416820259312266.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "新中国兵器工业自主研发体系",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=708135",
+          "dur": 77,
+          "site": "科普中国",
+          "brief": "军事科普：新中国兵器工业自主研发体系",
+          "mp4": "https://pqnoss.kepuchina.cn/U6935265/videos/2026060115380270915948696756.mp4",
+          "orient": "v"
+        },
+        {
+          "title": "乌克兰第36海军陆战旅防空部队猎杀敌方无人机",
+          "url": "https://www.bilibili.com/video/BV1YnpK6YEqr",
+          "dur": 57,
+          "site": "B站",
+          "brief": "军事科普：乌克兰第36海军陆战旅防空部队猎杀敌方无人机"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·14秒",
+          "url": "https://m.iqiyi.com/v_1079cohwmhw.html",
+          "dur": 14,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·14秒",
+          "tvid": "3793943650577800",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_ptgwsbfpck.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "2574651562094200",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "Emo智能宠物机器人ai桌面机器人支持中文输入生日礼物 桌面玩具支持GPT儿童节礼物 标准版 （黑色一个）",
+          "url": "https://www.bilibili.com/video/BV1mPpA62Ean",
+          "dur": 35,
+          "site": "B站",
+          "brief": "AI科技：Emo智能宠物机器人ai桌面机器人支持中文输入生日礼物 桌面玩具支持GPT儿童节礼物 标准版 （黑色一个）"
+        },
+        {
+          "title": "岛国生化基地作战",
+          "url": "https://www.bilibili.com/video/BV1PHpT6QEvJ",
+          "dur": 81,
+          "site": "B站",
+          "brief": "AI科技：岛国生化基地作战"
+        },
+        {
+          "title": "肃清之战，全面出击，不要俘虏，一个不留。",
+          "url": "https://www.bilibili.com/video/BV1xEpT6XEhb",
+          "dur": 133,
+          "site": "B站",
+          "brief": "AI科技：肃清之战，全面出击，不要俘虏，一个不留。"
+        },
+        {
+          "title": "全新 See & Spray Gen 2 官方首发：AI 视觉喷药再升级，一次作业双药箱对抗抗性",
+          "url": "https://www.bilibili.com/video/BV1pwpK61EqK",
+          "dur": 129,
+          "site": "B站",
+          "brief": "AI科技：全新 See & Spray Gen 2 官方首发：AI 视觉喷药再升级，一次作业双药箱对抗抗性"
+        },
+        {
+          "title": "《约定》｜城市空了，一个机器人还守着她的花【AI短片】",
+          "url": "https://www.bilibili.com/video/BV18Gpu6vEwC",
+          "dur": 249,
+          "site": "B站",
+          "brief": "AI科技：《约定》｜城市空了，一个机器人还守着她的花【AI短片】"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "10 一直不停长身体会怎么样？",
+          "url": "https://m.iqiyi.com/v_1qz7s35ymlk.html",
+          "dur": 149,
+          "site": "爱奇艺",
+          "brief": "自然科学： 10 一直不停长身体会怎么样？",
+          "tvid": "6417025971540100",
+          "orient": "h"
+        },
+        {
+          "title": "11 一直不停抓痒会怎么样？",
+          "url": "https://m.iqiyi.com/v_nhj8ev5e88.html",
+          "dur": 149,
+          "site": "爱奇艺",
+          "brief": "自然科学： 11 一直不停抓痒会怎么样？",
+          "tvid": "2265015543851300",
+          "orient": "h"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "三年级数学思维提升：学会画图法快速解决购物难题",
+          "url": "https://www.bilibili.com/video/BV1RJpK6AEPB",
+          "dur": 261,
+          "site": "B站",
+          "brief": "数学：三年级数学思维提升：学会画图法快速解决购物难题"
+        },
+        {
+          "title": "一下数学AI赋能公开课《认识人民币》有AI课件➕教案➕逐字稿➕学习单全部都有哦！有需要的老师可以拿去用",
+          "url": "https://www.bilibili.com/video/BV18LEX6mEax",
+          "dur": 155,
+          "site": "B站",
+          "brief": "数学：一下数学AI赋能公开课《认识人民币》有AI课件➕教案➕逐字稿➕学习单全部都有哦！有需要的老师可以拿去用"
+        }
+      ],
+      "project": [
+        {
+          "title": "平陆运河从设想到开工拖了几十年，最大障碍是什么？大哥分析太透彻了",
+          "url": "https://www.bilibili.com/video/BV15NpF6JE4m",
+          "dur": 188,
+          "site": "B站",
+          "brief": "重大工程：平陆运河从设想到开工拖了几十年，最大障碍是什么？大哥分析太透彻了"
+        },
+        {
+          "title": "凿山向海 · 平陆运河",
+          "url": "https://www.bilibili.com/video/BV1vBpN6wEsp",
+          "dur": 151,
+          "site": "B站",
+          "brief": "重大工程：凿山向海 · 平陆运河"
+        },
+        {
+          "title": "闪充即将落地北京所有高速服务区",
+          "url": "https://www.bilibili.com/video/BV18TpT6cE47",
+          "dur": 74,
+          "site": "B站",
+          "brief": "重大工程：闪充即将落地北京所有高速服务区"
+        },
+        {
+          "title": "平陆运河没有带火广西工作，却先带火了广西的旅游业！",
+          "url": "https://www.bilibili.com/video/BV1yipP6CE8b",
+          "dur": 45,
+          "site": "B站",
+          "brief": "重大工程：平陆运河没有带火广西工作，却先带火了广西的旅游业！"
+        },
+        {
+          "title": "速来围观！129个日夜、2580个小时接力织造，匠心织锦，再现平陆运河宏图！平陆运河壮锦长卷亮相广西民族博物馆，展出至10月22日～",
+          "url": "https://www.bilibili.com/video/BV1wvpw6qENU",
+          "dur": 60,
+          "site": "B站",
+          "brief": "重大工程：速来围观！129个日夜、2580个小时接力织造，匠心织锦，再现平陆运河宏图！平陆运河壮锦长卷亮相广西民族博物馆，展出至10月22日～"
+        }
+      ]
+    },
+    "2026-10-06": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "weapon": [
+        {
+          "title": "3分钟精彩回顾神舟二十二号载人飞船发射全过程",
+          "url": "https://www.bilibili.com/video/BV1MYHo6YEj8",
+          "dur": 201,
+          "site": "B站",
+          "brief": "大国重器：3分钟精彩回顾神舟二十二号载人飞船发射全过程"
+        },
+        {
+          "title": "6分钟精彩回顾神舟二十号载人飞船发射全过程",
+          "url": "https://www.bilibili.com/video/BV18UHd6YEng",
+          "dur": 369,
+          "site": "B站",
+          "brief": "大国重器：6分钟精彩回顾神舟二十号载人飞船发射全过程"
+        },
+        {
+          "title": "7分钟精彩回顾神舟二十一号载人飞船发射全过程",
+          "url": "https://www.bilibili.com/video/BV1gbHo6KEft",
+          "dur": 405,
+          "site": "B站",
+          "brief": "大国重器：7分钟精彩回顾神舟二十一号载人飞船发射全过程"
+        },
+        {
+          "title": "今日关注：与国同庆！“陆地航母”高铁列车震撼集结",
+          "url": "https://www.bilibili.com/video/BV1qqHZ6UEc6",
+          "dur": 303,
+          "site": "B站",
+          "brief": "大国重器：今日关注：与国同庆！“陆地航母”高铁列车震撼集结"
+        },
+        {
+          "title": "空间站「深空回响号」 | Minecraft-科幻建筑",
+          "url": "https://www.bilibili.com/video/BV1yWHx6MEzG",
+          "dur": 96,
+          "site": "B站",
+          "brief": "大国重器：空间站「深空回响号」 | Minecraft-科幻建筑"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "3-6岁成语启蒙 | 看动画秒懂“守株待兔”的道理",
+          "url": "https://www.bilibili.com/video/BV1JVHo6jEuv",
+          "dur": 70,
+          "site": "B站",
+          "brief": "语文：3-6岁成语启蒙 | 看动画秒懂“守株待兔”的道理"
+        },
+        {
+          "title": "先秦成语｜丢盔弃甲",
+          "url": "https://www.bilibili.com/video/BV1hhHf6kEye",
+          "dur": 128,
+          "site": "B站",
+          "brief": "语文：先秦成语｜丢盔弃甲"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "中国航天四老：任新民、黄纬禄、屠守锷、梁守槃。他们均为“两弹一星”功勋奖章获得者，在导弹、运载火箭、卫星等关键技术领域做出开创性贡献。",
+          "url": "https://www.bilibili.com/video/BV1CkK8zoERH",
+          "dur": 31,
+          "site": "B站",
+          "brief": "今日科学家·任新民：中国航天四老：任新民、黄纬禄、屠守锷、梁守槃。他们均为“两弹一星”功勋奖章获得者，在导弹、运载火箭、卫星等关键技术领域做出开创性贡献。"
+        },
+        {
+          "title": "“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。",
+          "url": "https://www.bilibili.com/video/BV1ov7GzZEZZ",
+          "dur": 31,
+          "site": "B站",
+          "brief": "科学家故事：“航天四老”（屠守锷、梁守槃、任新民、黄纬禄）在接受“杰出科学家奖”时留下的合影。"
+        },
+        {
+          "title": "中国航天四大老中国航天四老指的是任新民、屠守锷、黄纬禄、梁守槃这四位在中国航天事业做出了卓越贡献",
+          "url": "https://www.bilibili.com/video/BV1Az421i79C",
+          "dur": 86,
+          "site": "B站",
+          "brief": "科学家故事：中国航天四大老中国航天四老指的是任新民、屠守锷、黄纬禄、梁守槃这四位在中国航天事业做出了卓越贡献"
+        }
+      ],
+      "military": [
+        {
+          "title": "04 优秀的坦克T-34坦克",
+          "url": "https://m.iqiyi.com/v_1fdwga7vy9s.html",
+          "dur": 143,
+          "site": "爱奇艺",
+          "brief": "军事科普：04 优秀的坦克T-34坦克",
+          "tvid": "5346936730675500",
+          "orient": "h"
+        },
+        {
+          "title": "11 恐怖的声音心理声波武器",
+          "url": "https://m.iqiyi.com/v_n32rmt5ny8.html",
+          "dur": 143,
+          "site": "爱奇艺",
+          "brief": "军事科普：11 恐怖的声音心理声波武器",
+          "tvid": "2288278353406700",
+          "orient": "h"
+        },
+        {
+          "title": "X-37B骗了所有人——空天飞机≠航天飞机",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=730865",
+          "dur": 193,
+          "site": "科普中国",
+          "brief": "军事科普：X-37B骗了所有人——空天飞机≠航天飞机",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026082509491510953428052143.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "轮上安全：汽车兵如何应对驾驶疲劳？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=720936",
+          "dur": 265,
+          "site": "科普中国",
+          "brief": "军事科普：轮上安全：汽车兵如何应对驾驶疲劳？",
+          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071922212391377675711614.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "高原砺刃 预防失能——决胜生命禁区",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=720535",
+          "dur": 247,
+          "site": "科普中国",
+          "brief": "军事科普：高原砺刃 预防失能——决胜生命禁区",
+          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071713533311468074079551.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·12秒",
+          "url": "https://m.iqiyi.com/v_y7q7suafog.html",
+          "dur": 12,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·12秒",
+          "tvid": "3427353858165900",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·13秒",
+          "url": "https://m.iqiyi.com/v_1v2e6a8kjfw.html",
+          "dur": 13,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·13秒",
+          "tvid": "6834152213350400",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "科学院院士王贻芳：为什么人才流失严重？科研环境是人才成长的必要条件",
+          "url": "https://www.bilibili.com/video/BV1u7aZ6fE2k",
+          "dur": 44,
+          "site": "B站",
+          "brief": "AI科技：科学院院士王贻芳：为什么人才流失严重？科研环境是人才成长的必要条件"
+        },
+        {
+          "title": "未知级挑战 二战苏联抵抗外星科技AI机器人，智械危机[世界征服者4源计划低科技征服1978]",
+          "url": "https://www.bilibili.com/video/BV19rHd6MET9",
+          "dur": 449,
+          "site": "B站",
+          "brief": "AI科技：未知级挑战 二战苏联抵抗外星科技AI机器人，智械危机[世界征服者4源计划低科技征服1978]"
+        },
+        {
+          "title": "宇树Go2四足机器狗智能灵敏续航持久！",
+          "url": "https://www.bilibili.com/video/BV1WDH46zESw",
+          "dur": 338,
+          "site": "B站",
+          "brief": "AI科技：宇树Go2四足机器狗智能灵敏续航持久！"
+        },
+        {
+          "title": "AIBI机器人真实体验一次说清~无广希望对大家有帮助呀~",
+          "url": "https://www.bilibili.com/video/BV1SXHZ6BEZc",
+          "dur": 232,
+          "site": "B站",
+          "brief": "AI科技：AIBI机器人真实体验一次说清~无广希望对大家有帮助呀~"
+        },
+        {
+          "title": "Anthropic研究员访谈 AI时代最大的赢家 未来十年可能属于通才",
+          "url": "https://www.bilibili.com/video/BV1neHZ6QEwN",
+          "dur": 180,
+          "site": "B站",
+          "brief": "AI科技：Anthropic研究员访谈 AI时代最大的赢家 未来十年可能属于通才"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "02 一直不拉便便会怎么样？",
+          "url": "https://m.iqiyi.com/v_auzuzuaqlw.html",
+          "dur": 204,
+          "site": "爱奇艺",
+          "brief": "自然科学：02 一直不拉便便会怎么样？",
+          "tvid": "1018449816512600",
+          "orient": "h"
+        },
+        {
+          "title": "09 一直不呼吸会怎么样？",
+          "url": "https://m.iqiyi.com/v_tghdzwvb7c.html",
+          "dur": 219,
+          "site": "爱奇艺",
+          "brief": "自然科学： 09 一直不呼吸会怎么样？",
+          "tvid": "3049533742874900",
+          "orient": "h"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "五六年级：分数的意义和性质",
+          "url": "https://www.bilibili.com/video/BV1puH46qEMv",
+          "dur": 38,
+          "site": "B站",
+          "brief": "数学：五六年级：分数的意义和性质"
+        },
+        {
+          "title": "三年级数学活动3《称重我很行》课后提升：一半问题",
+          "url": "https://www.bilibili.com/video/BV1bQHH6YEVC",
+          "dur": 250,
+          "site": "B站",
+          "brief": "数学：三年级数学活动3《称重我很行》课后提升：一半问题"
+        }
+      ],
+      "project": [
+        {
+          "title": "平陆运河通航，改写西南格局",
+          "url": "https://www.bilibili.com/video/BV1fLHf6XEJZ",
+          "dur": 246,
+          "site": "B站",
+          "brief": "重大工程：平陆运河通航，改写西南格局"
+        },
+        {
+          "title": "中国台湾追梦小队为祖国庆生77岁生日快乐，分享祖国大国工程广西平陆运河。",
+          "url": "https://www.bilibili.com/video/BV1qaHd65EUa",
+          "dur": 227,
+          "site": "B站",
+          "brief": "重大工程：中国台湾追梦小队为祖国庆生77岁生日快乐，分享祖国大国工程广西平陆运河。"
+        },
+        {
+          "title": "10.5 天陇铁路安化隧道贯通！",
+          "url": "https://www.bilibili.com/video/BV1tKHb67EPQ",
+          "dur": 63,
+          "site": "B站",
+          "brief": "重大工程：10.5 天陇铁路安化隧道贯通！"
+        },
+        {
+          "title": "打卡港珠澳大桥！中国基建真的牛！",
+          "url": "https://www.bilibili.com/video/BV1Eoa361Etd",
+          "dur": 34,
+          "site": "B站",
+          "brief": "重大工程：打卡港珠澳大桥！中国基建真的牛！"
+        },
+        {
+          "title": "134.2公里平陆运河正式通航，彻底打通东南亚航运新通道，世纪工程欧美彻底要羡慕了。",
+          "url": "https://www.bilibili.com/video/BV1a1Hd6vEdA",
+          "dur": 627,
+          "site": "B站",
+          "brief": "重大工程：134.2公里平陆运河正式通航，彻底打通东南亚航运新通道，世纪工程欧美彻底要羡慕了。"
+        }
+      ]
+    },
+    "2026-10-05": {
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
+        }
+      ],
+      "weapon": [
+        {
+          "title": "SpaceX龙飞船从发射到回收，再到空间站对接的全部运作流程",
+          "url": "https://www.bilibili.com/video/BV1LNHj68EVH",
+          "dur": 303,
+          "site": "B站",
+          "brief": "大国重器：SpaceX龙飞船从发射到回收，再到空间站对接的全部运作流程"
+        },
+        {
+          "title": "发布“求贤令”， 面向所有公民招聘飞行主管。 应聘成功的人有机会领导NASA和前往国际空间站、月球及更远地域的任务，新任飞行指挥员的申请现已开放，",
+          "url": "https://www.bilibili.com/video/BV1vaHJ6BE2C",
+          "dur": 139,
+          "site": "B站",
+          "brief": "大国重器： 发布“求贤令”， 面向所有公民招聘飞行主管。 应聘成功的人有机会领导NASA和前往国际空间站、月球及更远地域的任务，新任飞行指挥员的申请现已开放，"
+        },
+        {
+          "title": "【JNO/RSS】中仿神舟飞船，回顾神舟一号至神舟七号任务——中国载人航天的起步阶段",
+          "url": "https://www.bilibili.com/video/BV1KzHp6hEGk",
+          "dur": 711,
+          "site": "B站",
+          "brief": "大国重器：【JNO/RSS】中仿神舟飞船，回顾神舟一号至神舟七号任务——中国载人航天的起步阶段"
+        },
+        {
+          "title": "继续更新粉丝空间站：太空大炮肘击火箭。",
+          "url": "https://www.bilibili.com/video/BV1U3HW6BE4w",
+          "dur": 520,
+          "site": "B站",
+          "brief": "大国重器：继续更新粉丝空间站：太空大炮肘击火箭。"
+        },
+        {
+          "title": "萌新一命单通陨落空间站",
+          "url": "https://www.bilibili.com/video/BV1HAHn67ExH",
+          "dur": 522,
+          "site": "B站",
+          "brief": "大国重器：萌新一命单通陨落空间站"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "《狐假虎威》动画故事：轻松读懂典故，学会明辨是非",
+          "url": "https://www.bilibili.com/video/BV1B6Hj6iEDx",
+          "dur": 139,
+          "site": "B站",
+          "brief": "语文：《狐假虎威》动画故事：轻松读懂典故，学会明辨是非"
+        },
+        {
+          "title": "守株待兔，重温经典寓言故事",
+          "url": "https://www.bilibili.com/video/BV1WiaD6YEaM",
+          "dur": 61,
+          "site": "B站",
+          "brief": "语文：守株待兔，重温经典寓言故事"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "华罗庚学校数学课本六年级｜下册03｜最短路线问题",
+          "url": "https://www.bilibili.com/video/BV1pnJX6MEER",
+          "dur": 71,
+          "site": "B站",
+          "brief": "今日科学家·华罗庚：华罗庚学校数学课本六年级｜下册03｜最短路线问题"
+        },
+        {
+          "title": "华罗庚学校数学课本六年级｜下册02｜关于取整计算",
+          "url": "https://www.bilibili.com/video/BV1UKJX6mEr4",
+          "dur": 67,
+          "site": "B站",
+          "brief": "科学家故事：华罗庚学校数学课本六年级｜下册02｜关于取整计算"
+        },
+        {
+          "title": "华罗庚学校数学课本六年级｜下册01｜列方程解应用题",
+          "url": "https://www.bilibili.com/video/BV1GwJX6HET4",
+          "dur": 70,
+          "site": "B站",
+          "brief": "科学家故事：华罗庚学校数学课本六年级｜下册01｜列方程解应用题"
+        },
+        {
+          "title": "华罗庚学校数学课本六年级｜上册14｜典型试题分析",
+          "url": "https://www.bilibili.com/video/BV1t3JX65Es6",
+          "dur": 66,
+          "site": "B站",
+          "brief": "科学家故事：华罗庚学校数学课本六年级｜上册14｜典型试题分析"
+        },
+        {
+          "title": "华罗庚学校数学课本六年级｜上册13｜棋盘中的数学（四）",
+          "url": "https://www.bilibili.com/video/BV1UuJX61E2C",
+          "dur": 66,
+          "site": "B站",
+          "brief": "科学家故事：华罗庚学校数学课本六年级｜上册13｜棋盘中的数学（四）"
+        },
+        {
+          "title": "华罗庚学校数学课本六年级｜上册12｜棋盘中的数学（三）",
+          "url": "https://www.bilibili.com/video/BV1GCJX6pEVU",
+          "dur": 66,
+          "site": "B站",
+          "brief": "科学家故事：华罗庚学校数学课本六年级｜上册12｜棋盘中的数学（三）"
+        },
+        {
+          "title": "华罗庚学校数学课本六年级｜上册11｜棋盘中的数学（二）",
+          "url": "https://www.bilibili.com/video/BV1RBJX6dE2R",
+          "dur": 72,
+          "site": "B站",
+          "brief": "科学家故事：华罗庚学校数学课本六年级｜上册11｜棋盘中的数学（二）"
+        }
+      ],
+      "military": [
+        {
+          "title": "01 军事武器知多少 先导片",
+          "url": "https://m.iqiyi.com/v_1iiks0hovto.html",
+          "dur": 90,
+          "site": "爱奇艺",
+          "brief": "军事科普：01 军事武器知多少 先导片",
+          "tvid": "5593201645932400",
+          "orient": "h"
+        },
+        {
+          "title": "07可怕的海战武器U型潜艇",
+          "url": "https://m.iqiyi.com/v_xcg9yn0pnc.html",
+          "dur": 143,
+          "site": "爱奇艺",
+          "brief": "军事科普：07可怕的海战武器U型潜艇",
+          "tvid": "3515592100427700",
+          "orient": "h"
+        },
+        {
+          "title": "“深海幽灵”出没！无人潜航器悄然改写海战规则",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=737450",
+          "dur": 186,
+          "site": "科普中国",
+          "brief": "军事科普：“深海幽灵”出没！无人潜航器悄然改写海战规则",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026091416111060803934473422.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "一张贴纸骗过AI：蜂群的“死穴”与反杀",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=735651",
+          "dur": 195,
+          "site": "科普中国",
+          "brief": "军事科普：一张贴纸骗过AI：蜂群的“死穴”与反杀",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026090810071931893117017225.mp4",
+          "orient": "h"
+        },
+        {
+          "title": "AI僚机如何为飞行员保驾护航？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=733251",
+          "dur": 259,
+          "site": "科普中国",
+          "brief": "军事科普：AI僚机如何为飞行员保驾护航？",
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026083109455813553237563294.mp4",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·26秒",
+          "url": "https://m.iqiyi.com/v_n554kkvv58.html",
+          "dur": 26,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·26秒",
+          "tvid": "2301113008256000",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·26秒",
+          "url": "https://m.iqiyi.com/v_11p6l43dwsk.html",
+          "dur": 26,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·26秒",
+          "tvid": "3922290186210600",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "【爆款推荐】宇树（Unitree）Go2 仿生四足机器人｜AI大模型智能语音交互+高精度遥控｜家庭陪伴/科研教育/巡检开发全能机型",
+          "url": "https://www.bilibili.com/video/BV1Z5Hp6mEpC",
+          "dur": 137,
+          "site": "B站",
+          "brief": "AI科技：【爆款推荐】宇树（Unitree）Go2 仿生四足机器人｜AI大模型智能语音交互+高精度遥控｜家庭陪伴/科研教育/巡检开发全能机型"
+        },
+        {
+          "title": "馬斯克震撼髮言：中國製造爲何讓世界重新認識？從電動車、AI到機器人，他揭開中國科技實力！",
+          "url": "https://www.bilibili.com/video/BV1cUHp6sEGN",
+          "dur": 393,
+          "site": "B站",
+          "brief": "AI科技：馬斯克震撼髮言：中國製造爲何讓世界重新認識？從電動車、AI到機器人，他揭開中國科技實力！"
+        },
+        {
+          "title": "【科大讯飞AI英语学习神器推荐】随身听英语单词机｜听力宝英语学习机器人｜伴学机+研学机+拍学机，128GB大内存高效学英语",
+          "url": "https://www.bilibili.com/video/BV1MaHp6KEpY",
+          "dur": 50,
+          "site": "B站",
+          "brief": "AI科技：【科大讯飞AI英语学习神器推荐】随身听英语单词机｜听力宝英语学习机器人｜伴学机+研学机+拍学机，128GB大内存高效学英语"
+        },
+        {
+          "title": "日语中日文字幕，个人AI制作超级机器人大战og《机神乱舞》主题曲，真人演唱。",
+          "url": "https://www.bilibili.com/video/BV1i5Hp6mEQc",
+          "dur": 300,
+          "site": "B站",
+          "brief": "AI科技：日语中日文字幕，个人AI制作超级机器人大战og《机神乱舞》主题曲，真人演唱。"
+        },
+        {
+          "title": "机器人伙伴挑战🤖🐈‍⬛",
+          "url": "https://www.bilibili.com/video/BV1TYHp6vE8m",
+          "dur": 31,
+          "site": "B站",
+          "brief": "AI科技：机器人伙伴挑战🤖🐈‍⬛"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "07 一直不掏耳屎会怎么样？",
+          "url": "https://m.iqiyi.com/v_26dmzbalmt8.html",
+          "dur": 177,
+          "site": "爱奇艺",
+          "brief": "自然科学：07 一直不掏耳屎会怎么样？",
+          "tvid": "7937130252930000",
+          "orient": "h"
+        },
+        {
+          "title": "08 一直不睡觉会怎么样？",
+          "url": "https://m.iqiyi.com/v_uw6w2oq5q0.html",
+          "dur": 206,
+          "site": "爱奇艺",
+          "brief": "自然科学： 08 一直不睡觉会怎么样？",
+          "tvid": "3185099771156500",
+          "orient": "h"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "从建国到现在，人民币经历了哪些变化？今天带你一次性理清",
+          "url": "https://www.bilibili.com/video/BV1eYH76FEbp",
+          "dur": 173,
+          "site": "B站",
+          "brief": "数学：从建国到现在，人民币经历了哪些变化？今天带你一次性理清"
+        },
+        {
+          "title": "六年级数学例题精讲：一元一次方程解法技巧",
+          "url": "https://www.bilibili.com/video/BV1NsHj62Ezf",
+          "dur": 230,
+          "site": "B站",
+          "brief": "数学：六年级数学例题精讲：一元一次方程解法技巧"
+        }
+      ],
+      "project": [
+        {
+          "title": "《好运开河》- 为世纪工程·平陆运河而作王晓岭 作词郭小虎 作曲",
+          "url": "https://www.bilibili.com/video/BV1U5HW6iEbN",
+          "dur": 249,
+          "site": "B站",
+          "brief": "重大工程：《好运开河》- 为世纪工程·平陆运河而作王晓岭 作词郭小虎 作曲"
+        },
+        {
+          "title": "南京要给长江“加盖”？江底竟挖出两条巨型隧道。",
+          "url": "https://www.bilibili.com/video/BV1TbHn68ESg",
+          "dur": 118,
+          "site": "B站",
+          "brief": "重大工程：南京要给长江“加盖”？江底竟挖出两条巨型隧道。"
+        },
+        {
+          "title": "普通人如何抓住平陆运河世纪机遇？",
+          "url": "https://www.bilibili.com/video/BV1ckHn6DEcR",
+          "dur": 61,
+          "site": "B站",
+          "brief": "重大工程：普通人如何抓住平陆运河世纪机遇？",
+          "orient": "v"
+        },
+        {
+          "title": "禁止废话：修建平陆运河到底花了多少钱？",
+          "url": "https://www.bilibili.com/video/BV1Nyao6pEGz",
+          "dur": 195,
+          "site": "B站",
+          "brief": "重大工程：禁止废话：修建平陆运河到底花了多少钱？"
+        },
+        {
+          "title": "欢迎收看主包去平陆运河新福-马道乘船体验Vlog",
+          "url": "https://www.bilibili.com/video/BV1h9Hj6oEf3",
+          "dur": 401,
+          "site": "B站",
+          "brief": "重大工程：欢迎收看主包去平陆运河新福-马道乘船体验Vlog"
+        }
+      ]
+    }
+  }
+}
