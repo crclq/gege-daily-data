@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18 07:49",
+  "generated": "2026-10-18 08:27",
   "cats": [
     {
       "key": "cctv_live",
@@ -99,6 +99,27 @@
     "2026-10-18": {
       "weapon": [
         {
+          "title": "卫星每天都在掉 · 空间站一天下沉100米",
+          "url": "https://www.bilibili.com/video/BV1AtJe6DEMs",
+          "dur": 121,
+          "site": "B站",
+          "brief": "大国重器：卫星每天都在掉 · 空间站一天下沉100米"
+        },
+        {
+          "title": "东航C919大飞机天府起飞离港",
+          "url": "https://www.bilibili.com/video/BV1ZoHs6dEQ2",
+          "dur": 60,
+          "site": "B站",
+          "brief": "大国重器：东航C919大飞机天府起飞离港"
+        },
+        {
+          "title": "【中国铁路】【宁杭高铁】G189次（北京南→杭州东）出南京南站(4K/30fps)",
+          "url": "https://www.bilibili.com/video/BV1XoHX68E4z",
+          "dur": 89,
+          "site": "B站",
+          "brief": "大国重器：【中国铁路】【宁杭高铁】G189次（北京南→杭州东）出南京南站(4K/30fps)"
+        },
+        {
           "title": "来自中兴手机的最新消息_新机",
           "url": "https://www.bilibili.com/video/BV1HFJ66PEfC",
           "dur": 42,
@@ -111,43 +132,22 @@
           "dur": 181,
           "site": "B站",
           "brief": "大国重器：【至主脚下的大世界系列·氛围音乐·8bit】至主脚下属莲煌空间站"
-        },
-        {
-          "title": "单排航母上分日记",
-          "url": "https://www.bilibili.com/video/BV153J66dEQw",
-          "dur": 147,
-          "site": "B站",
-          "brief": "大国重器：单排航母上分日记"
-        },
-        {
-          "title": "(航母掉头 ) 教你如何实现战斗机原地掉头",
-          "url": "https://www.bilibili.com/video/BV1vbJq62EQJ",
-          "dur": 87,
-          "site": "B站",
-          "brief": "大国重器：(航母掉头 ) 教你如何实现战斗机原地掉头"
-        },
-        {
-          "title": "头一次见“和谐号”这么强势，毫不客气地把“复兴号”踩了！😂",
-          "url": "https://www.bilibili.com/video/BV1V7J66QEHJ",
-          "dur": 52,
-          "site": "B站",
-          "brief": "大国重器：头一次见“和谐号”这么强势，毫不客气地把“复兴号”踩了！😂"
         }
       ],
       "edu_chinese": [
-        {
-          "title": "跟我读一一（人教版）小学语文一年级上册第45页《 汉语拼音 ⑪：欢迎台湾小朋友 》",
-          "url": "https://www.bilibili.com/video/BV1EYJa6zEkz",
-          "dur": 123,
-          "site": "B站",
-          "brief": "语文：跟我读一一（人教版）小学语文一年级上册第45页《 汉语拼音 ⑪：欢迎台湾小朋友 》"
-        },
         {
           "title": "阿喵与凡凡：成语故事 | 掩耳盗铃",
           "url": "https://www.bilibili.com/video/BV1NzJk6LE19",
           "dur": 111,
           "site": "B站",
           "brief": "语文：阿喵与凡凡：成语故事 | 掩耳盗铃"
+        },
+        {
+          "title": "成语故事《一字之师》，主页看100+精品原创动画故事！",
+          "url": "https://www.bilibili.com/video/BV12LWw6VE4d",
+          "dur": 132,
+          "site": "B站",
+          "brief": "语文：成语故事《一字之师》，主页看100+精品原创动画故事！"
         }
       ],
       "scientist": [
@@ -193,11 +193,11 @@
           "brief": "军事科普：10.18 巴基斯坦终于亮剑 枭龙战机 红旗防空导弹进驻沙特。"
         },
         {
-          "title": "最后一舞，制导导弹发射！",
-          "url": "https://www.bilibili.com/video/BV1byJz65EYa",
-          "dur": 37,
+          "title": "[SP2]RPK-2暴风雪反潜导弹(核战斗部)",
+          "url": "https://www.bilibili.com/video/BV1ZHnu6rE5H",
+          "dur": 121,
           "site": "B站",
-          "brief": "军事科普：最后一舞，制导导弹发射！"
+          "brief": "军事科普：[SP2]RPK-2暴风雪反潜导弹(核战斗部)"
         }
       ],
       "edu_english": [
@@ -371,11 +371,11 @@
           "brief": "AI科技：我们还没准备好！AI和机器人技术正在颠覆世界 - 令人震撼的科技变革"
         },
         {
-          "title": "DeepSeek 1017新模型震撼发布！AI斩杀线直逼6.1sol！开源大模型遥遥领先！",
-          "url": "https://www.bilibili.com/video/BV1GjJ66pE2y",
-          "dur": 90,
+          "title": "AI 大模型的推荐是有层次的先找官方和权威媒体曝光过的内容，其次再找符合顾客问题需求的场景、看和你的产品能不能对上；所以布局 GEO 必须从各个渠道散布高质内容",
+          "url": "https://www.bilibili.com/video/BV1DdJi6uEXn",
+          "dur": 279,
           "site": "B站",
-          "brief": "AI科技：DeepSeek 1017新模型震撼发布！AI斩杀线直逼6.1sol！开源大模型遥遥领先！"
+          "brief": "AI科技：AI 大模型的推荐是有层次的先找官方和权威媒体曝光过的内容，其次再找符合顾客问题需求的场景、看和你的产品能不能对上；所以布局 GEO 必须从各个渠道散布高质内容"
         },
         {
           "title": "2026最新科幻片护工不是人2 机器人真的可以替代家人陪伴老人吗？冰冷AI细致照料生活，可亲情的缺位，依旧是难以被算法弥补的巨大遗憾。",
@@ -442,18 +442,18 @@
           "brief": "机械原理：3D动画让你秒懂飞机的飞行原理"
         },
         {
-          "title": "塔吊杠杆原理、幼儿益智启蒙早教、工程车汽车玩具、挖掘机动画",
-          "url": "https://www.bilibili.com/video/BV1iy4y1R7ZN",
-          "dur": 101,
+          "title": "电风扇是如何控制摇头的，3D动画展示其原理，多年的疑惑被解开了",
+          "url": "https://www.bilibili.com/video/BV1m7411G7nA",
+          "dur": 248,
           "site": "B站",
-          "brief": "机械原理：塔吊杠杆原理、幼儿益智启蒙早教、工程车汽车玩具、挖掘机动画"
+          "brief": "机械原理：电风扇是如何控制摇头的，3D动画展示其原理，多年的疑惑被解开了"
         },
         {
-          "title": "汽车发动机是怎么工作的？3D动画帮你看懂四冲程发动机",
-          "url": "https://www.bilibili.com/video/BV1gihX67EMA",
-          "dur": 121,
+          "title": "恭喜你，学会了开锁！ 一分钟用3D动画带你了解弹子锁的工作原理",
+          "url": "https://www.bilibili.com/video/BV1yAaV68EzX",
+          "dur": 93,
           "site": "B站",
-          "brief": "机械原理：汽车发动机是怎么工作的？3D动画帮你看懂四冲程发动机"
+          "brief": "机械原理：恭喜你，学会了开锁！ 一分钟用3D动画带你了解弹子锁的工作原理"
         }
       ],
       "edu_math": [
@@ -1153,8 +1153,7 @@
           "url": "https://www.bilibili.com/video/BV1Di4y177Mo",
           "dur": 143,
           "site": "B站",
-          "brief": "科学家故事：【2020最美教师】87岁的戚发轫院士，依然坚守教学一线",
-          "orient": "h"
+          "brief": "科学家故事：【2020最美教师】87岁的戚发轫院士，依然坚守教学一线"
         },
         {
           "title": "70年，三代人，同一个航天梦！戚发轫院士讲述中国航天人接力不懈的传承！",
@@ -1343,8 +1342,7 @@
           "url": "https://www.bilibili.com/video/BV1au4m1K7Zv",
           "dur": 190,
           "site": "B站",
-          "brief": "机械原理：特斯拉电动车的工作原理",
-          "orient": "h"
+          "brief": "机械原理：特斯拉电动车的工作原理"
         }
       ],
       "edu_math": [
@@ -1813,8 +1811,7 @@
           "url": "https://www.bilibili.com/video/BV1zYJC6MExf",
           "dur": 482,
           "site": "B站",
-          "brief": "重大工程：平陆运河已经通航，湘桂运河还有多远？",
-          "orient": "h"
+          "brief": "重大工程：平陆运河已经通航，湘桂运河还有多远？"
         }
       ]
     },
@@ -2480,7 +2477,8 @@
           "url": "https://www.bilibili.com/video/BV1mgWw62Eyr",
           "dur": 69,
           "site": "B站",
-          "brief": "AI科技：🏆 金奖加冕｜安诺机器人AI拉花咖啡印花吧荣获2026广交会设计创新奖（CF奖）·金奖！"
+          "brief": "AI科技：🏆 金奖加冕｜安诺机器人AI拉花咖啡印花吧荣获2026广交会设计创新奖（CF奖）·金奖！",
+          "orient": "v"
         },
         {
           "title": "【智慧农业教学】AI机器人部署——生桃熟桃快速采摘分拣。",
@@ -3597,8 +3595,7 @@
           "url": "https://www.bilibili.com/video/BV1Kkao6XEr4",
           "dur": 51,
           "site": "B站",
-          "brief": "AI科技：人形机器人究竟有没有前景？德国工程院院士：没人需要只会跳舞的机器人",
-          "orient": "v"
+          "brief": "AI科技：人形机器人究竟有没有前景？德国工程院院士：没人需要只会跳舞的机器人"
         }
       ],
       "edu_science": [
@@ -4049,8 +4046,7 @@
           "url": "https://www.bilibili.com/video/BV18TpT6cE47",
           "dur": 74,
           "site": "B站",
-          "brief": "重大工程：闪充即将落地北京所有高速服务区",
-          "orient": "v"
+          "brief": "重大工程：闪充即将落地北京所有高速服务区"
         },
         {
           "title": "平陆运河没有带火广西工作，却先带火了广西的旅游业！",
@@ -4312,7 +4308,8 @@
           "dur": 193,
           "site": "科普中国",
           "brief": "军事科普：X-37B骗了所有人——空天飞机≠航天飞机",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026082509491510953428052143.mp4"
+          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026082509491510953428052143.mp4",
+          "orient": "h"
         },
         {
           "title": "轮上安全：汽车兵如何应对驾驶疲劳？",
@@ -4329,7 +4326,8 @@
           "dur": 247,
           "site": "科普中国",
           "brief": "军事科普：高原砺刃 预防失能——决胜生命禁区",
-          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071713533311468074079551.mp4"
+          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071713533311468074079551.mp4",
+          "orient": "h"
         }
       ],
       "edu_english": [
@@ -4422,8 +4420,7 @@
           "url": "https://www.bilibili.com/video/BV1bQHH6YEVC",
           "dur": 250,
           "site": "B站",
-          "brief": "数学：三年级数学活动3《称重我很行》课后提升：一半问题",
-          "orient": "h"
+          "brief": "数学：三年级数学活动3《称重我很行》课后提升：一半问题"
         }
       ],
       "project": [
@@ -4871,7 +4868,8 @@
           "url": "https://www.bilibili.com/video/BV1ckHn6DEcR",
           "dur": 61,
           "site": "B站",
-          "brief": "重大工程：普通人如何抓住平陆运河世纪机遇？"
+          "brief": "重大工程：普通人如何抓住平陆运河世纪机遇？",
+          "orient": "v"
         },
         {
           "title": "禁止废话：修建平陆运河到底花了多少钱？",
