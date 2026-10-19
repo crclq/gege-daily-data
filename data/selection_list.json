@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19 16:44",
+ "generated": "2026-10-19 17:12",
  "base_date": "2026-10-19",
  "note": "本机预遴选清单：云端每日构建直接取用（跳过已推送条目）；本机开机跑正式流程后刷新。科学家为按日期预排的轮值计划，云端只作临时兜底，本机重推时覆盖。",
  "themes": {
@@ -2065,6 +2065,30 @@
     "brief": "语文：睡前小故事《小天鹅学跳舞》，点赞关注看更多精品原创动画故事！睡前故事，故事，寓言故事，儿童睡前故事格林童话，成语故事寓言故事，启蒙小故事，成语故事，小儿睡前故事"
    },
    {
+    "title": "《画饼充饥》带孩子看懂成语",
+    "url": "https://www.bilibili.com/video/BV1tinj6LEVV",
+    "dur": 101,
+    "site": "B站",
+    "date": "2026-10-19",
+    "type": "视频",
+    "up": "醒醒绘本",
+    "play": 131,
+    "score": 48,
+    "brief": "语文：《画饼充饥》带孩子看懂成语"
+   },
+   {
+    "title": "小学二年级语文上册易错成语整理",
+    "url": "https://www.bilibili.com/video/BV1JLkLB2E3G",
+    "dur": 38,
+    "site": "B站",
+    "date": "2026-01-20",
+    "type": "视频",
+    "up": "业老师读书",
+    "play": 226032,
+    "score": 48,
+    "brief": "语文：小学二年级语文上册易错成语整理"
+   },
+   {
     "title": "成语故事［掩耳盗铃］",
     "url": "https://www.bilibili.com/video/BV1BL7n6eEYV",
     "dur": 81,
@@ -2075,18 +2099,6 @@
     "play": 739351,
     "score": 48,
     "brief": "语文：成语故事［掩耳盗铃］"
-   },
-   {
-    "title": "小学二年级语文上册易错成语整理",
-    "url": "https://www.bilibili.com/video/BV1JLkLB2E3G",
-    "dur": 38,
-    "site": "B站",
-    "date": "2026-01-20",
-    "type": "视频",
-    "up": "业老师读书",
-    "play": 226024,
-    "score": 48,
-    "brief": "语文：小学二年级语文上册易错成语整理"
    },
    {
     "title": "一年级语文下册 大写字母",
@@ -2111,45 +2123,9 @@
     "play": 277466,
     "score": 48,
     "brief": "语文：《一年级》完整版手势舞、音乐律动"
-   },
-   {
-    "title": "兔小贝识字：日字有几笔画？日字能组成哪些词语？",
-    "url": "https://www.bilibili.com/video/BV1BZ4y187Vp",
-    "dur": 108,
-    "site": "B站",
-    "date": "2022-05-19",
-    "type": "视频",
-    "up": "兔小贝识字",
-    "play": 7122,
-    "score": 48,
-    "brief": "语文：兔小贝识字：日字有几笔画？日字能组成哪些词语？"
    }
   ],
   "edu_math": [
-   {
-    "title": "小学数学一年级上第七单元认识钟表",
-    "url": "https://www.bilibili.com/video/BV1vyHMehE2o",
-    "dur": 202,
-    "site": "B站",
-    "date": "2024-08-31",
-    "type": "视频",
-    "up": "数学老师阿力",
-    "play": 7479,
-    "score": 54,
-    "brief": "数学：小学数学一年级上第七单元认识钟表"
-   },
-   {
-    "title": "认识东南西北，优秀数学动画，孩子一看就懂",
-    "url": "https://www.bilibili.com/video/BV19B4y1r7fH",
-    "dur": 224,
-    "site": "B站",
-    "date": "2022-08-07",
-    "type": "视频",
-    "up": "Miao之使者",
-    "play": 115862,
-    "score": 54,
-    "brief": "数学：认识东南西北，优秀数学动画，孩子一看就懂"
-   },
    {
     "title": "湾宝小课堂：一起来发现人民币的小秘密吧~",
     "url": "https://www.bilibili.com/video/BV1cZ4y1G7Gi",
@@ -2158,7 +2134,7 @@
     "date": "2020-12-01",
     "type": "视频",
     "up": "湾宝",
-    "play": 137590,
+    "play": 137636,
     "score": 52,
     "brief": "数学：湾宝小课堂：一起来发现人民币的小秘密吧~"
    },
@@ -2175,40 +2151,16 @@
     "brief": "数学：小学教资面试数学:试讲认识人民币（一年级下册）"
    },
    {
-    "title": "【小学数学微课】人教版一年级下册第五单元《认识人民币Ⅱ》",
-    "url": "https://www.bilibili.com/video/BV1RE411n7gn",
-    "dur": 444,
+    "title": "数学手抄报/数学小报/数学数数手抄报/数学比多少手抄报/数学上下前后手抄报，简单美观，适合小学一年级的数学手抄报！有线稿可打印喔！",
+    "url": "https://www.bilibili.com/video/BV1Qd4y1z7a4",
+    "dur": 67,
     "site": "B站",
-    "date": "2020-02-28",
+    "date": "2022-09-12",
     "type": "视频",
-    "up": "园园园很圆圆圆",
-    "play": 44325,
-    "score": 52,
-    "brief": "数学：【小学数学微课】人教版一年级下册第五单元《认识人民币Ⅱ》"
-   },
-   {
-    "title": "人民币是怎么制作的？揭秘人民币制作全过程",
-    "url": "https://www.bilibili.com/video/BV1qp4y1s7P1",
-    "dur": 298,
-    "site": "B站",
-    "date": "2021-01-04",
-    "type": "视频",
-    "up": "Big秘探",
-    "play": 233535,
-    "score": 52,
-    "brief": "数学：人民币是怎么制作的？揭秘人民币制作全过程"
-   },
-   {
-    "title": "认识钟表（全网讲解最全面）",
-    "url": "https://www.bilibili.com/video/BV1mc411G7s2",
-    "dur": 276,
-    "site": "B站",
-    "date": "2023-05-27",
-    "type": "视频",
-    "up": "宇宙中的尘埃2018",
-    "play": 71902,
+    "up": "小葡萄简笔画",
+    "play": 15322,
     "score": 51,
-    "brief": "数学：认识钟表（全网讲解最全面）"
+    "brief": "数学：数学手抄报/数学小报/数学数数手抄报/数学比多少手抄报/数学上下前后手抄报，简单美观，适合小学一年级的数学手抄报！有线稿可打印喔！"
    },
    {
     "title": "数字方块时钟歌曲 认识钟表报时歌 Numberblocks Clock Song",
@@ -2218,57 +2170,45 @@
     "date": "2024-09-15",
     "type": "视频",
     "up": "橘多贝子",
-    "play": 25458,
+    "play": 25496,
     "score": 51,
     "brief": "数学：数字方块时钟歌曲 认识钟表报时歌 Numberblocks Clock Song"
    },
    {
-    "title": "pinkfong ! telling time2 | 钟表之歌 | 认识时间 | 英语儿歌 |  幼儿英语启蒙 | kids songs |",
-    "url": "https://www.bilibili.com/video/BV1rJ411s73v",
-    "dur": 93,
+    "title": "认识钟表（全网讲解最全面）",
+    "url": "https://www.bilibili.com/video/BV1mc411G7s2",
+    "dur": 276,
     "site": "B站",
-    "date": "2019-12-23",
+    "date": "2023-05-27",
     "type": "视频",
-    "up": "安妮ishare",
-    "play": 49754,
+    "up": "宇宙中的尘埃2018",
+    "play": 71913,
     "score": 51,
-    "brief": "数学：pinkfong ! telling time2 | 钟表之歌 | 认识时间 | 英语儿歌 |  幼儿英语启蒙 | kids songs |"
+    "brief": "数学：认识钟表（全网讲解最全面）"
    },
    {
-    "title": "【教资面试】小学数学《认识钟表》",
-    "url": "https://www.bilibili.com/video/BV125411P7hm",
-    "dur": 602,
+    "title": "【数字启蒙1-5】宝宝快乐学数数｜动物故事 + 儿歌互动｜幼儿园数学启蒙｜小熊猫老师课堂 🐼",
+    "url": "https://www.bilibili.com/video/BV1Cy1pBDExa",
+    "dur": 324,
     "site": "B站",
-    "date": "2021-03-20",
+    "date": "2025-11-05",
     "type": "视频",
-    "up": "广州中公教育",
-    "play": 116307,
+    "up": "小熊猫老师FF",
+    "play": 21640,
     "score": 50,
-    "brief": "数学：【教资面试】小学数学《认识钟表》"
+    "brief": "数学：【数字启蒙1-5】宝宝快乐学数数｜动物故事 + 儿歌互动｜幼儿园数学启蒙｜小熊猫老师课堂 🐼"
    },
    {
-    "title": "一年级数学下册，五单元认识人民币手抄报思维导图，小学生数学小报！",
-    "url": "https://www.bilibili.com/video/BV1US411A7x4",
-    "dur": 70,
+    "title": "认识人民币，元角分",
+    "url": "https://www.bilibili.com/video/BV1m44y177L5",
+    "dur": 109,
     "site": "B站",
-    "date": "2024-06-21",
+    "date": "2021-12-29",
     "type": "视频",
-    "up": "创想美术画室",
-    "play": 1154,
+    "up": "思念老师讲数学",
+    "play": 1712,
     "score": 50,
-    "brief": "数学：一年级数学下册，五单元认识人民币手抄报思维导图，小学生数学小报！"
-   },
-   {
-    "title": "1年级数学认识人民币",
-    "url": "https://www.bilibili.com/video/BV1294y1N7mc",
-    "dur": 178,
-    "site": "B站",
-    "date": "2024-01-15",
-    "type": "视频",
-    "up": "李老师数学分享",
-    "play": 1627,
-    "score": 50,
-    "brief": "数学：1年级数学认识人民币"
+    "brief": "数学：认识人民币，元角分"
    },
    {
     "title": "教资面试小学数学——认识人民币（一年级下册）",
@@ -2278,45 +2218,105 @@
     "date": "2022-04-17",
     "type": "视频",
     "up": "教资加油吖1",
-    "play": 9467,
+    "play": 9468,
     "score": 49,
     "brief": "数学：教资面试小学数学——认识人民币（一年级下册）"
    },
    {
-    "title": "教资面试小学数学——认识钟表（一年级上册）",
-    "url": "https://www.bilibili.com/video/BV1RB4y1m7w4",
-    "dur": 583,
+    "title": "生活中的数学：自行车里的学问",
+    "url": "https://www.bilibili.com/video/BV16K4y1T7e9",
+    "dur": 152,
     "site": "B站",
-    "date": "2022-04-16",
+    "date": "2021-03-25",
     "type": "视频",
-    "up": "教资加油吖1",
-    "play": 9640,
-    "score": 49,
-    "brief": "数学：教资面试小学数学——认识钟表（一年级上册）"
+    "up": "乐乐课堂-天天练APP",
+    "play": 132123,
+    "score": 48,
+    "brief": "数学：生活中的数学：自行车里的学问"
    },
    {
-    "title": "做好思维启蒙，娃的数学真不用愁",
-    "url": "https://www.bilibili.com/video/BV1PMuEzPEsR",
-    "dur": 132,
+    "title": "二年级上册   北师大版  认识小额人民币",
+    "url": "https://www.bilibili.com/video/BV1z94y177mJ",
+    "dur": 245,
     "site": "B站",
-    "date": "2025-07-15",
+    "date": "2023-12-07",
     "type": "视频",
-    "up": "清华杨易讲数学",
-    "play": 520681,
+    "up": "洛米桃花",
+    "play": 6329,
     "score": 48,
-    "brief": "数学：做好思维启蒙，娃的数学真不用愁"
+    "brief": "数学：二年级上册   北师大版  认识小额人民币"
    },
    {
-    "title": "学习数学",
-    "url": "https://www.bilibili.com/video/BV179jqzfEwT",
-    "dur": 157,
+    "title": "谢帝 - 请揣满人民币",
+    "url": "https://www.bilibili.com/video/BV13Z4y1V73t",
+    "dur": 217,
     "site": "B站",
-    "date": "2025-05-28",
+    "date": "2020-10-25",
     "type": "视频",
-    "up": "Cheems学竞赛",
-    "play": 442324,
+    "up": "付思瑶付思瑶",
+    "play": 1241673,
     "score": 48,
-    "brief": "数学：学习数学"
+    "brief": "数学：谢帝 - 请揣满人民币"
+   },
+   {
+    "title": "第五套人民币2019版：第五版人民币，90%的人没用过第五版人民币",
+    "url": "https://www.bilibili.com/video/BV1TT411A7Xy",
+    "dur": 146,
+    "site": "B站",
+    "date": "2022-08-12",
+    "type": "视频",
+    "up": "华选收藏",
+    "play": 555298,
+    "score": 48,
+    "brief": "数学：第五套人民币2019版：第五版人民币，90%的人没用过第五版人民币"
+   },
+   {
+    "title": "每一张人民币都是行走的中国名片。",
+    "url": "https://www.bilibili.com/video/BV1f5ht6sEHK",
+    "dur": 113,
+    "site": "B站",
+    "date": "2026-09-23",
+    "type": "视频",
+    "up": "水哥不慌",
+    "play": 1100568,
+    "score": 48,
+    "brief": "数学：每一张人民币都是行走的中国名片。"
+   },
+   {
+    "title": "人民币10元背后，藏着一个人的名字，很多人都不知道",
+    "url": "https://www.bilibili.com/video/BV1xa411377w",
+    "dur": 136,
+    "site": "B站",
+    "date": "2022-09-02",
+    "type": "视频",
+    "up": "南国风情好",
+    "play": 1518145,
+    "score": 48,
+    "brief": "数学：人民币10元背后，藏着一个人的名字，很多人都不知道"
+   },
+   {
+    "title": "有趣的数学问题",
+    "url": "https://www.bilibili.com/video/BV1e6JX6sEk6",
+    "dur": 95,
+    "site": "B站",
+    "date": "2026-10-16",
+    "type": "视频",
+    "up": "小新宇宙",
+    "play": 5902,
+    "score": 47,
+    "brief": "数学：有趣的数学问题"
+   },
+   {
+    "title": "数字气球 次方 数字积木 数学英语动画 加减法",
+    "url": "https://www.bilibili.com/video/BV1CMJv6pE9f",
+    "dur": 281,
+    "site": "B站",
+    "date": "2026-10-17",
+    "type": "视频",
+    "up": "紫气东来助我飞跃",
+    "play": 207,
+    "score": 47,
+    "brief": "数学：数字气球 次方 数字积木 数学英语动画 加减法"
    }
   ],
   "edu_english": [
@@ -2522,45 +2522,9 @@
     "date": "2026-10-17",
     "type": "视频",
     "up": "科学星球",
-    "play": 5993,
+    "play": 9489,
     "score": 64,
     "brief": "自然科学：少儿科普动画《喵喵队：十万个为什么自然现象篇》揭秘好好的雨水为什么会变酸呢？"
-   },
-   {
-    "title": "为什么动物不会长蛀牙",
-    "url": "https://www.bilibili.com/video/BV1HF6CYPELR",
-    "dur": 38,
-    "site": "B站",
-    "date": "2025-01-03",
-    "type": "视频",
-    "up": "学长科普哦",
-    "play": 278652,
-    "score": 60,
-    "brief": "自然科学：为什么动物不会长蛀牙"
-   },
-   {
-    "title": "少儿百科《为什么打喷嚏时绝对不能憋回去？》身体的“扫毒大炮”正开火，教你最优雅的“排气神技”！",
-    "url": "https://www.bilibili.com/video/BV1GHan6hEsz",
-    "dur": 80,
-    "site": "B站",
-    "date": "2026-10-07",
-    "type": "视频",
-    "up": "为什么星球",
-    "play": 163452,
-    "score": 60,
-    "brief": "自然科学：少儿百科《为什么打喷嚏时绝对不能憋回去？》身体的“扫毒大炮”正开火，教你最优雅的“排气神技”！"
-   },
-   {
-    "title": "好标准的种子结构，再一次被植物的生命力震撼到",
-    "url": "https://www.bilibili.com/video/BV1oHBsBZEi7",
-    "dur": 32,
-    "site": "B站",
-    "date": "2025-12-22",
-    "type": "视频",
-    "up": "娱乐趣事百分百",
-    "play": 163106,
-    "score": 60,
-    "brief": "自然科学：好标准的种子结构，再一次被植物的生命力震撼到"
    },
    {
     "title": "【4K极品画质】周杰伦《彩虹》MV 官方字幕无损音频",
@@ -2570,69 +2534,33 @@
     "date": "2026-07-16",
     "type": "视频",
     "up": "时光唱片行",
-    "play": 86785,
-    "score": 59,
+    "play": 101230,
+    "score": 62,
     "brief": "自然科学：【4K极品画质】周杰伦《彩虹》MV 官方字幕无损音频"
    },
    {
-    "title": "动物不刷牙为什么不会长蛀牙",
-    "url": "https://www.bilibili.com/video/BV17H4y1C7xE",
-    "dur": 73,
+    "title": "少儿百科《为什么打喷嚏时绝对不能憋回去？》身体的“扫毒大炮”正开火，教你最优雅的“排气神技”！",
+    "url": "https://www.bilibili.com/video/BV1GHan6hEsz",
+    "dur": 80,
     "site": "B站",
-    "date": "2023-12-03",
+    "date": "2026-10-07",
     "type": "视频",
-    "up": "动物大百科",
-    "play": 68882,
-    "score": 57,
-    "brief": "自然科学：动物不刷牙为什么不会长蛀牙"
+    "up": "为什么星球",
+    "play": 181706,
+    "score": 60,
+    "brief": "自然科学：少儿百科《为什么打喷嚏时绝对不能憋回去？》身体的“扫毒大炮”正开火，教你最优雅的“排气神技”！"
    },
    {
-    "title": "动物为什么不担心蛀牙？整天吃肉啃骨头，它们的牙齿不会坏吗？",
-    "url": "https://www.bilibili.com/video/BV1ML411N7jx",
-    "dur": 291,
+    "title": "如果把冬眠动物挖出来，它还能回去接着睡吗？",
+    "url": "https://www.bilibili.com/video/BV13GJi6zEsn",
+    "dur": 175,
     "site": "B站",
-    "date": "2022-03-05",
+    "date": "2026-10-17",
     "type": "视频",
-    "up": "阿伟科普",
-    "play": 76259,
-    "score": 57,
-    "brief": "自然科学：动物为什么不担心蛀牙？整天吃肉啃骨头，它们的牙齿不会坏吗？"
-   },
-   {
-    "title": "为什么不能在电梯里蹦蹦跳跳，儿童益智启蒙动画科普百科涨知识学知识动画片",
-    "url": "https://www.bilibili.com/video/BV1AyyjBYEQw",
-    "dur": 66,
-    "site": "B站",
-    "date": "2025-11-19",
-    "type": "视频",
-    "up": "兵兵宝贝少儿",
-    "play": 870023,
+    "up": "薛定谔的猫头鹰z",
+    "play": 217299,
     "score": 56,
-    "brief": "自然科学：为什么不能在电梯里蹦蹦跳跳，儿童益智启蒙动画科普百科涨知识学知识动画片"
-   },
-   {
-    "title": "中文评论区meme#37 蓝白show-为什么会下雨？因为我在摸太阳穴🤓🙏",
-    "url": "https://www.bilibili.com/video/BV1k78N6cETB",
-    "dur": 384,
-    "site": "B站",
-    "date": "2026-08-21",
-    "type": "视频",
-    "up": "蓝白灬绯",
-    "play": 118029,
-    "score": 55,
-    "brief": "自然科学：中文评论区meme#37 蓝白show-为什么会下雨？因为我在摸太阳穴🤓🙏"
-   },
-   {
-    "title": "儿童百科知识动画《太阳为什么会发光发热》",
-    "url": "https://www.bilibili.com/video/BV1149uBNE8Q",
-    "dur": 93,
-    "site": "B站",
-    "date": "2026-04-03",
-    "type": "视频",
-    "up": "露娜儿童故事",
-    "play": 42746,
-    "score": 55,
-    "brief": "自然科学：儿童百科知识动画《太阳为什么会发光发热》"
+    "brief": "自然科学：如果把冬眠动物挖出来，它还能回去接着睡吗？"
    },
    {
     "title": "亲子科普《为什么会下雨》",
@@ -2642,9 +2570,21 @@
     "date": "2026-07-01",
     "type": "视频",
     "up": "六六科普小课堂",
-    "play": 28869,
+    "play": 29482,
     "score": 55,
     "brief": "自然科学：亲子科普《为什么会下雨》"
+   },
+   {
+    "title": "【4K修复】周杰伦 - 彩虹 MV 2160P修复版",
+    "url": "https://www.bilibili.com/video/BV1fJ411M7fh",
+    "dur": 273,
+    "site": "B站",
+    "date": "2019-09-24",
+    "type": "视频",
+    "up": "zyl2012_音乐无限",
+    "play": 4227114,
+    "score": 54,
+    "brief": "自然科学：【4K修复】周杰伦 - 彩虹 MV 2160P修复版"
    },
    {
     "title": "动物们冬眠为什么不会被冻死？",
@@ -2654,7 +2594,7 @@
     "date": "2023-02-03",
     "type": "视频",
     "up": "科普中国",
-    "play": 113929,
+    "play": 113962,
     "score": 54,
     "brief": "自然科学：动物们冬眠为什么不会被冻死？"
    },
@@ -2666,21 +2606,9 @@
     "date": "2023-10-12",
     "type": "视频",
     "up": "朱妮托尼儿歌",
-    "play": 245414,
+    "play": 245501,
     "score": 54,
     "brief": "自然科学：亿点点好奇！为什么会长蛀牙？"
-   },
-   {
-    "title": "【动画】蛀牙是怎么来的？这个“虫子”怎么辣么萌！",
-    "url": "https://www.bilibili.com/video/BV1Dx411G7Qj",
-    "dur": 271,
-    "site": "B站",
-    "date": "2017-09-26",
-    "type": "视频",
-    "up": "爱优牙牙齿矫正平台",
-    "play": 164727,
-    "score": 54,
-    "brief": "自然科学：【动画】蛀牙是怎么来的？这个“虫子”怎么辣么萌！"
    },
    {
     "title": "为什么人类牙齿只能换一次，某些动物却能终生不断换牙？",
@@ -2690,23 +2618,323 @@
     "date": "2024-04-30",
     "type": "视频",
     "up": "科普小姐姐",
-    "play": 196178,
+    "play": 196208,
     "score": 54,
     "brief": "自然科学：为什么人类牙齿只能换一次，某些动物却能终生不断换牙？"
    },
    {
-    "title": "【4K修复】周杰伦 - 彩虹 MV 2160P修复版",
-    "url": "https://www.bilibili.com/video/BV1fJ411M7fh",
-    "dur": 273,
+    "title": "儿童百科知识动画《为什么气球会飞上天》",
+    "url": "https://www.bilibili.com/video/BV1aPkcBZEVm",
+    "dur": 77,
     "site": "B站",
-    "date": "2019-09-24",
+    "date": "2026-01-15",
     "type": "视频",
-    "up": "zyl2012_音乐无限",
-    "play": 4223918,
-    "score": 54,
-    "brief": "自然科学：【4K修复】周杰伦 - 彩虹 MV 2160P修复版"
+    "up": "露娜儿童故事",
+    "play": 255359,
+    "score": 52,
+    "brief": "自然科学：儿童百科知识动画《为什么气球会飞上天》"
+   },
+   {
+    "title": "【科普】打喷嚏是有人在想你，这句话是怎么流传到现在的！",
+    "url": "https://www.bilibili.com/video/BV1Tq4y1E7oa",
+    "dur": 176,
+    "site": "B站",
+    "date": "2021-05-23",
+    "type": "视频",
+    "up": "画渣花小烙",
+    "play": 2602525,
+    "score": 52,
+    "brief": "自然科学：【科普】打喷嚏是有人在想你，这句话是怎么流传到现在的！"
+   },
+   {
+    "title": "蛀牙是怎么形成的？| 预防龋齿，从看懂开始【斑马百科·揭秘疾病】",
+    "url": "https://www.bilibili.com/video/BV1W6XnBcEiY",
+    "dur": 193,
+    "site": "B站",
+    "date": "2026-03-27",
+    "type": "视频",
+    "up": "斑马百科",
+    "play": 2331128,
+    "score": 52,
+    "brief": "自然科学：蛀牙是怎么形成的？| 预防龋齿，从看懂开始【斑马百科·揭秘疾病】"
+   },
+   {
+    "title": "为什么月亮有时圆，有时弯？",
+    "url": "https://www.bilibili.com/video/BV1FTSeBnEcV",
+    "dur": 237,
+    "site": "B站",
+    "date": "2025-12-03",
+    "type": "视频",
+    "up": "百科启蒙",
+    "play": 15782,
+    "score": 51,
+    "brief": "自然科学：为什么月亮有时圆，有时弯？"
+   },
+   {
+    "title": "少儿百科动画《下雨前，鱼儿为什么会跳出水面》",
+    "url": "https://www.bilibili.com/video/BV1iNYC6eEmz",
+    "dur": 62,
+    "site": "B站",
+    "date": "2026-09-14",
+    "type": "视频",
+    "up": "露娜儿童故事",
+    "play": 14983,
+    "score": 51,
+    "brief": "自然科学：少儿百科动画《下雨前，鱼儿为什么会跳出水面》"
+   },
+   {
+    "title": "开学前为什么会下雨？",
+    "url": "https://www.bilibili.com/video/BV12Ct36SEBn",
+    "dur": 60,
+    "site": "B站",
+    "date": "2026-09-01",
+    "type": "视频",
+    "up": "笑笑日记-",
+    "play": 16768,
+    "score": 51,
+    "brief": "自然科学：开学前为什么会下雨？"
+   },
+   {
+    "title": "天上为什么会下雨呢？雨是怎样形成的，雨又是从哪里来的",
+    "url": "https://www.bilibili.com/video/BV1CF411A7oe",
+    "dur": 267,
+    "site": "B站",
+    "date": "2022-08-04",
+    "type": "视频",
+    "up": "鲲鹏科普",
+    "play": 13713,
+    "score": 51,
+    "brief": "自然科学：天上为什么会下雨呢？雨是怎样形成的，雨又是从哪里来的"
    }
   ]
  },
- "scientist_plan": []
+ "scientist_plan": [
+  {
+   "date": "2026-10-19",
+   "name": "侯德榜",
+   "item": {
+    "title": "侯氏制碱法摸出来以后，侯德榜把它公开给了全世界",
+    "url": "https://www.bilibili.com/video/BV133Je6aEHG",
+    "dur": 937,
+    "site": "B站",
+    "date": "2026-10-17",
+    "type": "视频",
+    "up": "玖屿听风",
+    "play": 135,
+    "score": 25,
+    "brief": "今日科学家·侯德榜：侯氏制碱法摸出来以后，侯德榜把它公开给了全世界"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "name": "苏步青",
+   "item": {
+    "title": "请停留3秒，献上一朵花。纪念中国微分几何学派创始人苏步青诞辰124周年，被誉为东方第一几何学家。",
+    "url": "https://www.bilibili.com/video/BV1oNhJ6bEYF",
+    "dur": 39,
+    "site": "B站",
+    "date": "2026-09-23",
+    "type": "视频",
+    "up": "群众新闻",
+    "play": 28580,
+    "score": 53,
+    "brief": "今日科学家·苏步青：请停留3秒，献上一朵花。纪念中国微分几何学派创始人苏步青诞辰124周年，被誉为东方第一几何学家。"
+   }
+  },
+  {
+   "date": "2026-10-21",
+   "name": "李时珍",
+   "item": {
+    "title": "李时珍：三次落榜的落榜生，用20多年写了一本救命的书",
+    "url": "https://www.bilibili.com/video/BV1sWnM6HE76",
+    "dur": 121,
+    "site": "B站",
+    "date": "2026-10-18",
+    "type": "视频",
+    "up": "陈先生夜话",
+    "play": 107,
+    "score": 39,
+    "brief": "今日科学家·李时珍：李时珍：三次落榜的落榜生，用20多年写了一本救命的书"
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "name": "彭桓武",
+   "item": {
+    "title": "《凌云壮志》 钱三强 邓稼先 于敏 王淦昌 郭永怀 朱光亚 彭桓武",
+    "url": "https://www.bilibili.com/video/BV1NTjE6uEz9",
+    "dur": 11878,
+    "site": "B站",
+    "date": "2026-06-20",
+    "type": "视频",
+    "up": "玉笛伴月",
+    "play": 4449,
+    "score": 16,
+    "brief": "今日科学家·彭桓武：《凌云壮志》 钱三强 邓稼先 于敏 王淦昌 郭永怀 朱光亚 彭桓武"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "name": "任新民",
+   "item": {
+    "title": "中国航天四大老中国航天四老指的是任新民、屠守锷、黄纬禄、梁守槃这四位在中国航天事业做出了卓越贡献",
+    "url": "https://www.bilibili.com/video/BV1Az421i79C",
+    "dur": 86,
+    "site": "B站",
+    "date": "2024-07-21",
+    "type": "视频",
+    "up": "倾听的学生",
+    "play": 945,
+    "score": 36,
+    "brief": "今日科学家·任新民：中国航天四大老中国航天四老指的是任新民、屠守锷、黄纬禄、梁守槃这四位在中国航天事业做出了卓越贡献"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "name": "屠守锷",
+   "item": {
+    "title": "中国航天四大老中国航天四老指的是任新民、屠守锷、黄纬禄、梁守槃这四位在中国航天事业做出了卓越贡献",
+    "url": "https://www.bilibili.com/video/BV1Az421i79C",
+    "dur": 86,
+    "site": "B站",
+    "date": "2024-07-21",
+    "type": "视频",
+    "up": "倾听的学生",
+    "play": 945,
+    "score": 36,
+    "brief": "今日科学家·屠守锷：中国航天四大老中国航天四老指的是任新民、屠守锷、黄纬禄、梁守槃这四位在中国航天事业做出了卓越贡献"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "name": "梁守槃",
+   "item": {
+    "title": "中国航天开拓者 梁守槃",
+    "url": "https://www.bilibili.com/video/BV1QzdBBvE69",
+    "dur": 1476,
+    "site": "B站",
+    "date": "2026-04-17",
+    "type": "视频",
+    "up": "萨缪尔森也很忙",
+    "play": 272,
+    "score": 7,
+    "brief": "今日科学家·梁守槃：中国航天开拓者 梁守槃"
+   }
+  },
+  {
+   "date": "2026-10-26",
+   "name": "叶企孙",
+   "item": {
+    "title": "人物传记||院士叶企孙的科学家故事与爱国精神ppt",
+    "url": "https://www.bilibili.com/video/BV18Wske9EwR",
+    "dur": 60,
+    "site": "B站",
+    "date": "2024-09-22",
+    "type": "视频",
+    "up": "爬爬爬姐",
+    "play": 44,
+    "score": 48,
+    "brief": "今日科学家·叶企孙：人物传记||院士叶企孙的科学家故事与爱国精神ppt"
+   }
+  },
+  {
+   "date": "2026-10-27",
+   "name": "周培源",
+   "item": {
+    "title": "纪念我国近代力学奠基人周培源院士诞辰120周年",
+    "url": "https://www.bilibili.com/video/BV1uG41157wX",
+    "dur": 62,
+    "site": "B站",
+    "date": "2022-08-28",
+    "type": "视频",
+    "up": "中科科界",
+    "play": 353,
+    "score": 49,
+    "brief": "今日科学家·周培源：纪念我国近代力学奠基人周培源院士诞辰120周年"
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "name": "黄昆",
+   "item": {
+    "title": "黄昆院士谈回国初期的工作经历",
+    "url": "https://kxrsbn.casad.cas.cn/2019n/zxsp/201905/t20190530_4950212.html",
+    "dur": 112,
+    "site": "科学人生百年",
+    "date": "2019-05-30",
+    "type": "视频",
+    "up": "中国科学院",
+    "album": "科学人生百年",
+    "cover": "http://videozh.cas.cn/masvod/public/2023/07/24/18641206.images/v18641206_b1690203894860.jpg",
+    "score": 57,
+    "brief": "今日科学家·黄昆：黄昆院士谈回国初期的工作经历"
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "name": "谢希德",
+   "item": {
+    "title": "共和国的女科学家系列之——半导体之母谢希德",
+    "url": "https://www.bilibili.com/video/BV1wN4y1G74d",
+    "dur": 353,
+    "site": "B站",
+    "date": "2022-06-27",
+    "type": "视频",
+    "up": "橙凯哥本人",
+    "play": 642,
+    "score": 39,
+    "brief": "今日科学家·谢希德：共和国的女科学家系列之——半导体之母谢希德"
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "name": "何泽慧",
+   "item": {
+    "title": "铿锵巾帼——何泽慧",
+    "url": "https://mmcs.cast.org.cn/kxjxc/art/2025/art_39cb9d885a804b92938d8b41f548ee9e.html",
+    "dur": 252,
+    "site": "科学家博物馆",
+    "date": "2025-03-05",
+    "type": "视频",
+    "up": "中国科学家博物馆",
+    "album": "科学家相册",
+    "cover": "https://mmcs.cast.org.cn/cms_files/filemanager/95318146/picture/202412/d1d79855ae30467f9ad740690504398c.png",
+    "score": 53,
+    "brief": "今日科学家·何泽慧：铿锵巾帼——何泽慧"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "name": "王元",
+   "item": {
+    "title": "数学家谈怎样学数学 (华罗庚 苏步青 王元 等)（1986年）",
+    "url": "https://www.bilibili.com/video/BV1fGQzBMEpw",
+    "dur": 94,
+    "site": "B站",
+    "date": "2026-03-24",
+    "type": "视频",
+    "up": "香甜冰淇淋",
+    "play": 475,
+    "score": 33,
+    "brief": "今日科学家·王元：数学家谈怎样学数学 (华罗庚 苏步青 王元 等)（1986年）"
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "name": "闵恩泽",
+   "item": {
+    "title": "闵恩泽",
+    "url": "https://kxrsbn.casad.cas.cn/2024/zxsp/202405/t20240530_5016235.html",
+    "dur": 305,
+    "site": "科学人生百年",
+    "date": "2024-05-30",
+    "type": "视频",
+    "up": "中国科学院",
+    "album": "科学人生百年",
+    "cover": "http://videozh.cas.cn/masvod/public/2024/05/30/18800019.images/v18800019_b1717034841237.jpg",
+    "score": 48,
+    "brief": "今日科学家·闵恩泽：闵恩泽"
+   }
+  }
+ ]
 }
