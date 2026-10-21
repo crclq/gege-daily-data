@@ -1,12 +1,7 @@
 {
  "api_healthy": true,
+ "domain": "https://kid.fengbudingdan.cn",
  "endpoints": [
-  {
-   "id": "box-v6",
-   "net": "ipv6-public",
-   "prio": 10,
-   "url": "http://[2409:8a55:50fc:9f80:2e0:29ff:fe20:8140]:3000"
-  },
   {
    "id": "box-lan",
    "net": "lan",
@@ -20,6 +15,12 @@
    "url": "http://100.92.118.7:3000"
   },
   {
+   "id": "box-v6",
+   "net": "ipv6-public",
+   "prio": 40,
+   "url": "http://[2409:8a55:50fc:9f80:2e0:29ff:fe20:8140]:3000"
+  },
+  {
    "id": "tencent",
    "net": "public-v4",
    "prio": 90,
@@ -27,8 +28,15 @@
   }
  ],
  "lan": "192.168.1.3",
+ "reach": {
+  "box-domain": false,
+  "box-lan": true,
+  "box-ts": true,
+  "box-v6": true,
+  "tencent": true
+ },
  "tailscale": "100.92.118.7",
- "ts": 1792619332,
- "updated": "2026-10-22 05:48:52",
+ "ts": 1792619429,
+ "updated": "2026-10-22 05:50:29",
  "v6": "2409:8a55:50fc:9f80:2e0:29ff:fe20:8140"
 }
