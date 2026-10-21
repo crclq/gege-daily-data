@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20 17:31",
+  "generated": "2026-10-21 13:02",
   "cats": [
     {
       "key": "cctv_live",
@@ -72,6 +72,7 @@
     }
   ],
   "dates": [
+    "2026-10-21",
     "2026-10-20",
     "2026-10-19",
     "2026-10-18",
@@ -84,10 +85,522 @@
     "2026-10-11",
     "2026-10-10",
     "2026-10-09",
-    "2026-10-08",
-    "2026-10-07"
+    "2026-10-08"
   ],
   "data": {
+    "2026-10-21": {
+      "weapon": [
+        {
+          "title": "三大航砸 460 亿买空客，C919 咋没影了？国产大飞机的前路在哪里",
+          "url": "https://www.bilibili.com/video/BV1sJV46HEVU",
+          "dur": 251,
+          "site": "B站",
+          "brief": "大国重器：三大航砸 460 亿买空客，C919 咋没影了？国产大飞机的前路在哪里"
+        },
+        {
+          "title": "【卫星互联网低轨27组卫星成功发射】今天，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨27组卫星发射升空。",
+          "url": "https://www.bilibili.com/video/BV1R2pe6EEXk",
+          "dur": 77,
+          "site": "B站",
+          "brief": "大国重器：【卫星互联网低轨27组卫星成功发射】今天，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨27组卫星发射升空。"
+        },
+        {
+          "title": "课前三分钟，地理不用愁——C919国产大飞机【看纪录片学地理】",
+          "url": "https://www.bilibili.com/video/BV1P8411i7xH",
+          "dur": 290,
+          "site": "B站",
+          "brief": "大国重器：课前三分钟，地理不用愁——C919国产大飞机【看纪录片学地理】"
+        },
+        {
+          "title": "今天下午1：30，长征十二号遥10运载火箭组合体成功转运至海南商业航天发射场2号工位，目前发射场设施状态良好，计划于10月10日当天实施发射。",
+          "url": "https://www.bilibili.com/video/BV1oupP6wEsE",
+          "dur": 36,
+          "site": "B站",
+          "brief": "大国重器：今天下午1：30，长征十二号遥10运载火箭组合体成功转运至海南商业航天发射场2号工位，目前发射场设施状态良好，计划于10月10日当天实施发射。"
+        },
+        {
+          "title": "【航天系列】长征火箭大科普",
+          "url": "https://www.bilibili.com/video/BV1jgG9zbE7s",
+          "dur": 324,
+          "site": "B站",
+          "brief": "大国重器：【航天系列】长征火箭大科普"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "李时珍：三次落榜的落榜生，用20多年写了一本救命的书",
+          "url": "https://www.bilibili.com/video/BV1sWnM6HE76",
+          "dur": 121,
+          "site": "B站",
+          "brief": "今日科学家·李时珍：李时珍：三次落榜的落榜生，用20多年写了一本救命的书"
+        }
+      ],
+      "military": [
+        {
+          "title": "近两个月连续试射多枚洲际导弹，包括神秘的东风-45？",
+          "url": "https://www.bilibili.com/video/BV17EnE6vEAf",
+          "dur": 229,
+          "site": "B站",
+          "brief": "军事科普：近两个月连续试射多枚洲际导弹，包括神秘的东风-45？"
+        },
+        {
+          "title": "高超音速导弹性能详解",
+          "url": "https://www.bilibili.com/video/BV1kH4y1q7AQ",
+          "dur": 224,
+          "site": "B站",
+          "brief": "军事科普：高超音速导弹性能详解"
+        },
+        {
+          "title": "英国皇家海军45型防空驱逐舰D33不屈号缓缓驶出朴茨茅斯港",
+          "url": "https://www.bilibili.com/video/BV1zYn76KEi9",
+          "dur": 172,
+          "site": "B站",
+          "brief": "军事科普：英国皇家海军45型防空驱逐舰D33不屈号缓缓驶出朴茨茅斯港"
+        },
+        {
+          "title": "2026年10月19日 基辅被俄罗斯9枚弹道导弹击中 两座电厂和多家物流仓库被炸毁",
+          "url": "https://www.bilibili.com/video/BV1jEnE6vE8k",
+          "dur": 75,
+          "site": "B站",
+          "brief": "军事科普：2026年10月19日 基辅被俄罗斯9枚弹道导弹击中 两座电厂和多家物流仓库被炸毁"
+        },
+        {
+          "title": "北约连代号都懒得给它起，VT-4坦克为何能成为国际爆款？",
+          "url": "https://www.bilibili.com/video/BV1QgnJ6fEKE",
+          "dur": 257,
+          "site": "B站",
+          "brief": "军事科普：北约连代号都懒得给它起，VT-4坦克为何能成为国际爆款？"
+        }
+      ],
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "CCTV1",
+            "打开电视",
+            "观看节目"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看",
+          "words": [
+            "CCTV2",
+            "财经",
+            "直播",
+            "点开"
+          ],
+          "frame": "「CCTV2」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看",
+          "words": [
+            "CCTV3",
+            "综艺",
+            "直播",
+            "点开",
+            "正在"
+          ],
+          "frame": "CCTV-3 综艺正在直播，点开 ＿＿ ＿＿ ＿＿，最厉害的是 ＿＿ ＿＿ ＿＿。"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看",
+          "words": [
+            "CCTV4",
+            "直播",
+            "点开",
+            "国际",
+            "频道"
+          ],
+          "frame": "CCTV-4 是一个 ＿＿，它身上有 ＿＿，最厉害的是 ＿＿。"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看",
+          "words": [
+            "CCTV4",
+            "直播",
+            "国际",
+            "欧洲",
+            "镜头",
+            "画面"
+          ],
+          "frame": "「CCTV4」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看",
+          "words": [
+            "CCTV4",
+            "直播",
+            "点开",
+            "即看"
+          ],
+          "frame": "CCTV-4 是一种 ＿＿，它身上有 ＿＿，最厉害的是 ＿＿。"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "CCTV5",
+            "打开电视",
+            "体育节目",
+            "精彩瞬间"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看",
+          "words": [
+            "CCTV5+",
+            "直播",
+            "体育赛事",
+            "点开"
+          ],
+          "frame": "「CCTV5+」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "CCTV6",
+            "电影频道",
+            "点开",
+            "观看"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看",
+          "words": [
+            "CCTV8",
+            "电视剧",
+            "直播",
+            "点开"
+          ],
+          "frame": "「CCTV8」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看",
+          "words": [
+            "CCTV9",
+            "直播",
+            "卡片",
+            "解读",
+            "正在",
+            "点开"
+          ],
+          "frame": "「CCTV9」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看",
+          "words": [
+            "机器人",
+            "摄像头",
+            "眼睛",
+            "拍摄",
+            "传送",
+            "屏幕"
+          ],
+          "frame": "「机器人」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看",
+          "words": [
+            "戏曲",
+            "演员",
+            "脸谱",
+            "唱腔",
+            "舞台"
+          ],
+          "frame": "「戏曲」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "CCTV12",
+            "社会与法",
+            "点开看"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "屏幕亮了",
+            "新闻主播",
+            "说话声音大",
+            "画面清晰",
+            "信息多"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "CCTV14",
+            "少儿频道",
+            "点开看"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看",
+          "words": [
+            "音乐频道",
+            "CCTV15",
+            "直播中",
+            "点开看"
+          ],
+          "frame": "「音乐频道」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看",
+          "words": [
+            "CCTV16",
+            "直播",
+            "奥林匹克",
+            "点开",
+            "奥运"
+          ],
+          "frame": "「CCTV16」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看",
+          "words": [
+            "农民",
+            "麦田",
+            "收割机",
+            "收割"
+          ],
+          "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "数学手抄报/数学小报/数学数数手抄报/数学比多少手抄报/数学上下前后手抄报，简单美观，适合小学一年级的数学手抄报！有线稿可打印喔！",
+          "url": "https://www.bilibili.com/video/BV1Qd4y1z7a4",
+          "dur": 67,
+          "site": "B站",
+          "brief": "数学：数学手抄报/数学小报/数学数数手抄报/数学比多少手抄报/数学上下前后手抄报，简单美观，适合小学一年级的数学手抄报！有线稿可打印喔！"
+        },
+        {
+          "title": "数字方块时钟歌曲 认识钟表报时歌 Numberblocks Clock Song",
+          "url": "https://www.bilibili.com/video/BV1s9W5eiEKR",
+          "dur": 73,
+          "site": "B站",
+          "brief": "数学：数字方块时钟歌曲 认识钟表报时歌 Numberblocks Clock Song"
+        }
+      ],
+      "mech": [
+        {
+          "title": "遵守这些规则，搭乘垂直电梯不用怕啦",
+          "url": "https://www.bilibili.com/video/BV1o64y197Ef",
+          "dur": 79,
+          "site": "B站",
+          "brief": "机械原理：遵守这些规则，搭乘垂直电梯不用怕啦"
+        },
+        {
+          "title": "水龙头如何调节流量和水温？每天都在用，你知道它的工作原理吗",
+          "url": "https://www.bilibili.com/video/BV19931zAErP",
+          "dur": 95,
+          "site": "B站",
+          "brief": "机械原理：水龙头如何调节流量和水温？每天都在用，你知道它的工作原理吗"
+        },
+        {
+          "title": "你知道拉链是怎么合上的吗，它的原理是什么呢？",
+          "url": "https://www.bilibili.com/video/BV1Nz42187Yd",
+          "dur": 72,
+          "site": "B站",
+          "brief": "机械原理：你知道拉链是怎么合上的吗，它的原理是什么呢？"
+        },
+        {
+          "title": "电梯安全制动的原理，当钢缆断裂，生命悬于一线怎么办",
+          "url": "https://www.bilibili.com/video/BV13E421u733",
+          "dur": 126,
+          "site": "B站",
+          "brief": "机械原理：电梯安全制动的原理，当钢缆断裂，生命悬于一线怎么办"
+        },
+        {
+          "title": "一口气了解升降电梯原理",
+          "url": "https://www.bilibili.com/video/BV1hhksB4Epu",
+          "dur": 198,
+          "site": "B站",
+          "brief": "机械原理：一口气了解升降电梯原理"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "【英语】《我所有的朋友都死了 All My Friends Are Dead》儿童英语绘本故事",
+          "url": "https://www.bilibili.com/video/BV1cQCoY1EXt",
+          "dur": 281,
+          "site": "B站",
+          "brief": "英语：【英语】《我所有的朋友都死了 All My Friends Are Dead》儿童英语绘本故事"
+        },
+        {
+          "title": "英语启蒙：读绘本学Duck，深度记单词。超可爱宝宝学的英语绘本！",
+          "url": "https://www.bilibili.com/video/BV1mVpRzrEHi",
+          "dur": 59,
+          "site": "B站",
+          "brief": "动物英语对白：英语启蒙：读绘本学Duck，深度记单词。超可爱宝宝学的英语绘本！"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "一年级汉语拼音字母表 （跟读）",
+          "url": "https://www.bilibili.com/video/BV1sW4y1L7hN",
+          "dur": 126,
+          "site": "B站",
+          "brief": "语文：一年级汉语拼音字母表 （跟读）"
+        },
+        {
+          "title": "【299集全】小学语文1-6年级语文知识动画，词语篇，巧记成语轻松搞定",
+          "url": "https://www.bilibili.com/video/BV1q24y157Ln",
+          "dur": 152,
+          "site": "B站",
+          "brief": "语文：【299集全】小学语文1-6年级语文知识动画，词语篇，巧记成语轻松搞定"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "少儿百科《为什么打喷嚏时绝对不能憋回去？》身体的“扫毒大炮”正开火，教你最优雅的“排气神技”！",
+          "url": "https://www.bilibili.com/video/BV1GHan6hEsz",
+          "dur": 80,
+          "site": "B站",
+          "brief": "自然科学：少儿百科《为什么打喷嚏时绝对不能憋回去？》身体的“扫毒大炮”正开火，教你最优雅的“排气神技”！"
+        },
+        {
+          "title": "如果把冬眠动物挖出来，它还能回去接着睡吗？",
+          "url": "https://www.bilibili.com/video/BV13GJi6zEsn",
+          "dur": 175,
+          "site": "B站",
+          "brief": "自然科学：如果把冬眠动物挖出来，它还能回去接着睡吗？"
+        }
+      ],
+      "ai": [
+        {
+          "title": "宇树科技发布的新机器狗 — Unitree Go2",
+          "url": "https://www.bilibili.com/video/BV1Gj421Q7ji",
+          "dur": 136,
+          "site": "B站",
+          "brief": "AI科技：宇树科技发布的新机器狗 — Unitree Go2"
+        },
+        {
+          "title": "人形机器人的新战场",
+          "url": "https://www.bilibili.com/video/BV1FYnM6LE2m",
+          "dur": 178,
+          "site": "B站",
+          "brief": "AI科技：人形机器人的新战场"
+        },
+        {
+          "title": "四足机器人本体与关节模组的构成",
+          "url": "https://www.bilibili.com/video/BV1pDnE6CEjM",
+          "dur": 81,
+          "site": "B站",
+          "brief": "AI科技：四足机器人本体与关节模组的构成",
+          "orient": "h"
+        },
+        {
+          "title": "超仿生人形机器人来了",
+          "url": "https://www.bilibili.com/video/BV1DDMt6nE3A",
+          "dur": 290,
+          "site": "B站",
+          "brief": "AI科技：超仿生人形机器人来了"
+        },
+        {
+          "title": "买人形机器人最佳时期，原来十几万的宇树G1现在二手只要一半的价格，还是可二次开发的教育版本，送炫酷舞蹈！",
+          "url": "https://www.bilibili.com/video/BV14UnV6zE6D",
+          "dur": 58,
+          "site": "B站",
+          "brief": "AI科技：买人形机器人最佳时期，原来十几万的宇树G1现在二手只要一半的价格，还是可二次开发的教育版本，送炫酷舞蹈！"
+        }
+      ]
+    },
     "2026-10-20": {
       "weapon": [
         {
@@ -461,22 +974,6 @@
           "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
-      "edu_english": [
-        {
-          "title": "每天英文故事听读，磨耳朵，沉浸式绘本英语",
-          "url": "https://www.bilibili.com/video/BV1f4xNz8EqH",
-          "dur": 104,
-          "site": "B站",
-          "brief": "英语故事：每天英文故事听读，磨耳朵，沉浸式绘本英语"
-        },
-        {
-          "title": "英语启蒙：读绘本学Crow（英文+科普），深度记单词。超可爱宝宝学的英语绘本！",
-          "url": "https://www.bilibili.com/video/BV1cm1CBgEYG",
-          "dur": 65,
-          "site": "B站",
-          "brief": "动物英语对白：英语启蒙：读绘本学Crow（英文+科普），深度记单词。超可爱宝宝学的英语绘本！"
-        }
-      ],
       "edu_math": [
         {
           "title": "湾宝小课堂：一起来发现人民币的小秘密吧~",
@@ -528,6 +1025,22 @@
           "dur": 83,
           "site": "B站",
           "brief": "机械原理：水龙头阀芯拆解与原理讲解"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "每天英文故事听读，磨耳朵，沉浸式绘本英语",
+          "url": "https://www.bilibili.com/video/BV1f4xNz8EqH",
+          "dur": 104,
+          "site": "B站",
+          "brief": "英语故事：每天英文故事听读，磨耳朵，沉浸式绘本英语"
+        },
+        {
+          "title": "英语启蒙：读绘本学Crow（英文+科普），深度记单词。超可爱宝宝学的英语绘本！",
+          "url": "https://www.bilibili.com/video/BV1cm1CBgEYG",
+          "dur": 65,
+          "site": "B站",
+          "brief": "动物英语对白：英语启蒙：读绘本学Crow（英文+科普），深度记单词。超可爱宝宝学的英语绘本！"
         }
       ],
       "edu_chinese": [
@@ -1091,42 +1604,6 @@
           "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·20秒",
-          "url": "https://m.iqiyi.com/v_jaw74t1prg.html",
-          "dur": 20,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·20秒",
-          "words": [
-            "小熊",
-            "耳朵",
-            "听故事",
-            "绘本",
-            "英语"
-          ],
-          "frame": "小熊的耳朵很特别，它喜欢听＿＿，特别是那些用英语写的＿＿，最厉害的是它可以通过听来学习英语，这就是我们说的＿＿。",
-          "tvid": "1833450319057600",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·28秒",
-          "url": "https://m.iqiyi.com/v_28n0k5uu5u0.html",
-          "dur": 28,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·28秒",
-          "words": [
-            "小鸟",
-            "羽毛",
-            "唱歌",
-            "树枝",
-            "飞来飞去"
-          ],
-          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "8283665900416100",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "你以为几何图形很无聊？这段视频颠覆你的认知！",
@@ -1157,7 +1634,8 @@
             "跑圈",
             "终点"
           ],
-          "frame": "「小熊」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+          "frame": "「小熊」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
+          "orient": "h"
         }
       ],
       "mech": [
@@ -1240,6 +1718,42 @@
             "工作原理"
           ],
           "frame": "「洗衣机」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·20秒",
+          "url": "https://m.iqiyi.com/v_jaw74t1prg.html",
+          "dur": 20,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·20秒",
+          "words": [
+            "小熊",
+            "耳朵",
+            "听故事",
+            "绘本",
+            "英语"
+          ],
+          "frame": "小熊的耳朵很特别，它喜欢听＿＿，特别是那些用英语写的＿＿，最厉害的是它可以通过听来学习英语，这就是我们说的＿＿。",
+          "tvid": "1833450319057600",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·28秒",
+          "url": "https://m.iqiyi.com/v_28n0k5uu5u0.html",
+          "dur": 28,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·28秒",
+          "words": [
+            "小鸟",
+            "羽毛",
+            "唱歌",
+            "树枝",
+            "飞来飞去"
+          ],
+          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "8283665900416100",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -1555,7 +2069,8 @@
             "亚丁机场",
             "伊朗核设施"
           ],
-          "frame": "特朗普说要打伊朗核设施，＿＿击中了＿＿。"
+          "frame": "特朗普说要打伊朗核设施，＿＿击中了＿＿。",
+          "orient": "h"
         },
         {
           "title": "幽灵战机与米格21",
@@ -1884,41 +2399,6 @@
           "frame": "「玉米」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1gleoa2bsgo.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "words": [
-            "绘本故事",
-            "小猫耳朵",
-            "轻轻磨",
-            "快乐学习",
-            "英语世界"
-          ],
-          "frame": "今天学了「绘本故事」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "5224205357246900",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1vc33ks80cg.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "words": [
-            "小熊",
-            "耳朵",
-            "绘本",
-            "英语"
-          ],
-          "frame": "今天学了「小熊」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "6824526223075500",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "国家中小学智慧教育平台-新版数学一年级下册30《认识人民币》-(课件ppt+教学设计+课后习题+任务单+逐字稿)",
@@ -2034,6 +2514,41 @@
             "机械原理"
           ],
           "frame": "「洗衣机」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_1gleoa2bsgo.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "words": [
+            "绘本故事",
+            "小猫耳朵",
+            "轻轻磨",
+            "快乐学习",
+            "英语世界"
+          ],
+          "frame": "今天学了「绘本故事」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "5224205357246900",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_1vc33ks80cg.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "words": [
+            "小熊",
+            "耳朵",
+            "绘本",
+            "英语"
+          ],
+          "frame": "今天学了「小熊」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "6824526223075500",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -2383,7 +2898,8 @@
             "创造",
             "贡献"
           ],
-          "frame": "「戚发轫」是一位＿＿，他做过＿＿，最让我佩服的是＿＿。"
+          "frame": "「戚发轫」是一位＿＿，他做过＿＿，最让我佩服的是＿＿。",
+          "orient": "h"
         }
       ],
       "military": [
@@ -2772,43 +3288,6 @@
           "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·19秒",
-          "url": "https://m.iqiyi.com/v_1zc9zpp8p10.html",
-          "dur": 19,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
-          "words": [
-            "小熊",
-            "耳朵",
-            "音乐",
-            "播放",
-            "跳舞",
-            "快乐"
-          ],
-          "frame": "小熊有一对＿＿，它喜欢听＿＿，每当听到音乐就会＿＿，看起来非常＿＿。",
-          "tvid": "7257695780944600",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·19秒",
-          "url": "https://m.iqiyi.com/v_21i2jjbzucc.html",
-          "dur": 19,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
-          "words": [
-            "小熊",
-            "耳朵",
-            "听故事",
-            "绘本",
-            "英语"
-          ],
-          "frame": "小熊的耳朵很特别，它喜欢听＿＿，特别是英语绘本里的故事，因为这样可以帮助它＿＿。",
-          "tvid": "7582572949220400",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "《生活中的数学知识》",
@@ -2917,6 +3396,43 @@
             "发生"
           ],
           "frame": "「相机」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_1zc9zpp8p10.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "words": [
+            "小熊",
+            "耳朵",
+            "音乐",
+            "播放",
+            "跳舞",
+            "快乐"
+          ],
+          "frame": "小熊有一对＿＿，它喜欢听＿＿，每当听到音乐就会＿＿，看起来非常＿＿。",
+          "tvid": "7257695780944600",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_21i2jjbzucc.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "words": [
+            "小熊",
+            "耳朵",
+            "听故事",
+            "绘本",
+            "英语"
+          ],
+          "frame": "小熊的耳朵很特别，它喜欢听＿＿，特别是英语绘本里的故事，因为这样可以帮助它＿＿。",
+          "tvid": "7582572949220400",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -3553,44 +4069,6 @@
           "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·22秒",
-          "url": "https://m.iqiyi.com/v_idtpb09zsc.html",
-          "dur": 22,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·22秒",
-          "words": [
-            "小鸟",
-            "羽毛",
-            "唱歌",
-            "树枝",
-            "飞来",
-            "飞去"
-          ],
-          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "1925699391168000",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·13秒",
-          "url": "https://m.iqiyi.com/v_1dhuy1xtstg.html",
-          "dur": 13,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·13秒",
-          "words": [
-            "小熊",
-            "耳机",
-            "听故事",
-            "绘本",
-            "英语",
-            "学习"
-          ],
-          "frame": "今天学了「小熊」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "4977138275933000",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "大班数学公开课《认识人民币》大班数学公开课",
@@ -3696,6 +4174,44 @@
             "变轨"
           ],
           "frame": "「火车」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·22秒",
+          "url": "https://m.iqiyi.com/v_idtpb09zsc.html",
+          "dur": 22,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·22秒",
+          "words": [
+            "小鸟",
+            "羽毛",
+            "唱歌",
+            "树枝",
+            "飞来",
+            "飞去"
+          ],
+          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "1925699391168000",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·13秒",
+          "url": "https://m.iqiyi.com/v_1dhuy1xtstg.html",
+          "dur": 13,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·13秒",
+          "words": [
+            "小熊",
+            "耳机",
+            "听故事",
+            "绘本",
+            "英语",
+            "学习"
+          ],
+          "frame": "今天学了「小熊」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "4977138275933000",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -4332,44 +4848,6 @@
           "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1hgr5qecqoo.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "words": [
-            "绘本故事",
-            "小兔子",
-            "耳朵大",
-            "听英语",
-            "学单词",
-            "开心笑"
-          ],
-          "frame": "今天学了「绘本故事」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "5418329492029300",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·19秒",
-          "url": "https://m.iqiyi.com/v_2atimmjedgc.html",
-          "dur": 19,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
-          "words": [
-            "小鸟",
-            "羽毛",
-            "唱歌",
-            "天空",
-            "飞翔",
-            "快乐"
-          ],
-          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "8326180690018800",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "《对称与镜像》刷动画学思维｜适合 3-10 岁，0 基础友好，适合3-10岁少儿数学思维启蒙 0基础数学动画",
@@ -4481,6 +4959,44 @@
           "frame": "「飞机」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_1hgr5qecqoo.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "words": [
+            "绘本故事",
+            "小兔子",
+            "耳朵大",
+            "听英语",
+            "学单词",
+            "开心笑"
+          ],
+          "frame": "今天学了「绘本故事」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "5418329492029300",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_2atimmjedgc.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "words": [
+            "小鸟",
+            "羽毛",
+            "唱歌",
+            "天空",
+            "飞翔",
+            "快乐"
+          ],
+          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "8326180690018800",
+          "orient": "h"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "部编版寓言《狐假虎威》动画短片，看懂核心难点：小动物怕的不是狐狸",
@@ -4509,8 +5025,7 @@
             "兔子",
             "天天"
           ],
-          "frame": "这个故事叫「农夫」，它的意思是＿＿，我学会了＿＿。",
-          "orient": "h"
+          "frame": "这个故事叫「农夫」，它的意思是＿＿，我学会了＿＿。"
         }
       ],
       "edu_science": [
@@ -5185,43 +5700,6 @@
           "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·32秒",
-          "url": "https://m.iqiyi.com/v_1gtnp3jc8f8.html",
-          "dur": 32,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·32秒",
-          "words": [
-            "小鸟",
-            "羽毛",
-            "唱歌",
-            "树洞",
-            "躲藏",
-            "飞走"
-          ],
-          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "5482502760006600",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·26秒",
-          "url": "https://m.iqiyi.com/v_18wcq1lkhvc.html",
-          "dur": 26,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·26秒",
-          "words": [
-            "小鸟",
-            "翅膀",
-            "天空",
-            "唱歌",
-            "快乐"
-          ],
-          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "4580868347098900",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "小学数学思维动画《钟表问题》",
@@ -5333,6 +5811,43 @@
             "排队"
           ],
           "frame": "「拉链」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·32秒",
+          "url": "https://m.iqiyi.com/v_1gtnp3jc8f8.html",
+          "dur": 32,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·32秒",
+          "words": [
+            "小鸟",
+            "羽毛",
+            "唱歌",
+            "树洞",
+            "躲藏",
+            "飞走"
+          ],
+          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "5482502760006600",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·26秒",
+          "url": "https://m.iqiyi.com/v_18wcq1lkhvc.html",
+          "dur": 26,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·26秒",
+          "words": [
+            "小鸟",
+            "翅膀",
+            "天空",
+            "唱歌",
+            "快乐"
+          ],
+          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "4580868347098900",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -5648,26 +6163,6 @@
           "brief": "CCTV-17 农业农村：正在直播，点开即看"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_28c99mfrftw.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "8032587989694600",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·18秒",
-          "url": "https://m.iqiyi.com/v_k9j4r2yt8w.html",
-          "dur": 18,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·18秒",
-          "tvid": "2034793946427900",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "不用鸡娃，看动画启蒙 3-10 岁数学思维，适合3-10岁少儿数学思维启蒙 0基础数学动画",
@@ -5691,6 +6186,26 @@
           "dur": 151,
           "site": "B站",
           "brief": "机械原理：为什么拉链非要有个小拉片？它的工作原理是怎样的"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_28c99mfrftw.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "8032587989694600",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·18秒",
+          "url": "https://m.iqiyi.com/v_k9j4r2yt8w.html",
+          "dur": 18,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·18秒",
+          "tvid": "2034793946427900",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -6011,26 +6526,6 @@
           "brief": "CCTV-17 农业农村：正在直播，点开即看"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_27ut00utkao.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "8063070291905900",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·31秒",
-          "url": "https://m.iqiyi.com/v_x2eeeva6ys.html",
-          "dur": 31,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·31秒",
-          "tvid": "3266920688549800",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "一年级认识钟表：答九点半就错了，这里读八",
@@ -6061,6 +6556,26 @@
           "dur": 182,
           "site": "B站",
           "brief": "机械原理：每天一个汽车知识，看懂发动机的工作原理"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_27ut00utkao.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "8063070291905900",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·31秒",
+          "url": "https://m.iqiyi.com/v_x2eeeva6ys.html",
+          "dur": 31,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·31秒",
+          "tvid": "3266920688549800",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -6353,26 +6868,6 @@
           "brief": "CCTV-17 农业农村：正在直播，点开即看"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·16秒",
-          "url": "https://m.iqiyi.com/v_1r4whcr4s04.html",
-          "dur": 16,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·16秒",
-          "tvid": "6388950167865000",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_ch7p6img1w.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "1396269931762600",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "数学启蒙，超级好用",
@@ -6396,6 +6891,26 @@
           "dur": 262,
           "site": "B站",
           "brief": "机械原理：3D动画揭秘电动汽车是如何工作的"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·16秒",
+          "url": "https://m.iqiyi.com/v_1r4whcr4s04.html",
+          "dur": 16,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·16秒",
+          "tvid": "6388950167865000",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_ch7p6img1w.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "1396269931762600",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -6707,26 +7222,6 @@
           "brief": "CCTV-17 农业农村：正在直播，点开即看"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·34秒",
-          "url": "https://m.iqiyi.com/v_kiaj6ui7f0.html",
-          "dur": 34,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·34秒",
-          "tvid": "1991476990786400",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·19秒",
-          "url": "https://m.iqiyi.com/v_ruxygqejo0.html",
-          "dur": 19,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
-          "tvid": "2946856515416700",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "这才是数学启蒙正确打开方式！适合3-10岁少儿数学思维启蒙 0基础数学动画",
@@ -6771,6 +7266,26 @@
           "dur": 172,
           "site": "B站",
           "brief": "机械原理：汽车的方向盘是怎么工作的，背后的机械原理太精妙了"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·34秒",
+          "url": "https://m.iqiyi.com/v_kiaj6ui7f0.html",
+          "dur": 34,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·34秒",
+          "tvid": "1991476990786400",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_ruxygqejo0.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "tvid": "2946856515416700",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -7386,43 +7901,6 @@
           "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
-      "edu_english": [
-        {
-          "title": "请大数据把我推给想给娃英语启蒙的朋友们 0基础宝宝英语启蒙 当了妈一定要给娃看的英文动画片",
-          "url": "https://m.iqiyi.com/v_1xwvbs4uw88.html",
-          "dur": 17,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：请大数据把我推给想给娃英语启蒙的朋友们 0基础宝宝英语启蒙 当了妈一定要给娃看的英文动画片",
-          "words": [
-            "宝宝",
-            "妈妈",
-            "英语",
-            "动画片",
-            "耳朵"
-          ],
-          "frame": "今天学了「宝宝」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "7121327587100100",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·19秒",
-          "url": "https://m.iqiyi.com/v_2alu2xhye0g.html",
-          "dur": 19,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
-          "words": [
-            "小熊",
-            "耳朵",
-            "音乐盒",
-            "转动",
-            "跳舞",
-            "快乐"
-          ],
-          "frame": "今天学了「小熊」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "8368695479932700",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "户山香澄去过人民币背景图案是哪里，市谷有咲来认识",
@@ -7535,6 +8013,43 @@
             "演示"
           ],
           "frame": "「挖掘机」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "请大数据把我推给想给娃英语启蒙的朋友们 0基础宝宝英语启蒙 当了妈一定要给娃看的英文动画片",
+          "url": "https://m.iqiyi.com/v_1xwvbs4uw88.html",
+          "dur": 17,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：请大数据把我推给想给娃英语启蒙的朋友们 0基础宝宝英语启蒙 当了妈一定要给娃看的英文动画片",
+          "words": [
+            "宝宝",
+            "妈妈",
+            "英语",
+            "动画片",
+            "耳朵"
+          ],
+          "frame": "今天学了「宝宝」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "7121327587100100",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·19秒",
+          "url": "https://m.iqiyi.com/v_2alu2xhye0g.html",
+          "dur": 19,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
+          "words": [
+            "小熊",
+            "耳朵",
+            "音乐盒",
+            "转动",
+            "跳舞",
+            "快乐"
+          ],
+          "frame": "今天学了「小熊」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "8368695479932700",
+          "orient": "h"
         }
       ],
       "edu_chinese": [
@@ -7652,8 +8167,7 @@
           "dur": 55,
           "site": "科学人生百年",
           "brief": "今日科学家·华罗庚：夏培肃院士谈华罗庚在计算机研制中的贡献",
-          "mp4": "https://videozh.cas.cn/masvod/public/2023/07/24/20230724_189881a0ce5_r36.mp4",
-          "orient": "h"
+          "mp4": "https://videozh.cas.cn/masvod/public/2023/07/24/20230724_189881a0ce5_r36.mp4"
         },
         {
           "title": "科学家精神系列动画 华罗庚 数学家 科技报国",
@@ -7681,8 +8195,7 @@
           "url": "https://www.bilibili.com/video/BV1PXJt6gEZJ",
           "dur": 64,
           "site": "B站",
-          "brief": "科学家故事：华罗庚学校数学课本六年级｜下册07｜整数的分拆",
-          "orient": "h"
+          "brief": "科学家故事：华罗庚学校数学课本六年级｜下册07｜整数的分拆"
         },
         {
           "title": "华罗庚学校数学课本六年级｜下册06｜最大与最小问题",
@@ -7886,26 +8399,6 @@
           "brief": "CCTV-17 农业农村：正在直播，点开即看"
         }
       ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·14秒",
-          "url": "https://m.iqiyi.com/v_1079cohwmhw.html",
-          "dur": 14,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·14秒",
-          "tvid": "3793943650577800",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_ptgwsbfpck.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "2574651562094200",
-          "orient": "h"
-        }
-      ],
       "edu_math": [
         {
           "title": "打磨一周，融入交互网ai赋能趣味情景导入公开课 新数学《平行四边形的面积》优质课配套课件、教案、逐字稿、学习单和交互网页",
@@ -7959,6 +8452,26 @@
           "brief": "机械原理：动画原理鉴赏_台式电风扇是怎么工作的"
         }
       ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·14秒",
+          "url": "https://m.iqiyi.com/v_1079cohwmhw.html",
+          "dur": 14,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·14秒",
+          "tvid": "3793943650577800",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_ptgwsbfpck.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "tvid": "2574651562094200",
+          "orient": "h"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "成语故事《悬崖勒马》，主页看100+精品原创动画故事！",
@@ -8002,361 +8515,6 @@
           "dur": 719,
           "site": "B站",
           "brief": "AI科技：DIY教程，小白也能上手的视觉AI机器人，百问百答、唱歌、动作"
-        }
-      ]
-    },
-    "2026-10-07": {
-      "weapon": [
-        {
-          "title": "2023中国空间站——天舟六号飞行任务",
-          "url": "https://tv.cctv.com/2023/05/10/VIDA9bacBHEtkPQTkP5GkgSY230510.shtml",
-          "dur": null,
-          "site": "央视",
-          "brief": "大国重器：2023中国空间站——天舟六号飞行任务"
-        },
-        {
-          "title": "［SFS］长征十二号乙发射全流程演示",
-          "url": "https://www.bilibili.com/video/BV1tyaf6FEMJ",
-          "dur": 189,
-          "site": "B站",
-          "brief": "大国重器：［SFS］长征十二号乙发射全流程演示"
-        },
-        {
-          "title": "筑梦空间站-天宫课堂第二课",
-          "url": "https://tv.cctv.com/2022/03/23/VIDAtjkNwjuXLtoSaeHQvERI220323.shtml",
-          "dur": null,
-          "site": "央视",
-          "brief": "大国重器：筑梦空间站-天宫课堂第二课"
-        },
-        {
-          "title": "筑梦空间站-天宫课堂第一课特别报道四套",
-          "url": "https://tv.cctv.com/2021/12/30/VIDAdQ7De2sTNSqnaYOOJz1M211230.shtml",
-          "dur": null,
-          "site": "央视",
-          "brief": "大国重器：筑梦空间站-天宫课堂第一课特别报道四套"
-        },
-        {
-          "title": "《超级航母大揭秘（精编版）》",
-          "url": "https://tv.cctv.com/2015/05/12/VIDA1431395305440732.shtml",
-          "dur": null,
-          "site": "央视",
-          "brief": "大国重器：《超级航母大揭秘（精编版）》"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "科技史系列（一）：中国科学家王淦昌成对中微子的贡献（一）",
-          "url": "https://www.bilibili.com/video/BV18wJt65ELe",
-          "dur": 179,
-          "site": "B站",
-          "brief": "今日科学家·王淦昌：科技史系列（一）：中国科学家王淦昌成对中微子的贡献（一）"
-        }
-      ],
-      "military": [
-        {
-          "title": "10 大型的飞机安-225",
-          "url": "https://m.iqiyi.com/v_1mmiv6zoung.html",
-          "dur": 128,
-          "site": "爱奇艺",
-          "brief": "军事科普：10 大型的飞机安-225",
-          "tvid": "6001504062446400",
-          "orient": "h"
-        },
-        {
-          "title": "03 应对狙击手的军事假人",
-          "url": "https://m.iqiyi.com/v_1laqa7qogqg.html",
-          "dur": 213,
-          "site": "爱奇艺",
-          "brief": "军事科普：03 应对狙击手的军事假人",
-          "tvid": "5869146697631700",
-          "orient": "h"
-        },
-        {
-          "title": "70年造不出来的发动机",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=730702",
-          "dur": 226,
-          "site": "科普中国",
-          "brief": "军事科普：70年造不出来的发动机",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/2026082416163248827344056025.mp4",
-          "orient": "h"
-        },
-        {
-          "title": "5倍音速，大国都在抢的“新制高点”",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=729928",
-          "dur": 196,
-          "site": "科普中国",
-          "brief": "军事科普：5倍音速，大国都在抢的“新制高点”",
-          "mp4": "https://pqnoss.kepuchina.cn/U26527728/videos/202608210917411571179492893.mp4",
-          "orient": "h"
-        },
-        {
-          "title": "北斗为油料保障装上“千里眼”和“顺风耳”",
-          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=720939",
-          "dur": 233,
-          "site": "科普中国",
-          "brief": "军事科普：北斗为油料保障装上“千里眼”和“顺风耳”",
-          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/2026071922341520465139950721.mp4",
-          "orient": "h"
-        }
-      ],
-      "cctv_live": [
-        {
-          "title": "CCTV-1 综合",
-          "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-1 综合：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-2 财经",
-          "url": "https://tv.cctv.com/live/cctv2/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-2 财经：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-3 综艺",
-          "url": "https://tv.cctv.com/live/cctv3/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-3 综艺：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-4 中文国际（亚）",
-          "url": "https://tv.cctv.com/live/cctv4/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-4 中文国际（欧）",
-          "url": "https://tv.cctv.com/live/cctveurope/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-4 中文国际（美）",
-          "url": "https://tv.cctv.com/live/cctvamerica/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-5 体育",
-          "url": "https://tv.cctv.com/live/cctv5/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-5 体育：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-5+ 体育赛事",
-          "url": "https://tv.cctv.com/live/cctv5plus/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-6 电影",
-          "url": "https://tv.cctv.com/live/cctv6/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-6 电影：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-7 国防军事",
-          "url": "https://tv.cctv.com/live/cctv7/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-7 国防军事：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-8 电视剧",
-          "url": "https://tv.cctv.com/live/cctv8/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-8 电视剧：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-9 纪录",
-          "url": "https://tv.cctv.com/live/cctvjilu/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-9 纪录：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-10 科教",
-          "url": "https://tv.cctv.com/live/cctv10/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-10 科教：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-11 戏曲",
-          "url": "https://tv.cctv.com/live/cctv11/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-11 戏曲：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-12 社会与法",
-          "url": "https://tv.cctv.com/live/cctv12/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-12 社会与法：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-13 新闻",
-          "url": "https://tv.cctv.com/live/cctv13/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-13 新闻：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-14 少儿",
-          "url": "https://tv.cctv.com/live/cctvchild/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-14 少儿：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-15 音乐",
-          "url": "https://tv.cctv.com/live/cctv15/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-15 音乐：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-16 奥林匹克",
-          "url": "https://tv.cctv.com/live/cctv16/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-17 农业农村",
-          "url": "https://tv.cctv.com/live/cctv17/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-17 农业农村：正在直播，点开即看"
-        }
-      ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·13秒",
-          "url": "https://m.iqiyi.com/v_1v2e6a8kjfw.html",
-          "dur": 13,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·13秒",
-          "tvid": "6834152213350400",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1kx08mrcdz4.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "tvid": "5906848493405100",
-          "orient": "h"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "同样是钟表，为啥有的一天转1圈，有的转2圈？带孩子看懂时间，不再分不清上午下午，造成子午不分",
-          "url": "https://www.bilibili.com/video/BV1iZpK6TExU",
-          "dur": 163,
-          "site": "B站",
-          "brief": "数学：同样是钟表，为啥有的一天转1圈，有的转2圈？带孩子看懂时间，不再分不清上午下午，造成子午不分"
-        },
-        {
-          "title": "特殊教育试讲：生活数学三年级下册《认识人民币》",
-          "url": "https://www.bilibili.com/video/BV1N9quBZEgW",
-          "dur": 483,
-          "site": "B站",
-          "brief": "数学：特殊教育试讲：生活数学三年级下册《认识人民币》"
-        }
-      ],
-      "mech": [
-        {
-          "title": "4分钟了解密码锁的工作原理［3D动画］",
-          "url": "https://www.bilibili.com/video/BV1ou4m1P78H",
-          "dur": 262,
-          "site": "B站",
-          "brief": "机械原理：4分钟了解密码锁的工作原理［3D动画］"
-        },
-        {
-          "title": "齿轮传动的九大类型，3D动画让你一看就懂",
-          "url": "https://www.bilibili.com/video/BV1Qh4y1B7px",
-          "dur": 182,
-          "site": "B站",
-          "brief": "机械原理：齿轮传动的九大类型，3D动画让你一看就懂"
-        },
-        {
-          "title": "【心脏Engine】3D动画演示汽车发动机工作原理",
-          "url": "https://www.bilibili.com/video/BV17t4y1k73v",
-          "dur": 177,
-          "site": "B站",
-          "brief": "机械原理：【心脏Engine】3D动画演示汽车发动机工作原理"
-        },
-        {
-          "title": "3D动画讲解电梯内部结构 工作原理 安全机制",
-          "url": "https://www.bilibili.com/video/BV12k4y1s7HJ",
-          "dur": 468,
-          "site": "B站",
-          "brief": "机械原理：3D动画讲解电梯内部结构 工作原理 安全机制"
-        },
-        {
-          "title": "3D动画了解滚筒与波轮洗衣机的工作原理，它们各有什么优缺点",
-          "url": "https://www.bilibili.com/video/BV1rcYKzQEMN",
-          "dur": 525,
-          "site": "B站",
-          "brief": "机械原理：3D动画了解滚筒与波轮洗衣机的工作原理，它们各有什么优缺点"
-        }
-      ],
-      "edu_chinese": [
-        {
-          "title": "你也想来一局紧张刺激的成语接龙嘛",
-          "url": "https://www.bilibili.com/video/BV1fupM62E6X",
-          "dur": 120,
-          "site": "B站",
-          "brief": "语文：你也想来一局紧张刺激的成语接龙嘛"
-        },
-        {
-          "title": "今天分享AI动画成语典故“炉火纯青”",
-          "url": "https://www.bilibili.com/video/BV1S4pK6tEg9",
-          "dur": 48,
-          "site": "B站",
-          "brief": "语文：今天分享AI动画成语典故“炉火纯青”"
-        }
-      ],
-      "edu_science": [
-        {
-          "title": "传奇病毒车轮战",
-          "url": "https://m.iqiyi.com/v_11x8q7u5720.html",
-          "dur": 169,
-          "site": "爱奇艺",
-          "brief": "自然科学：传奇病毒车轮战",
-          "tvid": "3900631708126100",
-          "orient": "h"
-        },
-        {
-          "title": "天花大魔王的复活",
-          "url": "https://m.iqiyi.com/v_2ad4roveji0.html",
-          "dur": 205,
-          "site": "爱奇艺",
-          "brief": "自然科学：天花大魔王的复活",
-          "tvid": "8376717138300500",
-          "orient": "h"
-        }
-      ],
-      "ai": [
-        {
-          "title": "【2026年最新具身智能入门教程】对是B站公认最通俗易懂的，计算机大佬一口气带你吃透交互模式、技术架构、产业落地、机器人仿真等，小白也能轻松学会！",
-          "url": "https://www.bilibili.com/video/BV1gxpK6FEm5",
-          "dur": 20945,
-          "site": "B站",
-          "brief": "AI科技：【2026年最新具身智能入门教程】对是B站公认最通俗易懂的，计算机大佬一口气带你吃透交互模式、技术架构、产业落地、机器人仿真等，小白也能轻松学会！"
         }
       ]
     }
