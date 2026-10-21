@@ -1,0 +1,34 @@
+{
+ "api_healthy": true,
+ "endpoints": [
+  {
+   "id": "box-v6",
+   "net": "ipv6-public",
+   "prio": 10,
+   "url": "http://[2409:8a55:50fc:9f80:2e0:29ff:fe20:8140]:3000"
+  },
+  {
+   "id": "box-lan",
+   "net": "lan",
+   "prio": 20,
+   "url": "http://192.168.1.3:3000"
+  },
+  {
+   "id": "box-ts",
+   "net": "tailscale",
+   "prio": 30,
+   "url": "http://100.92.118.7:3000"
+  },
+  {
+   "id": "tencent",
+   "net": "public-v4",
+   "prio": 90,
+   "url": "http://82.156.195.99:3000"
+  }
+ ],
+ "lan": "192.168.1.3",
+ "tailscale": "100.92.118.7",
+ "ts": 1792601955,
+ "updated": "2026-10-22 00:59:15",
+ "v6": "2409:8a55:50fc:9f80:2e0:29ff:fe20:8140"
+}
