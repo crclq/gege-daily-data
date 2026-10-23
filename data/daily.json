@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23 22:35",
+  "generated": "2026-10-23 23:16",
   "cats": [
     {
       "key": "cctv_live",
@@ -94,7 +94,7 @@
             "发明",
             "聪明"
           ],
-          "frame": "「钥匙」是＿＿，它能＿＿，我觉得＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "orient": "h"
         },
         {
@@ -105,12 +105,12 @@
           "brief": "机械原理：【心脏Engine】3D动画演示汽车发动机工作原理",
           "words": [
             "3D动画",
-            "演示",
             "汽车",
             "发动机",
-            "工作原理"
+            "工作",
+            "原理"
           ],
-          "frame": "「3D动画」是＿＿，它能＿＿，我觉得＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "orient": "h"
         },
         {
@@ -121,14 +121,14 @@
           "brief": "机械原理：汽车无级变速箱CVT的工作原理三维动画图解，让你两分钟看明白CVT是怎么工作的",
           "words": [
             "汽车",
-            "变速箱",
+            "CVT",
             "齿轮",
-            "链条",
+            "皮带",
             "转动",
-            "动力",
-            "工作"
+            "连接",
+            "动画"
           ],
-          "frame": "「汽车」是＿＿，它能＿＿，我觉得＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "orient": "h"
         },
         {
@@ -139,12 +139,13 @@
           "brief": "机械原理：缆车遭遇大风摇晃！仅靠握锁器不会掉吗？3D动画讲缆车运行原理",
           "words": [
             "缆车",
-            "大风",
+            "摇晃",
             "握锁器",
-            "铁链",
-            "车厢"
+            "不会掉",
+            "大风",
+            "3D动画"
           ],
-          "frame": "「缆车」是＿＿，它能＿＿，我觉得＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "orient": "h"
         },
         {
@@ -156,12 +157,12 @@
           "words": [
             "汽车",
             "减震器",
-            "结构",
-            "原理",
-            "动画",
-            "演示"
+            "弹簧",
+            "活塞",
+            "油缸",
+            "缓冲"
           ],
-          "frame": "「汽车」是＿＿，它能＿＿，我觉得＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "orient": "h"
         }
       ],
@@ -172,15 +173,6 @@
           "dur": 257,
           "site": "B站",
           "brief": "AI科技：机器人硬件+物理AI双线炒作｜聊聊科技、AI应用、医药，反弹何时来？",
-          "words": [
-            "机器人",
-            "芯片",
-            "工作",
-            "程序",
-            "学习",
-            "应用"
-          ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
           "orient": "v"
         },
         {
@@ -189,14 +181,6 @@
           "dur": 66,
           "site": "B站",
           "brief": "AI科技：有人把宇树 H2X 机器人的发布视频，用 AI 改成了真人。",
-          "words": [
-            "宇树H2X",
-            "机器人",
-            "发布视频",
-            "AI改成",
-            "真人"
-          ],
-          "frame": "「宇树H2X」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
           "orient": "h"
         },
         {
@@ -205,13 +189,6 @@
           "dur": 144,
           "site": "B站",
           "brief": "AI科技：黄仁勋迷你机器人，最可爱的AI机器人出现了",
-          "words": [
-            "黄仁勋",
-            "迷你机器人",
-            "AI科技",
-            "可爱"
-          ],
-          "frame": "「黄仁勋」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
           "orient": "h"
         },
         {
@@ -220,15 +197,6 @@
           "dur": 149,
           "site": "B站",
           "brief": "AI科技：2026世界物理AI大会暨宇树合作伙伴生态大会 火出圈的机器人 如何变得真正好用？",
-          "words": [
-            "机器人",
-            "大会",
-            "AI科技",
-            "变得",
-            "真正",
-            "好用"
-          ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
           "orient": "h"
         },
         {
@@ -237,15 +205,6 @@
           "dur": 182,
           "site": "B站",
           "brief": "AI科技：被世界遗忘的机器人，还记得那个对他笑的小女孩【AI短片】",
-          "words": [
-            "机器人",
-            "小女孩",
-            "世界",
-            "遗忘",
-            "科技",
-            "记得"
-          ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
           "orient": "h"
         }
       ],
@@ -256,14 +215,6 @@
           "dur": 19,
           "site": "爱奇艺",
           "brief": "英语绘本磨耳朵：磨耳朵短片·19秒",
-          "words": [
-            "小熊",
-            "耳朵",
-            "听故事",
-            "绘本",
-            "英语"
-          ],
-          "frame": "今天学了「小熊」，它的意思是＿＿，我会用它说＿＿。",
           "tvid": "1612052544781600",
           "orient": "h"
         },
@@ -273,14 +224,6 @@
           "dur": 20,
           "site": "爱奇艺",
           "brief": "英语绘本磨耳朵：磨耳朵短片·20秒",
-          "words": [
-            "小熊",
-            "耳朵",
-            "绘本",
-            "声音",
-            "英语"
-          ],
-          "frame": "小熊喜欢用耳朵听＿＿，它最喜欢的是读绘本里的＿＿，最神奇的是那些＿＿的声音。",
           "tvid": "1612854710561700",
           "orient": "h"
         }
@@ -296,11 +239,11 @@
             "坦克",
             "消音器",
             "安装",
-            "声音小",
+            "声音小了",
             "战斗中",
             "保护"
           ],
-          "frame": "「坦克」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "tvid": "7490323875839600",
           "orient": "h"
         },
@@ -318,7 +261,7 @@
             "发射",
             "助推器"
           ],
-          "frame": "「火箭弹滑板车」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "tvid": "1863932620045300",
           "orient": "h"
         },
@@ -333,10 +276,10 @@
             "美国军舰",
             "机炮",
             "导弹",
-            "末端防线",
-            "保护"
+            "防空",
+            "末端防线"
           ],
-          "frame": "「海拉姆系统」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "orient": "h"
         },
         {
@@ -351,7 +294,7 @@
             "秀肌肉",
             "中国武器"
           ],
-          "frame": "「印度飞机」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "orient": "h"
         },
         {
@@ -361,13 +304,12 @@
           "site": "B站",
           "brief": "军事科普：标准-3类似物？美国初创公司Long Wall陆基中段反导拦截弹Cyclops宣传片",
           "words": [
-            "拦截弹",
-            "导弹",
+            "美国公司",
+            "反导拦截弹",
             "发射",
-            "基地",
-            "摧毁"
+            "拦截"
           ],
-          "frame": "「拦截弹」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "orient": "h"
         }
       ],
@@ -377,314 +319,149 @@
           "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-1 综合：正在直播，点开即看",
-          "words": [
-            "CCTV1",
-            "直播",
-            "画面",
-            "新闻",
-            "主播"
-          ],
-          "frame": "「CCTV1」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-1 综合：正在直播，点开即看"
         },
         {
           "title": "CCTV-2 财经",
           "url": "https://tv.cctv.com/live/cctv2/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-2 财经：正在直播，点开即看",
-          "words": [
-            "CCTV2",
-            "财经",
-            "直播",
-            "点开",
-            "正在"
-          ],
-          "frame": "「CCTV2」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-2 财经：正在直播，点开即看"
         },
         {
           "title": "CCTV-3 综艺",
           "url": "https://tv.cctv.com/live/cctv3/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-3 综艺：正在直播，点开即看",
-          "words": [
-            "CCTV3",
-            "直播",
-            "节目",
-            "观众",
-            "屏幕",
-            "镜头"
-          ],
-          "frame": "「CCTV3」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
         },
         {
           "title": "CCTV-4 中文国际（亚）",
           "url": "https://tv.cctv.com/live/cctv4/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它可以让人们 ＿＿，点开 ＿＿就可以 ＿＿，它是一个 ＿＿的 ＿＿。"
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
         },
         {
           "title": "CCTV-4 中文国际（欧）",
           "url": "https://tv.cctv.com/live/cctveurope/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它 ＿＿，点开 ＿＿就能 ＿＿，它是一个 ＿＿的 ＿＿。"
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
         },
         {
           "title": "CCTV-4 中文国际（美）",
           "url": "https://tv.cctv.com/live/cctvamerica/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它身上有 ＿＿，最厉害的是 ＿＿。"
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
         },
         {
           "title": "CCTV-5 体育",
           "url": "https://tv.cctv.com/live/cctv5/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-5 体育：正在直播，点开即看",
-          "words": [
-            "CCTV5",
-            "体育",
-            "直播",
-            "点开",
-            "正在"
-          ],
-          "frame": "CCTV-5 是一个＿＿，它专门播放 ＿＿，现在 ＿＿，我们 ＿＿就能 ＿＿。"
+          "brief": "CCTV-5 体育：正在直播，点开即看"
         },
         {
           "title": "CCTV-5+ 体育赛事",
           "url": "https://tv.cctv.com/live/cctv5plus/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看",
-          "words": [
-            "CCTV5+",
-            "直播",
-            "体育赛事",
-            "点开",
-            "即看"
-          ],
-          "frame": "「CCTV5+」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
         },
         {
           "title": "CCTV-6 电影",
           "url": "https://tv.cctv.com/live/cctv6/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-6 电影：正在直播，点开即看",
-          "words": [
-            "CCTV6",
-            "电影",
-            "直播",
-            "点开"
-          ],
-          "frame": "「CCTV6」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-6 电影：正在直播，点开即看"
         },
         {
           "title": "CCTV-7 国防军事",
           "url": "https://tv.cctv.com/live/cctv7/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-7 国防军事：正在直播，点开即看",
-          "words": [
-            "CCTV7",
-            "直播",
-            "国防",
-            "军事",
-            "点开"
-          ],
-          "frame": "「CCTV7」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
         },
         {
           "title": "CCTV-8 电视剧",
           "url": "https://tv.cctv.com/live/cctv8/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-8 电视剧：正在直播，点开即看",
-          "words": [
-            "CCTV8",
-            "直播",
-            "电视",
-            "点开"
-          ],
-          "frame": "「CCTV8」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
         },
         {
           "title": "CCTV-9 纪录",
           "url": "https://tv.cctv.com/live/cctvjilu/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-9 纪录：正在直播，点开即看",
-          "words": [
-            "CCTV9",
-            "直播",
-            "卡片",
-            "解读",
-            "正在",
-            "点开"
-          ],
-          "frame": "「CCTV9」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
         },
         {
           "title": "CCTV-10 科教",
           "url": "https://tv.cctv.com/live/cctv10/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-10 科教：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "屏幕",
-            "手指点开",
-            "画面出现"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-10 科教：正在直播，点开即看"
         },
         {
           "title": "CCTV-11 戏曲",
           "url": "https://tv.cctv.com/live/cctv11/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-11 戏曲：正在直播，点开即看",
-          "words": [
-            "戏曲",
-            "演员",
-            "脸谱",
-            "唱腔",
-            "舞台"
-          ],
-          "frame": "「戏曲」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
         },
         {
           "title": "CCTV-12 社会与法",
           "url": "https://tv.cctv.com/live/cctv12/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-12 社会与法：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV12",
-            "社会与法",
-            "点开",
-            "看直播"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
         },
         {
           "title": "CCTV-13 新闻",
           "url": "https://tv.cctv.com/live/cctv13/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-13 新闻：正在直播，点开即看",
-          "words": [
-            "新闻直播",
-            "CCTV13",
-            "打开电视",
-            "观看节目"
-          ],
-          "frame": "「新闻直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
         },
         {
           "title": "CCTV-14 少儿",
           "url": "https://tv.cctv.com/live/cctvchild/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-14 少儿：正在直播，点开即看",
-          "words": [
-            "小猫",
-            "鱼缸",
-            "游泳",
-            "尾巴"
-          ],
-          "frame": "「小猫」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
         },
         {
           "title": "CCTV-15 音乐",
           "url": "https://tv.cctv.com/live/cctv15/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-15 音乐：正在直播，点开即看",
-          "words": [
-            "CCTV15",
-            "音乐台",
-            "正在直播",
-            "点开看"
-          ],
-          "frame": "CCTV-15是音乐台，正在直播，点开＿＿就能看。"
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
         },
         {
           "title": "CCTV-16 奥林匹克",
           "url": "https://tv.cctv.com/live/cctv16/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-16 奥林匹克：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "运动员",
-            "比赛项目",
-            "精彩瞬间",
-            "观看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
         },
         {
           "title": "CCTV-17 农业农村",
           "url": "https://tv.cctv.com/live/cctv17/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-17 农业农村：正在直播，点开即看",
-          "words": [
-            "农民",
-            "拖拉机",
-            "播种",
-            "田野"
-          ],
-          "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
         }
       ],
       "scientist": [
         {
-          "title": "黄昆院士谈回国初期的工作经历",
-          "url": "https://kxrsbn.casad.cas.cn/2019n/zxsp/201905/t20190530_4950212.html",
-          "dur": 112,
-          "site": "科学人生百年",
-          "brief": "今日科学家·黄昆：黄昆院士谈回国初期的工作经历",
-          "mp4": "https://videozh.cas.cn/masvod/public/2023/07/24/20230724_18987e2a9a5_r36.mp4",
-          "words": [
-            "黄昆",
-            "回国",
-            "工作",
-            "实验室",
-            "晶体"
-          ],
-          "frame": "「黄昆」是一位＿＿，他做过＿＿，最让我佩服的是＿＿。",
-          "orient": "h"
+          "title": "看完心酸！“两弹元勋”彭桓武去世前的最后几件事",
+          "url": "https://page.om.qq.com/page/O03l1SPv1WZh7hySdfV3D8Aw0",
+          "dur": null,
+          "site": "科学网",
+          "brief": "今日科学家·彭桓武：看完心酸！“两弹元勋”彭桓武去世前的最后几件事"
         }
       ],
       "edu_math": [
@@ -697,12 +474,11 @@
           "words": [
             "数字气球",
             "次方",
-            "英语数学",
-            "1到10亿",
-            "变大变多",
-            "飞上天"
+            "10亿",
+            "变大",
+            "飞起"
           ],
-          "frame": "「数字气球」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "orient": "h"
         },
         {
@@ -712,14 +488,14 @@
           "site": "B站",
           "brief": "数学：一年级上册数学《认识整时和半时》",
           "words": [
-            "小猫",
-            "钟表",
-            "跳到3点",
-            "跳到6点",
-            "跳到9点",
-            "跳到12点"
+            "小闹钟",
+            "指针",
+            "指向",
+            "12点",
+            "跳到",
+            "半点"
           ],
-          "frame": "「小猫」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
+          "frame": "它是＿＿，它做了＿＿，最厉害的是＿＿，我觉得＿＿。",
           "orient": "v"
         }
       ],
@@ -730,15 +506,6 @@
           "dur": 231,
           "site": "B站",
           "brief": "语文：成语故事《自食其果》，主页看100+精品原创动画故事！",
-          "words": [
-            "小猴子",
-            "摘桃子",
-            "吃掉",
-            "后悔",
-            "教训",
-            "森林"
-          ],
-          "frame": "这个故事叫「小猴子」，它的意思是＿＿，我学会了＿＿。",
           "orient": "v"
         },
         {
@@ -752,39 +519,21 @@
       ],
       "edu_science": [
         {
-          "title": "微生物知多少",
-          "url": "https://m.iqiyi.com/v_1yj5rq4k38g.html",
-          "dur": 181,
+          "title": "击败病毒的武器库——洗手、消毒、疫苗（下）",
+          "url": "https://m.iqiyi.com/v_12xx2svd3ug.html",
+          "dur": 207,
           "site": "爱奇艺",
-          "brief": "自然科学：微生物知多少",
-          "words": [
-            "小细菌",
-            "显微镜",
-            "看清楚",
-            "放大镜",
-            "研究它",
-            "科学家"
-          ],
-          "frame": "「小细菌」是怎么来的？因为＿＿，所以＿＿，真有趣。",
-          "tvid": "7045121831013900",
+          "brief": "自然科学：击败病毒的武器库——洗手、消毒、疫苗（下）",
+          "tvid": "4073097365439700",
           "orient": "h"
         },
         {
-          "title": "沙门奇袭！餐桌潜伏者",
-          "url": "https://m.iqiyi.com/v_1r3i7h1ql7g.html",
-          "dur": 208,
+          "title": "感冒病毒超进化",
+          "url": "https://m.iqiyi.com/v_2bdcjwywxz4.html",
+          "dur": 185,
           "site": "爱奇艺",
-          "brief": "自然科学：沙门奇袭！餐桌潜伏者",
-          "words": [
-            "沙门菌",
-            "潜伏",
-            "餐桌",
-            "食物",
-            "感染",
-            "传播"
-          ],
-          "frame": "「沙门菌」是怎么来的？因为＿＿，所以＿＿，真有趣。",
-          "tvid": "6387345835886000",
+          "brief": "自然科学：感冒病毒超进化",
+          "tvid": "8551589293121900",
           "orient": "h"
         }
       ]
@@ -1497,295 +1246,140 @@
           "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-1 综合：正在直播，点开即看",
-          "words": [
-            "CCTV1",
-            "直播",
-            "画面",
-            "新闻",
-            "主播"
-          ],
-          "frame": "「CCTV1」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-1 综合：正在直播，点开即看"
         },
         {
           "title": "CCTV-2 财经",
           "url": "https://tv.cctv.com/live/cctv2/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-2 财经：正在直播，点开即看",
-          "words": [
-            "CCTV2",
-            "财经",
-            "直播",
-            "点开",
-            "正在"
-          ],
-          "frame": "「CCTV2」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-2 财经：正在直播，点开即看"
         },
         {
           "title": "CCTV-3 综艺",
           "url": "https://tv.cctv.com/live/cctv3/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-3 综艺：正在直播，点开即看",
-          "words": [
-            "CCTV3",
-            "直播",
-            "节目",
-            "观众",
-            "屏幕",
-            "镜头"
-          ],
-          "frame": "「CCTV3」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
         },
         {
           "title": "CCTV-4 中文国际（亚）",
           "url": "https://tv.cctv.com/live/cctv4/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它可以让人们 ＿＿，点开 ＿＿就可以 ＿＿，它是一个 ＿＿的 ＿＿。"
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
         },
         {
           "title": "CCTV-4 中文国际（欧）",
           "url": "https://tv.cctv.com/live/cctveurope/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它 ＿＿，点开 ＿＿就能 ＿＿，它是一个 ＿＿的 ＿＿。"
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
         },
         {
           "title": "CCTV-4 中文国际（美）",
           "url": "https://tv.cctv.com/live/cctvamerica/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它身上有 ＿＿，最厉害的是 ＿＿。"
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
         },
         {
           "title": "CCTV-5 体育",
           "url": "https://tv.cctv.com/live/cctv5/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-5 体育：正在直播，点开即看",
-          "words": [
-            "CCTV5",
-            "体育",
-            "直播",
-            "点开",
-            "正在"
-          ],
-          "frame": "CCTV-5 是一个＿＿，它专门播放 ＿＿，现在 ＿＿，我们 ＿＿就能 ＿＿。"
+          "brief": "CCTV-5 体育：正在直播，点开即看"
         },
         {
           "title": "CCTV-5+ 体育赛事",
           "url": "https://tv.cctv.com/live/cctv5plus/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看",
-          "words": [
-            "CCTV5+",
-            "直播",
-            "体育赛事",
-            "点开",
-            "即看"
-          ],
-          "frame": "「CCTV5+」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
         },
         {
           "title": "CCTV-6 电影",
           "url": "https://tv.cctv.com/live/cctv6/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-6 电影：正在直播，点开即看",
-          "words": [
-            "CCTV6",
-            "电影",
-            "直播",
-            "点开"
-          ],
-          "frame": "「CCTV6」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-6 电影：正在直播，点开即看"
         },
         {
           "title": "CCTV-7 国防军事",
           "url": "https://tv.cctv.com/live/cctv7/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-7 国防军事：正在直播，点开即看",
-          "words": [
-            "CCTV7",
-            "直播",
-            "国防",
-            "军事",
-            "点开"
-          ],
-          "frame": "「CCTV7」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
         },
         {
           "title": "CCTV-8 电视剧",
           "url": "https://tv.cctv.com/live/cctv8/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-8 电视剧：正在直播，点开即看",
-          "words": [
-            "CCTV8",
-            "直播",
-            "电视",
-            "点开"
-          ],
-          "frame": "「CCTV8」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
         },
         {
           "title": "CCTV-9 纪录",
           "url": "https://tv.cctv.com/live/cctvjilu/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-9 纪录：正在直播，点开即看",
-          "words": [
-            "CCTV9",
-            "直播",
-            "卡片",
-            "解读",
-            "正在",
-            "点开"
-          ],
-          "frame": "「CCTV9」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
         },
         {
           "title": "CCTV-10 科教",
           "url": "https://tv.cctv.com/live/cctv10/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-10 科教：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "屏幕",
-            "手指点开",
-            "画面出现"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-10 科教：正在直播，点开即看"
         },
         {
           "title": "CCTV-11 戏曲",
           "url": "https://tv.cctv.com/live/cctv11/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-11 戏曲：正在直播，点开即看",
-          "words": [
-            "戏曲",
-            "演员",
-            "脸谱",
-            "唱腔",
-            "舞台"
-          ],
-          "frame": "「戏曲」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
         },
         {
           "title": "CCTV-12 社会与法",
           "url": "https://tv.cctv.com/live/cctv12/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-12 社会与法：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV12",
-            "社会与法",
-            "点开",
-            "看直播"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
         },
         {
           "title": "CCTV-13 新闻",
           "url": "https://tv.cctv.com/live/cctv13/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-13 新闻：正在直播，点开即看",
-          "words": [
-            "新闻直播",
-            "CCTV13",
-            "打开电视",
-            "观看节目"
-          ],
-          "frame": "「新闻直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
         },
         {
           "title": "CCTV-14 少儿",
           "url": "https://tv.cctv.com/live/cctvchild/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-14 少儿：正在直播，点开即看",
-          "words": [
-            "小猫",
-            "鱼缸",
-            "游泳",
-            "尾巴"
-          ],
-          "frame": "「小猫」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
         },
         {
           "title": "CCTV-15 音乐",
           "url": "https://tv.cctv.com/live/cctv15/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-15 音乐：正在直播，点开即看",
-          "words": [
-            "CCTV15",
-            "音乐台",
-            "正在直播",
-            "点开看"
-          ],
-          "frame": "CCTV-15是音乐台，正在直播，点开＿＿就能看。"
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
         },
         {
           "title": "CCTV-16 奥林匹克",
           "url": "https://tv.cctv.com/live/cctv16/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-16 奥林匹克：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "运动员",
-            "比赛项目",
-            "精彩瞬间",
-            "观看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
         },
         {
           "title": "CCTV-17 农业农村",
           "url": "https://tv.cctv.com/live/cctv17/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-17 农业农村：正在直播，点开即看",
-          "words": [
-            "农民",
-            "拖拉机",
-            "播种",
-            "田野"
-          ],
-          "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
         }
       ],
       "mech": [
@@ -2005,295 +1599,140 @@
           "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-1 综合：正在直播，点开即看",
-          "words": [
-            "CCTV1",
-            "直播",
-            "画面",
-            "新闻",
-            "主播"
-          ],
-          "frame": "「CCTV1」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-1 综合：正在直播，点开即看"
         },
         {
           "title": "CCTV-2 财经",
           "url": "https://tv.cctv.com/live/cctv2/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-2 财经：正在直播，点开即看",
-          "words": [
-            "CCTV2",
-            "财经",
-            "直播",
-            "点开",
-            "正在"
-          ],
-          "frame": "「CCTV2」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-2 财经：正在直播，点开即看"
         },
         {
           "title": "CCTV-3 综艺",
           "url": "https://tv.cctv.com/live/cctv3/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-3 综艺：正在直播，点开即看",
-          "words": [
-            "CCTV3",
-            "直播",
-            "节目",
-            "观众",
-            "屏幕",
-            "镜头"
-          ],
-          "frame": "「CCTV3」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-3 综艺：正在直播，点开即看"
         },
         {
           "title": "CCTV-4 中文国际（亚）",
           "url": "https://tv.cctv.com/live/cctv4/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它可以让人们 ＿＿，点开 ＿＿就可以 ＿＿，它是一个 ＿＿的 ＿＿。"
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看"
         },
         {
           "title": "CCTV-4 中文国际（欧）",
           "url": "https://tv.cctv.com/live/cctveurope/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它 ＿＿，点开 ＿＿就能 ＿＿，它是一个 ＿＿的 ＿＿。"
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看"
         },
         {
           "title": "CCTV-4 中文国际（美）",
           "url": "https://tv.cctv.com/live/cctvamerica/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它身上有 ＿＿，最厉害的是 ＿＿。"
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看"
         },
         {
           "title": "CCTV-5 体育",
           "url": "https://tv.cctv.com/live/cctv5/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-5 体育：正在直播，点开即看",
-          "words": [
-            "CCTV5",
-            "体育",
-            "直播",
-            "点开",
-            "正在"
-          ],
-          "frame": "CCTV-5 是一个＿＿，它专门播放 ＿＿，现在 ＿＿，我们 ＿＿就能 ＿＿。"
+          "brief": "CCTV-5 体育：正在直播，点开即看"
         },
         {
           "title": "CCTV-5+ 体育赛事",
           "url": "https://tv.cctv.com/live/cctv5plus/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看",
-          "words": [
-            "CCTV5+",
-            "直播",
-            "体育赛事",
-            "点开",
-            "即看"
-          ],
-          "frame": "「CCTV5+」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看"
         },
         {
           "title": "CCTV-6 电影",
           "url": "https://tv.cctv.com/live/cctv6/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-6 电影：正在直播，点开即看",
-          "words": [
-            "CCTV6",
-            "电影",
-            "直播",
-            "点开"
-          ],
-          "frame": "「CCTV6」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-6 电影：正在直播，点开即看"
         },
         {
           "title": "CCTV-7 国防军事",
           "url": "https://tv.cctv.com/live/cctv7/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-7 国防军事：正在直播，点开即看",
-          "words": [
-            "CCTV7",
-            "直播",
-            "国防",
-            "军事",
-            "点开"
-          ],
-          "frame": "「CCTV7」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-7 国防军事：正在直播，点开即看"
         },
         {
           "title": "CCTV-8 电视剧",
           "url": "https://tv.cctv.com/live/cctv8/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-8 电视剧：正在直播，点开即看",
-          "words": [
-            "CCTV8",
-            "直播",
-            "电视",
-            "点开"
-          ],
-          "frame": "「CCTV8」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-8 电视剧：正在直播，点开即看"
         },
         {
           "title": "CCTV-9 纪录",
           "url": "https://tv.cctv.com/live/cctvjilu/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-9 纪录：正在直播，点开即看",
-          "words": [
-            "CCTV9",
-            "直播",
-            "卡片",
-            "解读",
-            "正在",
-            "点开"
-          ],
-          "frame": "「CCTV9」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-9 纪录：正在直播，点开即看"
         },
         {
           "title": "CCTV-10 科教",
           "url": "https://tv.cctv.com/live/cctv10/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-10 科教：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "屏幕",
-            "手指点开",
-            "画面出现"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-10 科教：正在直播，点开即看"
         },
         {
           "title": "CCTV-11 戏曲",
           "url": "https://tv.cctv.com/live/cctv11/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-11 戏曲：正在直播，点开即看",
-          "words": [
-            "戏曲",
-            "演员",
-            "脸谱",
-            "唱腔",
-            "舞台"
-          ],
-          "frame": "「戏曲」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-11 戏曲：正在直播，点开即看"
         },
         {
           "title": "CCTV-12 社会与法",
           "url": "https://tv.cctv.com/live/cctv12/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-12 社会与法：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV12",
-            "社会与法",
-            "点开",
-            "看直播"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-12 社会与法：正在直播，点开即看"
         },
         {
           "title": "CCTV-13 新闻",
           "url": "https://tv.cctv.com/live/cctv13/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-13 新闻：正在直播，点开即看",
-          "words": [
-            "新闻直播",
-            "CCTV13",
-            "打开电视",
-            "观看节目"
-          ],
-          "frame": "「新闻直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-13 新闻：正在直播，点开即看"
         },
         {
           "title": "CCTV-14 少儿",
           "url": "https://tv.cctv.com/live/cctvchild/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-14 少儿：正在直播，点开即看",
-          "words": [
-            "小猫",
-            "鱼缸",
-            "游泳",
-            "尾巴"
-          ],
-          "frame": "「小猫」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-14 少儿：正在直播，点开即看"
         },
         {
           "title": "CCTV-15 音乐",
           "url": "https://tv.cctv.com/live/cctv15/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-15 音乐：正在直播，点开即看",
-          "words": [
-            "CCTV15",
-            "音乐台",
-            "正在直播",
-            "点开看"
-          ],
-          "frame": "CCTV-15是音乐台，正在直播，点开＿＿就能看。"
+          "brief": "CCTV-15 音乐：正在直播，点开即看"
         },
         {
           "title": "CCTV-16 奥林匹克",
           "url": "https://tv.cctv.com/live/cctv16/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-16 奥林匹克：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "运动员",
-            "比赛项目",
-            "精彩瞬间",
-            "观看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看"
         },
         {
           "title": "CCTV-17 农业农村",
           "url": "https://tv.cctv.com/live/cctv17/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-17 农业农村：正在直播，点开即看",
-          "words": [
-            "农民",
-            "拖拉机",
-            "播种",
-            "田野"
-          ],
-          "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
+          "brief": "CCTV-17 农业农村：正在直播，点开即看"
         }
       ],
       "mech": [
