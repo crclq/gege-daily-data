@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23 17:32",
+  "generated": "2026-10-23 21:56",
   "cats": [
     {
       "key": "cctv_live",
@@ -116,60 +116,60 @@
             "演示",
             "汽车",
             "发动机",
-            "工作"
+            "工作原理"
           ],
           "frame": "「3D动画」是＿＿，它能＿＿，我觉得＿＿。",
           "orient": "h"
         },
         {
-          "title": "【水水劳斯】揭秘网络热门视频里的科学原理｜易拉罐为何能自己旋转着立起来？",
-          "url": "https://www.bilibili.com/video/BV1ea41187HE",
-          "dur": 97,
+          "title": "汽车无级变速箱CVT的工作原理三维动画图解，让你两分钟看明白CVT是怎么工作的",
+          "url": "https://www.bilibili.com/video/BV1KX4y1B7po",
+          "dur": 122,
           "site": "B站",
-          "brief": "机械原理：【水水劳斯】揭秘网络热门视频里的科学原理｜易拉罐为何能自己旋转着立起来？",
+          "brief": "机械原理：汽车无级变速箱CVT的工作原理三维动画图解，让你两分钟看明白CVT是怎么工作的",
           "words": [
-            "易拉罐",
-            "旋转",
-            "立起来",
-            "机械原理",
-            "水水劳斯",
-            "视频"
+            "汽车",
+            "变速箱",
+            "齿轮",
+            "链条",
+            "转动",
+            "动力",
+            "工作"
           ],
-          "frame": "「易拉罐」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "v"
-        },
-        {
-          "title": "灯塔时光：带你拆解百年灯塔的内部构造",
-          "url": "https://www.bilibili.com/video/BV1x5tbzCESA",
-          "dur": 331,
-          "site": "B站",
-          "brief": "机械原理：灯塔时光：带你拆解百年灯塔的内部构造",
-          "words": [
-            "灯塔",
-            "内部",
-            "构造",
-            "机械",
-            "原理",
-            "拆解"
-          ],
-          "frame": "「灯塔」是＿＿，它能＿＿，我觉得＿＿。",
+          "frame": "「汽车」是＿＿，它能＿＿，我觉得＿＿。",
           "orient": "h"
         },
         {
-          "title": "【中配】摩托车变速箱工作原理动画演示 - Thomas Schwenke E2CybLSrN5Q",
-          "url": "https://www.bilibili.com/video/BV1hiaS6CEf4",
-          "dur": 203,
+          "title": "缆车遭遇大风摇晃！仅靠握锁器不会掉吗？3D动画讲缆车运行原理",
+          "url": "https://www.bilibili.com/video/BV1EbSWBsEVt",
+          "dur": 178,
           "site": "B站",
-          "brief": "机械原理：【中配】摩托车变速箱工作原理动画演示 - Thomas Schwenke E2CybLSrN5Q",
+          "brief": "机械原理：缆车遭遇大风摇晃！仅靠握锁器不会掉吗？3D动画讲缆车运行原理",
           "words": [
-            "摩托车",
-            "齿轮箱",
-            "转啊转",
-            "链条",
-            "带动",
-            "车轮"
+            "缆车",
+            "大风",
+            "握锁器",
+            "铁链",
+            "车厢"
           ],
-          "frame": "「摩托车」是＿＿，它能＿＿，我觉得＿＿。",
+          "frame": "「缆车」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "汽车减震器结构原理！动画演示，让你分分钟能看懂",
+          "url": "https://www.bilibili.com/video/BV1PT411c7ps",
+          "dur": 124,
+          "site": "B站",
+          "brief": "机械原理：汽车减震器结构原理！动画演示，让你分分钟能看懂",
+          "words": [
+            "汽车",
+            "减震器",
+            "结构",
+            "原理",
+            "动画",
+            "演示"
+          ],
+          "frame": "「汽车」是＿＿，它能＿＿，我觉得＿＿。",
           "orient": "h"
         }
       ],
@@ -708,7 +708,14 @@
           "url": "https://tv.cctv.com/live/cctvchild/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-14 少儿：正在直播，点开即看"
+          "brief": "CCTV-14 少儿：正在直播，点开即看",
+          "words": [
+            "小猫",
+            "鱼缸",
+            "游泳",
+            "尾巴"
+          ],
+          "frame": "「小猫」是＿＿，它能＿＿，我觉得＿＿。"
         },
         {
           "title": "CCTV-15 音乐",
@@ -1907,7 +1914,14 @@
           "url": "https://tv.cctv.com/live/cctvchild/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-14 少儿：正在直播，点开即看"
+          "brief": "CCTV-14 少儿：正在直播，点开即看",
+          "words": [
+            "小猫",
+            "鱼缸",
+            "游泳",
+            "尾巴"
+          ],
+          "frame": "「小猫」是＿＿，它能＿＿，我觉得＿＿。"
         },
         {
           "title": "CCTV-15 音乐",
@@ -2450,7 +2464,14 @@
           "url": "https://tv.cctv.com/live/cctvchild/",
           "dur": null,
           "site": "央视",
-          "brief": "CCTV-14 少儿：正在直播，点开即看"
+          "brief": "CCTV-14 少儿：正在直播，点开即看",
+          "words": [
+            "小猫",
+            "鱼缸",
+            "游泳",
+            "尾巴"
+          ],
+          "frame": "「小猫」是＿＿，它能＿＿，我觉得＿＿。"
         },
         {
           "title": "CCTV-15 音乐",
