@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23 15:04",
+  "generated": "2026-10-23 17:32",
   "cats": [
     {
       "key": "cctv_live",
@@ -91,87 +91,85 @@
     "2026-10-23": {
       "mech": [
         {
-          "title": "Apple Pencil笔尖定位、压感和倾斜感应实现原理",
-          "url": "https://www.bilibili.com/video/BV1JuNyzXEHh",
-          "dur": 51,
+          "title": "3D动画解析钥匙开锁的工作原理，发明原子锁的人太聪明了",
+          "url": "https://www.bilibili.com/video/BV1Je4y1M7di",
+          "dur": 108,
           "site": "B站",
-          "brief": "机械原理：Apple Pencil笔尖定位、压感和倾斜感应实现原理",
+          "brief": "机械原理：3D动画解析钥匙开锁的工作原理，发明原子锁的人太聪明了",
           "words": [
-            "笔尖",
-            "感应",
-            "定位",
-            "压感",
-            "倾斜",
-            "机械"
+            "钥匙",
+            "原子锁",
+            "发明",
+            "聪明"
           ],
-          "frame": "「笔尖」是＿＿，它能＿＿，我觉得＿＿。",
+          "frame": "「钥匙」是＿＿，它能＿＿，我觉得＿＿。",
           "orient": "h"
         },
         {
-          "title": "显微镜的工作原理",
-          "url": "https://www.bilibili.com/video/BV1oV4y1y7S3",
-          "dur": 273,
+          "title": "【心脏Engine】3D动画演示汽车发动机工作原理",
+          "url": "https://www.bilibili.com/video/BV17t4y1k73v",
+          "dur": 177,
           "site": "B站",
-          "brief": "机械原理：显微镜的工作原理",
+          "brief": "机械原理：【心脏Engine】3D动画演示汽车发动机工作原理",
           "words": [
-            "显微镜",
-            "放大镜片",
-            "观察",
-            "细胞",
-            "科学家",
-            "研究"
-          ],
-          "frame": "「显微镜」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "天才设计！手机充电器的原理竟然这么巧妙。",
-          "url": "https://www.bilibili.com/video/BV1or4y1X7Ra",
-          "dur": 327,
-          "site": "B站",
-          "brief": "机械原理：天才设计！手机充电器的原理竟然这么巧妙。",
-          "words": [
-            "手机充电器",
-            "电线",
-            "插头",
-            "电源",
-            "电流"
-          ],
-          "frame": "「手机充电器」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "垃圾堆捡个闹钟，拆开看看机芯的工作原理",
-          "url": "https://www.bilibili.com/video/BV1xT4y1Y7NL",
-          "dur": 435,
-          "site": "B站",
-          "brief": "机械原理：垃圾堆捡个闹钟，拆开看看机芯的工作原理",
-          "words": [
-            "闹钟",
-            "拆开",
-            "机芯",
-            "工作",
-            "原理",
-            "垃圾堆"
-          ],
-          "frame": "「闹钟」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "公交车的工作原理🚌",
-          "url": "https://www.bilibili.com/video/BV1tCpjzqEfG",
-          "dur": 109,
-          "site": "B站",
-          "brief": "机械原理：公交车的工作原理🚌",
-          "words": [
-            "公交车",
+            "3D动画",
+            "演示",
+            "汽车",
             "发动机",
-            "轮子",
-            "跑起来",
-            "乘客",
-            "座位"
+            "工作"
           ],
-          "frame": "「公交车」是＿＿，它能＿＿，我觉得＿＿。",
+          "frame": "「3D动画」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "【水水劳斯】揭秘网络热门视频里的科学原理｜易拉罐为何能自己旋转着立起来？",
+          "url": "https://www.bilibili.com/video/BV1ea41187HE",
+          "dur": 97,
+          "site": "B站",
+          "brief": "机械原理：【水水劳斯】揭秘网络热门视频里的科学原理｜易拉罐为何能自己旋转着立起来？",
+          "words": [
+            "易拉罐",
+            "旋转",
+            "立起来",
+            "机械原理",
+            "水水劳斯",
+            "视频"
+          ],
+          "frame": "「易拉罐」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "v"
+        },
+        {
+          "title": "灯塔时光：带你拆解百年灯塔的内部构造",
+          "url": "https://www.bilibili.com/video/BV1x5tbzCESA",
+          "dur": 331,
+          "site": "B站",
+          "brief": "机械原理：灯塔时光：带你拆解百年灯塔的内部构造",
+          "words": [
+            "灯塔",
+            "内部",
+            "构造",
+            "机械",
+            "原理",
+            "拆解"
+          ],
+          "frame": "「灯塔」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "【中配】摩托车变速箱工作原理动画演示 - Thomas Schwenke E2CybLSrN5Q",
+          "url": "https://www.bilibili.com/video/BV1hiaS6CEf4",
+          "dur": 203,
+          "site": "B站",
+          "brief": "机械原理：【中配】摩托车变速箱工作原理动画演示 - Thomas Schwenke E2CybLSrN5Q",
+          "words": [
+            "摩托车",
+            "齿轮箱",
+            "转啊转",
+            "链条",
+            "带动",
+            "车轮"
+          ],
+          "frame": "「摩托车」是＿＿，它能＿＿，我觉得＿＿。",
           "orient": "h"
         }
       ],
@@ -818,6 +816,15 @@
           "dur": 231,
           "site": "B站",
           "brief": "语文：成语故事《自食其果》，主页看100+精品原创动画故事！",
+          "words": [
+            "小猴子",
+            "摘桃子",
+            "吃掉",
+            "后悔",
+            "教训",
+            "森林"
+          ],
+          "frame": "这个故事叫「小猴子」，它的意思是＿＿，我学会了＿＿。",
           "orient": "v"
         },
         {
