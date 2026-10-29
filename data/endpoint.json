@@ -1,7 +1,13 @@
 {
  "api_healthy": true,
- "domain": "https://kid.fengbudingdan.cn",
+ "domain": "http://kid.fengbudingdan.cn",
  "endpoints": [
+  {
+   "id": "box-domain",
+   "net": "http-tunnel",
+   "prio": 5,
+   "url": "http://kid.fengbudingdan.cn"
+  },
   {
    "id": "box-lan",
    "net": "lan",
@@ -17,11 +23,12 @@
  ],
  "lan": "192.168.0.18",
  "reach": {
+  "box-domain": true,
   "box-lan": true,
   "box-ts": true
  },
  "tailscale": "100.92.118.7",
- "ts": 1793269090,
- "updated": "2026-10-29 18:18:10",
+ "ts": 1793269385,
+ "updated": "2026-10-29 18:23:04",
  "v6": ""
 }
