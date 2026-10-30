@@ -1,6 +1,6 @@
 {
  "api_healthy": true,
- "domain": "https://kid.fengbudingdan.cn",
+ "domain": "http://kid.fengbudingdan.cn",
  "endpoints": [
   {
    "id": "box-funnel",
@@ -29,7 +29,7 @@
   "box-ts": true
  },
  "tailscale": "100.92.118.7",
- "ts": 1793393985,
- "updated": "2026-10-31 04:59:45",
+ "ts": 1793394286,
+ "updated": "2026-10-31 05:04:46",
  "v6": ""
 }
