@@ -1,18 +1,12 @@
 {
  "api_healthy": true,
- "domain": "http://kid.fengbudingdan.cn",
+ "domain": "https://kid.fengbudingdan.cn",
  "endpoints": [
   {
    "id": "vps-relay",
    "net": "vps-relay",
    "prio": 3,
    "url": "http://85.189.40.110/site"
-  },
-  {
-   "id": "box-domain",
-   "net": "http-tunnel",
-   "prio": 5,
-   "url": "http://kid.fengbudingdan.cn"
   },
   {
    "id": "box-funnel",
@@ -35,14 +29,14 @@
  ],
  "lan": "192.168.0.13",
  "reach": {
-  "box-domain": true,
+  "box-domain": false,
   "box-funnel": true,
   "box-lan": true,
   "box-ts": true,
   "vps-relay": true
  },
  "tailscale": "100.92.118.7",
- "ts": 1793410368,
- "updated": "2026-10-31 09:32:48",
+ "ts": 1793410668,
+ "updated": "2026-10-31 09:37:48",
  "v6": ""
 }
