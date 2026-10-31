@@ -29,14 +29,13 @@
  ],
  "lan": "192.168.0.13",
  "reach": {
-  "box-domain": false,
   "box-funnel": true,
   "box-lan": true,
   "box-ts": true,
   "vps-relay": true
  },
  "tailscale": "100.92.118.7",
- "ts": 1793428172,
- "updated": "2026-10-31 14:29:32",
+ "ts": 1793428472,
+ "updated": "2026-10-31 14:34:32",
  "v6": ""
 }
