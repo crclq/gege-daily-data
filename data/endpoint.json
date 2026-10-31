@@ -9,12 +9,6 @@
    "url": "https://j1900-box-1.taila83273.ts.net/site"
   },
   {
-   "id": "box-lan",
-   "net": "lan",
-   "prio": 20,
-   "url": "http://192.168.0.11:3000"
-  },
-  {
    "id": "box-ts",
    "net": "tailscale",
    "prio": 30,
@@ -24,11 +18,11 @@
  "lan": "192.168.0.11",
  "reach": {
   "box-funnel": false,
-  "box-lan": true,
+  "box-lan": false,
   "box-ts": true
  },
  "tailscale": "100.92.118.7",
- "ts": 1793478634,
- "updated": "2026-11-01 04:30:34",
+ "ts": 1793478938,
+ "updated": "2026-11-01 04:35:38",
  "v6": ""
 }
