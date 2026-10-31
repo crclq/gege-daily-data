@@ -1,6 +1,6 @@
 {
  "api_healthy": true,
- "domain": "https://kid.fengbudingdan.cn",
+ "domain": "http://kid.fengbudingdan.cn",
  "endpoints": [
   {
    "id": "vps-relay",
@@ -29,13 +29,14 @@
  ],
  "lan": "192.168.0.13",
  "reach": {
+  "box-domain": false,
   "box-funnel": true,
   "box-lan": true,
   "box-ts": true,
   "vps-relay": true
  },
  "tailscale": "100.92.118.7",
- "ts": 1793424256,
- "updated": "2026-10-31 13:24:16",
+ "ts": 1793424557,
+ "updated": "2026-10-31 13:29:17",
  "v6": ""
 }
