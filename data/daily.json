@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31 13:01",
+  "generated": "2026-11-01 13:01",
   "cats": [
     {
       "key": "cctv_live",
@@ -64,6 +64,7 @@
     }
   ],
   "dates": [
+    "2026-11-01",
     "2026-10-31",
     "2026-10-30",
     "2026-10-29",
@@ -76,125 +77,70 @@
     "2026-10-22",
     "2026-10-21",
     "2026-10-20",
-    "2026-10-19",
-    "2026-10-18"
+    "2026-10-19"
   ],
   "data": {
-    "2026-10-31": {
+    "2026-11-01": {
       "edu_english": [
         {
-          "title": "读绘本听儿歌，学英语单词Fish，动物单词亲子英语启蒙Animals",
-          "url": "https://www.bilibili.com/video/BV1yLeozMEut",
-          "dur": 65,
+          "title": "英语启蒙：读绘本学Tiger，深度记单词。超可爱宝宝学的英语绘本！读绘本，学英语动物单词Tiger老虎",
+          "url": "https://www.bilibili.com/video/BV13wnbzTEa1",
+          "dur": 78,
           "site": "B站",
-          "brief": "动物英语对白：读绘本听儿歌，学英语单词Fish，动物单词亲子英语启蒙Animals"
+          "brief": "动物英语对白：英语启蒙：读绘本学Tiger，深度记单词。超可爱宝宝学的英语绘本！读绘本，学英语动物单词Tiger老虎"
         },
         {
-          "title": "英语启蒙：读绘本学Bee，深度记单词。超可爱宝宝学的英语绘本！读绘本，学英语动物单词Bee小蜜蜂",
-          "url": "https://www.bilibili.com/video/BV1ogsazAEah",
-          "dur": 72,
+          "title": "读绘本学科普，学英语单词Elephant，动物单词亲子英语启蒙Animals",
+          "url": "https://www.bilibili.com/video/BV1RMhdzVEVQ",
+          "dur": 45,
           "site": "B站",
-          "brief": "动物英语对白：英语启蒙：读绘本学Bee，深度记单词。超可爱宝宝学的英语绘本！读绘本，学英语动物单词Bee小蜜蜂"
+          "brief": "动物英语对白：读绘本学科普，学英语单词Elephant，动物单词亲子英语启蒙Animals"
         }
       ],
       "scientist": [
         {
-          "title": "数学家谈怎样学数学 (华罗庚 苏步青 王元 等)（1986年）",
-          "url": "https://www.bilibili.com/video/BV1fGQzBMEpw",
-          "dur": 94,
-          "site": "B站",
-          "brief": "今日科学家·王元：数学家谈怎样学数学 (华罗庚 苏步青 王元 等)（1986年）"
+          "title": "闵恩泽",
+          "url": "https://kxrsbn.casad.cas.cn/2024/zxsp/202405/t20240530_5016235.html",
+          "dur": 305,
+          "site": "科学人生百年",
+          "brief": "今日科学家·闵恩泽：闵恩泽"
         }
       ],
       "ai": [
         {
-          "title": "【洛克小课堂】机器狗",
-          "url": "https://www.bilibili.com/video/BV1R74117752",
-          "dur": 90,
+          "title": "疯狂的机器狗585公交大巴",
+          "url": "https://www.bilibili.com/video/BV1hZJm6qEG9",
+          "dur": 47,
           "site": "B站",
-          "brief": "AI科技：【洛克小课堂】机器狗"
+          "brief": "AI科技：疯狂的机器狗585公交大巴"
         },
         {
-          "title": "人工智能機器女孩dodolook29 測試01",
-          "url": "https://www.bilibili.com/video/BV1jx411c7gw",
-          "dur": 148,
+          "title": "众一机器小姐姐表演一首粤语歌曲如风。非常棒.如今的人工智能太利害了.快来看看吧。",
+          "url": "https://www.bilibili.com/video/BV1yT4y1X77j",
+          "dur": 208,
           "site": "B站",
-          "brief": "AI科技：人工智能機器女孩dodolook29 測試01"
+          "brief": "AI科技：众一机器小姐姐表演一首粤语歌曲如风。非常棒.如今的人工智能太利害了.快来看看吧。"
         },
         {
-          "title": "马斯克变性女儿床上大战机器人，机器人撞墙而亡",
-          "url": "https://www.bilibili.com/video/BV1esbP6CE3f",
-          "dur": 35,
+          "title": "当我又买了一个新机器人回家，老机器人好像已经习惯了",
+          "url": "https://www.bilibili.com/video/BV1nWJX6KEnQ",
+          "dur": 138,
           "site": "B站",
-          "brief": "AI科技：马斯克变性女儿床上大战机器人，机器人撞墙而亡"
+          "brief": "AI科技：当我又买了一个新机器人回家，老机器人好像已经习惯了"
         },
         {
-          "title": "疯狂的机器狗581狗尿轮胎",
-          "url": "https://www.bilibili.com/video/BV18ZJm6qEYJ",
-          "dur": 41,
+          "title": "看，对面有个机器人在假扮人？",
+          "url": "https://www.bilibili.com/video/BV1DweE6WEMZ",
+          "dur": 95,
           "site": "B站",
-          "brief": "AI科技：疯狂的机器狗581狗尿轮胎"
+          "brief": "AI科技：看，对面有个机器人在假扮人？"
         },
         {
-          "title": "哀牢山首位“机器人科考队员”",
-          "url": "https://www.bilibili.com/video/BV1ksWw6TEP8",
-          "dur": 173,
+          "title": "六个月就认识了机器狗",
+          "url": "https://www.bilibili.com/video/BV13GJi6zEpr",
+          "dur": 46,
           "site": "B站",
-          "brief": "AI科技：哀牢山首位“机器人科考队员”"
-        }
-      ],
-      "mech": [
-        {
-          "title": "3d动画揭秘手压式水泵的工作原理，小时候的未解之谜!",
-          "url": "https://www.bilibili.com/video/BV1gJpo6KESL",
-          "dur": 87,
-          "site": "B站",
-          "brief": "机械原理：3d动画揭秘手压式水泵的工作原理，小时候的未解之谜!",
-          "orient": "h"
-        },
-        {
-          "title": "保留完整瓶盖的“按压式开瓶器”的原理",
-          "url": "https://www.bilibili.com/video/BV1sq4y1w7fs",
-          "dur": 235,
-          "site": "B站",
-          "brief": "机械原理：保留完整瓶盖的“按压式开瓶器”的原理"
-        },
-        {
-          "title": "直升机的升降原理：简单却让人大跌眼镜！",
-          "url": "https://www.bilibili.com/video/BV14F411d7kS",
-          "dur": 71,
-          "site": "B站",
-          "brief": "机械原理：直升机的升降原理：简单却让人大跌眼镜！"
-        },
-        {
-          "title": "刺激的过山车背后，竟包含了那么多科学原理！发展历程令人惊叹",
-          "url": "https://www.bilibili.com/video/BV1tJoMYHEox",
-          "dur": 258,
-          "site": "B站",
-          "brief": "机械原理：刺激的过山车背后，竟包含了那么多科学原理！发展历程令人惊叹"
-        },
-        {
-          "title": "垃圾堆捡个闹钟，拆开看看机芯的工作原理",
-          "url": "https://www.bilibili.com/video/BV1xT4y1Y7NL",
-          "dur": 435,
-          "site": "B站",
-          "brief": "机械原理：垃圾堆捡个闹钟，拆开看看机芯的工作原理"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "小学数学一年级上第七单元认识钟表",
-          "url": "https://www.bilibili.com/video/BV1vyHMehE2o",
-          "dur": 202,
-          "site": "B站",
-          "brief": "数学：小学数学一年级上第七单元认识钟表"
-        },
-        {
-          "title": "认识东南西北，优秀数学动画，孩子一看就懂",
-          "url": "https://www.bilibili.com/video/BV19B4y1r7fH",
-          "dur": 224,
-          "site": "B站",
-          "brief": "数学：认识东南西北，优秀数学动画，孩子一看就懂"
+          "brief": "AI科技：六个月就认识了机器狗"
         }
       ],
       "cctv_live": [
@@ -499,6 +445,550 @@
           "frame": "「直播」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
+      "mech": [
+        {
+          "title": "Apple Pencil四合一笔尖原理讲解",
+          "url": "https://www.bilibili.com/video/BV11P411x7pZ",
+          "dur": 53,
+          "site": "B站",
+          "brief": "机械原理：Apple Pencil四合一笔尖原理讲解"
+        },
+        {
+          "title": "如何制造 指甲刀",
+          "url": "https://www.bilibili.com/video/BV1jP8szQEct",
+          "dur": 489,
+          "site": "B站",
+          "brief": "机械原理：如何制造 指甲刀"
+        },
+        {
+          "title": "常吃的橘子的内部构造是怎样的呢？显微镜下来放大看看",
+          "url": "https://www.bilibili.com/video/BV1Db4y197P2",
+          "dur": 363,
+          "site": "B站",
+          "brief": "机械原理：常吃的橘子的内部构造是怎样的呢？显微镜下来放大看看"
+        },
+        {
+          "title": "钢笔尖一压就张开，这到底是什么原理？",
+          "url": "https://www.bilibili.com/video/BV1iRtA6gEK9",
+          "dur": 63,
+          "site": "B站",
+          "brief": "机械原理：钢笔尖一压就张开，这到底是什么原理？",
+          "orient": "v"
+        },
+        {
+          "title": "用三万根橡皮筋做的篮球，弹力怎么样？？",
+          "url": "https://www.bilibili.com/video/BV1BX4y1u7Sv",
+          "dur": 310,
+          "site": "B站",
+          "brief": "机械原理：用三万根橡皮筋做的篮球，弹力怎么样？？"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "【小学数学微课】人教版一年级下册第五单元《认识人民币Ⅱ》",
+          "url": "https://www.bilibili.com/video/BV1RE411n7gn",
+          "dur": 444,
+          "site": "B站",
+          "brief": "数学：【小学数学微课】人教版一年级下册第五单元《认识人民币Ⅱ》"
+        },
+        {
+          "title": "人民币是怎么制作的？揭秘人民币制作全过程",
+          "url": "https://www.bilibili.com/video/BV1qp4y1s7P1",
+          "dur": 298,
+          "site": "B站",
+          "brief": "数学：人民币是怎么制作的？揭秘人民币制作全过程"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "儿童神话童话寓言小故事：《曹冲称象》 亲子教育 动画 卡通 启蒙动画片精选",
+          "url": "https://www.bilibili.com/video/BV1XZ4y1f7AM",
+          "dur": 213,
+          "site": "B站",
+          "brief": "语文：儿童神话童话寓言小故事：《曹冲称象》 亲子教育 动画 卡通 启蒙动画片精选"
+        },
+        {
+          "title": "小学一年级语文拼音an、en、in、un、ün详细讲解",
+          "url": "https://www.bilibili.com/video/BV1ie411977Y",
+          "dur": 83,
+          "site": "B站",
+          "brief": "语文：小学一年级语文拼音an、en、in、un、ün详细讲解"
+        }
+      ],
+      "military": [
+        {
+          "title": "四倍音速全球3小时使命必达，教你折超帅的窜天石猴高超音速仿真纸飞机",
+          "url": "https://www.bilibili.com/video/BV1NZSWBvE19",
+          "dur": 125,
+          "site": "B站",
+          "brief": "军事科普：四倍音速全球3小时使命必达，教你折超帅的窜天石猴高超音速仿真纸飞机",
+          "orient": "v"
+        },
+        {
+          "title": "日子不错的高超音速导弹！40式高超滑翔弹到底有多强？值不值得肝？最新现代战舰40式高超滑翔弹满级测试",
+          "url": "https://www.bilibili.com/video/BV1wW4y1Q7wM",
+          "dur": 339,
+          "site": "B站",
+          "brief": "军事科普：日子不错的高超音速导弹！40式高超滑翔弹到底有多强？值不值得肝？最新现代战舰40式高超滑翔弹满级测试"
+        },
+        {
+          "title": "[Dumbfire]三栖导弹",
+          "url": "https://www.bilibili.com/video/BV1vxaV6yE2J",
+          "dur": 46,
+          "site": "B站",
+          "brief": "军事科普：[Dumbfire]三栖导弹"
+        },
+        {
+          "title": "世界上最大的导弹",
+          "url": "https://www.bilibili.com/video/BV1yJ9zBnEvm",
+          "dur": 258,
+          "site": "B站",
+          "brief": "军事科普：世界上最大的导弹"
+        },
+        {
+          "title": "7.2马赫的高超音速飞机！（KSP非原版）",
+          "url": "https://www.bilibili.com/video/BV1vN411F7tu",
+          "dur": 203,
+          "site": "B站",
+          "brief": "军事科普：7.2马赫的高超音速飞机！（KSP非原版）"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "动物不刷牙为什么不会长蛀牙",
+          "url": "https://www.bilibili.com/video/BV17H4y1C7xE",
+          "dur": 73,
+          "site": "B站",
+          "brief": "自然科学：动物不刷牙为什么不会长蛀牙"
+        },
+        {
+          "title": "动物为什么不担心蛀牙？整天吃肉啃骨头，它们的牙齿不会坏吗？",
+          "url": "https://www.bilibili.com/video/BV1ML411N7jx",
+          "dur": 291,
+          "site": "B站",
+          "brief": "自然科学：动物为什么不担心蛀牙？整天吃肉啃骨头，它们的牙齿不会坏吗？"
+        }
+      ]
+    },
+    "2026-10-31": {
+      "edu_english": [
+        {
+          "title": "读绘本听儿歌，学英语单词Fish，动物单词亲子英语启蒙Animals",
+          "url": "https://www.bilibili.com/video/BV1yLeozMEut",
+          "dur": 65,
+          "site": "B站",
+          "brief": "动物英语对白：读绘本听儿歌，学英语单词Fish，动物单词亲子英语启蒙Animals"
+        },
+        {
+          "title": "英语启蒙：读绘本学Bee，深度记单词。超可爱宝宝学的英语绘本！读绘本，学英语动物单词Bee小蜜蜂",
+          "url": "https://www.bilibili.com/video/BV1ogsazAEah",
+          "dur": 72,
+          "site": "B站",
+          "brief": "动物英语对白：英语启蒙：读绘本学Bee，深度记单词。超可爱宝宝学的英语绘本！读绘本，学英语动物单词Bee小蜜蜂"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "数学家谈怎样学数学 (华罗庚 苏步青 王元 等)（1986年）",
+          "url": "https://www.bilibili.com/video/BV1fGQzBMEpw",
+          "dur": 94,
+          "site": "B站",
+          "brief": "今日科学家·王元：数学家谈怎样学数学 (华罗庚 苏步青 王元 等)（1986年）"
+        }
+      ],
+      "ai": [
+        {
+          "title": "【洛克小课堂】机器狗",
+          "url": "https://www.bilibili.com/video/BV1R74117752",
+          "dur": 90,
+          "site": "B站",
+          "brief": "AI科技：【洛克小课堂】机器狗"
+        },
+        {
+          "title": "人工智能機器女孩dodolook29 測試01",
+          "url": "https://www.bilibili.com/video/BV1jx411c7gw",
+          "dur": 148,
+          "site": "B站",
+          "brief": "AI科技：人工智能機器女孩dodolook29 測試01"
+        },
+        {
+          "title": "马斯克变性女儿床上大战机器人，机器人撞墙而亡",
+          "url": "https://www.bilibili.com/video/BV1esbP6CE3f",
+          "dur": 35,
+          "site": "B站",
+          "brief": "AI科技：马斯克变性女儿床上大战机器人，机器人撞墙而亡"
+        },
+        {
+          "title": "疯狂的机器狗581狗尿轮胎",
+          "url": "https://www.bilibili.com/video/BV18ZJm6qEYJ",
+          "dur": 41,
+          "site": "B站",
+          "brief": "AI科技：疯狂的机器狗581狗尿轮胎",
+          "orient": "v"
+        },
+        {
+          "title": "哀牢山首位“机器人科考队员”",
+          "url": "https://www.bilibili.com/video/BV1ksWw6TEP8",
+          "dur": 173,
+          "site": "B站",
+          "brief": "AI科技：哀牢山首位“机器人科考队员”"
+        }
+      ],
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看",
+          "words": [
+            "直播卡片",
+            "CCTV1",
+            "综合频道",
+            "正在直播",
+            "点开",
+            "直播按钮"
+          ],
+          "frame": "这是一张＿＿，点＿＿能看＿＿的内容，它是＿＿的＿＿"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看",
+          "words": [
+            "CCTV2",
+            "财经",
+            "直播",
+            "点开",
+            "正在"
+          ],
+          "frame": "「CCTV2」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看",
+          "words": [
+            "CCTV3",
+            "综艺",
+            "直播",
+            "点开",
+            "卡片"
+          ],
+          "frame": "这是＿＿，里面有＿＿，正在＿＿，点开就能＿＿"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看",
+          "words": [
+            "CCTV4",
+            "直播",
+            "点开",
+            "即看"
+          ],
+          "frame": "CCTV-4 是一个 ＿＿，它 ＿＿，点开 ＿＿就可以 ＿＿。"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看",
+          "words": [
+            "CCTV4",
+            "直播",
+            "点开",
+            "国际",
+            "频道"
+          ],
+          "frame": "CCTV-4 是一个 ＿＿，它身上有 ＿＿，最厉害的是 ＿＿就可以看 ＿＿频道。"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看",
+          "words": [
+            "CCTV4",
+            "直播",
+            "点开",
+            "国际",
+            "频道"
+          ],
+          "frame": "CCTV-4 是一个 ＿＿，它身上有 ＿＿，最厉害的是 ＿＿就可以看 ＿＿频道。"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看",
+          "words": [
+            "CCTV5",
+            "体育",
+            "正在",
+            "直播",
+            "点开"
+          ],
+          "frame": "我点开＿＿，就能看＿＿，它是＿＿，现在正在＿＿。"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看",
+          "words": [
+            "CCTV5+",
+            "体育赛事",
+            "正在",
+            "直播",
+            "点开"
+          ],
+          "frame": "这是＿＿，它正在播＿＿，我们可以＿＿来＿＿"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看",
+          "words": [
+            "CCTV6",
+            "电影",
+            "直播",
+            "点开",
+            "正在"
+          ],
+          "frame": "CCTV-6 是一个 ＿＿，它身上有 ＿＿，最厉害的是 ＿＿。"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看",
+          "words": [
+            "CCTV7",
+            "国防军事",
+            "卡片",
+            "直播",
+            "点开",
+            "观看"
+          ],
+          "frame": "这是＿＿的＿＿，它正在＿＿，我们可以＿＿、＿＿来观看哦"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看",
+          "words": [
+            "CCTV8",
+            "电视剧",
+            "直播",
+            "点开"
+          ],
+          "frame": "「CCTV8」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "屏幕亮了",
+            "手指点开",
+            "画面出现",
+            "世界真大",
+            "信息传递"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "屏幕亮了",
+            "手指一点",
+            "画面出现",
+            "科普知识",
+            "学到了"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看",
+          "words": [
+            "CCTV11",
+            "戏曲",
+            "频道",
+            "直播",
+            "点开"
+          ],
+          "frame": "我点开＿＿，这是＿＿频道，正在＿＿，我要认真＿＿。"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "CCTV12",
+            "社会与法",
+            "点开看"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "CCTV13",
+            "打开电视",
+            "新闻节目",
+            "实时观看"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看",
+          "words": [
+            "CCTV14",
+            "少儿频道",
+            "直播",
+            "点开"
+          ],
+          "frame": "「CCTV14」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看",
+          "words": [
+            "CCTV15",
+            "音乐",
+            "直播",
+            "正在播",
+            "点开",
+            "视频"
+          ],
+          "frame": "这是＿＿，它正在＿＿，你点＿＿，就能看＿＿。"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看",
+          "words": [
+            "奥林匹克",
+            "直播",
+            "点开",
+            "电视",
+            "奥运"
+          ],
+          "frame": "「奥林匹克」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看",
+          "words": [
+            "直播",
+            "点开",
+            "农业",
+            "农村"
+          ],
+          "frame": "「直播」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "mech": [
+        {
+          "title": "3d动画揭秘手压式水泵的工作原理，小时候的未解之谜!",
+          "url": "https://www.bilibili.com/video/BV1gJpo6KESL",
+          "dur": 87,
+          "site": "B站",
+          "brief": "机械原理：3d动画揭秘手压式水泵的工作原理，小时候的未解之谜!"
+        },
+        {
+          "title": "保留完整瓶盖的“按压式开瓶器”的原理",
+          "url": "https://www.bilibili.com/video/BV1sq4y1w7fs",
+          "dur": 235,
+          "site": "B站",
+          "brief": "机械原理：保留完整瓶盖的“按压式开瓶器”的原理"
+        },
+        {
+          "title": "直升机的升降原理：简单却让人大跌眼镜！",
+          "url": "https://www.bilibili.com/video/BV14F411d7kS",
+          "dur": 71,
+          "site": "B站",
+          "brief": "机械原理：直升机的升降原理：简单却让人大跌眼镜！"
+        },
+        {
+          "title": "刺激的过山车背后，竟包含了那么多科学原理！发展历程令人惊叹",
+          "url": "https://www.bilibili.com/video/BV1tJoMYHEox",
+          "dur": 258,
+          "site": "B站",
+          "brief": "机械原理：刺激的过山车背后，竟包含了那么多科学原理！发展历程令人惊叹"
+        },
+        {
+          "title": "垃圾堆捡个闹钟，拆开看看机芯的工作原理",
+          "url": "https://www.bilibili.com/video/BV1xT4y1Y7NL",
+          "dur": 435,
+          "site": "B站",
+          "brief": "机械原理：垃圾堆捡个闹钟，拆开看看机芯的工作原理"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "小学数学一年级上第七单元认识钟表",
+          "url": "https://www.bilibili.com/video/BV1vyHMehE2o",
+          "dur": 202,
+          "site": "B站",
+          "brief": "数学：小学数学一年级上第七单元认识钟表"
+        },
+        {
+          "title": "认识东南西北，优秀数学动画，孩子一看就懂",
+          "url": "https://www.bilibili.com/video/BV19B4y1r7fH",
+          "dur": 224,
+          "site": "B站",
+          "brief": "数学：认识东南西北，优秀数学动画，孩子一看就懂"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "儿童小故事《牛郎织女》，点赞关注看更多精品原创动画故事！睡前故事，故事，寓言故事，儿童睡前故事格林童话，成语故事寓言故事，启蒙小故事，成语故事",
@@ -512,8 +1002,7 @@
           "url": "https://www.bilibili.com/video/BV1je4y1E7CG",
           "dur": 111,
           "site": "B站",
-          "brief": "语文：小学语文一年级上册拼音练习一aieiui",
-          "orient": "h"
+          "brief": "语文：小学语文一年级上册拼音练习一aieiui"
         }
       ],
       "military": [
@@ -543,14 +1032,16 @@
           "url": "https://www.bilibili.com/video/BV194y8BHEry",
           "dur": 61,
           "site": "B站",
-          "brief": "军事科普：如何让导弹在空中保持稳定？（科普向视频，无不良引导）"
+          "brief": "军事科普：如何让导弹在空中保持稳定？（科普向视频，无不良引导）",
+          "orient": "h"
         },
         {
           "title": "哪个不长眼的敢拦截这玩意？",
           "url": "https://www.bilibili.com/video/BV1Ebx6eiEYg",
           "dur": 35,
           "site": "B站",
-          "brief": "军事科普：哪个不长眼的敢拦截这玩意？"
+          "brief": "军事科普：哪个不长眼的敢拦截这玩意？",
+          "orient": "v"
         }
       ],
       "edu_science": [
@@ -657,7 +1148,8 @@
             "妈妈",
             "帮助"
           ],
-          "frame": "「小小猫姬」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
+          "frame": "「小小猫姬」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
+          "orient": "h"
         },
         {
           "title": "【仓大王】买了个电子老公，科技造福人类！雷鸟amby陪伴ai机器人",
@@ -673,8 +1165,7 @@
             "雷鸟amby",
             "机器人"
           ],
-          "frame": "「仓大王」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
-          "orient": "h"
+          "frame": "「仓大王」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
         },
         {
           "title": "物理AI新主线：聚焦机器人数据采集新变量",
@@ -707,119 +1198,6 @@
             "大会"
           ],
           "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        }
-      ],
-      "mech": [
-        {
-          "title": "拉链方便无比，原理你知道吗？",
-          "url": "https://www.bilibili.com/video/BV1Y7411J76e",
-          "dur": 205,
-          "site": "B站",
-          "brief": "机械原理：拉链方便无比，原理你知道吗？",
-          "words": [
-            "拉链",
-            "方便",
-            "机械",
-            "原理",
-            "知道"
-          ],
-          "frame": "「拉链」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "灭火器的工作原理",
-          "url": "https://www.bilibili.com/video/BV1jJaNe7EZM",
-          "dur": 102,
-          "site": "B站",
-          "brief": "机械原理：灭火器的工作原理",
-          "words": [
-            "灭火器",
-            "筒身",
-            "喷嘴",
-            "压把",
-            "压下",
-            "喷出"
-          ],
-          "frame": "「灭火器」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "京兆生物科技产品宣传片|知识科普|回形针风格|近视原理",
-          "url": "https://www.bilibili.com/video/BV1zcABeqEk5",
-          "dur": 106,
-          "site": "B站",
-          "brief": "机械原理：京兆生物科技产品宣传片|知识科普|回形针风格|近视原理",
-          "words": [
-            "近视",
-            "产品",
-            "回形针",
-            "眼睛",
-            "演示"
-          ],
-          "frame": "这是关于＿＿的小视频，用＿＿做演示，能让我们了解＿＿"
-        },
-        {
-          "title": "滑轮原理",
-          "url": "https://www.bilibili.com/video/BV19P1YBZE8k",
-          "dur": 96,
-          "site": "B站",
-          "brief": "机械原理：滑轮原理",
-          "words": [
-            "滑轮",
-            "绳子",
-            "重物",
-            "高处"
-          ],
-          "frame": "「滑轮」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "山顶上的“超级电池”！3D动画了解抽水蓄能电站的工作原理",
-          "url": "https://www.bilibili.com/video/BV1iicEzeEmz",
-          "dur": 402,
-          "site": "B站",
-          "brief": "机械原理：山顶上的“超级电池”！3D动画了解抽水蓄能电站的工作原理",
-          "words": [
-            "电站",
-            "山顶",
-            "水车",
-            "转动",
-            "蓄电",
-            "发电"
-          ],
-          "frame": "「电站」是＿＿，它能＿＿，我觉得＿＿。"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "【申公豹】别光庆祝人民币升值，饭碗和债务才是重点",
-          "url": "https://www.bilibili.com/video/BV16Fxw63Efm",
-          "dur": 190,
-          "site": "B站",
-          "brief": "数学：【申公豹】别光庆祝人民币升值，饭碗和债务才是重点",
-          "words": [
-            "申公豹",
-            "人民币",
-            "升值",
-            "饭碗",
-            "债务",
-            "庆祝"
-          ],
-          "frame": "「申公豹」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
-          "orient": "v"
-        },
-        {
-          "title": "三年级数学《油桶问题》，考试必考题型！",
-          "url": "https://www.bilibili.com/video/BV1Tysf6yEav",
-          "dur": 32,
-          "site": "B站",
-          "brief": "数学：三年级数学《油桶问题》，考试必考题型！",
-          "words": [
-            "油桶",
-            "装油",
-            "装满",
-            "换算",
-            "比较",
-            "考试"
-          ],
-          "frame": "「油桶」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
         }
       ],
       "cctv_live": [
@@ -1122,6 +1500,118 @@
             "农村"
           ],
           "frame": "「直播」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "mech": [
+        {
+          "title": "拉链方便无比，原理你知道吗？",
+          "url": "https://www.bilibili.com/video/BV1Y7411J76e",
+          "dur": 205,
+          "site": "B站",
+          "brief": "机械原理：拉链方便无比，原理你知道吗？",
+          "words": [
+            "拉链",
+            "方便",
+            "机械",
+            "原理",
+            "知道"
+          ],
+          "frame": "「拉链」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "灭火器的工作原理",
+          "url": "https://www.bilibili.com/video/BV1jJaNe7EZM",
+          "dur": 102,
+          "site": "B站",
+          "brief": "机械原理：灭火器的工作原理",
+          "words": [
+            "灭火器",
+            "筒身",
+            "喷嘴",
+            "压把",
+            "压下",
+            "喷出"
+          ],
+          "frame": "「灭火器」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "京兆生物科技产品宣传片|知识科普|回形针风格|近视原理",
+          "url": "https://www.bilibili.com/video/BV1zcABeqEk5",
+          "dur": 106,
+          "site": "B站",
+          "brief": "机械原理：京兆生物科技产品宣传片|知识科普|回形针风格|近视原理",
+          "words": [
+            "近视",
+            "产品",
+            "回形针",
+            "眼睛",
+            "演示"
+          ],
+          "frame": "这是关于＿＿的小视频，用＿＿做演示，能让我们了解＿＿"
+        },
+        {
+          "title": "滑轮原理",
+          "url": "https://www.bilibili.com/video/BV19P1YBZE8k",
+          "dur": 96,
+          "site": "B站",
+          "brief": "机械原理：滑轮原理",
+          "words": [
+            "滑轮",
+            "绳子",
+            "重物",
+            "高处"
+          ],
+          "frame": "「滑轮」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "山顶上的“超级电池”！3D动画了解抽水蓄能电站的工作原理",
+          "url": "https://www.bilibili.com/video/BV1iicEzeEmz",
+          "dur": 402,
+          "site": "B站",
+          "brief": "机械原理：山顶上的“超级电池”！3D动画了解抽水蓄能电站的工作原理",
+          "words": [
+            "电站",
+            "山顶",
+            "水车",
+            "转动",
+            "蓄电",
+            "发电"
+          ],
+          "frame": "「电站」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "【申公豹】别光庆祝人民币升值，饭碗和债务才是重点",
+          "url": "https://www.bilibili.com/video/BV16Fxw63Efm",
+          "dur": 190,
+          "site": "B站",
+          "brief": "数学：【申公豹】别光庆祝人民币升值，饭碗和债务才是重点",
+          "words": [
+            "申公豹",
+            "人民币",
+            "升值",
+            "饭碗",
+            "债务",
+            "庆祝"
+          ],
+          "frame": "「申公豹」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        },
+        {
+          "title": "三年级数学《油桶问题》，考试必考题型！",
+          "url": "https://www.bilibili.com/video/BV1Tysf6yEav",
+          "dur": 32,
+          "site": "B站",
+          "brief": "数学：三年级数学《油桶问题》，考试必考题型！",
+          "words": [
+            "油桶",
+            "装油",
+            "装满",
+            "换算",
+            "比较",
+            "考试"
+          ],
+          "frame": "「油桶」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
         }
       ],
       "edu_chinese": [
@@ -1240,7 +1730,8 @@
             "发射",
             "海军舰"
           ],
-          "frame": "「无人机」是一种＿＿，它身上有＿＿，最厉害的是＿＿。"
+          "frame": "「无人机」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "orient": "h"
         }
       ],
       "edu_science": [
@@ -1384,7 +1875,8 @@
             "解锁",
             "新技能"
           ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
+          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
+          "orient": "h"
         },
         {
           "title": "韩媒：苏黎世联邦理工学院公开AI机器人，爬梯子、翻障碍，仅需13分钟学习就能做到",
@@ -1416,125 +1908,6 @@
             "训练"
           ],
           "frame": "「仿生机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        }
-      ],
-      "mech": [
-        {
-          "title": "3D动画揭秘鼠标的工作原理",
-          "url": "https://www.bilibili.com/video/BV15V411F7i8",
-          "dur": 241,
-          "site": "B站",
-          "brief": "机械原理：3D动画揭秘鼠标的工作原理",
-          "words": [
-            "鼠标",
-            "3D动画",
-            "按键",
-            "滚轮",
-            "点击",
-            "移动"
-          ],
-          "frame": "看3D动画里的＿＿，它有＿＿和＿＿，能帮我们＿＿、＿＿。"
-        },
-        {
-          "title": "我们熟知的地铁是怎么一步步发展过来的，带你了解它的工作原理",
-          "url": "https://www.bilibili.com/video/BV1x94y1e7Gy",
-          "dur": 192,
-          "site": "B站",
-          "brief": "机械原理：我们熟知的地铁是怎么一步步发展过来的，带你了解它的工作原理",
-          "words": [
-            "地铁",
-            "发展",
-            "机械",
-            "工作",
-            "原理",
-            "带你",
-            "了解"
-          ],
-          "frame": "「地铁」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "电风扇摇头的原理，一个动画看懂电机如何把旋转转化为摆动",
-          "url": "https://www.bilibili.com/video/BV1SP411L7cQ",
-          "dur": 162,
-          "site": "B站",
-          "brief": "机械原理：电风扇摇头的原理，一个动画看懂电机如何把旋转转化为摆动",
-          "words": [
-            "电风扇",
-            "电机",
-            "扇叶",
-            "旋转",
-            "摆动",
-            "动画"
-          ],
-          "frame": "这是＿＿，它有＿＿和＿＿，＿＿转起来，会变＿＿，还会变＿＿，＿＿里能看到。"
-        },
-        {
-          "title": "自行车踏板明明会越蹬越松，为啥却越来越紧？揭秘转轴的自动拧紧原理",
-          "url": "https://www.bilibili.com/video/BV16b4y1s7jS",
-          "dur": 177,
-          "site": "B站",
-          "brief": "机械原理：自行车踏板明明会越蹬越松，为啥却越来越紧？揭秘转轴的自动拧紧原理",
-          "words": [
-            "自行车",
-            "踏板",
-            "越蹬",
-            "越紧",
-            "转轴",
-            "自动",
-            "拧紧"
-          ],
-          "frame": "「自行车」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "又小又重的无人机，为什么能长时间飞行？揭秘弹簧刀串翼飞机",
-          "url": "https://www.bilibili.com/video/BV1zY411n76x",
-          "dur": 247,
-          "site": "B站",
-          "brief": "机械原理：又小又重的无人机，为什么能长时间飞行？揭秘弹簧刀串翼飞机",
-          "words": [
-            "无人机",
-            "弹簧刀",
-            "串翼",
-            "飞行",
-            "机械",
-            "原理"
-          ],
-          "frame": "「无人机」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "h"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "数字人民币，未来十年大趋势",
-          "url": "https://www.bilibili.com/video/BV14Exj6xEaJ",
-          "dur": 275,
-          "site": "B站",
-          "brief": "数学：数字人民币，未来十年大趋势",
-          "words": [
-            "数字币",
-            "手机里",
-            "点一点",
-            "买东西",
-            "方便多",
-            "快又好"
-          ],
-          "frame": "「数字币」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
-        },
-        {
-          "title": "三年级数学《一半问题》，图形结合，考试再也不丢分！",
-          "url": "https://www.bilibili.com/video/BV1QgxE6BEED",
-          "dur": 46,
-          "site": "B站",
-          "brief": "数学：三年级数学《一半问题》，图形结合，考试再也不丢分！",
-          "words": [
-            "小明",
-            "图形",
-            "画一画",
-            "分一分",
-            "找一半",
-            "考试"
-          ],
-          "frame": "「小明」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
         }
       ],
       "cctv_live": [
@@ -1840,6 +2213,124 @@
           "frame": "CCTV-17是农业农村的，正在直播，点开就可以＿＿了。"
         }
       ],
+      "mech": [
+        {
+          "title": "3D动画揭秘鼠标的工作原理",
+          "url": "https://www.bilibili.com/video/BV15V411F7i8",
+          "dur": 241,
+          "site": "B站",
+          "brief": "机械原理：3D动画揭秘鼠标的工作原理",
+          "words": [
+            "鼠标",
+            "3D动画",
+            "按键",
+            "滚轮",
+            "点击",
+            "移动"
+          ],
+          "frame": "看3D动画里的＿＿，它有＿＿和＿＿，能帮我们＿＿、＿＿。"
+        },
+        {
+          "title": "我们熟知的地铁是怎么一步步发展过来的，带你了解它的工作原理",
+          "url": "https://www.bilibili.com/video/BV1x94y1e7Gy",
+          "dur": 192,
+          "site": "B站",
+          "brief": "机械原理：我们熟知的地铁是怎么一步步发展过来的，带你了解它的工作原理",
+          "words": [
+            "地铁",
+            "发展",
+            "机械",
+            "工作",
+            "原理",
+            "带你",
+            "了解"
+          ],
+          "frame": "「地铁」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "电风扇摇头的原理，一个动画看懂电机如何把旋转转化为摆动",
+          "url": "https://www.bilibili.com/video/BV1SP411L7cQ",
+          "dur": 162,
+          "site": "B站",
+          "brief": "机械原理：电风扇摇头的原理，一个动画看懂电机如何把旋转转化为摆动",
+          "words": [
+            "电风扇",
+            "电机",
+            "扇叶",
+            "旋转",
+            "摆动",
+            "动画"
+          ],
+          "frame": "这是＿＿，它有＿＿和＿＿，＿＿转起来，会变＿＿，还会变＿＿，＿＿里能看到。"
+        },
+        {
+          "title": "自行车踏板明明会越蹬越松，为啥却越来越紧？揭秘转轴的自动拧紧原理",
+          "url": "https://www.bilibili.com/video/BV16b4y1s7jS",
+          "dur": 177,
+          "site": "B站",
+          "brief": "机械原理：自行车踏板明明会越蹬越松，为啥却越来越紧？揭秘转轴的自动拧紧原理",
+          "words": [
+            "自行车",
+            "踏板",
+            "越蹬",
+            "越紧",
+            "转轴",
+            "自动",
+            "拧紧"
+          ],
+          "frame": "「自行车」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "又小又重的无人机，为什么能长时间飞行？揭秘弹簧刀串翼飞机",
+          "url": "https://www.bilibili.com/video/BV1zY411n76x",
+          "dur": 247,
+          "site": "B站",
+          "brief": "机械原理：又小又重的无人机，为什么能长时间飞行？揭秘弹簧刀串翼飞机",
+          "words": [
+            "无人机",
+            "弹簧刀",
+            "串翼",
+            "飞行",
+            "机械",
+            "原理"
+          ],
+          "frame": "「无人机」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "数字人民币，未来十年大趋势",
+          "url": "https://www.bilibili.com/video/BV14Exj6xEaJ",
+          "dur": 275,
+          "site": "B站",
+          "brief": "数学：数字人民币，未来十年大趋势",
+          "words": [
+            "数字币",
+            "手机里",
+            "点一点",
+            "买东西",
+            "方便多",
+            "快又好"
+          ],
+          "frame": "「数字币」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        },
+        {
+          "title": "三年级数学《一半问题》，图形结合，考试再也不丢分！",
+          "url": "https://www.bilibili.com/video/BV1QgxE6BEED",
+          "dur": 46,
+          "site": "B站",
+          "brief": "数学：三年级数学《一半问题》，图形结合，考试再也不丢分！",
+          "words": [
+            "小明",
+            "图形",
+            "画一画",
+            "分一分",
+            "找一半",
+            "考试"
+          ],
+          "frame": "「小明」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "寓言故事《兔子不吃窝边草》，主页看100+精品原创动画故事！",
@@ -2070,8 +2561,7 @@
             "物理AI",
             "玄学羊"
           ],
-          "frame": "「小A」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
-          "orient": "h"
+          "frame": "「小A」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
         },
         {
           "title": "10月28日 周三，人形机器人 物理AI，人形机器人 物理AI",
@@ -2134,124 +2624,6 @@
             "算法"
           ],
           "frame": "「机械臂」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        }
-      ],
-      "mech": [
-        {
-          "title": "【3D动画】密码挂锁内部原理动画演示",
-          "url": "https://www.bilibili.com/video/BV1Uf4y1378U",
-          "dur": 99,
-          "site": "B站",
-          "brief": "机械原理：【3D动画】密码挂锁内部原理动画演示",
-          "words": [
-            "挂锁",
-            "密码盘",
-            "转动",
-            "齿轮",
-            "咬合",
-            "开锁"
-          ],
-          "frame": "「挂锁」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "电子摄像头是如何抓拍，闯红灯超速压线的？它的工作原理是什么？",
-          "url": "https://www.bilibili.com/video/BV1jr4y1e7tA",
-          "dur": 311,
-          "site": "B站",
-          "brief": "机械原理：电子摄像头是如何抓拍，闯红灯超速压线的？它的工作原理是什么？",
-          "words": [
-            "电子摄像头",
-            "抓拍",
-            "闯红灯",
-            "超速",
-            "压线",
-            "工作原理"
-          ],
-          "frame": "「电子摄像头」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "按压瓶原理详解 喷雾器原理 抽水机 抽水井原理",
-          "url": "https://www.bilibili.com/video/BV1bj411G7Yg",
-          "dur": 367,
-          "site": "B站",
-          "brief": "机械原理：按压瓶原理详解 喷雾器原理 抽水机 抽水井原理",
-          "words": [
-            "瓶子",
-            "手指",
-            "压一压",
-            "喷水",
-            "井水",
-            "抽一抽"
-          ],
-          "frame": "「瓶子」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "钢笔狗塑料模型，原理竟是如此简单!特工专用暗器!",
-          "url": "https://www.bilibili.com/video/BV1mb421E7c5",
-          "dur": 127,
-          "site": "B站",
-          "brief": "机械原理：钢笔狗塑料模型，原理竟是如此简单!特工专用暗器!",
-          "words": [
-            "钢笔狗",
-            "塑料",
-            "模型",
-            "特工",
-            "暗器",
-            "机械",
-            "原理"
-          ],
-          "frame": "「钢笔狗」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "万物运转的秘密(The way of Things works)中英文高清字幕，改编自大卫·麦考利同名经典科普书，全26集，每集约13分钟，豆瓣9.5分",
-          "url": "https://www.bilibili.com/video/BV1xBMB6gEra",
-          "dur": 20111,
-          "site": "B站",
-          "brief": "机械原理：万物运转的秘密(The way of Things works)中英文高清字幕，改编自大卫·麦考利同名经典科普书，全26集，每集约13分钟，豆瓣9.5分",
-          "words": [
-            "齿轮转动",
-            "机器运转",
-            "能量传递",
-            "机械臂",
-            "工作原理",
-            "发明创造"
-          ],
-          "frame": "「齿轮转动」是＿＿，它能＿＿，我觉得＿＿。"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "没有钟表的年代，北京人怎么知道几点？",
-          "url": "https://www.bilibili.com/video/BV1dQx364Eyx",
-          "dur": 152,
-          "site": "B站",
-          "brief": "数学：没有钟表的年代，北京人怎么知道几点？",
-          "words": [
-            "北京人",
-            "石头",
-            "太阳",
-            "影子",
-            "长短",
-            "判断",
-            "时间"
-          ],
-          "frame": "「北京人」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
-        },
-        {
-          "title": "小学数学思维提升：学会画图解决混合运算应用题",
-          "url": "https://www.bilibili.com/video/BV1tExT6eEvD",
-          "dur": 284,
-          "site": "B站",
-          "brief": "数学：小学数学思维提升：学会画图解决混合运算应用题",
-          "words": [
-            "小猫",
-            "画图",
-            "加减法",
-            "问题",
-            "解决",
-            "快乐"
-          ],
-          "frame": "小猫用画图的方法，解决加减法问题，最快乐的是＿＿。"
         }
       ],
       "cctv_live": [
@@ -2556,6 +2928,124 @@
             "点开"
           ],
           "frame": "这是＿＿的＿＿内容，和＿＿有关，有＿＿卡片，我们可以＿＿，还能＿＿。"
+        }
+      ],
+      "mech": [
+        {
+          "title": "【3D动画】密码挂锁内部原理动画演示",
+          "url": "https://www.bilibili.com/video/BV1Uf4y1378U",
+          "dur": 99,
+          "site": "B站",
+          "brief": "机械原理：【3D动画】密码挂锁内部原理动画演示",
+          "words": [
+            "挂锁",
+            "密码盘",
+            "转动",
+            "齿轮",
+            "咬合",
+            "开锁"
+          ],
+          "frame": "「挂锁」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "电子摄像头是如何抓拍，闯红灯超速压线的？它的工作原理是什么？",
+          "url": "https://www.bilibili.com/video/BV1jr4y1e7tA",
+          "dur": 311,
+          "site": "B站",
+          "brief": "机械原理：电子摄像头是如何抓拍，闯红灯超速压线的？它的工作原理是什么？",
+          "words": [
+            "电子摄像头",
+            "抓拍",
+            "闯红灯",
+            "超速",
+            "压线",
+            "工作原理"
+          ],
+          "frame": "「电子摄像头」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "按压瓶原理详解 喷雾器原理 抽水机 抽水井原理",
+          "url": "https://www.bilibili.com/video/BV1bj411G7Yg",
+          "dur": 367,
+          "site": "B站",
+          "brief": "机械原理：按压瓶原理详解 喷雾器原理 抽水机 抽水井原理",
+          "words": [
+            "瓶子",
+            "手指",
+            "压一压",
+            "喷水",
+            "井水",
+            "抽一抽"
+          ],
+          "frame": "「瓶子」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "钢笔狗塑料模型，原理竟是如此简单!特工专用暗器!",
+          "url": "https://www.bilibili.com/video/BV1mb421E7c5",
+          "dur": 127,
+          "site": "B站",
+          "brief": "机械原理：钢笔狗塑料模型，原理竟是如此简单!特工专用暗器!",
+          "words": [
+            "钢笔狗",
+            "塑料",
+            "模型",
+            "特工",
+            "暗器",
+            "机械",
+            "原理"
+          ],
+          "frame": "「钢笔狗」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "万物运转的秘密(The way of Things works)中英文高清字幕，改编自大卫·麦考利同名经典科普书，全26集，每集约13分钟，豆瓣9.5分",
+          "url": "https://www.bilibili.com/video/BV1xBMB6gEra",
+          "dur": 20111,
+          "site": "B站",
+          "brief": "机械原理：万物运转的秘密(The way of Things works)中英文高清字幕，改编自大卫·麦考利同名经典科普书，全26集，每集约13分钟，豆瓣9.5分",
+          "words": [
+            "齿轮转动",
+            "机器运转",
+            "能量传递",
+            "机械臂",
+            "工作原理",
+            "发明创造"
+          ],
+          "frame": "「齿轮转动」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "没有钟表的年代，北京人怎么知道几点？",
+          "url": "https://www.bilibili.com/video/BV1dQx364Eyx",
+          "dur": 152,
+          "site": "B站",
+          "brief": "数学：没有钟表的年代，北京人怎么知道几点？",
+          "words": [
+            "北京人",
+            "石头",
+            "太阳",
+            "影子",
+            "长短",
+            "判断",
+            "时间"
+          ],
+          "frame": "「北京人」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        },
+        {
+          "title": "小学数学思维提升：学会画图解决混合运算应用题",
+          "url": "https://www.bilibili.com/video/BV1tExT6eEvD",
+          "dur": 284,
+          "site": "B站",
+          "brief": "数学：小学数学思维提升：学会画图解决混合运算应用题",
+          "words": [
+            "小猫",
+            "画图",
+            "加减法",
+            "问题",
+            "解决",
+            "快乐"
+          ],
+          "frame": "小猫用画图的方法，解决加减法问题，最快乐的是＿＿。"
         }
       ],
       "edu_chinese": [
@@ -2892,123 +3382,8 @@
             "识别",
             "抓取"
           ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        }
-      ],
-      "mech": [
-        {
-          "title": "开箱视频 | 野蛮娃娃遥控车-冷杉绿 | 游戏手柄原理讲解：碳膜电位器及霍尔手柄",
-          "url": "https://www.bilibili.com/video/BV1tW4y1u79F",
-          "dur": 463,
-          "site": "B站",
-          "brief": "机械原理：开箱视频 | 野蛮娃娃遥控车-冷杉绿 | 游戏手柄原理讲解：碳膜电位器及霍尔手柄",
-          "words": [
-            "遥控车",
-            "游戏手柄",
-            "碳膜电位器",
-            "霍尔手柄",
-            "开箱",
-            "讲解"
-          ],
-          "frame": "「遥控车」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "TED系列科普动画《How Things Work》带字幕，带孩子了解一切万物的因果关系、循环秩序及科普！",
-          "url": "https://www.bilibili.com/video/BV1NP411R7W9",
-          "dur": 5025,
-          "site": "B站",
-          "brief": "机械原理：TED系列科普动画《How Things Work》带字幕，带孩子了解一切万物的因果关系、循环秩序及科普！",
-          "words": [
-            "机器",
-            "小零件",
-            "转呀转",
-            "一起动",
-            "做事情",
-            "好神奇"
-          ],
-          "frame": "这个＿＿有好多＿＿，它们＿＿，然后＿＿，就能＿＿，＿＿呀！",
+          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
           "orient": "h"
-        },
-        {
-          "title": "拆开机械闹钟，简单的探析一下它的机械构造和工作原理",
-          "url": "https://www.bilibili.com/video/BV1W741177dH",
-          "dur": 380,
-          "site": "B站",
-          "brief": "机械原理：拆开机械闹钟，简单的探析一下它的机械构造和工作原理",
-          "words": [
-            "闹钟",
-            "拆开",
-            "齿轮",
-            "指针",
-            "走动",
-            "工作"
-          ],
-          "frame": "「闹钟」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "挑战手摇发电机点亮灯泡，斥巨资买的新玩具，一起探索科学原理吧",
-          "url": "https://www.bilibili.com/video/BV1Um41127xE",
-          "dur": 211,
-          "site": "B站",
-          "brief": "机械原理：挑战手摇发电机点亮灯泡，斥巨资买的新玩具，一起探索科学原理吧",
-          "words": [
-            "手摇发电机",
-            "灯泡",
-            "转动",
-            "点亮",
-            "玩具",
-            "科学"
-          ],
-          "frame": "「手摇发电机」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "看看蒸汽机是如何工作的 一个轮子加上高压锅就可清楚其中原理",
-          "url": "https://www.bilibili.com/video/BV16V4y1Y7jR",
-          "dur": 206,
-          "site": "B站",
-          "brief": "机械原理：看看蒸汽机是如何工作的 一个轮子加上高压锅就可清楚其中原理",
-          "words": [
-            "蒸汽机",
-            "轮子",
-            "高压锅",
-            "装水",
-            "加热",
-            "冒蒸汽",
-            "推动轮子"
-          ],
-          "frame": "＿＿有个＿＿和＿＿，往＿＿里＿＿，＿＿后＿＿，＿＿就＿＿转起来啦！"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "数字气球 次方 英语数学动画 万圣节",
-          "url": "https://www.bilibili.com/video/BV1m1nR6XELy",
-          "dur": 237,
-          "site": "B站",
-          "brief": "数学：数字气球 次方 英语数学动画 万圣节",
-          "words": [
-            "数字气球",
-            "万圣节",
-            "小朋友",
-            "吹气球",
-            "变大"
-          ],
-          "frame": "在＿＿这天，有＿＿和＿＿，小朋友＿＿，气球＿＿啦！"
-        },
-        {
-          "title": "数学无处不在之生活实际书页码问题",
-          "url": "https://www.bilibili.com/video/BV15FpD6REAq",
-          "dur": 239,
-          "site": "B站",
-          "brief": "数学：数学无处不在之生活实际书页码问题",
-          "words": [
-            "很多页",
-            "数字",
-            "加法",
-            "算总数",
-            "数学"
-          ],
-          "frame": "这本书有＿＿，每页都有＿＿，用＿＿可以＿＿，这就是＿＿的用处。"
         }
       ],
       "cctv_live": [
@@ -3316,6 +3691,122 @@
           "frame": "＿＿在播＿＿节目，＿＿上写着＿＿，只要＿＿就能看啦！"
         }
       ],
+      "mech": [
+        {
+          "title": "开箱视频 | 野蛮娃娃遥控车-冷杉绿 | 游戏手柄原理讲解：碳膜电位器及霍尔手柄",
+          "url": "https://www.bilibili.com/video/BV1tW4y1u79F",
+          "dur": 463,
+          "site": "B站",
+          "brief": "机械原理：开箱视频 | 野蛮娃娃遥控车-冷杉绿 | 游戏手柄原理讲解：碳膜电位器及霍尔手柄",
+          "words": [
+            "遥控车",
+            "游戏手柄",
+            "碳膜电位器",
+            "霍尔手柄",
+            "开箱",
+            "讲解"
+          ],
+          "frame": "「遥控车」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "TED系列科普动画《How Things Work》带字幕，带孩子了解一切万物的因果关系、循环秩序及科普！",
+          "url": "https://www.bilibili.com/video/BV1NP411R7W9",
+          "dur": 5025,
+          "site": "B站",
+          "brief": "机械原理：TED系列科普动画《How Things Work》带字幕，带孩子了解一切万物的因果关系、循环秩序及科普！",
+          "words": [
+            "机器",
+            "小零件",
+            "转呀转",
+            "一起动",
+            "做事情",
+            "好神奇"
+          ],
+          "frame": "这个＿＿有好多＿＿，它们＿＿，然后＿＿，就能＿＿，＿＿呀！"
+        },
+        {
+          "title": "拆开机械闹钟，简单的探析一下它的机械构造和工作原理",
+          "url": "https://www.bilibili.com/video/BV1W741177dH",
+          "dur": 380,
+          "site": "B站",
+          "brief": "机械原理：拆开机械闹钟，简单的探析一下它的机械构造和工作原理",
+          "words": [
+            "闹钟",
+            "拆开",
+            "齿轮",
+            "指针",
+            "走动",
+            "工作"
+          ],
+          "frame": "「闹钟」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "挑战手摇发电机点亮灯泡，斥巨资买的新玩具，一起探索科学原理吧",
+          "url": "https://www.bilibili.com/video/BV1Um41127xE",
+          "dur": 211,
+          "site": "B站",
+          "brief": "机械原理：挑战手摇发电机点亮灯泡，斥巨资买的新玩具，一起探索科学原理吧",
+          "words": [
+            "手摇发电机",
+            "灯泡",
+            "转动",
+            "点亮",
+            "玩具",
+            "科学"
+          ],
+          "frame": "「手摇发电机」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "看看蒸汽机是如何工作的 一个轮子加上高压锅就可清楚其中原理",
+          "url": "https://www.bilibili.com/video/BV16V4y1Y7jR",
+          "dur": 206,
+          "site": "B站",
+          "brief": "机械原理：看看蒸汽机是如何工作的 一个轮子加上高压锅就可清楚其中原理",
+          "words": [
+            "蒸汽机",
+            "轮子",
+            "高压锅",
+            "装水",
+            "加热",
+            "冒蒸汽",
+            "推动轮子"
+          ],
+          "frame": "＿＿有个＿＿和＿＿，往＿＿里＿＿，＿＿后＿＿，＿＿就＿＿转起来啦！"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "数字气球 次方 英语数学动画 万圣节",
+          "url": "https://www.bilibili.com/video/BV1m1nR6XELy",
+          "dur": 237,
+          "site": "B站",
+          "brief": "数学：数字气球 次方 英语数学动画 万圣节",
+          "words": [
+            "数字气球",
+            "万圣节",
+            "小朋友",
+            "吹气球",
+            "变大"
+          ],
+          "frame": "在＿＿这天，有＿＿和＿＿，小朋友＿＿，气球＿＿啦！",
+          "orient": "h"
+        },
+        {
+          "title": "数学无处不在之生活实际书页码问题",
+          "url": "https://www.bilibili.com/video/BV15FpD6REAq",
+          "dur": 239,
+          "site": "B站",
+          "brief": "数学：数学无处不在之生活实际书页码问题",
+          "words": [
+            "很多页",
+            "数字",
+            "加法",
+            "算总数",
+            "数学"
+          ],
+          "frame": "这本书有＿＿，每页都有＿＿，用＿＿可以＿＿，这就是＿＿的用处。"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "成语故事《指手画脚》，主页看100+精品原创动画故事！",
@@ -3550,7 +4041,8 @@
             "说话",
             "手眼"
           ],
-          "frame": "「机器」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
+          "frame": "「机器」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
+          "orient": "v"
         },
         {
           "title": "【10.26午评】银行涨、指数跌！呼叫大哥...物理AI、机器人、数据要素、玄学羊轮动...",
@@ -3587,8 +4079,7 @@
           "url": "https://www.bilibili.com/video/BV134nD6JEQj",
           "dur": 182,
           "site": "B站",
-          "brief": "AI科技：我是人类！和AI女友分手！Asaki：好孩子不要学！猴哥：我只爱男人丨兰林汉",
-          "orient": "h"
+          "brief": "AI科技：我是人类！和AI女友分手！Asaki：好孩子不要学！猴哥：我只爱男人丨兰林汉"
         },
         {
           "title": "大A电话会 物理AI人形机器人具身智能数据采集深度调研",
@@ -3603,104 +4094,6 @@
             "深度调研"
           ],
           "frame": "「大A电话会」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        }
-      ],
-      "mech": [
-        {
-          "title": "5分钟深度了解扫振牙刷的工作原理！",
-          "url": "https://www.bilibili.com/video/BV1yZyWYtEU8",
-          "dur": 335,
-          "site": "B站",
-          "brief": "机械原理：5分钟深度了解扫振牙刷的工作原理！"
-        },
-        {
-          "title": "公交车的工作原理🚌",
-          "url": "https://www.bilibili.com/video/BV1tCpjzqEfG",
-          "dur": 109,
-          "site": "B站",
-          "brief": "机械原理：公交车的工作原理🚌",
-          "words": [
-            "公交车",
-            "发动机",
-            "车轮",
-            "运行",
-            "乘客",
-            "座位"
-          ],
-          "frame": "「公交车」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "压路机的大滚子是空的，为什么可以产生40吨的压力！",
-          "url": "https://www.bilibili.com/video/BV1gT42127by",
-          "dur": 96,
-          "site": "B站",
-          "brief": "机械原理：压路机的大滚子是空的，为什么可以产生40吨的压力！",
-          "words": [
-            "压路机",
-            "大滚子",
-            "压力",
-            "40吨",
-            "产生"
-          ],
-          "frame": "「压路机」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "减速带之你知道这种彩色橡皮筋是怎么做出来的吗?",
-          "url": "https://www.bilibili.com/video/BV1WBXkYaEjB",
-          "dur": 224,
-          "site": "B站",
-          "brief": "机械原理：减速带之你知道这种彩色橡皮筋是怎么做出来的吗?"
-        },
-        {
-          "title": "它们是如何运转的？",
-          "url": "https://www.bilibili.com/video/BV1UzdwBfEmw",
-          "dur": 133,
-          "site": "B站",
-          "brief": "机械原理：它们是如何运转的？",
-          "words": [
-            "机器",
-            "齿轮",
-            "转动",
-            "轴心",
-            "动力",
-            "驱动"
-          ],
-          "frame": "「机器」是＿＿，它能＿＿，我觉得＿＿。"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "三上数学丨油桶问题（重难点）",
-          "url": "https://www.bilibili.com/video/BV1STnS6VEn9",
-          "dur": 151,
-          "site": "B站",
-          "brief": "数学：三上数学丨油桶问题（重难点）",
-          "words": [
-            "油桶",
-            "装满",
-            "水桶",
-            "倒水",
-            "比较",
-            "大小"
-          ],
-          "frame": "「油桶」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
-          "orient": "v"
-        },
-        {
-          "title": "一年级数学数学思维拓展｜数阵图",
-          "url": "https://www.bilibili.com/video/BV1yBJ96yE1A",
-          "dur": 54,
-          "site": "B站",
-          "brief": "数学：一年级数学数学思维拓展｜数阵图",
-          "words": [
-            "小猫",
-            "跳过",
-            "数字",
-            "格子",
-            "排成",
-            "数阵"
-          ],
-          "frame": "「小猫」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
         }
       ],
       "cctv_live": [
@@ -3942,6 +4335,104 @@
           "frame": "「CCTV17」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
+      "mech": [
+        {
+          "title": "5分钟深度了解扫振牙刷的工作原理！",
+          "url": "https://www.bilibili.com/video/BV1yZyWYtEU8",
+          "dur": 335,
+          "site": "B站",
+          "brief": "机械原理：5分钟深度了解扫振牙刷的工作原理！"
+        },
+        {
+          "title": "公交车的工作原理🚌",
+          "url": "https://www.bilibili.com/video/BV1tCpjzqEfG",
+          "dur": 109,
+          "site": "B站",
+          "brief": "机械原理：公交车的工作原理🚌",
+          "words": [
+            "公交车",
+            "发动机",
+            "车轮",
+            "运行",
+            "乘客",
+            "座位"
+          ],
+          "frame": "「公交车」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "压路机的大滚子是空的，为什么可以产生40吨的压力！",
+          "url": "https://www.bilibili.com/video/BV1gT42127by",
+          "dur": 96,
+          "site": "B站",
+          "brief": "机械原理：压路机的大滚子是空的，为什么可以产生40吨的压力！",
+          "words": [
+            "压路机",
+            "大滚子",
+            "压力",
+            "40吨",
+            "产生"
+          ],
+          "frame": "「压路机」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "减速带之你知道这种彩色橡皮筋是怎么做出来的吗?",
+          "url": "https://www.bilibili.com/video/BV1WBXkYaEjB",
+          "dur": 224,
+          "site": "B站",
+          "brief": "机械原理：减速带之你知道这种彩色橡皮筋是怎么做出来的吗?"
+        },
+        {
+          "title": "它们是如何运转的？",
+          "url": "https://www.bilibili.com/video/BV1UzdwBfEmw",
+          "dur": 133,
+          "site": "B站",
+          "brief": "机械原理：它们是如何运转的？",
+          "words": [
+            "机器",
+            "齿轮",
+            "转动",
+            "轴心",
+            "动力",
+            "驱动"
+          ],
+          "frame": "「机器」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "v"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "三上数学丨油桶问题（重难点）",
+          "url": "https://www.bilibili.com/video/BV1STnS6VEn9",
+          "dur": 151,
+          "site": "B站",
+          "brief": "数学：三上数学丨油桶问题（重难点）",
+          "words": [
+            "油桶",
+            "装满",
+            "水桶",
+            "倒水",
+            "比较",
+            "大小"
+          ],
+          "frame": "「油桶」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        },
+        {
+          "title": "一年级数学数学思维拓展｜数阵图",
+          "url": "https://www.bilibili.com/video/BV1yBJ96yE1A",
+          "dur": 54,
+          "site": "B站",
+          "brief": "数学：一年级数学数学思维拓展｜数阵图",
+          "words": [
+            "小猫",
+            "跳过",
+            "数字",
+            "格子",
+            "排成",
+            "数阵"
+          ],
+          "frame": "「小猫」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "儿童成语动画《守株待兔》",
@@ -3972,7 +4463,8 @@
             "肥皂",
             "搅动"
           ],
-          "frame": "这个故事叫「皂白」，它的意思是＿＿，我学会了＿＿。"
+          "frame": "这个故事叫「皂白」，它的意思是＿＿，我学会了＿＿。",
+          "orient": "v"
         }
       ],
       "military": [
@@ -4202,119 +4694,6 @@
             "升级"
           ],
           "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        }
-      ],
-      "mech": [
-        {
-          "title": "两百多年前发明的弹簧秤，是如何利用机械原理实现精准测量？",
-          "url": "https://www.bilibili.com/video/BV1p4uLzpEaL",
-          "dur": 114,
-          "site": "B站",
-          "brief": "机械原理：两百多年前发明的弹簧秤，是如何利用机械原理实现精准测量？",
-          "words": [
-            "弹簧秤",
-            "发明",
-            "机械原理",
-            "测量"
-          ],
-          "frame": "「弹簧秤」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "显微镜的工作原理",
-          "url": "https://www.bilibili.com/video/BV1oV4y1y7S3",
-          "dur": 273,
-          "site": "B站",
-          "brief": "机械原理：显微镜的工作原理",
-          "words": [
-            "显微镜",
-            "镜头",
-            "放大",
-            "观察",
-            "物体",
-            "科学家"
-          ],
-          "frame": "「显微镜」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "Apple Pencil笔尖定位、压感和倾斜感应实现原理",
-          "url": "https://www.bilibili.com/video/BV1JuNyzXEHh",
-          "dur": 51,
-          "site": "B站",
-          "brief": "机械原理：Apple Pencil笔尖定位、压感和倾斜感应实现原理",
-          "words": [
-            "笔尖",
-            "定位",
-            "压感",
-            "倾斜",
-            "感应"
-          ],
-          "frame": "「笔尖」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "第32集丨安全带插座的工作原理",
-          "url": "https://www.bilibili.com/video/BV1uu4m1N7L7",
-          "dur": 49,
-          "site": "B站",
-          "brief": "机械原理：第32集丨安全带插座的工作原理",
-          "words": [
-            "安全带",
-            "插座",
-            "机械",
-            "原理",
-            "工作",
-            "按钮"
-          ],
-          "frame": "「安全带」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "天才设计！手机充电器的原理竟然这么巧妙。",
-          "url": "https://www.bilibili.com/video/BV1or4y1X7Ra",
-          "dur": 327,
-          "site": "B站",
-          "brief": "机械原理：天才设计！手机充电器的原理竟然这么巧妙。",
-          "words": [
-            "手机",
-            "充电器",
-            "插头",
-            "电线",
-            "电流",
-            "插座"
-          ],
-          "frame": "「手机」是＿＿，它能＿＿，我觉得＿＿。"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "数字气球 次方 英语数学动画 数字积木 加减法",
-          "url": "https://www.bilibili.com/video/BV1PTHP66EGk",
-          "dur": 106,
-          "site": "B站",
-          "brief": "数学：数字气球 次方 英语数学动画 数字积木 加减法",
-          "words": [
-            "数字气球",
-            "积木块",
-            "加减法",
-            "飞起来",
-            "变大了",
-            "英语说"
-          ],
-          "frame": "「数字气球」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
-        },
-        {
-          "title": "如果拍中法拍房之后，意外在里面发现7000万人民币，你们会怎么做？",
-          "url": "https://www.bilibili.com/video/BV1nUH36RE6N",
-          "dur": 36,
-          "site": "B站",
-          "brief": "数学：如果拍中法拍房之后，意外在里面发现7000万人民币，你们会怎么做？",
-          "words": [
-            "法拍房",
-            "发现",
-            "7000万",
-            "人民币",
-            "数一数",
-            "想一下"
-          ],
-          "frame": "「法拍房」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
         }
       ],
       "cctv_live": [
@@ -4617,6 +4996,119 @@
           "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
+      "mech": [
+        {
+          "title": "两百多年前发明的弹簧秤，是如何利用机械原理实现精准测量？",
+          "url": "https://www.bilibili.com/video/BV1p4uLzpEaL",
+          "dur": 114,
+          "site": "B站",
+          "brief": "机械原理：两百多年前发明的弹簧秤，是如何利用机械原理实现精准测量？",
+          "words": [
+            "弹簧秤",
+            "发明",
+            "机械原理",
+            "测量"
+          ],
+          "frame": "「弹簧秤」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "显微镜的工作原理",
+          "url": "https://www.bilibili.com/video/BV1oV4y1y7S3",
+          "dur": 273,
+          "site": "B站",
+          "brief": "机械原理：显微镜的工作原理",
+          "words": [
+            "显微镜",
+            "镜头",
+            "放大",
+            "观察",
+            "物体",
+            "科学家"
+          ],
+          "frame": "「显微镜」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "Apple Pencil笔尖定位、压感和倾斜感应实现原理",
+          "url": "https://www.bilibili.com/video/BV1JuNyzXEHh",
+          "dur": 51,
+          "site": "B站",
+          "brief": "机械原理：Apple Pencil笔尖定位、压感和倾斜感应实现原理",
+          "words": [
+            "笔尖",
+            "定位",
+            "压感",
+            "倾斜",
+            "感应"
+          ],
+          "frame": "「笔尖」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "第32集丨安全带插座的工作原理",
+          "url": "https://www.bilibili.com/video/BV1uu4m1N7L7",
+          "dur": 49,
+          "site": "B站",
+          "brief": "机械原理：第32集丨安全带插座的工作原理",
+          "words": [
+            "安全带",
+            "插座",
+            "机械",
+            "原理",
+            "工作",
+            "按钮"
+          ],
+          "frame": "「安全带」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "天才设计！手机充电器的原理竟然这么巧妙。",
+          "url": "https://www.bilibili.com/video/BV1or4y1X7Ra",
+          "dur": 327,
+          "site": "B站",
+          "brief": "机械原理：天才设计！手机充电器的原理竟然这么巧妙。",
+          "words": [
+            "手机",
+            "充电器",
+            "插头",
+            "电线",
+            "电流",
+            "插座"
+          ],
+          "frame": "「手机」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "数字气球 次方 英语数学动画 数字积木 加减法",
+          "url": "https://www.bilibili.com/video/BV1PTHP66EGk",
+          "dur": 106,
+          "site": "B站",
+          "brief": "数学：数字气球 次方 英语数学动画 数字积木 加减法",
+          "words": [
+            "数字气球",
+            "积木块",
+            "加减法",
+            "飞起来",
+            "变大了",
+            "英语说"
+          ],
+          "frame": "「数字气球」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        },
+        {
+          "title": "如果拍中法拍房之后，意外在里面发现7000万人民币，你们会怎么做？",
+          "url": "https://www.bilibili.com/video/BV1nUH36RE6N",
+          "dur": 36,
+          "site": "B站",
+          "brief": "数学：如果拍中法拍房之后，意外在里面发现7000万人民币，你们会怎么做？",
+          "words": [
+            "法拍房",
+            "发现",
+            "7000万",
+            "人民币",
+            "数一数",
+            "想一下"
+          ],
+          "frame": "「法拍房」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "成语故事《以貌取人》，主页看100+精品原创动画故事！",
@@ -4836,123 +5328,6 @@
           "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
         }
       ],
-      "mech": [
-        {
-          "title": "动画演示汽车离合器是如何工作的？",
-          "url": "https://www.bilibili.com/video/BV1kS4y1G7ML",
-          "dur": 407,
-          "site": "B站",
-          "brief": "机械原理：动画演示汽车离合器是如何工作的？",
-          "words": [
-            "汽车",
-            "离合器",
-            "工作",
-            "动画",
-            "演示",
-            "机械"
-          ],
-          "frame": "「汽车」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "【水水劳斯】揭秘网络热门视频里的科学原理｜易拉罐为何能自己旋转着立起来？",
-          "url": "https://www.bilibili.com/video/BV1ea41187HE",
-          "dur": 97,
-          "site": "B站",
-          "brief": "机械原理：【水水劳斯】揭秘网络热门视频里的科学原理｜易拉罐为何能自己旋转着立起来？",
-          "words": [
-            "易拉罐",
-            "旋转",
-            "立起来",
-            "科学原理",
-            "水水劳斯",
-            "揭秘"
-          ],
-          "frame": "「易拉罐」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "国外发明不用电的自动门，汽车驶过去就能自动打开，原理是什么",
-          "url": "https://www.bilibili.com/video/BV19s4y1c7YR",
-          "dur": 63,
-          "site": "B站",
-          "brief": "机械原理：国外发明不用电的自动门，汽车驶过去就能自动打开，原理是什么",
-          "words": [
-            "自动门",
-            "汽车",
-            "驶过去",
-            "打开",
-            "原理",
-            "机械"
-          ],
-          "frame": "「自动门」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "火箭发射前是如何校准方向的，火箭陀螺仪的工作原理",
-          "url": "https://www.bilibili.com/video/BV1R8411z76G",
-          "dur": 242,
-          "site": "B站",
-          "brief": "机械原理：火箭发射前是如何校准方向的，火箭陀螺仪的工作原理",
-          "words": [
-            "火箭",
-            "陀螺仪",
-            "方向",
-            "校准",
-            "旋转",
-            "稳定"
-          ],
-          "frame": "「火箭」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "灯塔时光：带你拆解百年灯塔的内部构造",
-          "url": "https://www.bilibili.com/video/BV1x5tbzCESA",
-          "dur": 331,
-          "site": "B站",
-          "brief": "机械原理：灯塔时光：带你拆解百年灯塔的内部构造",
-          "words": [
-            "灯塔",
-            "内部",
-            "构造",
-            "机械",
-            "原理",
-            "拆解"
-          ],
-          "frame": "「灯塔」是＿＿，它能＿＿，我觉得＿＿。"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "【数字启蒙1-5】宝宝快乐学数数｜动物故事 + 儿歌互动｜幼儿园数学启蒙｜小熊猫老师课堂 🐼",
-          "url": "https://www.bilibili.com/video/BV1Cy1pBDExa",
-          "dur": 324,
-          "site": "B站",
-          "brief": "数学：【数字启蒙1-5】宝宝快乐学数数｜动物故事 + 儿歌互动｜幼儿园数学启蒙｜小熊猫老师课堂 🐼",
-          "words": [
-            "小熊猫",
-            "教室",
-            "黑板",
-            "粉笔",
-            "儿歌",
-            "动物",
-            "数数"
-          ],
-          "frame": "「小熊猫」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
-        },
-        {
-          "title": "思维题",
-          "url": "https://www.bilibili.com/video/BV1sHnb6VEV7",
-          "dur": 91,
-          "site": "B站",
-          "brief": "数学：思维题",
-          "words": [
-            "小明",
-            "卡片",
-            "画图",
-            "解答",
-            "问题",
-            "正确"
-          ],
-          "frame": "「小明」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
-        }
-      ],
       "cctv_live": [
         {
           "title": "CCTV-1 综合",
@@ -5095,6 +5470,124 @@
           "brief": "CCTV-17 农业农村：正在直播，点开即看"
         }
       ],
+      "mech": [
+        {
+          "title": "动画演示汽车离合器是如何工作的？",
+          "url": "https://www.bilibili.com/video/BV1kS4y1G7ML",
+          "dur": 407,
+          "site": "B站",
+          "brief": "机械原理：动画演示汽车离合器是如何工作的？",
+          "words": [
+            "汽车",
+            "离合器",
+            "工作",
+            "动画",
+            "演示",
+            "机械"
+          ],
+          "frame": "「汽车」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "【水水劳斯】揭秘网络热门视频里的科学原理｜易拉罐为何能自己旋转着立起来？",
+          "url": "https://www.bilibili.com/video/BV1ea41187HE",
+          "dur": 97,
+          "site": "B站",
+          "brief": "机械原理：【水水劳斯】揭秘网络热门视频里的科学原理｜易拉罐为何能自己旋转着立起来？",
+          "words": [
+            "易拉罐",
+            "旋转",
+            "立起来",
+            "科学原理",
+            "水水劳斯",
+            "揭秘"
+          ],
+          "frame": "「易拉罐」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "v"
+        },
+        {
+          "title": "国外发明不用电的自动门，汽车驶过去就能自动打开，原理是什么",
+          "url": "https://www.bilibili.com/video/BV19s4y1c7YR",
+          "dur": 63,
+          "site": "B站",
+          "brief": "机械原理：国外发明不用电的自动门，汽车驶过去就能自动打开，原理是什么",
+          "words": [
+            "自动门",
+            "汽车",
+            "驶过去",
+            "打开",
+            "原理",
+            "机械"
+          ],
+          "frame": "「自动门」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "火箭发射前是如何校准方向的，火箭陀螺仪的工作原理",
+          "url": "https://www.bilibili.com/video/BV1R8411z76G",
+          "dur": 242,
+          "site": "B站",
+          "brief": "机械原理：火箭发射前是如何校准方向的，火箭陀螺仪的工作原理",
+          "words": [
+            "火箭",
+            "陀螺仪",
+            "方向",
+            "校准",
+            "旋转",
+            "稳定"
+          ],
+          "frame": "「火箭」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "灯塔时光：带你拆解百年灯塔的内部构造",
+          "url": "https://www.bilibili.com/video/BV1x5tbzCESA",
+          "dur": 331,
+          "site": "B站",
+          "brief": "机械原理：灯塔时光：带你拆解百年灯塔的内部构造",
+          "words": [
+            "灯塔",
+            "内部",
+            "构造",
+            "机械",
+            "原理",
+            "拆解"
+          ],
+          "frame": "「灯塔」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "【数字启蒙1-5】宝宝快乐学数数｜动物故事 + 儿歌互动｜幼儿园数学启蒙｜小熊猫老师课堂 🐼",
+          "url": "https://www.bilibili.com/video/BV1Cy1pBDExa",
+          "dur": 324,
+          "site": "B站",
+          "brief": "数学：【数字启蒙1-5】宝宝快乐学数数｜动物故事 + 儿歌互动｜幼儿园数学启蒙｜小熊猫老师课堂 🐼",
+          "words": [
+            "小熊猫",
+            "教室",
+            "黑板",
+            "粉笔",
+            "儿歌",
+            "动物",
+            "数数"
+          ],
+          "frame": "「小熊猫」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        },
+        {
+          "title": "思维题",
+          "url": "https://www.bilibili.com/video/BV1sHnb6VEV7",
+          "dur": 91,
+          "site": "B站",
+          "brief": "数学：思维题",
+          "words": [
+            "小明",
+            "卡片",
+            "画图",
+            "解答",
+            "问题",
+            "正确"
+          ],
+          "frame": "「小明」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "亡羊补牢 经典成语寓言动画 小学生语文国学故事",
@@ -5126,8 +5619,7 @@
             "跑走",
             "没听见"
           ],
-          "frame": "小偷想偷铃铛，他捂住自己的耳朵，以为别人听不见，就跑走了，但铃铛还是响了。它是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
-          "orient": "h"
+          "frame": "小偷想偷铃铛，他捂住自己的耳朵，以为别人听不见，就跑走了，但铃铛还是响了。它是一种＿＿，它身上有＿＿，最厉害的是＿＿。"
         }
       ],
       "military": [
@@ -5280,8 +5772,7 @@
             "应用",
             "研究"
           ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
-          "orient": "v"
+          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
         },
         {
           "title": "有人把宇树 H2X 机器人的发布视频，用 AI 改成了真人。",
@@ -5309,7 +5800,8 @@
             "AI科技",
             "可爱"
           ],
-          "frame": "「黄仁勋」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
+          "frame": "「黄仁勋」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
+          "orient": "h"
         },
         {
           "title": "2026世界物理AI大会暨宇树合作伙伴生态大会 火出圈的机器人 如何变得真正好用？",
@@ -5341,120 +5833,6 @@
             "科技"
           ],
           "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        }
-      ],
-      "mech": [
-        {
-          "title": "3D动画解析钥匙开锁的工作原理，发明原子锁的人太聪明了",
-          "url": "https://www.bilibili.com/video/BV1Je4y1M7di",
-          "dur": 108,
-          "site": "B站",
-          "brief": "机械原理：3D动画解析钥匙开锁的工作原理，发明原子锁的人太聪明了",
-          "words": [
-            "钥匙",
-            "原子锁",
-            "发明",
-            "聪明"
-          ],
-          "frame": "「钥匙」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "【心脏Engine】3D动画演示汽车发动机工作原理",
-          "url": "https://www.bilibili.com/video/BV17t4y1k73v",
-          "dur": 177,
-          "site": "B站",
-          "brief": "机械原理：【心脏Engine】3D动画演示汽车发动机工作原理",
-          "words": [
-            "3D动画",
-            "汽车",
-            "发动机",
-            "工作",
-            "原理"
-          ],
-          "frame": "「3D动画」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "汽车无级变速箱CVT的工作原理三维动画图解，让你两分钟看明白CVT是怎么工作的",
-          "url": "https://www.bilibili.com/video/BV1KX4y1B7po",
-          "dur": 122,
-          "site": "B站",
-          "brief": "机械原理：汽车无级变速箱CVT的工作原理三维动画图解，让你两分钟看明白CVT是怎么工作的",
-          "words": [
-            "汽车",
-            "CVT",
-            "齿轮",
-            "皮带",
-            "转动",
-            "连接",
-            "动画"
-          ],
-          "frame": "「汽车」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "缆车遭遇大风摇晃！仅靠握锁器不会掉吗？3D动画讲缆车运行原理",
-          "url": "https://www.bilibili.com/video/BV1EbSWBsEVt",
-          "dur": 178,
-          "site": "B站",
-          "brief": "机械原理：缆车遭遇大风摇晃！仅靠握锁器不会掉吗？3D动画讲缆车运行原理",
-          "words": [
-            "缆车",
-            "摇晃",
-            "握锁器",
-            "不会掉",
-            "大风",
-            "3D动画"
-          ],
-          "frame": "「缆车」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "汽车减震器结构原理！动画演示，让你分分钟能看懂",
-          "url": "https://www.bilibili.com/video/BV1PT411c7ps",
-          "dur": 124,
-          "site": "B站",
-          "brief": "机械原理：汽车减震器结构原理！动画演示，让你分分钟能看懂",
-          "words": [
-            "汽车",
-            "减震器",
-            "弹簧",
-            "活塞",
-            "油缸",
-            "缓冲"
-          ],
-          "frame": "「汽车」是＿＿，它能＿＿，我觉得＿＿。"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "数字气球 次方 英语数学动画 从1到10亿",
-          "url": "https://www.bilibili.com/video/BV19dny6NEuV",
-          "dur": 173,
-          "site": "B站",
-          "brief": "数学：数字气球 次方 英语数学动画 从1到10亿",
-          "words": [
-            "数字气球",
-            "次方",
-            "10亿",
-            "变大",
-            "飞起"
-          ],
-          "frame": "「数字气球」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
-        },
-        {
-          "title": "一年级上册数学《认识整时和半时》",
-          "url": "https://www.bilibili.com/video/BV1mSnw6uExZ",
-          "dur": 209,
-          "site": "B站",
-          "brief": "数学：一年级上册数学《认识整时和半时》",
-          "words": [
-            "小闹钟",
-            "指针",
-            "指向",
-            "12点",
-            "跳到",
-            "半点"
-          ],
-          "frame": "「小闹钟」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
         }
       ],
       "cctv_live": [
@@ -5743,6 +6121,120 @@
           "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
+      "mech": [
+        {
+          "title": "3D动画解析钥匙开锁的工作原理，发明原子锁的人太聪明了",
+          "url": "https://www.bilibili.com/video/BV1Je4y1M7di",
+          "dur": 108,
+          "site": "B站",
+          "brief": "机械原理：3D动画解析钥匙开锁的工作原理，发明原子锁的人太聪明了",
+          "words": [
+            "钥匙",
+            "原子锁",
+            "发明",
+            "聪明"
+          ],
+          "frame": "「钥匙」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "【心脏Engine】3D动画演示汽车发动机工作原理",
+          "url": "https://www.bilibili.com/video/BV17t4y1k73v",
+          "dur": 177,
+          "site": "B站",
+          "brief": "机械原理：【心脏Engine】3D动画演示汽车发动机工作原理",
+          "words": [
+            "3D动画",
+            "汽车",
+            "发动机",
+            "工作",
+            "原理"
+          ],
+          "frame": "「3D动画」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "汽车无级变速箱CVT的工作原理三维动画图解，让你两分钟看明白CVT是怎么工作的",
+          "url": "https://www.bilibili.com/video/BV1KX4y1B7po",
+          "dur": 122,
+          "site": "B站",
+          "brief": "机械原理：汽车无级变速箱CVT的工作原理三维动画图解，让你两分钟看明白CVT是怎么工作的",
+          "words": [
+            "汽车",
+            "CVT",
+            "齿轮",
+            "皮带",
+            "转动",
+            "连接",
+            "动画"
+          ],
+          "frame": "「汽车」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "缆车遭遇大风摇晃！仅靠握锁器不会掉吗？3D动画讲缆车运行原理",
+          "url": "https://www.bilibili.com/video/BV1EbSWBsEVt",
+          "dur": 178,
+          "site": "B站",
+          "brief": "机械原理：缆车遭遇大风摇晃！仅靠握锁器不会掉吗？3D动画讲缆车运行原理",
+          "words": [
+            "缆车",
+            "摇晃",
+            "握锁器",
+            "不会掉",
+            "大风",
+            "3D动画"
+          ],
+          "frame": "「缆车」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "汽车减震器结构原理！动画演示，让你分分钟能看懂",
+          "url": "https://www.bilibili.com/video/BV1PT411c7ps",
+          "dur": 124,
+          "site": "B站",
+          "brief": "机械原理：汽车减震器结构原理！动画演示，让你分分钟能看懂",
+          "words": [
+            "汽车",
+            "减震器",
+            "弹簧",
+            "活塞",
+            "油缸",
+            "缓冲"
+          ],
+          "frame": "「汽车」是＿＿，它能＿＿，我觉得＿＿。"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "数字气球 次方 英语数学动画 从1到10亿",
+          "url": "https://www.bilibili.com/video/BV19dny6NEuV",
+          "dur": 173,
+          "site": "B站",
+          "brief": "数学：数字气球 次方 英语数学动画 从1到10亿",
+          "words": [
+            "数字气球",
+            "次方",
+            "10亿",
+            "变大",
+            "飞起"
+          ],
+          "frame": "「数字气球」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "一年级上册数学《认识整时和半时》",
+          "url": "https://www.bilibili.com/video/BV1mSnw6uExZ",
+          "dur": 209,
+          "site": "B站",
+          "brief": "数学：一年级上册数学《认识整时和半时》",
+          "words": [
+            "小闹钟",
+            "指针",
+            "指向",
+            "12点",
+            "跳到",
+            "半点"
+          ],
+          "frame": "「小闹钟」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "成语故事《自食其果》，主页看100+精品原创动画故事！",
@@ -5818,7 +6310,8 @@
             "防空",
             "末端防线"
           ],
-          "frame": "「海拉姆系统」是一种＿＿，它身上有＿＿，最厉害的是＿＿。"
+          "frame": "「海拉姆系统」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "orient": "h"
         },
         {
           "title": "印度最近又嘚瑟了，在藏南方向拉出阵风战机和S300防空系统直接作妖秀肌肉，结果被中国的新式武器直接看懵了，震撼来袭",
@@ -5986,8 +6479,7 @@
             "帮助",
             "人们"
           ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
-          "orient": "v"
+          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
         },
         {
           "title": "Black Panther W · 正式发布全新一代模块化架构工业四足机器人BPW搭载自研耦合动力模组，为复杂工业而生",
@@ -6017,122 +6509,7 @@
             "了解",
             "产业链"
           ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
-          "orient": "h"
-        }
-      ],
-      "mech": [
-        {
-          "title": "杠杆原理2、幼儿益智启蒙早教、工程车汽车玩具、挖掘机动画",
-          "url": "https://www.bilibili.com/video/BV1ts4y1t71J",
-          "dur": 104,
-          "site": "B站",
-          "brief": "机械原理：杠杆原理2、幼儿益智启蒙早教、工程车汽车玩具、挖掘机动画",
-          "words": [
-            "挖掘机",
-            "车上",
-            "杠杆",
-            "撬起",
-            "石头"
-          ],
-          "frame": "「挖掘机」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "最重要的发明之一，惊为天人的设计，钟表的奥秘，擒纵机构的原理",
-          "url": "https://www.bilibili.com/video/BV1884y1s7m9",
-          "dur": 283,
-          "site": "B站",
-          "brief": "机械原理：最重要的发明之一，惊为天人的设计，钟表的奥秘，擒纵机构的原理",
-          "words": [
-            "钟表",
-            "擒纵机构",
-            "转动",
-            "齿轮",
-            "发明",
-            "设计",
-            "原理"
-          ],
-          "frame": "「钟表」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "小姑娘公园上演人体陀螺，疯狂旋转啥原理？揭秘人体旋转和腰部维修保养",
-          "url": "https://www.bilibili.com/video/BV1rT5szREx2",
-          "dur": 245,
-          "site": "B站",
-          "brief": "机械原理：小姑娘公园上演人体陀螺，疯狂旋转啥原理？揭秘人体旋转和腰部维修保养",
-          "words": [
-            "小姑娘",
-            "公园",
-            "陀螺",
-            "旋转",
-            "腰部",
-            "保养"
-          ],
-          "frame": "「小姑娘」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "拆解自动收线器，吸尘器自动收线的工作原理",
-          "url": "https://www.bilibili.com/video/BV1dC41177Xb",
-          "dur": 163,
-          "site": "B站",
-          "brief": "机械原理：拆解自动收线器，吸尘器自动收线的工作原理",
-          "words": [
-            "自动收线器",
-            "吸尘器",
-            "拆解",
-            "机械原理",
-            "工作原理",
-            "齿轮"
-          ],
-          "frame": "「自动收线器」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "不可思议的现象！剪刀在水里能剪掉玻璃？这是什么原理？",
-          "url": "https://www.bilibili.com/video/BV1Dj411K7FY",
-          "dur": 240,
-          "site": "B站",
-          "brief": "机械原理：不可思议的现象！剪刀在水里能剪掉玻璃？这是什么原理？",
-          "words": [
-            "剪刀",
-            "水里",
-            "玻璃",
-            "剪掉",
-            "原理"
-          ],
-          "frame": "「剪刀」是＿＿，它能＿＿，我觉得＿＿。"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "37趣味数学（英音）EP04｜两张8寸，真的比一张12寸多吗？",
-          "url": "https://www.bilibili.com/video/BV1XFni6rErN",
-          "dur": 61,
-          "site": "B站",
-          "brief": "数学：37趣味数学（英音）EP04｜两张8寸，真的比一张12寸多吗？",
-          "words": [
-            "两张",
-            "8寸",
-            "一张",
-            "12寸",
-            "比较"
-          ],
-          "frame": "「两张」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
-        },
-        {
-          "title": "为啥别人数学能冲到 95+？关键在打破固有思维",
-          "url": "https://www.bilibili.com/video/BV1fAnv6SEjY",
-          "dur": 206,
-          "site": "B站",
-          "brief": "数学：为啥别人数学能冲到 95+？关键在打破固有思维",
-          "words": [
-            "小明",
-            "数学书",
-            "认真看",
-            "新方法",
-            "思考",
-            "成绩好"
-          ],
-          "frame": "「小明」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
         }
       ],
       "cctv_live": [
@@ -6421,6 +6798,121 @@
           "frame": "「CCTV17」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
+      "mech": [
+        {
+          "title": "杠杆原理2、幼儿益智启蒙早教、工程车汽车玩具、挖掘机动画",
+          "url": "https://www.bilibili.com/video/BV1ts4y1t71J",
+          "dur": 104,
+          "site": "B站",
+          "brief": "机械原理：杠杆原理2、幼儿益智启蒙早教、工程车汽车玩具、挖掘机动画",
+          "words": [
+            "挖掘机",
+            "车上",
+            "杠杆",
+            "撬起",
+            "石头"
+          ],
+          "frame": "「挖掘机」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "最重要的发明之一，惊为天人的设计，钟表的奥秘，擒纵机构的原理",
+          "url": "https://www.bilibili.com/video/BV1884y1s7m9",
+          "dur": 283,
+          "site": "B站",
+          "brief": "机械原理：最重要的发明之一，惊为天人的设计，钟表的奥秘，擒纵机构的原理",
+          "words": [
+            "钟表",
+            "擒纵机构",
+            "转动",
+            "齿轮",
+            "发明",
+            "设计",
+            "原理"
+          ],
+          "frame": "「钟表」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "小姑娘公园上演人体陀螺，疯狂旋转啥原理？揭秘人体旋转和腰部维修保养",
+          "url": "https://www.bilibili.com/video/BV1rT5szREx2",
+          "dur": 245,
+          "site": "B站",
+          "brief": "机械原理：小姑娘公园上演人体陀螺，疯狂旋转啥原理？揭秘人体旋转和腰部维修保养",
+          "words": [
+            "小姑娘",
+            "公园",
+            "陀螺",
+            "旋转",
+            "腰部",
+            "保养"
+          ],
+          "frame": "「小姑娘」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "拆解自动收线器，吸尘器自动收线的工作原理",
+          "url": "https://www.bilibili.com/video/BV1dC41177Xb",
+          "dur": 163,
+          "site": "B站",
+          "brief": "机械原理：拆解自动收线器，吸尘器自动收线的工作原理",
+          "words": [
+            "自动收线器",
+            "吸尘器",
+            "拆解",
+            "机械原理",
+            "工作原理",
+            "齿轮"
+          ],
+          "frame": "「自动收线器」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "不可思议的现象！剪刀在水里能剪掉玻璃？这是什么原理？",
+          "url": "https://www.bilibili.com/video/BV1Dj411K7FY",
+          "dur": 240,
+          "site": "B站",
+          "brief": "机械原理：不可思议的现象！剪刀在水里能剪掉玻璃？这是什么原理？",
+          "words": [
+            "剪刀",
+            "水里",
+            "玻璃",
+            "剪掉",
+            "原理"
+          ],
+          "frame": "「剪刀」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "h"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "37趣味数学（英音）EP04｜两张8寸，真的比一张12寸多吗？",
+          "url": "https://www.bilibili.com/video/BV1XFni6rErN",
+          "dur": 61,
+          "site": "B站",
+          "brief": "数学：37趣味数学（英音）EP04｜两张8寸，真的比一张12寸多吗？",
+          "words": [
+            "两张",
+            "8寸",
+            "一张",
+            "12寸",
+            "比较"
+          ],
+          "frame": "「两张」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        },
+        {
+          "title": "为啥别人数学能冲到 95+？关键在打破固有思维",
+          "url": "https://www.bilibili.com/video/BV1fAnv6SEjY",
+          "dur": 206,
+          "site": "B站",
+          "brief": "数学：为啥别人数学能冲到 95+？关键在打破固有思维",
+          "words": [
+            "小明",
+            "数学书",
+            "认真看",
+            "新方法",
+            "思考",
+            "成绩好"
+          ],
+          "frame": "「小明」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "跟席子有关的汉字词语有哪些？",
@@ -6452,8 +6944,7 @@
             "为什么",
             "老能刷到"
           ],
-          "frame": "这个故事叫「AI动画」，它的意思是＿＿，我学会了＿＿。",
-          "orient": "h"
+          "frame": "这个故事叫「AI动画」，它的意思是＿＿，我学会了＿＿。"
         }
       ],
       "military": [
@@ -6599,7 +7090,8 @@
           "url": "https://www.bilibili.com/video/BV1sWnM6HE76",
           "dur": 121,
           "site": "B站",
-          "brief": "今日科学家·李时珍：李时珍：三次落榜的落榜生，用20多年写了一本救命的书"
+          "brief": "今日科学家·李时珍：李时珍：三次落榜的落榜生，用20多年写了一本救命的书",
+          "orient": "h"
         }
       ],
       "ai": [
@@ -6629,7 +7121,8 @@
           "url": "https://www.bilibili.com/video/BV1DDMt6nE3A",
           "dur": 290,
           "site": "B站",
-          "brief": "AI科技：超仿生人形机器人来了"
+          "brief": "AI科技：超仿生人形机器人来了",
+          "orient": "v"
         },
         {
           "title": "买人形机器人最佳时期，原来十几万的宇树G1现在二手只要一半的价格，还是可二次开发的教育版本，送炫酷舞蹈！",
@@ -6637,59 +7130,6 @@
           "dur": 58,
           "site": "B站",
           "brief": "AI科技：买人形机器人最佳时期，原来十几万的宇树G1现在二手只要一半的价格，还是可二次开发的教育版本，送炫酷舞蹈！"
-        }
-      ],
-      "mech": [
-        {
-          "title": "遥控器按键的工作原理",
-          "url": "https://www.bilibili.com/video/BV1tP4y1P7J9",
-          "dur": 148,
-          "site": "B站",
-          "brief": "机械原理：遥控器按键的工作原理"
-        },
-        {
-          "title": "悠悠球收球原理！为啥按照教学还是收不回来，明白了吗？～",
-          "url": "https://www.bilibili.com/video/BV1Sa411274D",
-          "dur": 240,
-          "site": "B站",
-          "brief": "机械原理：悠悠球收球原理！为啥按照教学还是收不回来，明白了吗？～"
-        },
-        {
-          "title": "你小时候用嘴吸过笔芯里的墨水吗？看看笔芯的结构，笔珠的原理",
-          "url": "https://www.bilibili.com/video/BV1GH4y1y73a",
-          "dur": 109,
-          "site": "B站",
-          "brief": "机械原理：你小时候用嘴吸过笔芯里的墨水吗？看看笔芯的结构，笔珠的原理"
-        },
-        {
-          "title": "神奇的“谷物圈效应”，图钉在水上自动“贴贴”，你知道原理吗？",
-          "url": "https://www.bilibili.com/video/BV1VF41147XD",
-          "dur": 154,
-          "site": "B站",
-          "brief": "机械原理：神奇的“谷物圈效应”，图钉在水上自动“贴贴”，你知道原理吗？"
-        },
-        {
-          "title": "波特钳开红酒会有玻璃渣吗？为什么要用波特钳？波特钳开瓶器原理。",
-          "url": "https://www.bilibili.com/video/BV1HeXDB2Efy",
-          "dur": 57,
-          "site": "B站",
-          "brief": "机械原理：波特钳开红酒会有玻璃渣吗？为什么要用波特钳？波特钳开瓶器原理。"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "数学手抄报/数学小报/数学数数手抄报/数学比多少手抄报/数学上下前后手抄报，简单美观，适合小学一年级的数学手抄报！有线稿可打印喔！",
-          "url": "https://www.bilibili.com/video/BV1Qd4y1z7a4",
-          "dur": 67,
-          "site": "B站",
-          "brief": "数学：数学手抄报/数学小报/数学数数手抄报/数学比多少手抄报/数学上下前后手抄报，简单美观，适合小学一年级的数学手抄报！有线稿可打印喔！"
-        },
-        {
-          "title": "数字方块时钟歌曲 认识钟表报时歌 Numberblocks Clock Song",
-          "url": "https://www.bilibili.com/video/BV1s9W5eiEKR",
-          "dur": 73,
-          "site": "B站",
-          "brief": "数学：数字方块时钟歌曲 认识钟表报时歌 Numberblocks Clock Song"
         }
       ],
       "cctv_live": [
@@ -6994,6 +7434,59 @@
           "frame": "「直播」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
+      "mech": [
+        {
+          "title": "遥控器按键的工作原理",
+          "url": "https://www.bilibili.com/video/BV1tP4y1P7J9",
+          "dur": 148,
+          "site": "B站",
+          "brief": "机械原理：遥控器按键的工作原理"
+        },
+        {
+          "title": "悠悠球收球原理！为啥按照教学还是收不回来，明白了吗？～",
+          "url": "https://www.bilibili.com/video/BV1Sa411274D",
+          "dur": 240,
+          "site": "B站",
+          "brief": "机械原理：悠悠球收球原理！为啥按照教学还是收不回来，明白了吗？～"
+        },
+        {
+          "title": "你小时候用嘴吸过笔芯里的墨水吗？看看笔芯的结构，笔珠的原理",
+          "url": "https://www.bilibili.com/video/BV1GH4y1y73a",
+          "dur": 109,
+          "site": "B站",
+          "brief": "机械原理：你小时候用嘴吸过笔芯里的墨水吗？看看笔芯的结构，笔珠的原理"
+        },
+        {
+          "title": "神奇的“谷物圈效应”，图钉在水上自动“贴贴”，你知道原理吗？",
+          "url": "https://www.bilibili.com/video/BV1VF41147XD",
+          "dur": 154,
+          "site": "B站",
+          "brief": "机械原理：神奇的“谷物圈效应”，图钉在水上自动“贴贴”，你知道原理吗？"
+        },
+        {
+          "title": "波特钳开红酒会有玻璃渣吗？为什么要用波特钳？波特钳开瓶器原理。",
+          "url": "https://www.bilibili.com/video/BV1HeXDB2Efy",
+          "dur": 57,
+          "site": "B站",
+          "brief": "机械原理：波特钳开红酒会有玻璃渣吗？为什么要用波特钳？波特钳开瓶器原理。"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "数学手抄报/数学小报/数学数数手抄报/数学比多少手抄报/数学上下前后手抄报，简单美观，适合小学一年级的数学手抄报！有线稿可打印喔！",
+          "url": "https://www.bilibili.com/video/BV1Qd4y1z7a4",
+          "dur": 67,
+          "site": "B站",
+          "brief": "数学：数学手抄报/数学小报/数学数数手抄报/数学比多少手抄报/数学上下前后手抄报，简单美观，适合小学一年级的数学手抄报！有线稿可打印喔！"
+        },
+        {
+          "title": "数字方块时钟歌曲 认识钟表报时歌 Numberblocks Clock Song",
+          "url": "https://www.bilibili.com/video/BV1s9W5eiEKR",
+          "dur": 73,
+          "site": "B站",
+          "brief": "数学：数字方块时钟歌曲 认识钟表报时歌 Numberblocks Clock Song"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "一年级汉语拼音字母表 （跟读）",
@@ -7046,7 +7539,8 @@
           "url": "https://www.bilibili.com/video/BV1KbnG6eE2r",
           "dur": 120,
           "site": "B站",
-          "brief": "军事科普：一发高爆打死两个满血的导弹你见过吗：）"
+          "brief": "军事科普：一发高爆打死两个满血的导弹你见过吗：）",
+          "orient": "h"
         }
       ],
       "edu_science": [
@@ -7112,8 +7606,7 @@
           "url": "https://www.bilibili.com/video/BV1XbJY6cEAD",
           "dur": 79,
           "site": "B站",
-          "brief": "AI科技：机器人本体减重，PEEK材料将成为未来发展新方向。",
-          "orient": "h"
+          "brief": "AI科技：机器人本体减重，PEEK材料将成为未来发展新方向。"
         },
         {
           "title": "【中英双语字幕】Helix 2.5 三十个家庭泛化实测：Figure AI 官方完整片 1080P｜人形机器人走进家庭",
@@ -7128,59 +7621,6 @@
           "dur": 74,
           "site": "B站",
           "brief": "AI科技：您的AI人形机器人老婆已送货上门！请注意查收！从此您也是有家的人了！"
-        }
-      ],
-      "mech": [
-        {
-          "title": "平衡悬挂的胡萝卜，哪头更重？还是一样重？很多人答错了 |科学实验 | 科普 | 这个小明 | 杠杆原理",
-          "url": "https://www.bilibili.com/video/BV1ya4y1C7sA",
-          "dur": 56,
-          "site": "B站",
-          "brief": "机械原理：平衡悬挂的胡萝卜，哪头更重？还是一样重？很多人答错了 |科学实验 | 科普 | 这个小明 | 杠杆原理"
-        },
-        {
-          "title": "“缝纫机”工作原理高级动画（1）——平缝机",
-          "url": "https://www.bilibili.com/video/BV1xz4y127AP",
-          "dur": 83,
-          "site": "B站",
-          "brief": "机械原理：“缝纫机”工作原理高级动画（1）——平缝机"
-        },
-        {
-          "title": "评测拆解小米插座3，看看内部做工和工作原理",
-          "url": "https://www.bilibili.com/video/BV1yH4y1A79E",
-          "dur": 316,
-          "site": "B站",
-          "brief": "机械原理：评测拆解小米插座3，看看内部做工和工作原理"
-        },
-        {
-          "title": "机械巅峰--机械手表的工作原理",
-          "url": "https://www.bilibili.com/video/BV18d4y1s7mQ",
-          "dur": 268,
-          "site": "B站",
-          "brief": "机械原理：机械巅峰--机械手表的工作原理"
-        },
-        {
-          "title": "小学生好不容易做的麻辣香锅！发现太辣了怎么办～",
-          "url": "https://www.bilibili.com/video/BV1gqicBCEue",
-          "dur": 141,
-          "site": "B站",
-          "brief": "机械原理：小学生好不容易做的麻辣香锅！发现太辣了怎么办～"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "湾宝小课堂：一起来发现人民币的小秘密吧~",
-          "url": "https://www.bilibili.com/video/BV1cZ4y1G7Gi",
-          "dur": 221,
-          "site": "B站",
-          "brief": "数学：湾宝小课堂：一起来发现人民币的小秘密吧~"
-        },
-        {
-          "title": "小学教资面试数学:试讲认识人民币（一年级下册）",
-          "url": "https://www.bilibili.com/video/BV1Di4y1u7zX",
-          "dur": 547,
-          "site": "B站",
-          "brief": "数学：小学教资面试数学:试讲认识人民币（一年级下册）"
         }
       ],
       "cctv_live": [
@@ -7485,6 +7925,60 @@
           "frame": "「直播」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
+      "mech": [
+        {
+          "title": "平衡悬挂的胡萝卜，哪头更重？还是一样重？很多人答错了 |科学实验 | 科普 | 这个小明 | 杠杆原理",
+          "url": "https://www.bilibili.com/video/BV1ya4y1C7sA",
+          "dur": 56,
+          "site": "B站",
+          "brief": "机械原理：平衡悬挂的胡萝卜，哪头更重？还是一样重？很多人答错了 |科学实验 | 科普 | 这个小明 | 杠杆原理"
+        },
+        {
+          "title": "“缝纫机”工作原理高级动画（1）——平缝机",
+          "url": "https://www.bilibili.com/video/BV1xz4y127AP",
+          "dur": 83,
+          "site": "B站",
+          "brief": "机械原理：“缝纫机”工作原理高级动画（1）——平缝机"
+        },
+        {
+          "title": "评测拆解小米插座3，看看内部做工和工作原理",
+          "url": "https://www.bilibili.com/video/BV1yH4y1A79E",
+          "dur": 316,
+          "site": "B站",
+          "brief": "机械原理：评测拆解小米插座3，看看内部做工和工作原理"
+        },
+        {
+          "title": "机械巅峰--机械手表的工作原理",
+          "url": "https://www.bilibili.com/video/BV18d4y1s7mQ",
+          "dur": 268,
+          "site": "B站",
+          "brief": "机械原理：机械巅峰--机械手表的工作原理",
+          "orient": "h"
+        },
+        {
+          "title": "小学生好不容易做的麻辣香锅！发现太辣了怎么办～",
+          "url": "https://www.bilibili.com/video/BV1gqicBCEue",
+          "dur": 141,
+          "site": "B站",
+          "brief": "机械原理：小学生好不容易做的麻辣香锅！发现太辣了怎么办～"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "湾宝小课堂：一起来发现人民币的小秘密吧~",
+          "url": "https://www.bilibili.com/video/BV1cZ4y1G7Gi",
+          "dur": 221,
+          "site": "B站",
+          "brief": "数学：湾宝小课堂：一起来发现人民币的小秘密吧~"
+        },
+        {
+          "title": "小学教资面试数学:试讲认识人民币（一年级下册）",
+          "url": "https://www.bilibili.com/video/BV1Di4y1u7zX",
+          "dur": 547,
+          "site": "B站",
+          "brief": "数学：小学教资面试数学:试讲认识人民币（一年级下册）"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "小学语文基础知识 看拼音 写词语，汉语拼音是学习语文的基础，读准拼音，才能写对汉字!",
@@ -7530,14 +8024,16 @@
           "url": "https://www.bilibili.com/video/BV1Kynn6xEq2",
           "dur": 236,
           "site": "B站",
-          "brief": "军事科普：新华社一句话信息量爆炸，096战略核潜艇，或已经悄悄服役了"
+          "brief": "军事科普：新华社一句话信息量爆炸，096战略核潜艇，或已经悄悄服役了",
+          "orient": "h"
         },
         {
           "title": "一发高爆打死两个满血的导弹你见过吗：）",
           "url": "https://www.bilibili.com/video/BV1KbnG6eE2r",
           "dur": 120,
           "site": "B站",
-          "brief": "军事科普：一发高爆打死两个满血的导弹你见过吗：）"
+          "brief": "军事科普：一发高爆打死两个满血的导弹你见过吗：）",
+          "orient": "h"
         }
       ],
       "edu_science": [
@@ -7710,76 +8206,6 @@
             "AI辅助"
           ],
           "frame": "「人形机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        }
-      ],
-      "mech": [
-        {
-          "title": "按压起电，打火机“电打火”拆解，看看里面的结构原理",
-          "url": "https://www.bilibili.com/video/BV15Q4y1q7Tg",
-          "dur": 189,
-          "site": "B站",
-          "brief": "机械原理：按压起电，打火机“电打火”拆解，看看里面的结构原理"
-        },
-        {
-          "title": "【眼镜科普】从膜层原理，讲解正确眼镜清洗方法，延长眼镜使用寿命，不产生划痕",
-          "url": "https://www.bilibili.com/video/BV1WZULBzEQ5",
-          "dur": 432,
-          "site": "B站",
-          "brief": "机械原理：【眼镜科普】从膜层原理，讲解正确眼镜清洗方法，延长眼镜使用寿命，不产生划痕"
-        },
-        {
-          "title": "双控开关的多种接法，双控开关的工作原理",
-          "url": "https://www.bilibili.com/video/BV1Jm4y1C7mW",
-          "dur": 145,
-          "site": "B站",
-          "brief": "机械原理：双控开关的多种接法，双控开关的工作原理"
-        },
-        {
-          "title": "3D打印机是怎么工作的？",
-          "url": "https://www.bilibili.com/video/BV1MXkwYeE1o",
-          "dur": 298,
-          "site": "B站",
-          "brief": "机械原理：3D打印机是怎么工作的？"
-        },
-        {
-          "title": "谢谢小学生告诉我怎么削铅笔……",
-          "url": "https://www.bilibili.com/video/BV1Hs4y1G7Fz",
-          "dur": 134,
-          "site": "B站",
-          "brief": "机械原理：谢谢小学生告诉我怎么削铅笔……"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "你以为几何图形很无聊？这段视频颠覆你的认知！",
-          "url": "https://www.bilibili.com/video/BV1Uur4BxErm",
-          "dur": 32,
-          "site": "B站",
-          "brief": "数学：你以为几何图形很无聊？这段视频颠覆你的认知！",
-          "words": [
-            "几何图形",
-            "三角形",
-            "圆形",
-            "正方形",
-            "颜色"
-          ],
-          "frame": "「几何图形」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
-        },
-        {
-          "title": "【英语数学启蒙】1-200数数马拉松！超好听的数字歌大合集 | 幼儿早教",
-          "url": "https://www.bilibili.com/video/BV1myJt6yEDF",
-          "dur": 484,
-          "site": "B站",
-          "brief": "数学：【英语数学启蒙】1-200数数马拉松！超好听的数字歌大合集 | 幼儿早教",
-          "words": [
-            "小熊",
-            "卡片",
-            "唱数",
-            "跳绳",
-            "跑圈",
-            "终点"
-          ],
-          "frame": "「小熊」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
         }
       ],
       "cctv_live": [
@@ -8071,6 +8497,78 @@
           "frame": "「农民」是＿＿，它能＿＿，我觉得＿＿。"
         }
       ],
+      "mech": [
+        {
+          "title": "按压起电，打火机“电打火”拆解，看看里面的结构原理",
+          "url": "https://www.bilibili.com/video/BV15Q4y1q7Tg",
+          "dur": 189,
+          "site": "B站",
+          "brief": "机械原理：按压起电，打火机“电打火”拆解，看看里面的结构原理"
+        },
+        {
+          "title": "【眼镜科普】从膜层原理，讲解正确眼镜清洗方法，延长眼镜使用寿命，不产生划痕",
+          "url": "https://www.bilibili.com/video/BV1WZULBzEQ5",
+          "dur": 432,
+          "site": "B站",
+          "brief": "机械原理：【眼镜科普】从膜层原理，讲解正确眼镜清洗方法，延长眼镜使用寿命，不产生划痕",
+          "orient": "v"
+        },
+        {
+          "title": "双控开关的多种接法，双控开关的工作原理",
+          "url": "https://www.bilibili.com/video/BV1Jm4y1C7mW",
+          "dur": 145,
+          "site": "B站",
+          "brief": "机械原理：双控开关的多种接法，双控开关的工作原理"
+        },
+        {
+          "title": "3D打印机是怎么工作的？",
+          "url": "https://www.bilibili.com/video/BV1MXkwYeE1o",
+          "dur": 298,
+          "site": "B站",
+          "brief": "机械原理：3D打印机是怎么工作的？"
+        },
+        {
+          "title": "谢谢小学生告诉我怎么削铅笔……",
+          "url": "https://www.bilibili.com/video/BV1Hs4y1G7Fz",
+          "dur": 134,
+          "site": "B站",
+          "brief": "机械原理：谢谢小学生告诉我怎么削铅笔……"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "你以为几何图形很无聊？这段视频颠覆你的认知！",
+          "url": "https://www.bilibili.com/video/BV1Uur4BxErm",
+          "dur": 32,
+          "site": "B站",
+          "brief": "数学：你以为几何图形很无聊？这段视频颠覆你的认知！",
+          "words": [
+            "几何图形",
+            "三角形",
+            "圆形",
+            "正方形",
+            "颜色"
+          ],
+          "frame": "「几何图形」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
+          "orient": "v"
+        },
+        {
+          "title": "【英语数学启蒙】1-200数数马拉松！超好听的数字歌大合集 | 幼儿早教",
+          "url": "https://www.bilibili.com/video/BV1myJt6yEDF",
+          "dur": 484,
+          "site": "B站",
+          "brief": "数学：【英语数学启蒙】1-200数数马拉松！超好听的数字歌大合集 | 幼儿早教",
+          "words": [
+            "小熊",
+            "卡片",
+            "唱数",
+            "跳绳",
+            "跑圈",
+            "终点"
+          ],
+          "frame": "「小熊」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
+        }
+      ],
       "edu_chinese": [
         {
           "title": "睡前故事《小熊猫找竹子》，点赞关注看更多精品原创动画故事！睡前故事，寓言故事，格林童话，成语故事寓言故事，启蒙小故事，小故事读物，小故事大道理，绘本故事",
@@ -8171,642 +8669,6 @@
           ],
           "frame": "「小猫」是怎么来的？因为＿＿，所以＿＿，真有趣。",
           "tvid": "2265015543851300",
-          "orient": "h"
-        }
-      ]
-    },
-    "2026-10-18": {
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1gleoa2bsgo.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "words": [
-            "绘本故事",
-            "小猫耳朵",
-            "轻轻磨",
-            "快乐学习",
-            "英语世界"
-          ],
-          "frame": "今天学了「绘本故事」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "5224205357246900",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_1vc33ks80cg.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "words": [
-            "小熊",
-            "耳朵",
-            "绘本",
-            "英语"
-          ],
-          "frame": "今天学了「小熊」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "6824526223075500",
-          "orient": "h"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "卓越的数学家——谷超豪",
-          "url": "https://kxrsbn.casad.cas.cn/2026/zxss/202605/t20260522_5110336.html",
-          "dur": 516,
-          "site": "科学人生百年",
-          "brief": "今日科学家·谷超豪：卓越的数学家——谷超豪",
-          "mp4": "https://videozh.cas.cn/masvod/public/2026/05/22/20260522_19e4ed88ccf_r36.mp4",
-          "words": [
-            "谷超豪",
-            "数学家",
-            "研究",
-            "公式",
-            "发表",
-            "世界"
-          ],
-          "frame": "谷超豪是一位＿＿，他＿了很多公式，其中一些被全世界知道，最让人佩服的是他＿了很多重要的数学论文。",
-          "orient": "h"
-        },
-        {
-          "title": "谷超豪：一个共产党人的数学人生",
-          "url": "https://kxrsbn.casad.cas.cn/2026/zxss/202605/t20260522_5110327.html",
-          "dur": 376,
-          "site": "科学人生百年",
-          "brief": "科学家故事：谷超豪：一个共产党人的数学人生",
-          "mp4": "https://videozh.cas.cn/masvod/public/2026/05/22/20260522_19e4ec86faa_r36_1200k.mp4",
-          "words": [
-            "谷超豪",
-            "共产党人",
-            "数学家",
-            "研究",
-            "公式",
-            "成就"
-          ],
-          "frame": "「谷超豪」是一位＿＿，他做过＿＿，最让我佩服的是＿＿。",
-          "orient": "h"
-        }
-      ],
-      "ai": [
-        {
-          "title": "日媒：日本铁路部署国产机器人，应对人手不足的最新铁路技术",
-          "url": "https://www.bilibili.com/video/BV1HqJB6cEaQ",
-          "dur": 57,
-          "site": "B站",
-          "brief": "AI科技：日本的火车站用上了国产机器人，它们能帮车站干哪些活？一起来看看这些新帮手。",
-          "words": [
-            "机器人",
-            "火车站",
-            "帮忙",
-            "干活",
-            "新帮手",
-            "AI科技"
-          ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        },
-        {
-          "title": "只给一个模糊目标，AI真能自己进化吗？Aspire揭示大模型“会训练，不等于会变强”",
-          "url": "https://www.bilibili.com/video/BV1LjWc69EtL",
-          "dur": 268,
-          "site": "B站",
-          "brief": "AI科技：只给一个模糊目标，AI真能自己进化吗？Aspire揭示大模型“会训练，不等于会变强”",
-          "words": [
-            "AI模型",
-            "模糊目标",
-            "自己进化",
-            "训练",
-            "变强"
-          ],
-          "frame": "「AI模型」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "大模型凭什么能瘦身？模型压缩的四条路｜AI Infra 图解31",
-          "url": "https://www.bilibili.com/video/BV1eApX6hEk8",
-          "dur": 88,
-          "site": "B站",
-          "brief": "AI科技：大模型凭什么能瘦身？模型压缩的四条路｜AI Infra 图解31",
-          "words": [
-            "大模型",
-            "瘦身",
-            "压缩",
-            "剪枝",
-            "量化",
-            "知识",
-            "蒸馏"
-          ],
-          "frame": "「大模型」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        },
-        {
-          "title": "MOVA扫地机器人Z60 扫拖一体 自动上下水 AI 智能 上下水版 滚筒 活水 热活水",
-          "url": "https://www.bilibili.com/video/BV1i8Jz69Epj",
-          "dur": 984,
-          "site": "B站",
-          "brief": "AI科技：MOVA扫地机器人Z60 扫拖一体 自动上下水 AI 智能 上下水版 滚筒 活水 热活水",
-          "words": [
-            "机器人",
-            "滚筒",
-            "活水",
-            "热活水",
-            "自动上下水",
-            "扫地拖地"
-          ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        },
-        {
-          "title": "MOVA扫地机器人V30 扫拖一体 自动上下水 机械臂 AI 智能 水箱版 自清洁 活水 履带",
-          "url": "https://www.bilibili.com/video/BV1daJz6pEWR",
-          "dur": 1082,
-          "site": "B站",
-          "brief": "AI科技：MOVA扫地机器人V30 扫拖一体 自动上下水 机械臂 AI 智能 水箱版 自清洁 活水 履带",
-          "words": [
-            "机器人",
-            "扫拖",
-            "上下水",
-            "机械臂",
-            "AI",
-            "水箱",
-            "自清洁"
-          ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。"
-        }
-      ],
-      "mech": [
-        {
-          "title": "3D动画演示摩托车消音器的工作原理",
-          "url": "https://www.bilibili.com/video/BV1p9n36tEnD",
-          "dur": 203,
-          "site": "B站",
-          "brief": "机械原理：3D动画演示摩托车消音器的工作原理"
-        },
-        {
-          "title": "圆珠笔按压的动画原理",
-          "url": "https://www.bilibili.com/video/BV1GDDZYQEEn",
-          "dur": 121,
-          "site": "B站",
-          "brief": "机械原理：圆珠笔按压的动画原理"
-        },
-        {
-          "title": "充电宝掉电不规律，原来内鬼是它，揭秘充电宝指示灯显示原理！",
-          "url": "https://www.bilibili.com/video/BV1iuJhzjEsm",
-          "dur": 67,
-          "site": "B站",
-          "brief": "机械原理：充电宝掉电不规律，原来内鬼是它，揭秘充电宝指示灯显示原理！"
-        },
-        {
-          "title": "你相信隐身术吗？揭秘隐形的筷子是什么原理，科学原理魔术消失术",
-          "url": "https://www.bilibili.com/video/BV1fM411P7V4",
-          "dur": 74,
-          "site": "B站",
-          "brief": "机械原理：你相信隐身术吗？揭秘隐形的筷子是什么原理，科学原理魔术消失术",
-          "orient": "h"
-        },
-        {
-          "title": "3D动画演示弹子锁工作原理，非常巧妙",
-          "url": "https://www.bilibili.com/video/BV1vs4y1u7Yt",
-          "dur": 61,
-          "site": "B站",
-          "brief": "机械原理：3D动画演示弹子锁工作原理，非常巧妙"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "国家中小学智慧教育平台-新版数学一年级下册30《认识人民币》-(课件ppt+教学设计+课后习题+任务单+逐字稿)",
-          "url": "https://www.bilibili.com/video/BV16ikNBHEcu",
-          "dur": 887,
-          "site": "B站",
-          "brief": "数学：国家中小学智慧教育平台-新版数学一年级下册30《认识人民币》-(课件ppt+教学设计+课后习题+任务单+逐字稿)",
-          "words": [
-            "小明",
-            "书本",
-            "翻看",
-            "图片",
-            "认识",
-            "钱币",
-            "学习"
-          ],
-          "frame": "「小明」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
-        },
-        {
-          "title": "人民币背后的秘密",
-          "url": "https://www.bilibili.com/video/BV1nsJX6vE9z",
-          "dur": 321,
-          "site": "B站",
-          "brief": "数学：人民币背后的秘密",
-          "words": [
-            "人民币",
-            "图案",
-            "数字",
-            "水印",
-            "防伪线",
-            "设计"
-          ],
-          "frame": "「人民币」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。"
-        }
-      ],
-      "cctv_live": [
-        {
-          "title": "CCTV-1 综合",
-          "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-1 综合：正在直播，点开即看",
-          "words": [
-            "CCTV1",
-            "直播",
-            "画面",
-            "镜头",
-            "切换",
-            "新闻"
-          ],
-          "frame": "「CCTV1」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-2 财经",
-          "url": "https://tv.cctv.com/live/cctv2/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-2 财经：正在直播，点开即看",
-          "words": [
-            "CCTV2",
-            "财经",
-            "直播",
-            "点开",
-            "正在"
-          ],
-          "frame": "「CCTV2」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-3 综艺",
-          "url": "https://tv.cctv.com/live/cctv3/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-3 综艺：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV3",
-            "点开",
-            "看节目"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-4 中文国际（亚）",
-          "url": "https://tv.cctv.com/live/cctv4/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它 ＿＿，点开 ＿＿就可以 ＿＿，它是一个 ＿＿的 ＿＿。"
-        },
-        {
-          "title": "CCTV-4 中文国际（欧）",
-          "url": "https://tv.cctv.com/live/cctveurope/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它 ＿＿，点开 ＿＿就能 ＿＿，它是一个 ＿＿的 ＿＿。"
-        },
-        {
-          "title": "CCTV-4 中文国际（美）",
-          "url": "https://tv.cctv.com/live/cctvamerica/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它可以让人们 ＿＿，点开 ＿＿就能 ＿＿，它是一个 ＿＿的 ＿＿。"
-        },
-        {
-          "title": "CCTV-5 体育",
-          "url": "https://tv.cctv.com/live/cctv5/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-5 体育：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV5",
-            "打开电视",
-            "体育节目",
-            "精彩瞬间"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-5+ 体育赛事",
-          "url": "https://tv.cctv.com/live/cctv5plus/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看",
-          "words": [
-            "CCTV5+",
-            "体育赛事",
-            "直播",
-            "屏幕",
-            "画面",
-            "解说"
-          ],
-          "frame": "「CCTV5+」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-6 电影",
-          "url": "https://tv.cctv.com/live/cctv6/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-6 电影：正在直播，点开即看",
-          "words": [
-            "CCTV6",
-            "电影",
-            "直播",
-            "点开",
-            "正在"
-          ],
-          "frame": "CCTV-6 是一个 ＿＿，它身上有 ＿＿，最厉害的是 ＿＿。"
-        },
-        {
-          "title": "CCTV-7 国防军事",
-          "url": "https://tv.cctv.com/live/cctv7/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-7 国防军事：正在直播，点开即看"
-        },
-        {
-          "title": "CCTV-8 电视剧",
-          "url": "https://tv.cctv.com/live/cctv8/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-8 电视剧：正在直播，点开即看",
-          "words": [
-            "CCTV8",
-            "电视剧",
-            "直播",
-            "点开"
-          ],
-          "frame": "「CCTV8」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-9 纪录",
-          "url": "https://tv.cctv.com/live/cctvjilu/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-9 纪录：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "屏幕亮了",
-            "手指一点",
-            "画面出现",
-            "世界奇观",
-            "眼睛看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-10 科教",
-          "url": "https://tv.cctv.com/live/cctv10/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-10 科教：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "屏幕亮了",
-            "手指一点",
-            "画面出现",
-            "科普知识",
-            "讲解详细"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-11 戏曲",
-          "url": "https://tv.cctv.com/live/cctv11/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-11 戏曲：正在直播，点开即看",
-          "words": [
-            "戏曲直播",
-            "CCTV11",
-            "打开电视",
-            "观看节目"
-          ],
-          "frame": "「戏曲直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-12 社会与法",
-          "url": "https://tv.cctv.com/live/cctv12/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-12 社会与法：正在直播，点开即看",
-          "words": [
-            "CCTV12",
-            "直播",
-            "点开",
-            "社会"
-          ],
-          "frame": "「CCTV12」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-13 新闻",
-          "url": "https://tv.cctv.com/live/cctv13/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-13 新闻：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV13",
-            "打开电视",
-            "新闻节目",
-            "实时观看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-14 少儿",
-          "url": "https://tv.cctv.com/live/cctvchild/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-14 少儿：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV14",
-            "少儿频道",
-            "点开看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-15 音乐",
-          "url": "https://tv.cctv.com/live/cctv15/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-15 音乐：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "音乐频道",
-            "打开电视",
-            "点开即看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-16 奥林匹克",
-          "url": "https://tv.cctv.com/live/cctv16/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-16 奥林匹克：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "比赛现场",
-            "精彩瞬间",
-            "运动员",
-            "欢呼"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-17 农业农村",
-          "url": "https://tv.cctv.com/live/cctv17/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-17 农业农村：正在直播，点开即看",
-          "words": [
-            "玉米",
-            "机器",
-            "收割",
-            "农田"
-          ],
-          "frame": "「玉米」是＿＿，它能＿＿，我觉得＿＿。"
-        }
-      ],
-      "edu_chinese": [
-        {
-          "title": "《自相矛盾》带孩子看懂成语",
-          "url": "https://www.bilibili.com/video/BV1LEJ96bEtz",
-          "dur": 91,
-          "site": "B站",
-          "brief": "语文：《自相矛盾》带孩子看懂成语",
-          "words": [
-            "卖盾",
-            "锐利",
-            "坚固",
-            "夸口",
-            "戳破"
-          ],
-          "frame": "这个故事叫「卖盾」，它的意思是＿＿，我学会了＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "晚安故事｜井底之蛙（成语故事·睡前原文朗读）",
-          "url": "https://www.bilibili.com/video/BV1UQJa6xEMB",
-          "dur": 121,
-          "site": "B站",
-          "brief": "语文：晚安故事｜井底之蛙（成语故事·睡前原文朗读）",
-          "words": [
-            "青蛙",
-            "井口",
-            "看天",
-            "井沿",
-            "跳出来",
-            "飞走"
-          ],
-          "frame": "这个故事叫「青蛙」，它的意思是＿＿，我学会了＿＿。"
-        }
-      ],
-      "military": [
-        {
-          "title": "喷火战机掀翻巡航导弹",
-          "url": "https://m.iqiyi.com/v_1euk1nji39g.html",
-          "dur": 273,
-          "site": "爱奇艺",
-          "brief": "军事科普：喷火战机掀翻巡航导弹",
-          "tvid": "5116715133028200",
-          "orient": "h"
-        },
-        {
-          "title": "慢速轰炸机VS闪电零式",
-          "url": "https://m.iqiyi.com/v_dql4i23e3c.html",
-          "dur": 246,
-          "site": "爱奇艺",
-          "brief": "军事科普：慢速轰炸机VS闪电零式",
-          "tvid": "1267121229910900",
-          "orient": "h"
-        },
-        {
-          "title": "三分钟夺走你的卧槽，0成本的空对地导弹？攻坚训练场---定点钻地炸弹超全破点教学",
-          "url": "https://www.bilibili.com/video/BV1iNng6GERT",
-          "dur": 157,
-          "site": "B站",
-          "brief": "军事科普：三分钟夺走你的卧槽，0成本的空对地导弹？攻坚训练场---定点钻地炸弹超全破点教学"
-        },
-        {
-          "title": "美陆军承认“暗鹰”高超音速导弹出了大事，就这要威慑中国？",
-          "url": "https://www.bilibili.com/video/BV1vMng6gEyS",
-          "dur": 207,
-          "site": "B站",
-          "brief": "军事科普：美陆军承认“暗鹰”高超音速导弹出了大事，就这要威慑中国？"
-        },
-        {
-          "title": "我差点被导弹配了",
-          "url": "https://www.bilibili.com/video/BV14UnV6zEX5",
-          "dur": 86,
-          "site": "B站",
-          "brief": "军事科普：我差点被导弹配了"
-        }
-      ],
-      "edu_science": [
-        {
-          "title": "病毒的神秘起源",
-          "url": "https://m.iqiyi.com/v_to28y25aqc.html",
-          "dur": 263,
-          "site": "爱奇艺",
-          "brief": "自然科学：病毒的神秘起源",
-          "words": [
-            "病毒",
-            "起源",
-            "科学家",
-            "实验室",
-            "研究",
-            "发现"
-          ],
-          "frame": "「病毒」是怎么来的？因为＿＿，所以＿＿，真有趣。",
-          "tvid": "3027073099671800",
-          "orient": "h"
-        },
-        {
-          "title": "身体病毒大作战",
-          "url": "https://m.iqiyi.com/v_rdhjhgs3yg.html",
-          "dur": 221,
-          "site": "爱奇艺",
-          "brief": "自然科学：身体病毒大作战",
-          "words": [
-            "病毒来啦",
-            "白细胞冲冲冲",
-            "抗体打怪兽",
-            "身体好强大",
-            "病毒被赶走",
-            "身体恢复中"
-          ],
-          "frame": "「病毒来啦」是怎么来的？因为＿＿，所以＿＿，真有趣。",
-          "tvid": "2698185102131300",
           "orient": "h"
         }
       ]
