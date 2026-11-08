@@ -1,5 +1,5 @@
 {
- "api_healthy": false,
+ "api_healthy": true,
  "domain": "https://kid.fengbudingdan.cn",
  "endpoints": [
   {
@@ -29,7 +29,7 @@
   "box-v6": false
  },
  "tailscale": "100.92.118.7",
- "ts": 1794110728,
- "updated": "2026-11-08 12:05:28",
+ "ts": 1794110792,
+ "updated": "2026-11-08 12:06:32",
  "v6": "240e:47c:50e0:3ecc:213b:b2af:25e6:75f2"
 }
