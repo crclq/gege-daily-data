@@ -3,16 +3,33 @@
  "domain": "https://kid.fengbudingdan.cn",
  "endpoints": [
   {
-   "id": "box-domain",
-   "net": "https-vps",
-   "prio": 3,
-   "url": "https://kid.fengbudingdan.cn"
+   "id": "box-funnel",
+   "net": "tailscale-funnel",
+   "prio": 10,
+   "url": "https://j1900-box-1.taila83273.ts.net/site"
+  },
+  {
+   "id": "box-lan",
+   "net": "lan",
+   "prio": 20,
+   "url": "http://192.168.43.5:3000"
+  },
+  {
+   "id": "box-ts",
+   "net": "tailscale",
+   "prio": 30,
+   "url": "http://100.92.118.7:3000"
   }
  ],
- "lan": "",
- "reach": {},
- "tailscale": "",
- "ts": 1794110668,
- "updated": "2026-11-08 12:04:28",
- "v6": ""
+ "lan": "192.168.43.5",
+ "reach": {
+  "box-funnel": false,
+  "box-lan": true,
+  "box-ts": true,
+  "box-v6": false
+ },
+ "tailscale": "100.92.118.7",
+ "ts": 1794110728,
+ "updated": "2026-11-08 12:05:28",
+ "v6": "240e:47c:50e0:3ecc:213b:b2af:25e6:75f2"
 }
