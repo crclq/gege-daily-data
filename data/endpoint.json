@@ -1,48 +1,34 @@
 {
-  "api_healthy": true,
-  "domain": "https://kid.fengbudingdan.cn",
-  "endpoints": [
-    {
-      "id": "box-lan",
-      "net": "lan",
-      "prio": 10,
-      "url": "http://192.168.0.9:3000"
-    },
-    {
-      "id": "bj",
-      "net": "beijing-public",
-      "prio": 20,
-      "url": "https://kid.fengbudingdan.cn"
-    },
-    {
-      "id": "hk",
-      "net": "hongkong-public",
-      "prio": 30,
-      "url": "http://85.189.40.110/site"
-    },
-    {
-      "id": "box-funnel",
-      "net": "tailscale-funnel",
-      "prio": 40,
-      "url": "https://j1900-box-1.taila83273.ts.net/site"
-    },
-    {
-      "id": "box-ts",
-      "net": "tailscale",
-      "prio": 50,
-      "url": "http://100.92.118.7:3000"
-    }
-  ],
-  "lan": "192.168.0.9",
-  "reach": {
-    "box-lan": true,
-    "bj": true,
-    "hk": true,
-    "box-funnel": false,
-    "box-ts": true
+ "api_healthy": true,
+ "domain": "https://kid.fengbudingdan.cn",
+ "endpoints": [
+  {
+   "id": "box-funnel",
+   "net": "tailscale-funnel",
+   "prio": 10,
+   "url": "https://j1900-box-1.taila83273.ts.net/site"
   },
-  "tailscale": "100.92.118.7",
-  "ts": 1794367518,
-  "updated": "2026-11-11 北京线接入：WIFI > 北京 > 香港 > Tailscale",
-  "v6": ""
+  {
+   "id": "box-lan",
+   "net": "lan",
+   "prio": 20,
+   "url": "http://192.168.0.9:3000"
+  },
+  {
+   "id": "box-ts",
+   "net": "tailscale",
+   "prio": 30,
+   "url": "http://100.92.118.7:3000"
+  }
+ ],
+ "lan": "192.168.0.9",
+ "reach": {
+  "box-funnel": false,
+  "box-lan": true,
+  "box-ts": true
+ },
+ "tailscale": "100.92.118.7",
+ "ts": 1794368735,
+ "updated": "2026-11-11 11:45:35",
+ "v6": ""
 }
