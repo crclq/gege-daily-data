@@ -3,6 +3,12 @@
  "domain": "https://kid.fengbudingdan.cn",
  "endpoints": [
   {
+   "id": "box-domain",
+   "net": "https-vps",
+   "prio": 3,
+   "url": "https://kid.fengbudingdan.cn"
+  },
+  {
    "id": "box-funnel",
    "net": "tailscale-funnel",
    "prio": 10,
@@ -23,12 +29,13 @@
  ],
  "lan": "192.168.0.9",
  "reach": {
+  "box-domain": false,
   "box-funnel": false,
   "box-lan": true,
   "box-ts": true
  },
  "tailscale": "100.92.118.7",
- "ts": 1794442825,
- "updated": "2026-11-12 08:20:25",
+ "ts": 1794443117,
+ "updated": "2026-11-12 08:25:17",
  "v6": ""
 }
