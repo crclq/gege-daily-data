@@ -23,12 +23,12 @@
  ],
  "lan": "192.168.0.9",
  "reach": {
-  "box-funnel": false,
+  "box-funnel": true,
   "box-lan": true,
   "box-ts": true
  },
  "tailscale": "100.92.118.7",
- "ts": 1794691545,
- "updated": "2026-11-15 05:25:45",
+ "ts": 1794691829,
+ "updated": "2026-11-15 05:30:29",
  "v6": ""
 }
