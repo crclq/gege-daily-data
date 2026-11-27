@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27 12:45",
+  "generated": "2026-11-28 04:09",
   "cats": [
     {
       "key": "cctv_live",
@@ -69,6 +69,7 @@
     }
   ],
   "dates": [
+    "2026-11-28",
     "2026-11-27",
     "2026-11-26",
     "2026-11-25",
@@ -81,10 +82,794 @@
     "2026-11-18",
     "2026-11-17",
     "2026-11-16",
-    "2026-11-15",
-    "2026-11-14"
+    "2026-11-15"
   ],
   "data": {
+    "2026-11-28": {
+      "mech": [
+        {
+          "title": "如何制造 指甲刀",
+          "url": "https://www.bilibili.com/video/BV1jP8szQEct",
+          "dur": 489,
+          "site": "B站",
+          "brief": "机械原理：如何制造 指甲刀",
+          "words": [
+            "指甲刀",
+            "刀片",
+            "开合",
+            "弹簧",
+            "手柄",
+            "拧紧"
+          ],
+          "frame": "「指甲刀」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "拆解洗衣机离合器，洗涤脱水是怎么通过它切换的？",
+          "url": "https://www.bilibili.com/video/BV1Wu1sBpEim",
+          "dur": 329,
+          "site": "B站",
+          "brief": "机械原理：拆解洗衣机离合器，洗涤脱水是怎么通过它切换的？",
+          "words": [
+            "洗衣机",
+            "离合器",
+            "拆解",
+            "洗涤",
+            "脱水",
+            "切换"
+          ],
+          "frame": "「洗衣机」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "微课动画：科学旅途之杠杆原理",
+          "url": "https://www.bilibili.com/video/BV1oR4y1k7EH",
+          "dur": 566,
+          "site": "B站",
+          "brief": "机械原理：微课动画：科学旅途之杠杆原理",
+          "words": [
+            "杠杆",
+            "支点",
+            "用力",
+            "平衡",
+            "移动",
+            "物体"
+          ],
+          "frame": "「杠杆」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "1种自动门结构，太简单谁都可以自己做出来！",
+          "url": "https://www.bilibili.com/video/BV14B4y1u7oy",
+          "dur": 58,
+          "site": "B站",
+          "brief": "机械原理：1种自动门结构，太简单谁都可以自己做出来！",
+          "words": [
+            "自动门",
+            "结构",
+            "简单",
+            "自己",
+            "做出来",
+            "机械"
+          ],
+          "frame": "「自动门」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "拆解原理分析，带阻尼器铰链，解决关门响声",
+          "url": "https://www.bilibili.com/video/BV1Xm4y1L7rC",
+          "dur": 211,
+          "site": "B站",
+          "brief": "机械原理：拆解原理分析，带阻尼器铰链，解决关门响声",
+          "words": [
+            "门铰链",
+            "阻尼器",
+            "拆解",
+            "分析",
+            "响声",
+            "解决"
+          ],
+          "frame": "「门铰链」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "h"
+        }
+      ],
+      "scientist": [
+        {
+          "title": "江河人生——张光斗 | 科学家相册",
+          "url": "https://www.bilibili.com/video/BV1hxXpBEEUB",
+          "dur": 666,
+          "site": "B站",
+          "brief": "今日科学家·张光斗：江河人生——张光斗 | 科学家相册",
+          "words": [
+            "张光斗",
+            "科学家",
+            "研究",
+            "江河",
+            "治理",
+            "贡献"
+          ],
+          "frame": "「张光斗」是一位＿＿，他做过＿＿，最让我佩服的是＿＿。",
+          "orient": "h"
+        }
+      ],
+      "ai": [
+        {
+          "title": "可AI对话的瓦楞桌面机器人，赶快动手升级下吧",
+          "url": "https://www.bilibili.com/video/BV1jns16XEXT",
+          "dur": 366,
+          "site": "B站",
+          "brief": "AI科技：可AI对话的瓦楞桌面机器人，赶快动手升级下吧",
+          "words": [
+            "机器人",
+            "瓦楞桌",
+            "升级",
+            "AI对话",
+            "动手"
+          ],
+          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "AI会把人类当宠物吗？问问你家那只猫",
+          "url": "https://www.bilibili.com/video/BV1uz1Fz1Ejm",
+          "dur": 126,
+          "site": "B站",
+          "brief": "AI科技：AI会把人类当宠物吗？问问你家那只猫",
+          "words": [
+            "AI猫",
+            "会吗",
+            "人类",
+            "宠物"
+          ],
+          "frame": "「AI猫」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "机器人训练中心",
+          "url": "https://www.bilibili.com/video/BV1Tasr6fEWW",
+          "dur": 105,
+          "site": "B站",
+          "brief": "AI科技：机器人训练中心",
+          "words": [
+            "机器人",
+            "训练",
+            "中心",
+            "科技",
+            "学习",
+            "工作"
+          ],
+          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
+          "orient": "v"
+        },
+        {
+          "title": "【深圳市蜜悦智伴科技】最新视频上线，求关注！",
+          "url": "https://www.bilibili.com/video/BV1b54V6sEzA",
+          "dur": 56,
+          "site": "B站",
+          "brief": "AI科技：【深圳市蜜悦智伴科技】最新视频上线，求关注！",
+          "words": [
+            "机器人",
+            "眼睛",
+            "识别",
+            "主人",
+            "说话",
+            "帮助"
+          ],
+          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
+          "orient": "v"
+        },
+        {
+          "title": "全用 AI 写代码？系统崩了那天，全屋人集体跪求 AI 救命！",
+          "url": "https://www.bilibili.com/video/BV1kUyqzgEoF",
+          "dur": 458,
+          "site": "B站",
+          "brief": "AI科技：全用 AI 写代码？系统崩了那天，全屋人集体跪求 AI 救命！",
+          "words": [
+            "AI系统",
+            "全屋人",
+            "跪求",
+            "救命"
+          ],
+          "frame": "「AI系统」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
+          "orient": "h"
+        }
+      ],
+      "edu_english": [
+        {
+          "title": "磨耳朵短片·14秒",
+          "url": "https://m.iqiyi.com/v_29bcwso2jhg.html",
+          "dur": 14,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·14秒",
+          "words": [
+            "小鸟",
+            "羽毛",
+            "唱歌",
+            "天空",
+            "飞翔",
+            "快乐"
+          ],
+          "frame": "今天学了「小鸟」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "8201844983574600",
+          "orient": "h"
+        },
+        {
+          "title": "磨耳朵短片·15秒",
+          "url": "https://m.iqiyi.com/v_tzj27l2af4.html",
+          "dur": 15,
+          "site": "爱奇艺",
+          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
+          "words": [
+            "绘本故事",
+            "小兔子",
+            "耳朵长",
+            "听英语",
+            "学单词",
+            "快乐学"
+          ],
+          "frame": "今天学了「绘本故事」，它的意思是＿＿，我会用它说＿＿。",
+          "tvid": "2995788631987500",
+          "orient": "h"
+        }
+      ],
+      "edu_science": [
+        {
+          "title": "爱吃东西的胃",
+          "url": "https://m.iqiyi.com/v_1p4krc4kmkg.html",
+          "dur": 228,
+          "site": "爱奇艺",
+          "brief": "自然科学：爱吃东西的胃",
+          "tvid": "6327985563104300",
+          "orient": "h"
+        },
+        {
+          "title": "爱赌气的肺",
+          "url": "https://m.iqiyi.com/v_25zpcjfz99g.html",
+          "dur": 224,
+          "site": "爱奇艺",
+          "brief": "自然科学：爱赌气的肺",
+          "words": [
+            "生气",
+            "鼓起来",
+            "放气",
+            "呼吸",
+            "身体"
+          ],
+          "frame": "「生气」是怎么来的？因为＿＿，所以＿＿，真有趣。",
+          "tvid": "7976436380128200",
+          "orient": "h"
+        }
+      ],
+      "military": [
+        {
+          "title": "隐形科技对战防空导弹",
+          "url": "https://m.iqiyi.com/v_aj1tizjlf8.html",
+          "dur": 264,
+          "site": "爱奇艺",
+          "brief": "军事科普：隐形科技对战防空导弹",
+          "words": [
+            "隐形飞机",
+            "导弹",
+            "飞行",
+            "躲避",
+            "雷达",
+            "发现"
+          ],
+          "frame": "「隐形飞机」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "tvid": "1048932119341400",
+          "orient": "h"
+        },
+        {
+          "title": "夏尔B1坦克的绝地反击",
+          "url": "https://m.iqiyi.com/v_2fb1s6soaoo.html",
+          "dur": 242,
+          "site": "爱奇艺",
+          "brief": "军事科普：夏尔B1坦克的绝地反击",
+          "words": [
+            "夏尔B1坦克",
+            "绝地反击",
+            "炮筒",
+            "发射",
+            "炮弹",
+            "击中"
+          ],
+          "frame": "「夏尔B1坦克」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "tvid": "8995187006678900",
+          "orient": "h"
+        },
+        {
+          "title": "铸剑（一）",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=750461",
+          "dur": 111,
+          "site": "科普中国",
+          "brief": "军事科普：铸剑（一）",
+          "mp4": "https://pqnoss.kepuchina.cn/U6935265/videos/2026102614285057979244296415.mp4",
+          "words": [
+            "铸剑师",
+            "铁块",
+            "锤子",
+            "火炉",
+            "打造",
+            "冷却"
+          ],
+          "frame": "「铸剑师」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "为何要在边防营地种上花花草草？",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=2&ar_id=720755",
+          "dur": 223,
+          "site": "科普中国",
+          "brief": "军事科普：为何要在边防营地种上花花草草？",
+          "mp4": "https://pqnoss.kepuchina.cn/U25796160/videos/202607181504383678278600912.mp4",
+          "words": [
+            "边防营地",
+            "种花",
+            "花草",
+            "美化",
+            "环境",
+            "心情"
+          ],
+          "frame": "「边防营地」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "一枚会认路的导弹-贴地飞1600公里,雷达一次都抓不到",
+          "url": "https://www.bilibili.com/video/BV1gXyizUEd6",
+          "dur": 461,
+          "site": "B站",
+          "brief": "军事科普：一枚会认路的导弹-贴地飞1600公里,雷达一次都抓不到",
+          "words": [
+            "导弹飞行",
+            "贴地飞行",
+            "1600公里",
+            "雷达探测不到"
+          ],
+          "frame": "「导弹飞行」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
+          "orient": "h"
+        }
+      ],
+      "cctv_live": [
+        {
+          "title": "CCTV-1 综合",
+          "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-1 综合：正在直播，点开即看",
+          "words": [
+            "CCTV1",
+            "直播",
+            "点开"
+          ],
+          "frame": "CCTV-1是一种＿＿，它身上有＿＿，最厉害的是＿＿。"
+        },
+        {
+          "title": "CCTV-2 财经",
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-2 财经：正在直播，点开即看",
+          "words": [
+            "CCTV2",
+            "财经",
+            "直播",
+            "点开",
+            "正在"
+          ],
+          "frame": "「CCTV2」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-3 综艺",
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-3 综艺：正在直播，点开即看",
+          "words": [
+            "CCTV3",
+            "综艺",
+            "直播",
+            "点开",
+            "电视"
+          ],
+          "frame": "「CCTV3」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-4 中文国际（亚）",
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看",
+          "words": [
+            "CCTV4",
+            "直播",
+            "点开",
+            "国际",
+            "频道"
+          ],
+          "frame": "「CCTV4」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-4 中文国际（欧）",
+          "url": "https://tv.cctv.com/live/cctveurope/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看",
+          "words": [
+            "CCTV4",
+            "直播",
+            "点开",
+            "国际",
+            "频道"
+          ],
+          "frame": "CCTV-4 是一个 ＿＿，它 ＿＿，点开 ＿＿就能 ＿＿，它是一个 ＿＿的 ＿＿。"
+        },
+        {
+          "title": "CCTV-4 中文国际（美）",
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看",
+          "words": [
+            "CCTV4",
+            "直播",
+            "点开"
+          ],
+          "frame": "CCTV-4 是一个 ＿＿，它 ＿＿，点开 ＿＿就可以 ＿＿。"
+        },
+        {
+          "title": "CCTV-5 体育",
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5 体育：正在直播，点开即看",
+          "words": [
+            "CCTV5",
+            "直播",
+            "点开"
+          ],
+          "frame": "CCTV-5是一种＿＿，它身上有＿＿，最厉害的是＿＿。"
+        },
+        {
+          "title": "CCTV-5+ 体育赛事",
+          "url": "https://tv.cctv.com/live/cctv5plus/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看",
+          "words": [
+            "CCTV5+",
+            "直播",
+            "体育赛事",
+            "点开",
+            "即看"
+          ],
+          "frame": "CCTV-5+是一种＿＿，它身上有＿＿，最厉害的是＿＿。"
+        },
+        {
+          "title": "CCTV-6 电影",
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-6 电影：正在直播，点开即看",
+          "words": [
+            "电影频道",
+            "直播中",
+            "点开看"
+          ],
+          "frame": "「电影频道」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-7 国防军事",
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-7 国防军事：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "CCTV7",
+            "点开看"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-8 电视剧",
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-8 电视剧：正在直播，点开即看",
+          "words": [
+            "CCTV8",
+            "电视剧",
+            "直播",
+            "点开"
+          ],
+          "frame": "「CCTV8」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-9 纪录",
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-9 纪录：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "屏幕亮了",
+            "手指一点",
+            "画面出现",
+            "新闻主播",
+            "说故事"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-10 科教",
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-10 科教：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "屏幕",
+            "打开",
+            "观看"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-11 戏曲",
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-11 戏曲：正在直播，点开即看",
+          "words": [
+            "戏曲直播",
+            "CCTV11",
+            "点开看"
+          ],
+          "frame": "「戏曲直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-12 社会与法",
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-12 社会与法：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "CCTV12",
+            "社会新闻",
+            "法律知识",
+            "点开观看"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-13 新闻",
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-13 新闻：正在直播，点开即看",
+          "words": [
+            "CCTV13",
+            "直播",
+            "点开"
+          ],
+          "frame": "CCTV-13是一种＿＿，它身上有＿＿，最厉害的是＿＿。"
+        },
+        {
+          "title": "CCTV-14 少儿",
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-14 少儿：正在直播，点开即看",
+          "words": [
+            "电视直播",
+            "CCTV14",
+            "少儿频道",
+            "点开看"
+          ],
+          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-15 音乐",
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-15 音乐：正在直播，点开即看",
+          "words": [
+            "音乐台",
+            "直播中",
+            "点开看"
+          ],
+          "frame": "「音乐台」是＿＿，它能＿＿，我觉得＿＿。"
+        },
+        {
+          "title": "CCTV-16 奥林匹克",
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-16 奥林匹克：正在直播，点开即看",
+          "words": [
+            "奥林匹克直播",
+            "CCTV16",
+            "点开",
+            "看直播"
+          ],
+          "frame": "奥林匹克直播在CCTV-16，你只要＿＿，就可以直接看直播了。"
+        },
+        {
+          "title": "CCTV-17 农业农村",
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "dur": null,
+          "site": "央视",
+          "brief": "CCTV-17 农业农村：正在直播，点开即看",
+          "words": [
+            "CCTV17",
+            "直播",
+            "点开"
+          ],
+          "frame": "CCTV-17是一种＿＿，它身上有＿＿，最厉害的是＿＿。"
+        }
+      ],
+      "edu_chinese": [
+        {
+          "title": "成语故事《羊续悬鱼》，主页看100+精品原创动画故事！",
+          "url": "https://www.bilibili.com/video/BV154aw6LE1T",
+          "dur": 262,
+          "site": "B站",
+          "brief": "语文：成语故事《羊续悬鱼》，主页看100+精品原创动画故事！",
+          "words": [
+            "羊续",
+            "钓鱼",
+            "鱼钩",
+            "挂在树上",
+            "下雨",
+            "回家"
+          ],
+          "frame": "这个故事叫「羊续」，它的意思是＿＿，我学会了＿＿。",
+          "orient": "v"
+        },
+        {
+          "title": "成语故事《能屈能伸》，主页看100+精品原创动画故事！",
+          "url": "https://www.bilibili.com/video/BV1sVtw6JEc1",
+          "dur": 241,
+          "site": "B站",
+          "brief": "语文：成语故事《能屈能伸》，主页看100+精品原创动画故事！",
+          "words": [
+            "小草",
+            "弯曲",
+            "阳光",
+            "长大",
+            "直直的",
+            "快乐"
+          ],
+          "frame": "这个故事叫「小草」，它的意思是＿＿，我学会了＿＿。",
+          "orient": "v"
+        }
+      ],
+      "edu_math": [
+        {
+          "title": "三年级数学思维提升：学会画图解决逆推还原问题",
+          "url": "https://www.bilibili.com/video/BV1y4xE6oEvr",
+          "dur": 192,
+          "site": "B站",
+          "brief": "数学：三年级数学思维提升：学会画图解决逆推还原问题",
+          "words": [
+            "小华",
+            "画图",
+            "三角形",
+            "还原",
+            "问题",
+            "解决"
+          ],
+          "frame": "「小华」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
+          "orient": "h"
+        },
+        {
+          "title": "小学数学思维题：找准对应关系很重要",
+          "url": "https://www.bilibili.com/video/BV1GAWw6pEia",
+          "dur": 230,
+          "site": "B站",
+          "brief": "数学：小学数学思维题：找准对应关系很重要",
+          "words": [
+            "小明",
+            "苹果",
+            "对应",
+            "关系",
+            "找到",
+            "解决"
+          ],
+          "frame": "「小明」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
+          "orient": "h"
+        }
+      ],
+      "zskp": [
+        {
+          "title": "第138集丨科普各类有趣的知识，解压舒心",
+          "url": "https://www.bilibili.com/video/BV1ST421a7di",
+          "dur": 141,
+          "site": "B站",
+          "brief": "智识科普：第138集丨科普各类有趣的知识，解压舒心",
+          "words": [
+            "小熊",
+            "科学家",
+            "实验室",
+            "实验",
+            "发现",
+            "结果"
+          ],
+          "frame": "小熊是科学家，在实验室里做实验，最厉害的是发现了＿＿。",
+          "orient": "v"
+        },
+        {
+          "title": "第140集丨《科普各类有趣的知识》",
+          "url": "https://www.bilibili.com/video/BV1YE421N7rz",
+          "dur": 147,
+          "site": "B站",
+          "brief": "智识科普：第140集丨《科普各类有趣的知识》",
+          "words": [
+            "小猫",
+            "尾巴",
+            "摇摆",
+            "飞快",
+            "跑来",
+            "跑过去"
+          ],
+          "frame": "「小猫」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "v"
+        },
+        {
+          "title": "第126集丨为什么餐厅喜欢使用圆锥的杯子？",
+          "url": "https://www.bilibili.com/video/BV1Q8kqYKEYU",
+          "dur": 53,
+          "site": "B站",
+          "brief": "智识科普：第126集丨为什么餐厅喜欢使用圆锥的杯子？",
+          "words": [
+            "杯子",
+            "圆锥",
+            "形状",
+            "设计",
+            "方便",
+            "倒水"
+          ],
+          "frame": "「杯子」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "v"
+        },
+        {
+          "title": "第125集丨钢琴的工作原理！",
+          "url": "https://www.bilibili.com/video/BV1TQkeYsEmr",
+          "dur": 122,
+          "site": "B站",
+          "brief": "智识科普：第125集丨钢琴的工作原理！",
+          "words": [
+            "钢琴",
+            "键盘",
+            "琴键",
+            "敲打",
+            "发出",
+            "声音"
+          ],
+          "frame": "「钢琴」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "v"
+        },
+        {
+          "title": "第109集丨飞机的螺旋桨为什么会倾斜安装？",
+          "url": "https://www.bilibili.com/video/BV168BRYxEf6",
+          "dur": 50,
+          "site": "B站",
+          "brief": "智识科普：第109集丨飞机的螺旋桨为什么会倾斜安装？",
+          "words": [
+            "飞机",
+            "螺旋桨",
+            "倾斜",
+            "安装",
+            "空气",
+            "动力"
+          ],
+          "frame": "「飞机」是＿＿，它能＿＿，我觉得＿＿。",
+          "orient": "v"
+        }
+      ]
+    },
     "2026-11-27": {
       "mech": [
         {
@@ -9286,740 +10071,6 @@
           ],
           "frame": "「小工具」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
           "orient": "v"
-        }
-      ]
-    },
-    "2026-11-14": {
-      "mech": [
-        {
-          "title": "偌大一个站找不到几个永磁吸盘拆解视频，今天我来拆一个，看看内部构造，顺便了解一下工作原理",
-          "url": "https://www.bilibili.com/video/BV13EcNeFEme",
-          "dur": 126,
-          "site": "B站",
-          "brief": "机械原理：偌大一个站找不到几个永磁吸盘拆解视频，今天我来拆一个，看看内部构造，顺便了解一下工作原理",
-          "words": [
-            "永磁吸盘",
-            "拆解",
-            "内部构造",
-            "工作原理"
-          ],
-          "frame": "「永磁吸盘」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "第43集 | 自动铅笔含铅吗？高清3D动画解密工作原理",
-          "url": "https://www.bilibili.com/video/BV12u4y147pr",
-          "dur": 83,
-          "site": "B站",
-          "brief": "机械原理：第43集 | 自动铅笔含铅吗？高清3D动画解密工作原理",
-          "words": [
-            "铅笔",
-            "笔芯",
-            "转动",
-            "按钮",
-            "出铅",
-            "画画"
-          ],
-          "frame": "「铅笔」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "慢拉随便拉，急拉就锁死？安全带卷收器动画拆解｜机械原理",
-          "url": "https://www.bilibili.com/video/BV1vSWM65EG6",
-          "dur": 84,
-          "site": "B站",
-          "brief": "机械原理：慢拉随便拉，急拉就锁死？安全带卷收器动画拆解｜机械原理",
-          "words": [
-            "安全带",
-            "卷收器",
-            "慢慢拉",
-            "急速拉",
-            "锁死",
-            "机械"
-          ],
-          "frame": "「安全带」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "【搬运】80%的塑料都是这样做的！一口气搞懂“注塑成型”原理",
-          "url": "https://www.bilibili.com/video/BV1y5DjByEWA",
-          "dur": 402,
-          "site": "B站",
-          "brief": "机械原理：【搬运】80%的塑料都是这样做的！一口气搞懂“注塑成型”原理",
-          "words": [
-            "塑料",
-            "机器",
-            "流进",
-            "模具",
-            "冷却",
-            "变硬"
-          ],
-          "frame": "「塑料」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "强光手电筒积分球测试原理和流程，大功率手电筒流明球实测",
-          "url": "https://www.bilibili.com/video/BV1MXRpBmErU",
-          "dur": 125,
-          "site": "B站",
-          "brief": "机械原理：强光手电筒积分球测试原理和流程，大功率手电筒流明球实测",
-          "words": [
-            "手电筒",
-            "积分球",
-            "测试",
-            "原理",
-            "流程",
-            "大功率"
-          ],
-          "frame": "「手电筒」是＿＿，它能＿＿，我觉得＿＿。",
-          "orient": "v"
-        }
-      ],
-      "scientist": [
-        {
-          "title": "吴孟超院士的励志感人故事",
-          "url": "https://www.bilibili.com/video/BV1J64y1d7Kf",
-          "dur": 192,
-          "site": "B站",
-          "brief": "今日科学家·吴孟超：吴孟超院士的励志感人故事",
-          "words": [
-            "吴孟超",
-            "院士",
-            "励志",
-            "故事",
-            "努力",
-            "成功"
-          ],
-          "frame": "吴孟超是位＿＿，他有着很＿＿的精神，他的＿＿让人感动，他通过很＿＿变得很＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "致敬中科院院士两弹一星元勋科学家“彭桓武”",
-          "url": "https://www.bilibili.com/video/BV1hv411M7hZ",
-          "dur": 176,
-          "site": "B站",
-          "brief": "科学家故事：致敬中科院院士两弹一星元勋科学家“彭桓武”",
-          "words": [
-            "彭桓武",
-            "院士",
-            "研究",
-            "原子弹",
-            "卫星",
-            "贡献"
-          ],
-          "frame": "「彭桓武」是一位＿＿，他做过＿＿，最让我佩服的是＿＿。",
-          "orient": "h"
-        }
-      ],
-      "ai": [
-        {
-          "title": "AI最适合的身体，为什么不是人形机器人？一个视频看懂具身智能的下半场【深度报告】",
-          "url": "https://www.bilibili.com/video/BV1csWi6KEZf",
-          "dur": 779,
-          "site": "B站",
-          "brief": "AI科技：AI最适合的身体，为什么不是人形机器人？一个视频看懂具身智能的下半场【深度报告】",
-          "words": [
-            "机器人",
-            "身体",
-            "智能",
-            "人形",
-            "不是",
-            "适合"
-          ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "历史首个拿下 CES 最佳创新奖的双足人形机器人！银河星仔登顶！",
-          "url": "https://www.bilibili.com/video/BV1aCWe65E2u",
-          "dur": 78,
-          "site": "B站",
-          "brief": "AI科技：历史首个拿下 CES 最佳创新奖的双足人形机器人！银河星仔登顶！",
-          "words": [
-            "机器人",
-            "银河星仔",
-            "CES奖",
-            "登顶",
-            "AI科技",
-            "拿奖"
-          ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "人形机器人走进校园，梦想的种子就此发芽！",
-          "url": "https://www.bilibili.com/video/BV1quW96uEFi",
-          "dur": 161,
-          "site": "B站",
-          "brief": "AI科技：人形机器人走进校园，梦想的种子就此发芽！",
-          "words": [
-            "机器人",
-            "校园",
-            "种子",
-            "发芽",
-            "科技",
-            "梦想"
-          ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "台湾新闻报道：CNN记者体验深圳日常，AI与机器人融入生活",
-          "url": "https://www.bilibili.com/video/BV1RNWB6dEE1",
-          "dur": 69,
-          "site": "B站",
-          "brief": "AI科技：台湾新闻报道：CNN记者体验深圳日常，AI与机器人融入生活",
-          "words": [
-            "CNN记者",
-            "深圳日常",
-            "AI科技",
-            "机器人",
-            "融入生活"
-          ],
-          "frame": "CNN记者去体验了深圳的日常，看到了AI科技和机器人，它们已经＿＿了我们的生活。",
-          "orient": "h"
-        },
-        {
-          "title": "博君一肖ABO｜预定宿敌（8）｜｜我定制的AI机器人，本人上线了！",
-          "url": "https://www.bilibili.com/video/BV1WNWz61EeK",
-          "dur": 186,
-          "site": "B站",
-          "brief": "AI科技：博君一肖ABO｜预定宿敌（8）｜｜我定制的AI机器人，本人上线了！",
-          "words": [
-            "机器人",
-            "定制",
-            "上线",
-            "本人",
-            "科技",
-            "AI"
-          ],
-          "frame": "「机器人」会＿＿，还会＿＿，我觉得它最棒的地方是＿＿。",
-          "orient": "h"
-        }
-      ],
-      "edu_english": [
-        {
-          "title": "磨耳朵短片·30秒",
-          "url": "https://m.iqiyi.com/v_1g4gcbhbkzc.html",
-          "dur": 30,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·30秒",
-          "words": [
-            "绘本故事",
-            "小兔子",
-            "耳朵长",
-            "听英语",
-            "学单词",
-            "快乐学"
-          ],
-          "frame": "今天学了「绘本故事」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "5273137473969300",
-          "orient": "h"
-        },
-        {
-          "title": "磨耳朵短片·15秒",
-          "url": "https://m.iqiyi.com/v_18qj7vpqyy0.html",
-          "dur": 15,
-          "site": "爱奇艺",
-          "brief": "英语绘本磨耳朵：磨耳朵短片·15秒",
-          "words": [
-            "绘本故事",
-            "小兔子",
-            "耳朵长",
-            "听英语",
-            "快乐跳",
-            "森林里"
-          ],
-          "frame": "今天学了「绘本故事」，它的意思是＿＿，我会用它说＿＿。",
-          "tvid": "4592900834762500",
-          "orient": "h"
-        }
-      ],
-      "edu_science": [
-        {
-          "title": "新生代智能汽车",
-          "url": "https://m.iqiyi.com/v_2debgnv7fso.html",
-          "dur": 216,
-          "site": "爱奇艺",
-          "brief": "自然科学：新生代智能汽车",
-          "words": [
-            "汽车",
-            "眼睛",
-            "识别",
-            "道路",
-            "行驶",
-            "安全"
-          ],
-          "frame": "「汽车」是怎么来的？因为＿＿，所以＿＿，真有趣。",
-          "tvid": "8626190717100500",
-          "orient": "h"
-        },
-        {
-          "title": "芯片与光刻机",
-          "url": "https://m.iqiyi.com/v_ucmndspllk.html",
-          "dur": 218,
-          "site": "爱奇艺",
-          "brief": "自然科学：芯片与光刻机",
-          "words": [
-            "芯片",
-            "光刻机",
-            "制作",
-            "机器",
-            "工作",
-            "生产"
-          ],
-          "frame": "「芯片」是怎么来的？因为＿＿，所以＿＿，真有趣。",
-          "tvid": "2962097666490100",
-          "orient": "h"
-        }
-      ],
-      "military": [
-        {
-          "title": "RPG-7",
-          "url": "https://m.iqiyi.com/v_1w9687c71ms.html",
-          "dur": 218,
-          "site": "爱奇艺",
-          "brief": "军事科普：RPG-7",
-          "words": [
-            "火箭筒",
-            "士兵",
-            "瞄准",
-            "发射",
-            "敌人",
-            "战场"
-          ],
-          "frame": "「火箭筒」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
-          "tvid": "6990574553623400",
-          "orient": "h"
-        },
-        {
-          "title": "M16突击步枪",
-          "url": "https://m.iqiyi.com/v_27lejfosv1g.html",
-          "dur": 201,
-          "site": "爱奇艺",
-          "brief": "军事科普：M16突击步枪",
-          "words": [
-            "M16枪",
-            "枪管",
-            "瞄准镜",
-            "射击",
-            "战场",
-            "士兵"
-          ],
-          "frame": "「M16枪」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
-          "tvid": "8107189413648200",
-          "orient": "h"
-        },
-        {
-          "title": "伊朗展弹道与高超音速导弹，声称最先进的还没拿出来，并展示击落美以无人机碎片",
-          "url": "https://www.bilibili.com/video/BV1jtWr6BEbx",
-          "dur": 142,
-          "site": "B站",
-          "brief": "军事科普：伊朗展弹道与高超音速导弹，声称最先进的还没拿出来，并展示击落美以无人机碎片",
-          "words": [
-            "伊朗展示",
-            "弹道导弹",
-            "高超音速",
-            "击落无人机",
-            "碎片"
-          ],
-          "frame": "「伊朗展示」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "积木拼装水陆两栖，055型导弹驱逐舰",
-          "url": "https://www.bilibili.com/video/BV1p3Wr6JEzu",
-          "dur": 99,
-          "site": "B站",
-          "brief": "军事科普：积木拼装水陆两栖，055型导弹驱逐舰",
-          "words": [
-            "积木",
-            "拼装",
-            "水陆两栖",
-            "导弹",
-            "驱逐舰",
-            "厉害"
-          ],
-          "frame": "「积木」是一种＿＿，它身上有＿＿，最厉害的是＿＿。",
-          "orient": "v"
-        },
-        {
-          "title": "把迫击炮当导弹使",
-          "url": "https://www.bilibili.com/video/BV1syWq63EFn",
-          "dur": 80,
-          "site": "B站",
-          "brief": "军事科普：把迫击炮当导弹使",
-          "words": [
-            "迫击炮",
-            "导弹",
-            "发射",
-            "飞行",
-            "目标",
-            "爆炸"
-          ],
-          "frame": "迫击炮是一种＿＿，它身上有＿＿，最厉害的是它能够像导弹一样＿＿。",
-          "orient": "h"
-        }
-      ],
-      "cctv_live": [
-        {
-          "title": "CCTV-1 综合",
-          "url": "https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-1 综合：正在直播，点开即看",
-          "words": [
-            "CCTV1",
-            "直播",
-            "点开",
-            "电视",
-            "频道"
-          ],
-          "frame": "「CCTV1」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-2 财经",
-          "url": "https://tv.cctv.com/live/cctv2/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-2 财经：正在直播，点开即看",
-          "words": [
-            "CCTV2",
-            "财经",
-            "直播",
-            "点开",
-            "正在"
-          ],
-          "frame": "「CCTV2」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-3 综艺",
-          "url": "https://tv.cctv.com/live/cctv3/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-3 综艺：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV3",
-            "点开",
-            "看节目"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-4 中文国际（亚）",
-          "url": "https://tv.cctv.com/live/cctv4/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-4 中文国际（亚）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它可以让人们 ＿＿，点开 ＿＿就可以 ＿＿，它是一个 ＿＿的 ＿＿。"
-        },
-        {
-          "title": "CCTV-4 中文国际（欧）",
-          "url": "https://tv.cctv.com/live/cctveurope/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-4 中文国际（欧）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "CCTV-4 是一个 ＿＿，它 ＿＿，点开 ＿＿就能 ＿＿，它是一个 ＿＿的 ＿＿。"
-        },
-        {
-          "title": "CCTV-4 中文国际（美）",
-          "url": "https://tv.cctv.com/live/cctvamerica/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-4 中文国际（美）：正在直播，点开即看",
-          "words": [
-            "CCTV4",
-            "直播",
-            "点开",
-            "国际",
-            "频道"
-          ],
-          "frame": "「CCTV4」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-5 体育",
-          "url": "https://tv.cctv.com/live/cctv5/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-5 体育：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV5",
-            "打开电视",
-            "体育节目",
-            "精彩瞬间"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-5+ 体育赛事",
-          "url": "https://tv.cctv.com/live/cctv5plus/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-5+ 体育赛事：正在直播，点开即看",
-          "words": [
-            "CCTV5+",
-            "直播",
-            "体育赛事",
-            "点开"
-          ],
-          "frame": "CCTV-5+是一种＿＿，它身上有＿＿，最厉害的是＿＿。"
-        },
-        {
-          "title": "CCTV-6 电影",
-          "url": "https://tv.cctv.com/live/cctv6/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-6 电影：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV6",
-            "电影频道",
-            "点开观看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-7 国防军事",
-          "url": "https://tv.cctv.com/live/cctv7/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-7 国防军事：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "国防军事",
-            "点开看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-8 电视剧",
-          "url": "https://tv.cctv.com/live/cctv8/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-8 电视剧：正在直播，点开即看",
-          "words": [
-            "CCTV8",
-            "电视剧",
-            "直播",
-            "点开"
-          ],
-          "frame": "「CCTV8」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-9 纪录",
-          "url": "https://tv.cctv.com/live/cctvjilu/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-9 纪录：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "屏幕亮了",
-            "手指点开",
-            "画面出现",
-            "新闻播报",
-            "声音传来"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-10 科教",
-          "url": "https://tv.cctv.com/live/cctv10/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-10 科教：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "屏幕亮了",
-            "手指一点",
-            "画面出现"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-11 戏曲",
-          "url": "https://tv.cctv.com/live/cctv11/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-11 戏曲：正在直播，点开即看",
-          "words": [
-            "戏曲直播",
-            "CCTV11",
-            "打开电视",
-            "观看节目"
-          ],
-          "frame": "「戏曲直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-12 社会与法",
-          "url": "https://tv.cctv.com/live/cctv12/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-12 社会与法：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV12",
-            "社会与法",
-            "点开看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-13 新闻",
-          "url": "https://tv.cctv.com/live/cctv13/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-13 新闻：正在直播，点开即看",
-          "words": [
-            "CCTV13",
-            "新闻",
-            "直播",
-            "点开",
-            "正在"
-          ],
-          "frame": "「CCTV13」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-14 少儿",
-          "url": "https://tv.cctv.com/live/cctvchild/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-14 少儿：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "CCTV14",
-            "少儿频道",
-            "点开看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-15 音乐",
-          "url": "https://tv.cctv.com/live/cctv15/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-15 音乐：正在直播，点开即看",
-          "words": [
-            "CCTV15",
-            "音乐台",
-            "正在直播",
-            "点开看"
-          ],
-          "frame": "「CCTV15」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-16 奥林匹克",
-          "url": "https://tv.cctv.com/live/cctv16/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-16 奥林匹克：正在直播，点开即看",
-          "words": [
-            "CCTV16",
-            "直播",
-            "奥林匹克",
-            "点开",
-            "视频"
-          ],
-          "frame": "「CCTV16」是＿＿，它能＿＿，我觉得＿＿。"
-        },
-        {
-          "title": "CCTV-17 农业农村",
-          "url": "https://tv.cctv.com/live/cctv17/",
-          "dur": null,
-          "site": "央视",
-          "brief": "CCTV-17 农业农村：正在直播，点开即看",
-          "words": [
-            "电视直播",
-            "农业频道",
-            "点开观看"
-          ],
-          "frame": "「电视直播」是＿＿，它能＿＿，我觉得＿＿。"
-        }
-      ],
-      "edu_chinese": [
-        {
-          "title": "《完璧归赵》带孩子看懂成语",
-          "url": "https://www.bilibili.com/video/BV1MLWi6GEJi",
-          "dur": 92,
-          "site": "B站",
-          "brief": "语文：《完璧归赵》带孩子看懂成语",
-          "words": [
-            "和氏璧",
-            "赵国使者",
-            "送回",
-            "路上",
-            "遇到强盗",
-            "夺回"
-          ],
-          "frame": "这个故事叫「和氏璧」，它的意思是＿＿，我学会了＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "英文动画成语故事｜拔苗助长/欲速则不达",
-          "url": "https://www.bilibili.com/video/BV1qaWe6QEvT",
-          "dur": 30,
-          "site": "B站",
-          "brief": "语文：英文动画成语故事｜拔苗助长/欲速则不达",
-          "words": [
-            "小男孩",
-            "稻田",
-            "拔苗",
-            "水桶",
-            "浇灌",
-            "种子"
-          ],
-          "frame": "这个故事叫「小男孩」，它的意思是＿＿，我学会了＿＿。",
-          "orient": "h"
-        }
-      ],
-      "edu_math": [
-        {
-          "title": "一年级数学，简单的图形推理，你会怎么讲呢？欢迎大家在评论区里积极讨论！",
-          "url": "https://www.bilibili.com/video/BV1XAWi6JEBr",
-          "dur": 79,
-          "site": "B站",
-          "brief": "数学：一年级数学，简单的图形推理，你会怎么讲呢？欢迎大家在评论区里积极讨论！",
-          "words": [
-            "小猫",
-            "玩积木",
-            "拼图形",
-            "圆形",
-            "三角形",
-            "正方形"
-          ],
-          "frame": "「小猫」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
-          "orient": "h"
-        },
-        {
-          "title": "“我不学了！我要回家！” “我带你数学杀进年级红榜那你不炸了嘛！”",
-          "url": "https://www.bilibili.com/video/BV1zsWe64Eb6",
-          "dur": 260,
-          "site": "B站",
-          "brief": "数学：“我不学了！我要回家！” “我带你数学杀进年级红榜那你不炸了嘛！”",
-          "words": [
-            "小明",
-            "数学",
-            "老师",
-            "年级",
-            "红榜"
-          ],
-          "frame": "「小明」讲的是＿＿，生活中可以用来＿＿，我学会了＿＿。",
-          "orient": "h"
         }
       ]
     }
